@@ -210,6 +210,10 @@
             "keyCode": 11,
             "carbonModifiers": 2304,
             "displayKey": "B"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "link.badge.minus"
           }
         },
         {
@@ -222,6 +226,10 @@
             "keyCode": 40,
             "carbonModifiers": 2304,
             "displayKey": "K"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "cube.fill"
           }
         },
         {
@@ -234,6 +242,10 @@
             "keyCode": 31,
             "carbonModifiers": 2304,
             "displayKey": "O"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "books.vertical.fill"
           }
         },
         {
@@ -246,6 +258,10 @@
             "keyCode": 19,
             "carbonModifiers": 2048,
             "displayKey": "2"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "photo.on.rectangle.angled"
           }
         }
       ]
@@ -267,6 +283,10 @@
             "keyCode": 0,
             "carbonModifiers": 2560,
             "displayKey": "A"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "rectangle.slash"
           }
         },
         {
@@ -279,6 +299,10 @@
             "keyCode": 0,
             "carbonModifiers": 512,
             "displayKey": "A"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "rectangle.3.group"
           }
         },
         {
@@ -291,6 +315,10 @@
             "keyCode": 17,
             "carbonModifiers": 6144,
             "displayKey": "T"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "square.grid.3x3.square.badge.ellipsis"
           }
         },
         {
@@ -303,6 +331,10 @@
             "keyCode": 33,
             "carbonModifiers": 2304,
             "displayKey": "["
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.down.to.line"
           }
         },
         {
@@ -315,6 +347,10 @@
             "keyCode": 30,
             "carbonModifiers": 2304,
             "displayKey": "]"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.up.to.line"
           }
         },
         {
@@ -327,6 +363,10 @@
             "keyCode": 33,
             "carbonModifiers": 256,
             "displayKey": "["
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.down.circle"
           }
         },
         {
@@ -339,6 +379,10 @@
             "keyCode": 30,
             "carbonModifiers": 256,
             "displayKey": "]"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.up.circle"
           }
         }
       ]
@@ -360,6 +404,10 @@
             "keyCode": 29,
             "carbonModifiers": 0,
             "displayKey": "0"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "circle.fill"
           }
         },
         {
@@ -372,6 +420,10 @@
             "keyCode": 23,
             "carbonModifiers": 0,
             "displayKey": "5"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "circle.lefthalf.filled"
           }
         },
         {
@@ -384,6 +436,10 @@
             "keyCode": 18,
             "carbonModifiers": 0,
             "displayKey": "1"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "circle.dotted"
           }
         },
         {
@@ -396,6 +452,10 @@
             "keyCode": 40,
             "carbonModifiers": 768,
             "displayKey": "K"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "photo"
           }
         },
         {
@@ -408,6 +468,10 @@
             "keyCode": 46,
             "carbonModifiers": 4352,
             "displayKey": "M"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "theatermasks.fill"
           }
         },
         {
@@ -420,6 +484,10 @@
             "keyCode": 9,
             "carbonModifiers": 512,
             "displayKey": "V"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.up.and.down"
           }
         },
         {
@@ -432,6 +500,10 @@
             "keyCode": 4,
             "carbonModifiers": 512,
             "displayKey": "H"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.left.and.right"
           }
         }
       ]
@@ -453,6 +525,10 @@
             "keyCode": 9,
             "carbonModifiers": 2304,
             "displayKey": "V"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.text.image"
           }
         },
         {
@@ -465,6 +541,10 @@
             "keyCode": 8,
             "carbonModifiers": 2304,
             "displayKey": "C"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.on.doc.fill"
           }
         },
         {
@@ -477,6 +557,10 @@
             "keyCode": 14,
             "carbonModifiers": 768,
             "displayKey": "E"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "square.and.arrow.up"
           }
         },
         {
@@ -489,6 +573,10 @@
             "keyCode": 15,
             "carbonModifiers": 768,
             "displayKey": "R"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "pencil.line"
           }
         },
         {
@@ -501,6 +589,10 @@
             "keyCode": 2,
             "carbonModifiers": 256,
             "displayKey": "D"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "plus.square.on.square"
           }
         },
         {
@@ -513,6 +605,10 @@
             "keyCode": 9,
             "carbonModifiers": 768,
             "displayKey": "V"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.on.clipboard.fill"
           }
         },
         {
@@ -525,6 +621,10 @@
             "keyCode": 9,
             "carbonModifiers": 256,
             "displayKey": "V"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.on.clipboard"
           }
         },
         {
@@ -537,6 +637,10 @@
             "keyCode": 7,
             "carbonModifiers": 256,
             "displayKey": "X"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "scissors"
           }
         },
         {
@@ -549,6 +653,10 @@
             "keyCode": 8,
             "carbonModifiers": 256,
             "displayKey": "C"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.on.doc"
           }
         }
       ]
@@ -570,6 +678,10 @@
             "keyCode": 37,
             "carbonModifiers": 768,
             "displayKey": "L"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "lock.open.fill"
           }
         },
         {
@@ -582,6 +694,10 @@
             "keyCode": 4,
             "carbonModifiers": 768,
             "displayKey": "H"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "eye.slash.fill"
           }
         },
         {
@@ -594,6 +710,10 @@
             "keyCode": 5,
             "carbonModifiers": 2304,
             "displayKey": "G"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "rectangle.dashed"
           }
         },
         {
@@ -606,6 +726,10 @@
             "keyCode": 5,
             "carbonModifiers": 768,
             "displayKey": "G"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "rectangle.3.group"
           }
         },
         {
@@ -618,6 +742,10 @@
             "keyCode": 5,
             "carbonModifiers": 256,
             "displayKey": "G"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "square.grid.3x1"
           }
         },
         {
@@ -630,6 +758,10 @@
             "keyCode": 48,
             "carbonModifiers": 512,
             "displayKey": "⇥"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.left.to.line"
           }
         },
         {
@@ -642,6 +774,10 @@
             "keyCode": 48,
             "carbonModifiers": 0,
             "displayKey": "⇥"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.right.to.line"
           }
         },
         {
@@ -654,6 +790,10 @@
             "keyCode": 76,
             "carbonModifiers": 512,
             "displayKey": "↵"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.up.left"
           }
         },
         {
@@ -666,6 +806,10 @@
             "keyCode": 76,
             "carbonModifiers": 0,
             "displayKey": "↵"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.down.right"
           }
         },
         {
@@ -678,6 +822,10 @@
             "keyCode": 53,
             "carbonModifiers": 0,
             "displayKey": "⎋"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "xmark.circle"
           }
         },
         {
@@ -690,6 +838,10 @@
             "keyCode": 0,
             "carbonModifiers": 768,
             "displayKey": "A"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.triangle.2.circlepath"
           }
         },
         {
@@ -702,6 +854,10 @@
             "keyCode": 0,
             "carbonModifiers": 256,
             "displayKey": "A"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "square.dashed.inset.filled"
           }
         }
       ]
@@ -723,6 +879,10 @@
             "keyCode": 38,
             "carbonModifiers": 768,
             "displayKey": "J"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "point.3.connected.trianglepath.dotted"
           }
         },
         {
@@ -735,6 +895,10 @@
             "keyCode": 38,
             "carbonModifiers": 256,
             "displayKey": "J"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "link"
           }
         },
         {
@@ -747,6 +911,10 @@
             "keyCode": 14,
             "carbonModifiers": 256,
             "displayKey": "E"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "square.stack.3d.down.right"
           }
         },
         {
@@ -759,6 +927,10 @@
             "keyCode": 31,
             "carbonModifiers": 768,
             "displayKey": "O"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "circle.dashed"
           }
         },
         {
@@ -771,6 +943,10 @@
             "keyCode": 7,
             "carbonModifiers": 512,
             "displayKey": "X"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.left.arrow.right"
           }
         },
         {
@@ -783,6 +959,10 @@
             "keyCode": 44,
             "carbonModifiers": 0,
             "displayKey": "/"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "circle.slash"
           }
         },
         {
@@ -795,6 +975,10 @@
             "keyCode": 44,
             "carbonModifiers": 2048,
             "displayKey": "/"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "square.slash"
           }
         },
         {
@@ -807,6 +991,10 @@
             "keyCode": 55,
             "carbonModifiers": 256,
             "displayKey": "⌘"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.uturn.left"
           }
         },
         {
@@ -819,6 +1007,10 @@
             "keyCode": 11,
             "carbonModifiers": 0,
             "displayKey": "B"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "drop.fill"
           }
         },
         {
@@ -831,6 +1023,10 @@
             "keyCode": 35,
             "carbonModifiers": 512,
             "displayKey": "P"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "pencil"
           }
         },
         {
@@ -843,6 +1039,10 @@
             "keyCode": 35,
             "carbonModifiers": 0,
             "displayKey": "P"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "pen.tip"
           }
         }
       ]
@@ -864,6 +1064,10 @@
             "keyCode": 43,
             "carbonModifiers": 2560,
             "displayKey": "<"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "line.3.horizontal"
           }
         },
         {
@@ -876,6 +1080,10 @@
             "keyCode": 43,
             "carbonModifiers": 2048,
             "displayKey": "<"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "character.textbox"
           }
         },
         {
@@ -888,6 +1096,10 @@
             "keyCode": 43,
             "carbonModifiers": 2304,
             "displayKey": "<"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "bold"
           }
         },
         {
@@ -900,6 +1112,10 @@
             "keyCode": 43,
             "carbonModifiers": 768,
             "displayKey": "<"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "textformat.size"
           }
         },
         {
@@ -912,6 +1128,10 @@
             "keyCode": 38,
             "carbonModifiers": 2304,
             "displayKey": "J"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "text.alignleft"
           }
         },
         {
@@ -924,6 +1144,10 @@
             "keyCode": 15,
             "carbonModifiers": 2304,
             "displayKey": "R"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "text.alignright"
           }
         },
         {
@@ -936,6 +1160,10 @@
             "keyCode": 17,
             "carbonModifiers": 2304,
             "displayKey": "T"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "text.aligncenter"
           }
         },
         {
@@ -948,6 +1176,10 @@
             "keyCode": 37,
             "carbonModifiers": 2304,
             "displayKey": "L"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "text.alignleft"
           }
         },
         {
@@ -960,6 +1192,10 @@
             "keyCode": 40,
             "carbonModifiers": 256,
             "displayKey": "K"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "link"
           }
         },
         {
@@ -972,6 +1208,10 @@
             "keyCode": 9,
             "carbonModifiers": 768,
             "displayKey": "V"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "paintbrush.pointed.fill"
           }
         },
         {
@@ -984,6 +1224,10 @@
             "keyCode": 32,
             "carbonModifiers": 256,
             "displayKey": "U"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "underline"
           }
         },
         {
@@ -996,6 +1240,10 @@
             "keyCode": 34,
             "carbonModifiers": 256,
             "displayKey": "I"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "italic"
           }
         },
         {
@@ -1008,6 +1256,10 @@
             "keyCode": 11,
             "carbonModifiers": 256,
             "displayKey": "B"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "bold"
           }
         }
       ]
@@ -1029,6 +1281,10 @@
             "keyCode": 119,
             "carbonModifiers": 0,
             "displayKey": "End"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.down.doc"
           }
         },
         {
@@ -1041,6 +1297,10 @@
             "keyCode": 115,
             "carbonModifiers": 0,
             "displayKey": "Home"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.up.doc"
           }
         },
         {
@@ -1053,6 +1313,10 @@
             "keyCode": 121,
             "carbonModifiers": 0,
             "displayKey": "PgDn"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.append"
           }
         },
         {
@@ -1065,6 +1329,10 @@
             "keyCode": 116,
             "carbonModifiers": 0,
             "displayKey": "PgUp"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.text"
           }
         },
         {
@@ -1077,6 +1345,10 @@
             "keyCode": 45,
             "carbonModifiers": 0,
             "displayKey": "N"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "viewfinder"
           }
         },
         {
@@ -1089,6 +1361,10 @@
             "keyCode": 45,
             "carbonModifiers": 512,
             "displayKey": "N"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "viewfinder.circle"
           }
         },
         {
@@ -1101,6 +1377,10 @@
             "keyCode": 19,
             "carbonModifiers": 512,
             "displayKey": "2"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "magnifyingglass.circle"
           }
         },
         {
@@ -1113,6 +1393,10 @@
             "keyCode": 18,
             "carbonModifiers": 512,
             "displayKey": "1"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.down.right.and.arrow.up.left"
           }
         },
         {
@@ -1125,6 +1409,10 @@
             "keyCode": 29,
             "carbonModifiers": 512,
             "displayKey": "0"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "percent"
           }
         },
         {
@@ -1137,6 +1425,10 @@
             "keyCode": 27,
             "carbonModifiers": 0,
             "displayKey": "-"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "minus.magnifyingglass"
           }
         },
         {
@@ -1149,6 +1441,10 @@
             "keyCode": 24,
             "carbonModifiers": 0,
             "displayKey": "+"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "plus.magnifyingglass"
           }
         }
       ]
@@ -1170,6 +1466,10 @@
             "keyCode": 29,
             "carbonModifiers": 2048,
             "displayKey": "0"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "chevron.left.forwardslash.chevron.right"
           }
         },
         {
@@ -1182,6 +1482,10 @@
             "keyCode": 25,
             "carbonModifiers": 2048,
             "displayKey": "9"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "play.rectangle"
           }
         },
         {
@@ -1194,6 +1498,10 @@
             "keyCode": 28,
             "carbonModifiers": 2048,
             "displayKey": "8"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "paintpalette.fill"
           }
         },
         {
@@ -1206,6 +1514,10 @@
             "keyCode": 19,
             "carbonModifiers": 2048,
             "displayKey": "2"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "square.grid.2x2"
           }
         },
         {
@@ -1218,6 +1530,10 @@
             "keyCode": 18,
             "carbonModifiers": 2048,
             "displayKey": "1"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "rectangle.stack"
           }
         },
         {
@@ -1230,6 +1546,10 @@
             "keyCode": 39,
             "carbonModifiers": 256,
             "displayKey": "'"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "grid"
           }
         },
         {
@@ -1242,6 +1562,10 @@
             "keyCode": 5,
             "carbonModifiers": 4096,
             "displayKey": "G"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "grid.circle"
           }
         },
         {
@@ -1254,6 +1578,10 @@
             "keyCode": 35,
             "carbonModifiers": 4096,
             "displayKey": "P"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "circle.grid.cross"
           }
         },
         {
@@ -1266,6 +1594,10 @@
             "keyCode": 16,
             "carbonModifiers": 256,
             "displayKey": "Y"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "square.on.square.dashed"
           }
         },
         {
@@ -1278,6 +1610,10 @@
             "keyCode": 15,
             "carbonModifiers": 512,
             "displayKey": "R"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "ruler"
           }
         },
         {
@@ -1290,6 +1626,10 @@
             "keyCode": 42,
             "carbonModifiers": 2304,
             "displayKey": "\\"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "person.2.fill"
           }
         }
       ]
@@ -1311,6 +1651,10 @@
             "keyCode": 44,
             "carbonModifiers": 256,
             "displayKey": "/"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "magnifyingglass"
           }
         },
         {
@@ -1323,6 +1667,10 @@
             "keyCode": 8,
             "carbonModifiers": 4096,
             "displayKey": "C"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "eyedropper"
           }
         },
         {
@@ -1335,6 +1683,10 @@
             "keyCode": 42,
             "carbonModifiers": 256,
             "displayKey": "\\"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "sidebar.leading"
           }
         }
       ]

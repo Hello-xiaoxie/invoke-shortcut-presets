@@ -1,0 +1,288 @@
+{
+  "bundleIdentifier": "com.openai.chatgpt",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.chatgpt.core",
+      "title": {
+        "en": "Core",
+        "zh-Hans": "核心"
+      },
+      "items": [
+        {
+          "id": "remote.chatgpt.new-chat",
+          "title": {
+            "en": "New Chat",
+            "zh-Hans": "新建对话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "plus.bubble"
+          }
+        },
+        {
+          "id": "remote.chatgpt.send-message",
+          "title": {
+            "en": "Send Message",
+            "zh-Hans": "发送"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "paperplane.fill"
+          }
+        },
+        {
+          "id": "remote.chatgpt.send-new-line",
+          "title": {
+            "en": "Send on New Line",
+            "zh-Hans": "换行（不发送）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "text.alignleft"
+          }
+        },
+        {
+          "id": "remote.chatgpt.stop-generating",
+          "title": {
+            "en": "Stop Generating",
+            "zh-Hans": "停止生成"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "stop.fill"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.chatgpt.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.chatgpt.previous-chat",
+          "title": {
+            "en": "Previous Chat",
+            "zh-Hans": "上一个对话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "chevron.left"
+          }
+        },
+        {
+          "id": "remote.chatgpt.next-chat",
+          "title": {
+            "en": "Next Chat",
+            "zh-Hans": "下一个对话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "]"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "chevron.right"
+          }
+        },
+        {
+          "id": "remote.chatgpt.switch-to-prompt",
+          "title": {
+            "en": "Switch to Prompt",
+            "zh-Hans": "切到输入框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "text.bubble"
+          }
+        },
+        {
+          "id": "remote.chatgpt.focus-response",
+          "title": {
+            "en": "Focus Response",
+            "zh-Hans": "聚焦回复区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.text"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.chatgpt.actions",
+      "title": {
+        "en": "Actions",
+        "zh-Hans": "操作"
+      },
+      "items": [
+        {
+          "id": "remote.chatgpt.copy-last-response",
+          "title": {
+            "en": "Copy Last Response",
+            "zh-Hans": "复制上一条回复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "doc.on.doc"
+          }
+        },
+        {
+          "id": "remote.chatgpt.copy-code",
+          "title": {
+            "en": "Copy Code",
+            "zh-Hans": "复制代码"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "curlybraces"
+          }
+        },
+        {
+          "id": "remote.chatgpt.regenerate-response",
+          "title": {
+            "en": "Regenerate Response",
+            "zh-Hans": "重新生成"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.clockwise"
+          }
+        },
+        {
+          "id": "remote.chatgpt.toggle-sidebar",
+          "title": {
+            "en": "Toggle Sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "sidebar.left"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.chatgpt.text-editing",
+      "title": {
+        "en": "Text Editing",
+        "zh-Hans": "文本编辑"
+      },
+      "items": [
+        {
+          "id": "remote.chatgpt.select-all",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "selection.pin"
+          }
+        },
+        {
+          "id": "remote.chatgpt.undo",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤销"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.uturn.backward"
+          }
+        },
+        {
+          "id": "remote.chatgpt.redo",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "重做"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          },
+          "icon": {
+            "type": "sfSymbol",
+            "name": "arrow.uturn.forward"
+          }
+        }
+      ]
+    }
+  ]
+}
