@@ -1,0 +1,1343 @@
+{
+  "bundleIdentifier": "com.figma.Desktop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.figma.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.figma.slice-tool",
+          "title": {
+            "en": "Slice Tool",
+            "zh-Hans": "切片工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/highlighter.svg"
+          }
+        },
+        {
+          "id": "remote.figma.add-show-comments",
+          "title": {
+            "en": "Add/Show Comments",
+            "zh-Hans": "添加/显示评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/bubble.right.svg"
+          }
+        },
+        {
+          "id": "remote.figma.arrow-tool",
+          "title": {
+            "en": "Arrow Tool",
+            "zh-Hans": "箭头工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/arrow.up.forward.svg"
+          }
+        },
+        {
+          "id": "remote.figma.line-tool",
+          "title": {
+            "en": "Line Tool",
+            "zh-Hans": "直线工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/line.diagonal.svg"
+          }
+        },
+        {
+          "id": "remote.figma.ellipse-tool",
+          "title": {
+            "en": "Ellipse Tool",
+            "zh-Hans": "椭圆工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/circle.svg"
+          }
+        },
+        {
+          "id": "remote.figma.rectangle-tool",
+          "title": {
+            "en": "Rectangle Tool",
+            "zh-Hans": "矩形工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/square.svg"
+          }
+        },
+        {
+          "id": "remote.figma.text-tool",
+          "title": {
+            "en": "Text Tool",
+            "zh-Hans": "文字工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/t.square.svg"
+          }
+        },
+        {
+          "id": "remote.figma.pencil-tool",
+          "title": {
+            "en": "Pencil Tool",
+            "zh-Hans": "铅笔工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/pencil.svg"
+          }
+        },
+        {
+          "id": "remote.figma.pen-tool",
+          "title": {
+            "en": "Pen Tool",
+            "zh-Hans": "钢笔工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/pencil.tip.svg"
+          }
+        },
+        {
+          "id": "remote.figma.frame-tool",
+          "title": {
+            "en": "Frame Tool",
+            "zh-Hans": "画框工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/crop.svg"
+          }
+        },
+        {
+          "id": "remote.figma.move-tool",
+          "title": {
+            "en": "Move Tool",
+            "zh-Hans": "移动工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          },
+          "icon": {
+            "type": "svg",
+            "path": "icons/com.figma.Desktop/cursorarrow.svg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.components",
+      "title": {
+        "en": "Components",
+        "zh-Hans": "组件"
+      },
+      "items": [
+        {
+          "id": "remote.figma.detach-instance",
+          "title": {
+            "en": "Detach Instance",
+            "zh-Hans": "分离实例"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.figma.create-component",
+          "title": {
+            "en": "Create Component",
+            "zh-Hans": "创建组件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.figma.team-library",
+          "title": {
+            "en": "Team Library",
+            "zh-Hans": "团队组件库"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.figma.show-assets",
+          "title": {
+            "en": "Show Assets",
+            "zh-Hans": "显示资源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2048,
+            "displayKey": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.arrange",
+      "title": {
+        "en": "Arrange",
+        "zh-Hans": "排列"
+      },
+      "items": [
+        {
+          "id": "remote.figma.remove-auto-layout",
+          "title": {
+            "en": "Remove Auto Layout",
+            "zh-Hans": "移除自动布局"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2560,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.figma.add-auto-layout",
+          "title": {
+            "en": "Add Auto Layout",
+            "zh-Hans": "添加自动布局"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.figma.tidy-up",
+          "title": {
+            "en": "Tidy Up",
+            "zh-Hans": "整理"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 6144,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.figma.send-to-back",
+          "title": {
+            "en": "Send to Back",
+            "zh-Hans": "置于底层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.figma.bring-to-front",
+          "title": {
+            "en": "Bring to Front",
+            "zh-Hans": "置于顶层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "]"
+          }
+        },
+        {
+          "id": "remote.figma.send-backward",
+          "title": {
+            "en": "Send Backward",
+            "zh-Hans": "后移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.figma.bring-forward",
+          "title": {
+            "en": "Bring Forward",
+            "zh-Hans": "前移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.transform",
+      "title": {
+        "en": "Transform",
+        "zh-Hans": "变换"
+      },
+      "items": [
+        {
+          "id": "remote.figma.set-opacity-to-100",
+          "title": {
+            "en": "Set Opacity to 100%",
+            "zh-Hans": "不透明度 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 0,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.figma.set-opacity-to-50",
+          "title": {
+            "en": "Set Opacity to 50%",
+            "zh-Hans": "不透明度 50%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 0,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.figma.set-opacity-to-10",
+          "title": {
+            "en": "Set Opacity to 10%",
+            "zh-Hans": "不透明度 10%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.figma.place-image",
+          "title": {
+            "en": "Place Image",
+            "zh-Hans": "放置图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.figma.use-as-mask",
+          "title": {
+            "en": "Use as Mask",
+            "zh-Hans": "用作蒙版"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4352,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.figma.flip-vertical",
+          "title": {
+            "en": "Flip Vertical",
+            "zh-Hans": "垂直翻转"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.figma.flip-horizontal",
+          "title": {
+            "en": "Flip Horizontal",
+            "zh-Hans": "水平翻转"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 512,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.figma.paste-properties",
+          "title": {
+            "en": "Paste Properties",
+            "zh-Hans": "粘贴属性"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.figma.copy-properties",
+          "title": {
+            "en": "Copy Properties",
+            "zh-Hans": "复制属性"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.figma.export",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.figma.rename-selection",
+          "title": {
+            "en": "Rename Selection",
+            "zh-Hans": "重命名所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.figma.duplicate",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.figma.paste-over-selection",
+          "title": {
+            "en": "Paste Over Selection",
+            "zh-Hans": "粘贴至所选图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.figma.paste",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.figma.cut",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.figma.copy",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.selection",
+      "title": {
+        "en": "Selection",
+        "zh-Hans": "选择"
+      },
+      "items": [
+        {
+          "id": "remote.figma.lock-unlock-selection",
+          "title": {
+            "en": "Lock/Unlock Selection",
+            "zh-Hans": "锁定/解锁所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.figma.show-hide-selection",
+          "title": {
+            "en": "Show/Hide Selection",
+            "zh-Hans": "显示/隐藏所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.figma.frame-selection",
+          "title": {
+            "en": "Frame Selection",
+            "zh-Hans": "添加画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.figma.ungroup-selection",
+          "title": {
+            "en": "Ungroup Selection",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.figma.group-selection",
+          "title": {
+            "en": "Group Selection",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.figma.select-previous-sibling",
+          "title": {
+            "en": "Select Previous Sibling",
+            "zh-Hans": "选择上一个同级图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.figma.select-next-sibling",
+          "title": {
+            "en": "Select Next Sibling",
+            "zh-Hans": "选择下一个同级图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.figma.select-parents",
+          "title": {
+            "en": "Select Parents",
+            "zh-Hans": "选择父级"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↵"
+          }
+        },
+        {
+          "id": "remote.figma.select-child",
+          "title": {
+            "en": "Select Child",
+            "zh-Hans": "选择子级"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↵"
+          }
+        },
+        {
+          "id": "remote.figma.select-none",
+          "title": {
+            "en": "Select None",
+            "zh-Hans": "取消选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.figma.select-inverse",
+          "title": {
+            "en": "Select Inverse",
+            "zh-Hans": "反选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.figma.select-all",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.shape",
+      "title": {
+        "en": "Shape",
+        "zh-Hans": "形状"
+      },
+      "items": [
+        {
+          "id": "remote.figma.smooth-join-selection-after-selecting-points",
+          "title": {
+            "en": "Smooth Join Selection (After selecting points)",
+            "zh-Hans": "平滑连接（选中锚点后）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.figma.join-selection-after-selecting-points",
+          "title": {
+            "en": "Join Selection (After selecting points)",
+            "zh-Hans": "连接（选中锚点后）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.figma.flatten-selection",
+          "title": {
+            "en": "Flatten Selection",
+            "zh-Hans": "拼合所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.figma.outline-stroke",
+          "title": {
+            "en": "Outline Stroke",
+            "zh-Hans": "轮廓化描边"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.figma.swap-fill-stroke",
+          "title": {
+            "en": "Swap Fill Stroke",
+            "zh-Hans": "交换填充和描边"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 512,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.figma.remove-stroke",
+          "title": {
+            "en": "Remove Stroke",
+            "zh-Hans": "移除描边"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.figma.remove-fill",
+          "title": {
+            "en": "Remove Fill",
+            "zh-Hans": "移除填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 2048,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.figma.bend-tool",
+          "title": {
+            "en": "Bend Tool",
+            "zh-Hans": "弯折工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 55,
+            "carbonModifiers": 256,
+            "displayKey": "⌘"
+          }
+        },
+        {
+          "id": "remote.figma.paint-bucket-while-editing-a-shape",
+          "title": {
+            "en": "Paint Bucket (While editing a shape)",
+            "zh-Hans": "油漆桶（编辑形状时）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.figma.pencil",
+          "title": {
+            "en": "Pencil",
+            "zh-Hans": "铅笔"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.figma.pen",
+          "title": {
+            "en": "Pen",
+            "zh-Hans": "钢笔"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.text",
+      "title": {
+        "en": "Text",
+        "zh-Hans": "文本"
+      },
+      "items": [
+        {
+          "id": "remote.figma.adjust-line-height",
+          "title": {
+            "en": "Adjust Line Height",
+            "zh-Hans": "调整行高"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2560,
+            "displayKey": "<"
+          }
+        },
+        {
+          "id": "remote.figma.adjust-letter-spacing",
+          "title": {
+            "en": "Adjust Letter Spacing",
+            "zh-Hans": "调整字间距"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2048,
+            "displayKey": "<"
+          }
+        },
+        {
+          "id": "remote.figma.adjust-font-weight",
+          "title": {
+            "en": "Adjust Font Weight",
+            "zh-Hans": "调整字重"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2304,
+            "displayKey": "<"
+          }
+        },
+        {
+          "id": "remote.figma.adjust-font-size",
+          "title": {
+            "en": "Adjust Font Size",
+            "zh-Hans": "调整字号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": "<"
+          }
+        },
+        {
+          "id": "remote.figma.text-align-justified",
+          "title": {
+            "en": "Text Align Justified",
+            "zh-Hans": "两端对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.figma.text-align-right",
+          "title": {
+            "en": "Text Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.figma.text-align-center",
+          "title": {
+            "en": "Text Align Center",
+            "zh-Hans": "居中对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.figma.text-align-left",
+          "title": {
+            "en": "Text Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.figma.create-link",
+          "title": {
+            "en": "Create Link",
+            "zh-Hans": "创建链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.figma.paste-match-style",
+          "title": {
+            "en": "Paste Match Style",
+            "zh-Hans": "粘贴并匹配样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.figma.underline",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.figma.italic",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.figma.bold",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "粗体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.zoom",
+      "title": {
+        "en": "Zoom",
+        "zh-Hans": "缩放"
+      },
+      "items": [
+        {
+          "id": "remote.figma.find-next-frame",
+          "title": {
+            "en": "Find Next Frame",
+            "zh-Hans": "查找下一画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.figma.find-previous-frame",
+          "title": {
+            "en": "Find Previous Frame",
+            "zh-Hans": "查找上一画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.figma.next-page",
+          "title": {
+            "en": "Next Page",
+            "zh-Hans": "下一页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "PgDn"
+          }
+        },
+        {
+          "id": "remote.figma.previous-page",
+          "title": {
+            "en": "Previous Page",
+            "zh-Hans": "上一页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "PgUp"
+          }
+        },
+        {
+          "id": "remote.figma.zoom-to-next-frame",
+          "title": {
+            "en": "Zoom to Next Frame",
+            "zh-Hans": "缩放至下一画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.figma.zoom-to-previous-frame",
+          "title": {
+            "en": "Zoom to Previous Frame",
+            "zh-Hans": "缩放至上一画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 512,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.figma.zoom-to-selection",
+          "title": {
+            "en": "Zoom to Selection",
+            "zh-Hans": "缩放至所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 512,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.figma.zoom-to-fit",
+          "title": {
+            "en": "Zoom to Fit",
+            "zh-Hans": "缩放至合适大小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 512,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.figma.zoom-to-100",
+          "title": {
+            "en": "Zoom to 100%",
+            "zh-Hans": "缩放至 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 512,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.figma.zoom-out",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.figma.zoom-in",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "+"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.figma.open-code-panel",
+          "title": {
+            "en": "Open Code Panel",
+            "zh-Hans": "打开代码面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2048,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.figma.open-prototype-panel",
+          "title": {
+            "en": "Open Prototype Panel",
+            "zh-Hans": "打开原型面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 2048,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.figma.open-design-panel",
+          "title": {
+            "en": "Open Design Panel",
+            "zh-Hans": "打开设计面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2048,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.figma.open-assets-panel",
+          "title": {
+            "en": "Open Assets Panel",
+            "zh-Hans": "打开资源面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2048,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.figma.open-layers-panel",
+          "title": {
+            "en": "Open Layers Panel",
+            "zh-Hans": "打开图层面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2048,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.figma.pixel-grid",
+          "title": {
+            "en": "Pixel Grid",
+            "zh-Hans": "像素网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "'"
+          }
+        },
+        {
+          "id": "remote.figma.layout-grids",
+          "title": {
+            "en": "Layout Grids",
+            "zh-Hans": "布局网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.figma.pixel-preview",
+          "title": {
+            "en": "Pixel Preview",
+            "zh-Hans": "像素预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.figma.outlines",
+          "title": {
+            "en": "Outlines",
+            "zh-Hans": "轮廓"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.figma.rulers",
+          "title": {
+            "en": "Rulers",
+            "zh-Hans": "标尺"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.figma.multiplayer-cursors",
+          "title": {
+            "en": "Multiplayer Cursors",
+            "zh-Hans": "多人光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 2304,
+            "displayKey": "\\"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.figma.essential",
+      "title": {
+        "en": "Essential",
+        "zh-Hans": "常用"
+      },
+      "items": [
+        {
+          "id": "remote.figma.search",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.figma.pick-color",
+          "title": {
+            "en": "Pick Color",
+            "zh-Hans": "拾取颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.figma.show-hide-ui",
+          "title": {
+            "en": "Show/Hide UI",
+            "zh-Hans": "显示/隐藏界面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        }
+      ]
+    }
+  ]
+}
