@@ -1,0 +1,1012 @@
+{
+  "bundleIdentifier": "com.tencent.weworkmac",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.wework.chat.main-menu",
+      "title": {
+        "en": "[Chat] Main Menu",
+        "zh-Hans": "[聊天] 主菜单"
+      },
+      "items": [
+        {
+          "id": "remote.wework.chat.main.toggle-panel",
+          "title": {
+            "en": "Open / Hide Main Panel",
+            "zh-Hans": "打开/隐藏主面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.wework.chat.main.close-window",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.wework.chat.main.new-group",
+          "title": {
+            "en": "Create Group Chat",
+            "zh-Hans": "创建群聊"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.wework.chat.main.search",
+          "title": {
+            "en": "Activate Search Box",
+            "zh-Hans": "激活搜索框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.wework.chat.main.global-search",
+          "title": {
+            "en": "Open / Close Global Search",
+            "zh-Hans": "打开/关闭全局搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.chat.message-list",
+      "title": {
+        "en": "[Chat] Message List",
+        "zh-Hans": "[聊天] 消息列表"
+      },
+      "items": [
+        {
+          "id": "remote.wework.chat.list.next-unread",
+          "title": {
+            "en": "Next Unread Chat",
+            "zh-Hans": "下一个未读聊天"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.wework.chat.list.prev-unread",
+          "title": {
+            "en": "Previous Unread Chat",
+            "zh-Hans": "上一个未读聊天"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.wework.chat.list.read-unread",
+          "title": {
+            "en": "Mark Current Chat Read / Unread",
+            "zh-Hans": "将当前聊天标记为已读/未读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.wework.chat.list.flag",
+          "title": {
+            "en": "Flag / Unflag Current Chat",
+            "zh-Hans": "标记/取消标记当前聊天"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.wework.chat.list.mute-notify",
+          "title": {
+            "en": "Mute / Unmute Notifications (Current Chat)",
+            "zh-Hans": "免打扰/新消息提醒当前聊天"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.wework.chat.list.hide-chat",
+          "title": {
+            "en": "Hide Current Chat",
+            "zh-Hans": "不显示当前聊天"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.chat.input",
+      "title": {
+        "en": "[Chat] Input Box",
+        "zh-Hans": "[聊天] 输入框"
+      },
+      "items": [
+        {
+          "id": "remote.wework.chat.input.screenshot",
+          "title": {
+            "en": "Screenshot",
+            "zh-Hans": "截屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.wework.chat.input.history",
+          "title": {
+            "en": "Open / Close Message History",
+            "zh-Hans": "打开/关闭“消息记录”"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4608,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.mail.home",
+      "title": {
+        "en": "[Mail] Main Page",
+        "zh-Hans": "[邮件] 主页面"
+      },
+      "items": [
+        {
+          "id": "remote.wework.mail.home.compose",
+          "title": {
+            "en": "Compose New Email",
+            "zh-Hans": "写新邮件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4096,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.focus-search",
+          "title": {
+            "en": "Focus Top Search",
+            "zh-Hans": "定位到顶部搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.find-body",
+          "title": {
+            "en": "Find in Body",
+            "zh-Hans": "在正文查找关键词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.reply",
+          "title": {
+            "en": "Reply",
+            "zh-Hans": "回复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.reply-all",
+          "title": {
+            "en": "Reply All",
+            "zh-Hans": "回复全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.forward",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "转发"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 512,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.delete-opt",
+          "title": {
+            "en": "Delete Email",
+            "zh-Hans": "删除邮件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2048,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.delete-hard",
+          "title": {
+            "en": "Permanently Delete",
+            "zh-Hans": "彻底删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.read",
+          "title": {
+            "en": "Mark as Read",
+            "zh-Hans": "标为已读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.unread",
+          "title": {
+            "en": "Mark as Unread",
+            "zh-Hans": "标为未读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.star",
+          "title": {
+            "en": "Add / Remove Star",
+            "zh-Hans": "添加/取消星标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 512,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.reject",
+          "title": {
+            "en": "Reject",
+            "zh-Hans": "拒收"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 512,
+            "displayKey": "!"
+          }
+        },
+        {
+          "id": "remote.wework.mail.home.print",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.mail.list",
+      "title": {
+        "en": "[Mail] Email List",
+        "zh-Hans": "[邮件] 邮件列表"
+      },
+      "items": [
+        {
+          "id": "remote.wework.mail.list.next-unread",
+          "title": {
+            "en": "Next Unread Email",
+            "zh-Hans": "下一个未读邮件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.wework.mail.list.prev-unread",
+          "title": {
+            "en": "Previous Unread Email",
+            "zh-Hans": "上一个未读邮件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.wework.mail.list.edit-again",
+          "title": {
+            "en": "Edit Again",
+            "zh-Hans": "再次编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.doc.ops",
+      "title": {
+        "en": "[Document] Operations",
+        "zh-Hans": "[文档] 操作"
+      },
+      "items": [
+        {
+          "id": "remote.wework.doc.ops.undo",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤销"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.wework.doc.ops.redo",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "重做"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.doc.format",
+      "title": {
+        "en": "[Document] Format",
+        "zh-Hans": "[文档] 格式"
+      },
+      "items": [
+        {
+          "id": "remote.wework.doc.fmt.bold",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.wework.doc.fmt.italic",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.wework.doc.fmt.underline",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.wework.doc.fmt.strike",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "删除线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.doc.navigate",
+      "title": {
+        "en": "[Document] Navigation",
+        "zh-Hans": "[文档] 导航"
+      },
+      "items": [
+        {
+          "id": "remote.wework.doc.nav.para-start",
+          "title": {
+            "en": "Move to Paragraph Start",
+            "zh-Hans": "移至段首"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.wework.doc.nav.para-end",
+          "title": {
+            "en": "Move to Paragraph End",
+            "zh-Hans": "移至段尾"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.wework.doc.nav.line-start",
+          "title": {
+            "en": "Move to Line Start",
+            "zh-Hans": "移至行首"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.wework.doc.nav.line-end",
+          "title": {
+            "en": "Move to Line End",
+            "zh-Hans": "移至行尾"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.wework.doc.nav.obj-start",
+          "title": {
+            "en": "Move to Object Start",
+            "zh-Hans": "移至编辑对象的首"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.wework.doc.nav.obj-end",
+          "title": {
+            "en": "Move to Object End",
+            "zh-Hans": "移至编辑对象的尾"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.doc.view",
+      "title": {
+        "en": "[Document] View",
+        "zh-Hans": "[文档] 查看"
+      },
+      "items": [
+        {
+          "id": "remote.wework.doc.view.zoom-100",
+          "title": {
+            "en": "Reset Zoom to 100%",
+            "zh-Hans": "回到100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.wework.doc.view.play",
+          "title": {
+            "en": "Start Presentation",
+            "zh-Hans": "开始播放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.wework.doc.view.find",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.wework.doc.view.shortcut-panel",
+          "title": {
+            "en": "Toggle Shortcuts Panel",
+            "zh-Hans": "打开/关闭快捷键面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.sheet.ops",
+      "title": {
+        "en": "[Sheet] Operations",
+        "zh-Hans": "[表格] 操作"
+      },
+      "items": [
+        {
+          "id": "remote.wework.sheet.ops.undo",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤销"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.ops.redo",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "重做"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.sheet.insert",
+      "title": {
+        "en": "[Sheet] Insert",
+        "zh-Hans": "[表格] 插入"
+      },
+      "items": [
+        {
+          "id": "remote.wework.sheet.insert.comment",
+          "title": {
+            "en": "Insert Comment",
+            "zh-Hans": "插入批注"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.insert.date",
+          "title": {
+            "en": "Insert Current Date",
+            "zh-Hans": "插入当前日期"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 4096,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.insert.time",
+          "title": {
+            "en": "Insert Current Time",
+            "zh-Hans": "插入当前时间"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 768,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.insert.datetime",
+          "title": {
+            "en": "Insert Date & Time",
+            "zh-Hans": "插入当前日期+时间"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 2304,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.insert.link",
+          "title": {
+            "en": "Insert Link",
+            "zh-Hans": "插入链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.sheet.functions",
+      "title": {
+        "en": "[Sheet] Functions",
+        "zh-Hans": "[表格] 功能"
+      },
+      "items": [
+        {
+          "id": "remote.wework.sheet.fn.filter",
+          "title": {
+            "en": "Filter",
+            "zh-Hans": "筛选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4608,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fn.fill-down",
+          "title": {
+            "en": "Fill Down",
+            "zh-Hans": "向下填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fn.fill-selection",
+          "title": {
+            "en": "Fill Selection",
+            "zh-Hans": "选区填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fn.close",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fn.merge",
+          "title": {
+            "en": "Merge / Unmerge Cells",
+            "zh-Hans": "合并/取消合并单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2560,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.sheet.format",
+      "title": {
+        "en": "[Sheet] Format",
+        "zh-Hans": "[表格] 格式"
+      },
+      "items": [
+        {
+          "id": "remote.wework.sheet.fmt.bold",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fmt.italic",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "倾斜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fmt.underline",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fmt.strike",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "删除线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4096,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fmt.align-left",
+          "title": {
+            "en": "Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fmt.align-right",
+          "title": {
+            "en": "Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fmt.align-center",
+          "title": {
+            "en": "Align Center",
+            "zh-Hans": "居中对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4096,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fmt.font-larger",
+          "title": {
+            "en": "Increase Font Size",
+            "zh-Hans": "字号变大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.wework.sheet.fmt.font-smaller",
+          "title": {
+            "en": "Decrease Font Size",
+            "zh-Hans": "字号变小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wework.sheet.view",
+      "title": {
+        "en": "[Sheet] View",
+        "zh-Hans": "[表格] 查看"
+      },
+      "items": [
+        {
+          "id": "remote.wework.sheet.view.extend-edge",
+          "title": {
+            "en": "Extend Selection to Data Edge (⌘⇧+Arrow)",
+            "zh-Hans": "扩展至数据区边缘（⌘⇧+方向键）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          },
+          "searchKeywords": [
+            "arrow",
+            "数据区"
+          ],
+          "shortcutDisplayTokens": [
+            "⌘⇧←",
+            "⌘⇧→",
+            "⌘⇧↑",
+            "⌘⇧↓"
+          ]
+        },
+        {
+          "id": "remote.wework.sheet.view.zoom-100",
+          "title": {
+            "en": "Zoom 100%",
+            "zh-Hans": "100% 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.view.fullscreen",
+          "title": {
+            "en": "Toggle Full Screen",
+            "zh-Hans": "全屏/取消全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.view.find",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.view.replace",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.wework.sheet.view.shortcut-panel",
+          "title": {
+            "en": "Toggle Shortcuts Panel",
+            "zh-Hans": "打开/关闭快捷键面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    }
+  ]
+}

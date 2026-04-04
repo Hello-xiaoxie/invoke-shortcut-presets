@@ -1,0 +1,2598 @@
+{
+  "bundleIdentifier": "com.microsoft.Word",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.word.frequently-used-shortcuts",
+      "title": {
+        "en": "Frequently Used Shortcuts",
+        "zh-Hans": "常用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.word.frequently-used-shortcuts.a4c9f4c258",
+          "title": {
+            "en": "Undo the last action",
+            "zh-Hans": "撤消前一个操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.94cbfc117c",
+          "title": {
+            "en": "Cut selected text or graphics",
+            "zh-Hans": "将所选内容剪切到剪贴板中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.03c1479fdc",
+          "title": {
+            "en": "Copy selected text or graphics to the Clipboard",
+            "zh-Hans": "将所选内容复制到剪贴板中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.9cb3251662",
+          "title": {
+            "en": "Paste the Clipboard contents",
+            "zh-Hans": "粘贴剪贴板的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.727c6c872c",
+          "title": {
+            "en": "Choose the Go To command (Edit menu)",
+            "zh-Hans": "显示“转到”对话框，导航到特定页面、书签、脚注、表格、批注、图形或其他位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.da5ec3234f",
+          "title": {
+            "en": "Open the Spelling and Grammar dialog box",
+            "zh-Hans": "打开“拼写和语法”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.5b4ba0337f",
+          "title": {
+            "en": "Extend a selection",
+            "zh-Hans": "开始扩展所选内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.a5b4a0bf2d",
+          "title": {
+            "en": "Go to the next window",
+            "zh-Hans": "打开多个文档时切换到下一个文档窗口。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.ea9c06467d",
+          "title": {
+            "en": "Choose the Save As command (File menu).",
+            "zh-Hans": "显示“另存为”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.c8cbb2ed22",
+          "title": {
+            "en": "Copy selected text",
+            "zh-Hans": "将所选内容复制到剪贴板中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.c8c4a78e9e",
+          "title": {
+            "en": "Change letters to uppercase, lowercase, or mixed case",
+            "zh-Hans": "切换字母大小写（大写、小写或混合大小写）。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.0bfc68db58",
+          "title": {
+            "en": "Find ",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.d3aa92c33d",
+          "title": {
+            "en": "Print a document",
+            "zh-Hans": "打印文档。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.504e415671",
+          "title": {
+            "en": "Move to the previous insertion point",
+            "zh-Hans": "移动到行中的上一个单元格并选择其内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.575dce40c7",
+          "title": {
+            "en": "Go to the previous window",
+            "zh-Hans": "打开多个文档时切换到上一个文档窗口。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 768,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.01c562ffcb",
+          "title": {
+            "en": "Open the Thesaurus pane",
+            "zh-Hans": "显示“同义词库”任务窗格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.0b4bae2578",
+          "title": {
+            "en": "Shrink a selection",
+            "zh-Hans": "将所选内容扩展到相邻单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.128ac5e8b1",
+          "title": {
+            "en": "Switch between a field code and its result",
+            "zh-Hans": "在所选的域代码及其结果之间进行切换。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.fe676c62a8",
+          "title": {
+            "en": "Cut the selection to the Spike",
+            "zh-Hans": "将所选内容剪切到“图文场”。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.a0c71f23bb",
+          "title": {
+            "en": "Close the window",
+            "zh-Hans": "关闭文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.911a579d33",
+          "title": {
+            "en": "Expand or minimize the ribbon",
+            "zh-Hans": "展开或收起功能区。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.b83c22b584",
+          "title": {
+            "en": "Edit a bookmark",
+            "zh-Hans": "编辑邮件合并数据文档。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 768,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.ea6d61ed59",
+          "title": {
+            "en": "Find the next misspelling or grammatical error. The Check spelling as you type check box must be selected (Word menu, Preferences command, Spelling and Grammar).",
+            "zh-Hans": "查找下一个拼写或语法错误（需在“Word”>“偏好设置”>“拼写和语法”中启用“键入时检查拼写”。）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2048,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.word.frequently-used-shortcuts.81ab75d0c0",
+          "title": {
+            "en": "Look up selected text on the Internet",
+            "zh-Hans": "在 Internet 上查找所选文本。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.move-the-cursor",
+      "title": {
+        "en": "Move the Cursor",
+        "zh-Hans": "移动光标"
+      },
+      "items": [
+        {
+          "id": "remote.word.move-the-cursor.ff211528d2",
+          "title": {
+            "en": "Move one character to the left",
+            "zh-Hans": "将光标向左移动一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.54a83b22af",
+          "title": {
+            "en": "Move one character to the right",
+            "zh-Hans": "将光标向右移动一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.1555e1bcf3",
+          "title": {
+            "en": "Move one word to the left",
+            "zh-Hans": "将光标向左移动一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.390026c253",
+          "title": {
+            "en": "Move one word to the right",
+            "zh-Hans": "将光标向右移动一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.e2efbd73e8",
+          "title": {
+            "en": "Move one paragraph up",
+            "zh-Hans": "将光标向上移动一个段落。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.56c4a3104c",
+          "title": {
+            "en": "Move one paragraph down",
+            "zh-Hans": "将光标向下移动一个段落。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.406125e4f6",
+          "title": {
+            "en": "Move one cell to the left (in a table)",
+            "zh-Hans": "将光标向左移动一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.caed2d952e",
+          "title": {
+            "en": "Move one cell to the right (in a table)",
+            "zh-Hans": "将光标向右移动一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.d90812dc54",
+          "title": {
+            "en": "Move up one line",
+            "zh-Hans": "向上移动一行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.9f17ec72e6",
+          "title": {
+            "en": "Move down one line",
+            "zh-Hans": "将光标向下移动一个段落。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.5ff7f6c18d",
+          "title": {
+            "en": "Move to the end of a line",
+            "zh-Hans": "将光标移至当前行的末尾。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.bca72b17cc",
+          "title": {
+            "en": "Move to the beginning of a line",
+            "zh-Hans": "移至文档的开始。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.e1f1c2f611",
+          "title": {
+            "en": "Move up one screen (scrolling)",
+            "zh-Hans": "通过将文档视图向上滚动一个屏幕来移动光标。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.8f9b54eea5",
+          "title": {
+            "en": "Move down one screen (scrolling)",
+            "zh-Hans": "通过将文档视图向下滚动一个屏幕来移动光标。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.ca08fd5cf2",
+          "title": {
+            "en": "Move to the top of the next page",
+            "zh-Hans": "将光标移动到下一页的顶部。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 256,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.e7680f9d39",
+          "title": {
+            "en": "Move to the top of the previous page",
+            "zh-Hans": "将光标移动到上一页的顶部。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 256,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.f224522b8f",
+          "title": {
+            "en": "To the end of a document",
+            "zh-Hans": "移至文档的末尾。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 256,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.354e76540a",
+          "title": {
+            "en": "To the beginning of a document",
+            "zh-Hans": "移至文档的开始。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.word.move-the-cursor.cd0401fcde",
+          "title": {
+            "en": "To the previous insertion point",
+            "zh-Hans": "定位至前一个域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.select-text-and-graphics",
+      "title": {
+        "en": "Select text and graphics",
+        "zh-Hans": "选择文本与图形"
+      },
+      "items": [
+        {
+          "id": "remote.word.select-text-and-graphics.27e3314d44",
+          "title": {
+            "en": "Select one character to the right",
+            "zh-Hans": "选择左侧或右侧最近的字符。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.a5a1649c17",
+          "title": {
+            "en": "Select one character to the left",
+            "zh-Hans": "选择左侧或右侧最近的字符。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.23c3df57f6",
+          "title": {
+            "en": "Select one word to the right",
+            "zh-Hans": "向右删除一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.446e47c438",
+          "title": {
+            "en": "Select one word to the left",
+            "zh-Hans": "向左删除一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.15023ab038",
+          "title": {
+            "en": "Select to the end of a line",
+            "zh-Hans": "选择从当前位置到当前行尾之间的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 768,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.921a93a01a",
+          "title": {
+            "en": "Select to the beginning of a line",
+            "zh-Hans": "选择从当前位置到当前行首之间的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 768,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.2311f45f1e",
+          "title": {
+            "en": "Select one line down",
+            "zh-Hans": "向下移动一行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.d6eafdbfd7",
+          "title": {
+            "en": "Select one line up",
+            "zh-Hans": "向上移动一行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.7be3b0f233",
+          "title": {
+            "en": "Select to the end of a paragraph",
+            "zh-Hans": "选择从当前位置到当前段尾之间的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.95baaf21db",
+          "title": {
+            "en": "Select to the beginning of a paragraph",
+            "zh-Hans": "选择从当前位置到当前段首之间的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.13c8c5d8fd",
+          "title": {
+            "en": "Select one screen down",
+            "zh-Hans": "通过将文档视图向下滚动一个屏幕来移动光标。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 512,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.7fea4a02ab",
+          "title": {
+            "en": "Select one screen up",
+            "zh-Hans": "通过将文档视图向上滚动一个屏幕来移动光标。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.eb04883fd3",
+          "title": {
+            "en": "Select to the beginning of a document",
+            "zh-Hans": "选择从当前位置到文件首之间的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 768,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.3c84bef813",
+          "title": {
+            "en": "Select to the end of a document",
+            "zh-Hans": "选择从当前位置到文档末尾之间的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 768,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.5ce307bde7",
+          "title": {
+            "en": "Select to the end of a window",
+            "zh-Hans": "选择从当前位置到窗口底部之间的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 2816,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.word.select-text-and-graphics.fc70116b5e",
+          "title": {
+            "en": "Select to select the entire document",
+            "zh-Hans": "选择从当前位置到文档末尾之间的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.extend-a-selection",
+      "title": {
+        "en": "Extend a selection",
+        "zh-Hans": "扩展所选内容"
+      },
+      "items": [
+        {
+          "id": "remote.word.extend-a-selection.74373b879c",
+          "title": {
+            "en": "Turn on extend mode",
+            "zh-Hans": "打开或关闭修订。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.word.extend-a-selection.8801fcde73",
+          "title": {
+            "en": "Reduce the size of a selection",
+            "zh-Hans": "减少选定内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.word.extend-a-selection.50725c80dd",
+          "title": {
+            "en": "Turn off extend mode",
+            "zh-Hans": "打开或关闭修订。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.edit-text-and-graphics",
+      "title": {
+        "en": "Edit text and graphics",
+        "zh-Hans": "编辑文本与图形"
+      },
+      "items": [
+        {
+          "id": "remote.word.edit-text-and-graphics.29b4528aef",
+          "title": {
+            "en": "Copy text or graphics",
+            "zh-Hans": "复制所选文本格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.eb0ed0170e",
+          "title": {
+            "en": "Copy a style",
+            "zh-Hans": "将所选内容复制到特定位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.481d434a8f",
+          "title": {
+            "en": "Paste a style",
+            "zh-Hans": "Ctrl+F3：将所选内容剪切到“图文场”。 可以将多个文本和图形剪切到“图文场”，并将其作为组粘贴到另一个位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.aec2b16138",
+          "title": {
+            "en": "Copy text or graphics to the Scrapbook",
+            "zh-Hans": "F7（单独使用）：显示 编辑器 任务窗格以检查文档或所选文本中的拼写和语法。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6144,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.af813c5410",
+          "title": {
+            "en": "Cut selected text to the clipboard",
+            "zh-Hans": "将所选文本剪切到剪贴板。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.041c1a2f5d",
+          "title": {
+            "en": "Create AutoText",
+            "zh-Hans": "创建新文档。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.216db3b852",
+          "title": {
+            "en": "Insert AutoText",
+            "zh-Hans": "插入脚注。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.9cb3251662",
+          "title": {
+            "en": "Paste the Clipboard contents",
+            "zh-Hans": "粘贴剪贴板的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.a015fdf7af",
+          "title": {
+            "en": "Paste special",
+            "zh-Hans": "仅粘贴文本。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.0edd53b0f1",
+          "title": {
+            "en": "Paste and match the formatting of the surrounding text",
+            "zh-Hans": "粘贴所选文本格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.c761ce9b21",
+          "title": {
+            "en": "Paste the Spike contents",
+            "zh-Hans": "粘贴“图文场”的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 768,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.28a2bb543a",
+          "title": {
+            "en": "Delete one character to the left",
+            "zh-Hans": "向左删除一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.f178d165d8",
+          "title": {
+            "en": "Delete one word to the left",
+            "zh-Hans": "向左删除一个字词。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.75140f00e2",
+          "title": {
+            "en": "Cut selected text to the Clipboard",
+            "zh-Hans": "将所选文本剪切到剪贴板。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.a4c9f4c258",
+          "title": {
+            "en": "Undo the last action",
+            "zh-Hans": "撤消前一个操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.f68b4d9e0c",
+          "title": {
+            "en": "Redo the last action",
+            "zh-Hans": "如果可能，请重做上一个操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.word.edit-text-and-graphics.152f5d7841",
+          "title": {
+            "en": "Cut to the Spike",
+            "zh-Hans": "将所选内容剪切到“图文场”。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.align-and-format-paragraphs",
+      "title": {
+        "en": "Align and format paragraphs",
+        "zh-Hans": "对齐与设置段落格式"
+      },
+      "items": [
+        {
+          "id": "remote.word.align-and-format-paragraphs.f8c321f9ae",
+          "title": {
+            "en": "Center a paragraph",
+            "zh-Hans": "将段落居中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.a818c203cf",
+          "title": {
+            "en": "Justify a paragraph",
+            "zh-Hans": "将段落两端对齐。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.e77387a0b3",
+          "title": {
+            "en": "Left-align a paragraph",
+            "zh-Hans": "将段落向左对齐。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.6e770032ac",
+          "title": {
+            "en": "Right-align a paragraph",
+            "zh-Hans": "将段落向右对齐。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.22eb42c560",
+          "title": {
+            "en": "Indent a paragraph from the left",
+            "zh-Hans": "将段落向左对齐。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4608,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.903b18e30a",
+          "title": {
+            "en": "Remove a paragraph indent from the left",
+            "zh-Hans": "删除段落缩进。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.c07cce517d",
+          "title": {
+            "en": "Create a hanging indent",
+            "zh-Hans": "创建悬挂缩进。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.e6dcbe5629",
+          "title": {
+            "en": "Remove a hanging indent",
+            "zh-Hans": "删除悬挂缩进。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.031f59223c",
+          "title": {
+            "en": "Start AutoFormat",
+            "zh-Hans": "启用“自动套用格式”。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.8e99ebd7e7",
+          "title": {
+            "en": "Apply the Normal style",
+            "zh-Hans": "应用“普通”样式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.3fa04faef7",
+          "title": {
+            "en": "Apply the Heading 1 style",
+            "zh-Hans": "应用“标题 1”样式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.adec4d4b7e",
+          "title": {
+            "en": "Apply the Heading 2 style",
+            "zh-Hans": "应用“标题 2”样式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.c154ade99b",
+          "title": {
+            "en": "Apply the Heading 3 style",
+            "zh-Hans": "应用“标题 3”样式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.5b6942c4c1",
+          "title": {
+            "en": "Apply the List style when the cursor is at the beginning of a line",
+            "zh-Hans": "在光标位于行首时应用“列表”样式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.word.align-and-format-paragraphs.17f22dfb08",
+          "title": {
+            "en": "Insert a nonbreaking space",
+            "zh-Hans": "插入不间断空格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.set-line-spacing",
+      "title": {
+        "en": "Set line spacing",
+        "zh-Hans": "设置行距"
+      },
+      "items": [
+        {
+          "id": "remote.word.set-line-spacing.f035de19c3",
+          "title": {
+            "en": "Set lines as single-spaced",
+            "zh-Hans": "对段落应用单倍行距。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.word.set-line-spacing.4db944767b",
+          "title": {
+            "en": "Set lines as double-spaced",
+            "zh-Hans": "对段落应用双倍行距。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.word.set-line-spacing.84256947c1",
+          "title": {
+            "en": "Set lines as 1.5-line spacing",
+            "zh-Hans": "对段落应用 1.5 倍行距。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.word.set-line-spacing.0b5448da09",
+          "title": {
+            "en": "Add or remove one line of space directly preceding a paragraph",
+            "zh-Hans": "在段落前直接增加或删除一行间距。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.format-characters",
+      "title": {
+        "en": "Format characters",
+        "zh-Hans": "设置字符格式"
+      },
+      "items": [
+        {
+          "id": "remote.word.format-characters.590cf31bb2",
+          "title": {
+            "en": "Change the font",
+            "zh-Hans": "将所选文本更改为符号字体。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.c3c4f6b15e",
+          "title": {
+            "en": "Increase the font size",
+            "zh-Hans": "增大字号。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.word.format-characters.f72c937d90",
+          "title": {
+            "en": "Decrease the font size",
+            "zh-Hans": "减小字号。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.word.format-characters.734a0e7e4c",
+          "title": {
+            "en": "Change the formatting of characters (Font command, Format menu)",
+            "zh-Hans": "更改字符格式（“格式”菜单中的“字体”命令）。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.57c32c4da1",
+          "title": {
+            "en": "Change the case of letters",
+            "zh-Hans": "将文本更改为全部大写。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.3cc8330a74",
+          "title": {
+            "en": "Format in all capital letters",
+            "zh-Hans": "将文本更改为全部大写。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.c8a259757d",
+          "title": {
+            "en": "Apply bold formatting",
+            "zh-Hans": "应用加粗格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.fbf581cf79",
+          "title": {
+            "en": "Apply an underline",
+            "zh-Hans": "应用下划线格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.5fc0c0cb7b",
+          "title": {
+            "en": "Underline words but not spaces",
+            "zh-Hans": "对字词应用下划线格式，但不对空格应用下划线格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.d045c7e538",
+          "title": {
+            "en": "Double-underline text",
+            "zh-Hans": "应用双下划线格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.61bee5b906",
+          "title": {
+            "en": "Apply italic formatting",
+            "zh-Hans": "应用倾斜格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.2bd8d5090c",
+          "title": {
+            "en": "Format in all small capital letters",
+            "zh-Hans": "设置为小型大写字母格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.d099672d08",
+          "title": {
+            "en": "Apply subscript formatting (automatic spacing)",
+            "zh-Hans": "应用下标格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.word.format-characters.fbf9747460",
+          "title": {
+            "en": "Apply superscript formatting (automatic spacing)",
+            "zh-Hans": "应用上标格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 768,
+            "displayKey": "+"
+          }
+        },
+        {
+          "id": "remote.word.format-characters.8b1514eefc",
+          "title": {
+            "en": "Apply strike-through formatting",
+            "zh-Hans": "应用下标格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.insert-special-characters",
+      "title": {
+        "en": "Insert special characters",
+        "zh-Hans": "插入特殊字符"
+      },
+      "items": [
+        {
+          "id": "remote.word.insert-special-characters.36a5e7fd8a",
+          "title": {
+            "en": "Insert an empty field",
+            "zh-Hans": "插入空域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.insert-special-characters.c211acabcd",
+          "title": {
+            "en": "Insert a line break",
+            "zh-Hans": "插入换行符。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.word.insert-special-characters.666411ed40",
+          "title": {
+            "en": "Insert a page break",
+            "zh-Hans": "插入分页符。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.word.insert-special-characters.c9708d464f",
+          "title": {
+            "en": "Insert a column break",
+            "zh-Hans": "插入分栏符。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.word.insert-special-characters.83563f2bd7",
+          "title": {
+            "en": "Insert a nonbreaking hyphen",
+            "zh-Hans": "插入不间断连字符。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.word.insert-special-characters.5d156414de",
+          "title": {
+            "en": "Insert the copyright symbol",
+            "zh-Hans": "插入指定的 ANSI（小数）字符代码对应的 ANSI 字符。 例如，若要插入欧元货币符号，请在按住 Alt 的同时按数字拨号键盘上的 0128。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2048,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.word.insert-special-characters.39eeacfc52",
+          "title": {
+            "en": "Insert the registered trademark symbol",
+            "zh-Hans": "插入注册商标符号（®）。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.word.insert-special-characters.cc477f44a5",
+          "title": {
+            "en": "Insert the trademark symbol",
+            "zh-Hans": "插入商标符号（™）。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2048,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.word.insert-special-characters.a754805220",
+          "title": {
+            "en": "Insert an ellipsis",
+            "zh-Hans": "插入省略号（…）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 2048,
+            "displayKey": ";"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.work-with-fields",
+      "title": {
+        "en": "Work with fields",
+        "zh-Hans": "使用域"
+      },
+      "items": [
+        {
+          "id": "remote.word.work-with-fields.085145086f",
+          "title": {
+            "en": "Insert a DATE field",
+            "zh-Hans": "插入“日期”域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4608,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.c6ea088547",
+          "title": {
+            "en": "Insert a LISTNUM field",
+            "zh-Hans": "插入 ListNum 域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2816,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.ae0fce95b9",
+          "title": {
+            "en": "Insert a PAGE field",
+            "zh-Hans": "插入页字段。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4608,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.8e0704dd2c",
+          "title": {
+            "en": "Insert a TIME field",
+            "zh-Hans": "插入时间域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4608,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.36a5e7fd8a",
+          "title": {
+            "en": "Insert an empty field",
+            "zh-Hans": "插入空域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.9ef892385b",
+          "title": {
+            "en": "Update selected fields",
+            "zh-Hans": "更新选定的域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.cc15f32f70",
+          "title": {
+            "en": "Unlink a field",
+            "zh-Hans": "取消域的链接。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 768,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.128ac5e8b1",
+          "title": {
+            "en": "Switch between a field code and its result",
+            "zh-Hans": "在所选的域代码及其结果之间进行切换。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.ddca008fa0",
+          "title": {
+            "en": "Switch between all field codes and their results",
+            "zh-Hans": "在所有的域代码及其结果间进行切换。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2048,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.22badbe301",
+          "title": {
+            "en": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results",
+            "zh-Hans": "从显示字段结果的字段运行 GOTOBUTTON 或 MACROBUTTON。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2560,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.9bc2841be1",
+          "title": {
+            "en": "Go to the next field",
+            "zh-Hans": "前往下一个域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.bfb24fcaa5",
+          "title": {
+            "en": "Go to the previous field",
+            "zh-Hans": "定位至前一个域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 512,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.518d957b76",
+          "title": {
+            "en": "Lock a field",
+            "zh-Hans": "锁定域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.word.work-with-fields.364843007a",
+          "title": {
+            "en": "Unlock a field",
+            "zh-Hans": "解除对域的锁定。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 768,
+            "displayKey": "F11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.outline-a-document",
+      "title": {
+        "en": "Outline a document",
+        "zh-Hans": "大纲"
+      },
+      "items": [
+        {
+          "id": "remote.word.outline-a-document.0f4d4c7946",
+          "title": {
+            "en": "Promote a paragraph",
+            "zh-Hans": "提升段落级别。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4608,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.089e8b72ec",
+          "title": {
+            "en": "Demote a paragraph",
+            "zh-Hans": "降低段落级别。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4608,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.510fd9aed0",
+          "title": {
+            "en": "Demote to body text",
+            "zh-Hans": "将段落降级为正文文本。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.e27ee09a59",
+          "title": {
+            "en": "Move selected paragraphs up",
+            "zh-Hans": "上移所选段落。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4608,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.e543d94639",
+          "title": {
+            "en": "Move selected paragraphs down",
+            "zh-Hans": "下移所选段落。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4608,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.29a59989ad",
+          "title": {
+            "en": "Expand text under a heading",
+            "zh-Hans": "展开标题下的文本。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 4608,
+            "displayKey": "+"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.cb7f438fd9",
+          "title": {
+            "en": "Collapse text under a heading",
+            "zh-Hans": "折叠标题下的文本。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4608,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.25666bf483",
+          "title": {
+            "en": "Expand all body text and headings or collapse all body text",
+            "zh-Hans": "扩展或折叠所有文本或标题。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4608,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.bc13822459",
+          "title": {
+            "en": "Show the first line of body text or all body text",
+            "zh-Hans": "在显示正文文本的第一行和显示所有正文文本之间切换。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4608,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.word.outline-a-document.34d8c2dd53",
+          "title": {
+            "en": "Show all headings with the specified heading level",
+            "zh-Hans": "显示具有指定标题级别的所有标题。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.review-a-document",
+      "title": {
+        "en": "Review a document",
+        "zh-Hans": "审阅文档"
+      },
+      "items": [
+        {
+          "id": "remote.word.review-a-document.280519710d",
+          "title": {
+            "en": "Insert a comment",
+            "zh-Hans": "插入批注。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.word.review-a-document.bf1727b84d",
+          "title": {
+            "en": "Turn track changes on or off",
+            "zh-Hans": "打开或关闭修订。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.word.review-a-document.2820c8e5d2",
+          "title": {
+            "en": "Go to the beginning of a comment",
+            "zh-Hans": "显示“转到”对话框，导航到特定页面、书签、脚注、表格、批注、图形或其他位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.word.review-a-document.563380d191",
+          "title": {
+            "en": "Go to the end of a comment",
+            "zh-Hans": "显示“转到”对话框，导航到特定页面、书签、脚注、表格、批注、图形或其他位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.word.review-a-document.f1e17689c8",
+          "title": {
+            "en": "Go to the beginning of the list of comments when in the Reviewing Pane",
+            "zh-Hans": "在审阅窗格中转到评论列表的开头。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.word.review-a-document.f4e3b1869b",
+          "title": {
+            "en": "Go to the end of the list of comments when in the Reviewing Pane",
+            "zh-Hans": "在审阅窗格中转到评论列表的末尾。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 256,
+            "displayKey": "End"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.print-a-document",
+      "title": {
+        "en": "Print a document",
+        "zh-Hans": "打印文档"
+      },
+      "items": [
+        {
+          "id": "remote.word.print-a-document.d3aa92c33d",
+          "title": {
+            "en": "Print a document",
+            "zh-Hans": "打印文档。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.move-around-in-a-table",
+      "title": {
+        "en": "Move around in a table",
+        "zh-Hans": "在表格中移动"
+      },
+      "items": [
+        {
+          "id": "remote.word.move-around-in-a-table.998e9fbbd0",
+          "title": {
+            "en": "Move to the preceding cell",
+            "zh-Hans": "移至行中的第一个单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.word.move-around-in-a-table.5f1674cf60",
+          "title": {
+            "en": "Move to the preceding or next row",
+            "zh-Hans": "移至行中的第一个单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.word.move-around-in-a-table.27353a2932",
+          "title": {
+            "en": "Move to the first cell in the row",
+            "zh-Hans": "移至行中的第一个单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 4096,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.word.move-around-in-a-table.d7f4975c45",
+          "title": {
+            "en": "Move to the last cell in the row",
+            "zh-Hans": "移至行中的最后一个单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 4096,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.word.move-around-in-a-table.0b61172984",
+          "title": {
+            "en": "Move to the first cell in the column",
+            "zh-Hans": "移至行中的第一个单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.word.move-around-in-a-table.3b7ccc1f61",
+          "title": {
+            "en": "Move to the last cell in the column",
+            "zh-Hans": "移至行中的最后一个单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.word.move-around-in-a-table.38f6e4ca2a",
+          "title": {
+            "en": "Start a new paragraph",
+            "zh-Hans": "在单元格中插入新段落。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.word.move-around-in-a-table.59aa473f95",
+          "title": {
+            "en": "Insert a row",
+            "zh-Hans": "插入批注。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.resize-table-columns-by-using-the-ruler",
+      "title": {
+        "en": "Resize table columns by using the ruler",
+        "zh-Hans": "使用标尺调整表格列宽"
+      },
+      "items": [
+        {
+          "id": "remote.word.resize-table-columns-by-using-the-ruler.feaa942e4a",
+          "title": {
+            "en": "Move a single column line; Retain table width.",
+            "zh-Hans": "移动单列线；保留表格宽度。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.word.resize-table-columns-by-using-the-ruler.6beea53aa1",
+          "title": {
+            "en": "Equally resize all columns to the right; Retain table width.",
+            "zh-Hans": "等宽调整右侧所有列；保留表格宽度。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 2560,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.word.resize-table-columns-by-using-the-ruler.8d594f8f1e",
+          "title": {
+            "en": "Proportionally resize all columns to the right; Retain table width.",
+            "zh-Hans": "按比例调整右侧所有列；保留表格宽度。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.insert-paragraphs-and-tab-characters-in-a-table",
+      "title": {
+        "en": "Insert paragraphs and tab characters in a table",
+        "zh-Hans": "在表格中插入段落和制表符"
+      },
+      "items": [
+        {
+          "id": "remote.word.insert-paragraphs-and-tab-characters-in-a-table.4dea1e9dea",
+          "title": {
+            "en": "Insert a new paragraph in a cell",
+            "zh-Hans": "在单元格中插入新段落。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.word.insert-paragraphs-and-tab-characters-in-a-table.10b7c48584",
+          "title": {
+            "en": "Insert a Tab character in a cell",
+            "zh-Hans": "在单元格中插入制表符。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 2048,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.use-footnotes-and-endnotes",
+      "title": {
+        "en": "Use footnotes and endnotes",
+        "zh-Hans": "脚注和尾注"
+      },
+      "items": [
+        {
+          "id": "remote.word.use-footnotes-and-endnotes.ed6ef37124",
+          "title": {
+            "en": "Insert a footnote",
+            "zh-Hans": "插入脚注。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.word.use-footnotes-and-endnotes.9545d3bb30",
+          "title": {
+            "en": "Insert an endnote",
+            "zh-Hans": "插入尾注。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.word.function-key-shortcuts",
+      "title": {
+        "en": "Function key shortcuts",
+        "zh-Hans": "功能键快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.word.function-key-shortcuts.50f807fc56",
+          "title": {
+            "en": "Undo the last action",
+            "zh-Hans": "撤消前一个操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.590a208f8e",
+          "title": {
+            "en": "Cut selected text or graphics",
+            "zh-Hans": "将所选内容剪切到剪贴板中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.5d844c6d17",
+          "title": {
+            "en": "Copy selected text or graphics to the clipboard",
+            "zh-Hans": "将所选内容复制到剪贴板中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.3ef727a316",
+          "title": {
+            "en": "Paste the Clipboard contents",
+            "zh-Hans": "粘贴剪贴板的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.2fe6cdb419",
+          "title": {
+            "en": "Choose the Go To command (Edit menu)",
+            "zh-Hans": "显示“转到”对话框，导航到特定页面、书签、脚注、表格、批注、图形或其他位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.4d76951a65",
+          "title": {
+            "en": "Open the Spelling and Grammar dialog box",
+            "zh-Hans": "打开“拼写和语法”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.5b4ba0337f",
+          "title": {
+            "en": "Extend a selection",
+            "zh-Hans": "开始扩展所选内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.a50da183b8",
+          "title": {
+            "en": "Update selected fields.",
+            "zh-Hans": "更新选定的域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.0cb9752374",
+          "title": {
+            "en": "Go to the next window",
+            "zh-Hans": "打开多个文档时切换到下一个文档窗口。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.c8cbb2ed22",
+          "title": {
+            "en": "Copy selected text",
+            "zh-Hans": "将所选内容复制到剪贴板中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.c8c4a78e9e",
+          "title": {
+            "en": "Change letters to uppercase, lowercase, or mixed case",
+            "zh-Hans": "切换字母大小写（大写、小写或混合大小写）。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.a553a851f7",
+          "title": {
+            "en": "Repeat a Find or Go To action",
+            "zh-Hans": "Shift+F4：重复上一个“查找”或“转到”操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 768,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.504e415671",
+          "title": {
+            "en": "Move to the previous insertion point",
+            "zh-Hans": "移动到行中的上一个单元格并选择其内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.01c562ffcb",
+          "title": {
+            "en": "Open the Thesaurus pane",
+            "zh-Hans": "显示“同义词库”任务窗格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.0b4bae2578",
+          "title": {
+            "en": "Shrink a selection",
+            "zh-Hans": "将所选内容扩展到相邻单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.d054f5bd58",
+          "title": {
+            "en": "Switch between a field code and its result.",
+            "zh-Hans": "在所选的域代码及其结果之间进行切换。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.bfb24fcaa5",
+          "title": {
+            "en": "Go to the previous field",
+            "zh-Hans": "定位至前一个域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 512,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.fe676c62a8",
+          "title": {
+            "en": "Cut the selection to the Spike",
+            "zh-Hans": "将所选内容剪切到“图文场”。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.a0c71f23bb",
+          "title": {
+            "en": "Close the window",
+            "zh-Hans": "关闭文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.0cb9752374",
+          "title": {
+            "en": "Go to the next window",
+            "zh-Hans": "打开多个文档时切换到下一个文档窗口。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.36a5e7fd8a",
+          "title": {
+            "en": "Insert an empty field",
+            "zh-Hans": "插入空域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.518d957b76",
+          "title": {
+            "en": "Lock a field",
+            "zh-Hans": "锁定域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.7f48d57a0a",
+          "title": {
+            "en": "Insert the contents of the Spike",
+            "zh-Hans": "粘贴“图文场”的内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 768,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.b83c22b584",
+          "title": {
+            "en": "Edit a bookmark",
+            "zh-Hans": "编辑邮件合并数据文档。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 768,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.2aa00f3929",
+          "title": {
+            "en": "Update linked information in a Word source document",
+            "zh-Hans": "更新 Word 源文档中链接的信息。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 768,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.14c4f09831",
+          "title": {
+            "en": "Extend a selection as a block selection",
+            "zh-Hans": "将所选内容扩展到相邻单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 768,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.cc15f32f70",
+          "title": {
+            "en": "Unlink a field",
+            "zh-Hans": "取消域的链接。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 768,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.364843007a",
+          "title": {
+            "en": "Unlock a field",
+            "zh-Hans": "解除对域的锁定。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 768,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.d024358198",
+          "title": {
+            "en": "Create an AutoText entry",
+            "zh-Hans": "插入索引项。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.b72c82321c",
+          "title": {
+            "en": "Find the next misspelling or grammatical error",
+            "zh-Hans": "Alt+F7：查找下一个拼写或语法错误。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2048,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.e7596d5ed2",
+          "title": {
+            "en": "Run a macro",
+            "zh-Hans": "Alt+F8：显示 宏对话框以创建、运行、编辑或删除宏。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2048,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.ddca008fa0",
+          "title": {
+            "en": "Switch between all field codes and their results",
+            "zh-Hans": "在所有的域代码及其结果间进行切换。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2048,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.81ab75d0c0",
+          "title": {
+            "en": "Look up selected text on the Internet",
+            "zh-Hans": "在 Internet 上查找所选文本。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.word.function-key-shortcuts.22badbe301",
+          "title": {
+            "en": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results",
+            "zh-Hans": "从显示字段结果的字段运行 GOTOBUTTON 或 MACROBUTTON。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2560,
+            "displayKey": "F9"
+          }
+        }
+      ]
+    }
+  ]
+}

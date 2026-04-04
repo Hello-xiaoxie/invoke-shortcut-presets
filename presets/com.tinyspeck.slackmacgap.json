@@ -1,0 +1,792 @@
+{
+  "bundleIdentifier": "com.tinyspeck.slackmacgap",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.slack.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.slack.navigation.7b4ec3be36",
+          "title": {
+            "en": "Toggle full screen view",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.f65b6c5de1",
+          "title": {
+            "en": "Open previous search",
+            "zh-Hans": "打开上次搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.eee09a3153",
+          "title": {
+            "en": "Search current channel or conversation",
+            "zh-Hans": "在当前频道或对话中搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.51f3325e44",
+          "title": {
+            "en": "Saved items",
+            "zh-Hans": "已保存项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.58bbd49141",
+          "title": {
+            "en": "People",
+            "zh-Hans": "人员"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.46afb19f30",
+          "title": {
+            "en": "Mentions ",
+            "zh-Hans": "Mentions "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.9959462c0d",
+          "title": {
+            "en": "Channel info pane",
+            "zh-Hans": "频道信息面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.ba01b78be3",
+          "title": {
+            "en": "Open or close right pane",
+            "zh-Hans": "打开或关闭右侧面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.slack.navigation.17bcf963f3",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.slack.navigation.dcd526dc69",
+          "title": {
+            "en": "Next channel or DM visited",
+            "zh-Hans": "下一个访问过的频道或私信"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.cb71ee0977",
+          "title": {
+            "en": "Previous channel or DM visited",
+            "zh-Hans": "上一个访问过的频道或私信"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.slack.navigation.9edab92ebf",
+          "title": {
+            "en": "Next unread channel or DM",
+            "zh-Hans": "下一个未读频道或私信"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.61f1d67a97",
+          "title": {
+            "en": "Previous unread channel or DM",
+            "zh-Hans": "上一个未读频道或私信"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.edb478cb65",
+          "title": {
+            "en": "Open the Threads view",
+            "zh-Hans": "打开话题视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.e7170dfa8c",
+          "title": {
+            "en": "Open channel browser",
+            "zh-Hans": "打开频道浏览器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.9097794105",
+          "title": {
+            "en": "Compose a new message",
+            "zh-Hans": "撰写新消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.c248a4a128",
+          "title": {
+            "en": "Open direct messages menu",
+            "zh-Hans": "打开私信菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.b262061734",
+          "title": {
+            "en": "Move focus to the previous section",
+            "zh-Hans": "Move focus to the previous section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.5aac87b006",
+          "title": {
+            "en": "Move focus to the next section",
+            "zh-Hans": "Move focus to the next section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.slack.navigation.4517b469fd",
+          "title": {
+            "en": "Jump to a conversation",
+            "zh-Hans": "跳转到对话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.slack.call-actions",
+      "title": {
+        "en": "Call actions",
+        "zh-Hans": "通话操作"
+      },
+      "items": [
+        {
+          "id": "remote.slack.call-actions.231bd0d5b4",
+          "title": {
+            "en": "Show invite list",
+            "zh-Hans": "Show invite list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.slack.call-actions.d4376a94de",
+          "title": {
+            "en": "Toggle video on and off",
+            "zh-Hans": "Toggle video on and off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.slack.call-actions.52ce11dd98",
+          "title": {
+            "en": "Toggle mute on and off (Hold down to talk when muted)",
+            "zh-Hans": "Toggle mute on and off (Hold down to talk when muted)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.slack.files-and-snippets",
+      "title": {
+        "en": "Files and snippets",
+        "zh-Hans": "文件与代码片段"
+      },
+      "items": [
+        {
+          "id": "remote.slack.files-and-snippets.1882628944",
+          "title": {
+            "en": "Create new Snippet",
+            "zh-Hans": "新建代码片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.slack.files-and-snippets.b4645c96d1",
+          "title": {
+            "en": "Upload file",
+            "zh-Hans": "上传文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.slack.format-messages",
+      "title": {
+        "en": "Format messages",
+        "zh-Hans": "设置消息格式"
+      },
+      "items": [
+        {
+          "id": "remote.slack.format-messages.fc026f7ed7",
+          "title": {
+            "en": "Undo message formatting",
+            "zh-Hans": "Undo message formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.e3aec74680",
+          "title": {
+            "en": "Apply formatting to markdown text",
+            "zh-Hans": "对 Markdown 文本应用格式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.ef32cd65e2",
+          "title": {
+            "en": "Turn selected text into a bulleted list",
+            "zh-Hans": "Turn selected text into a bulleted list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 768,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.534c7bca26",
+          "title": {
+            "en": "Turn selected text into a numbered list",
+            "zh-Hans": "Turn selected text into a numbered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 768,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.3a0303b3b0",
+          "title": {
+            "en": "Codeblock selected text",
+            "zh-Hans": "将所选设为代码块"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.7b42a3920b",
+          "title": {
+            "en": "Code selected text",
+            "zh-Hans": "将所选设为行内代码"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.3921daaff1",
+          "title": {
+            "en": "Quote selected text",
+            "zh-Hans": "引用所选文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 768,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.b49fe6409e",
+          "title": {
+            "en": "Strikethrough selected text",
+            "zh-Hans": "为所选添加删除线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.ac46c5dcee",
+          "title": {
+            "en": "Italicize selected text",
+            "zh-Hans": "将所选设为斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.c23f9a3b61",
+          "title": {
+            "en": "Bold selected text",
+            "zh-Hans": "将所选设为粗体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.7244bb27d4",
+          "title": {
+            "en": "Add an emoji reaction to a message",
+            "zh-Hans": "Add an emoji reaction to a message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.0026364141",
+          "title": {
+            "en": "Create a new line in your message",
+            "zh-Hans": "在消息中换行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.585c2fe30e",
+          "title": {
+            "en": "Select text to end of current line",
+            "zh-Hans": "Select text to end of current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.6165fcf819",
+          "title": {
+            "en": "Select text to beginning of current line",
+            "zh-Hans": "Select text to beginning of current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.slack.format-messages.ff0416345b",
+          "title": {
+            "en": "Edit your last message",
+            "zh-Hans": "编辑上一条消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.slack.take-an-action-on-a-message",
+      "title": {
+        "en": "Take an action on a message",
+        "zh-Hans": "对消息执行操作"
+      },
+      "items": [
+        {
+          "id": "remote.slack.take-an-action-on-a-message.0a43c0b0a4",
+          "title": {
+            "en": "Create a reminder about a message",
+            "zh-Hans": "Create a reminder about a message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.slack.take-an-action-on-a-message.9465a445d5",
+          "title": {
+            "en": "Delete your message",
+            "zh-Hans": "Delete your message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.slack.take-an-action-on-a-message.c8489d0ecd",
+          "title": {
+            "en": "Mark as unread starting from a message",
+            "zh-Hans": "Mark as unread starting from a message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.slack.take-an-action-on-a-message.f1dd881604",
+          "title": {
+            "en": "Save a message or remove from Saved items",
+            "zh-Hans": "存储 a message or remove from Saved items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.slack.take-an-action-on-a-message.145bbdf496",
+          "title": {
+            "en": "Share a message",
+            "zh-Hans": "Share a message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.slack.take-an-action-on-a-message.a21fea3db2",
+          "title": {
+            "en": "Pin or unpin a message",
+            "zh-Hans": "Pin or unpin a message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.slack.take-an-action-on-a-message.88cc54581e",
+          "title": {
+            "en": "Open or reply to a thread",
+            "zh-Hans": "打开 or reply to a thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.slack.take-an-action-on-a-message.5c74b48487",
+          "title": {
+            "en": "Add an emoji reaction",
+            "zh-Hans": "Add an emoji reaction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.slack.take-an-action-on-a-message.8c01a81a4e",
+          "title": {
+            "en": "Edit your message",
+            "zh-Hans": "Edit your message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.slack.mark-messages-read-or-unread",
+      "title": {
+        "en": "Mark messages read or unread",
+        "zh-Hans": "标记已读/未读"
+      },
+      "items": [
+        {
+          "id": "remote.slack.mark-messages-read-or-unread.fecb4f97a6",
+          "title": {
+            "en": "Mark all messages as read",
+            "zh-Hans": "将全部消息标为已读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.slack.mark-messages-read-or-unread.555df9ee05",
+          "title": {
+            "en": "Mark all messages in current channel or DM as read",
+            "zh-Hans": "将当前频道或私信标为已读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.slack.switch-workspaces",
+      "title": {
+        "en": "Switch workspaces",
+        "zh-Hans": "切换工作区"
+      },
+      "items": [
+        {
+          "id": "remote.slack.switch-workspaces.f985d2df30",
+          "title": {
+            "en": "Switch to workspace 1 (see assigned number under the workspace icon in your Slack app)",
+            "zh-Hans": "Switch to workspace 1 (see assigned number under the workspace icon in your Slack app)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.slack.switch-workspaces.fd269b3755",
+          "title": {
+            "en": "Switch to next workspace",
+            "zh-Hans": "Switch to next workspace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.slack.switch-workspaces.e2cd312ccd",
+          "title": {
+            "en": "Switch to previous workspace",
+            "zh-Hans": "Switch to previous workspace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.slack.all-unreads-navigation",
+      "title": {
+        "en": "All Unreads navigation",
+        "zh-Hans": "全部未读导航"
+      },
+      "items": [
+        {
+          "id": "remote.slack.all-unreads-navigation.66759fd560",
+          "title": {
+            "en": "Collapse channels",
+            "zh-Hans": "折叠频道列表"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.slack.all-unreads-navigation.c7016a3600",
+          "title": {
+            "en": "Open channels",
+            "zh-Hans": "展开频道列表"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.slack.all-unreads-navigation.333e4263bc",
+          "title": {
+            "en": "Move to message below",
+            "zh-Hans": "移至下一条消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.slack.all-unreads-navigation.2160bce9c6",
+          "title": {
+            "en": "Move to message above",
+            "zh-Hans": "移至上一条消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.slack.all-unreads-navigation.64769317e2",
+          "title": {
+            "en": "Open All Unreads view",
+            "zh-Hans": "打开「全部未读」视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2286 @@
+{
+  "bundleIdentifier": "com.microsoft.Excel",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.excel.frequently-used-shortcuts",
+      "title": {
+        "en": "Frequently used shortcuts",
+        "zh-Hans": "常用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.excel.frequently-used-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.bf4aeb778f",
+          "title": {
+            "en": "Clear",
+            "zh-Hans": "清除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "保存工作簿。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消最近的操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复最后一个操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切所选内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "应用加粗格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.39ce3ecd4a",
+          "title": {
+            "en": "Open Visual Basic",
+            "zh-Hans": "打开 Microsoft Visual Basic for Applications 编辑器。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.e8c25b8c2a",
+          "title": {
+            "en": "Fill Down",
+            "zh-Hans": "使用 向下填充 命令将选定区域内最顶层单元格的内容和格式复制到下面的单元格中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.ea19ff4c88",
+          "title": {
+            "en": "Fill Right",
+            "zh-Hans": "使用“填充”将左侧单元格的内容和格式复制到右侧。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.2640b23e8c",
+          "title": {
+            "en": "Insert cells",
+            "zh-Hans": "按住 Shift 键的同时拖动选定的行、列或选定单元格，移动所选单元格并拖放以将其插入新位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 4608,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.5102bf934a",
+          "title": {
+            "en": "Delete cells",
+            "zh-Hans": "打开“删除 ”对话框以删除选定单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.5b6eceeb05",
+          "title": {
+            "en": "Calculate all open workbooks",
+            "zh-Hans": "计算所有打开的工作簿中的所有工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭工作簿。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.65c35c47ad",
+          "title": {
+            "en": "Quit Excel",
+            "zh-Hans": "Alt+F4：关闭 Excel。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.a22a35ee22",
+          "title": {
+            "en": "Display the Go To dialog box",
+            "zh-Hans": "F5（单独使用）：显示“定位”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.892e4f1aca",
+          "title": {
+            "en": "Display the Format Cells dialog box",
+            "zh-Hans": "打开“格式单元格”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.cb4476da1d",
+          "title": {
+            "en": "Display the Replace dialog box",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4608,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.47d6cf6e02",
+          "title": {
+            "en": "Paste Special",
+            "zh-Hans": "打开“选择性粘贴”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "为文字添加下划线或删除下划线。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "将文本设置为斜体或删除倾斜格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.80866edac2",
+          "title": {
+            "en": "New blank workbook",
+            "zh-Hans": "新建空白工作簿。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.8bd109e1f4",
+          "title": {
+            "en": "New workbook from template",
+            "zh-Hans": "从 粘贴名称 对话框中粘贴名称（如果工作簿中已定义名称）。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.8ac487462a",
+          "title": {
+            "en": "Display the Save As dialog box",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.44502e77dc",
+          "title": {
+            "en": "Display the Help window",
+            "zh-Hans": "显示或隐藏大纲符号。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 107,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "当某个对象处于选定状态时，选择工作表上的所有对象。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.631b371262",
+          "title": {
+            "en": "Display the Open dialog box",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.23bbbfc580",
+          "title": {
+            "en": "Check spelling",
+            "zh-Hans": "检查活动工作表或选定范围中的拼写。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.88cab64c76",
+          "title": {
+            "en": "Open the thesaurus",
+            "zh-Hans": "打开上下文菜单。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.bde785e73b",
+          "title": {
+            "en": "Display the Formula Builder",
+            "zh-Hans": "当插入点位于公式中某个函数名称的右侧时，会显示 函数参数 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.3124a642be",
+          "title": {
+            "en": "Open the Define Name dialog box",
+            "zh-Hans": "打开“自动筛选菜单”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.aa00ae78d5",
+          "title": {
+            "en": "Open the Create names dialog box",
+            "zh-Hans": "打开“格式单元格”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 768,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.99247ea2fd",
+          "title": {
+            "en": "Insert a new sheet *",
+            "zh-Hans": "按住 Shift 键的同时拖动选定的行、列或选定单元格，移动所选单元格并拖放以将其插入新位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 512,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.excel.frequently-used-shortcuts.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.work-in-windows-and-dialogs",
+      "title": {
+        "en": "Work in windows and dialogs",
+        "zh-Hans": "窗口与对话框"
+      },
+      "items": [
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.911a579d33",
+          "title": {
+            "en": "Expand or minimize the ribbon",
+            "zh-Hans": "展开或收起功能区。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.fc0273c965",
+          "title": {
+            "en": "Switch to full screen view",
+            "zh-Hans": "Ctrl+Shift+F1：切换全屏模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.765838b03e",
+          "title": {
+            "en": "Switch to the next application",
+            "zh-Hans": "移动到下一个表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.e87f017632",
+          "title": {
+            "en": "Switch to the previous application",
+            "zh-Hans": "移动到上一个表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 768,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.77544bbf1a",
+          "title": {
+            "en": "Close the active workbook window",
+            "zh-Hans": "Ctrl+F4：关闭选定的工作簿窗口。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.2a419750d5",
+          "title": {
+            "en": "Copy the image of the screen and save it to a Screen Shot file on your desktop.",
+            "zh-Hans": "使用 向下填充 命令将选定区域内最顶层单元格的内容和格式复制到下面的单元格中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 768,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.7ec2af3078",
+          "title": {
+            "en": "Minimize the active window",
+            "zh-Hans": "计算活动工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 4096,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.2508413d42",
+          "title": {
+            "en": "Maximize or restore the active window",
+            "zh-Hans": "Ctrl+F10：最大化或还原选定的工作簿窗口。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 256,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.5f8e5ce319",
+          "title": {
+            "en": "Hide Excel.",
+            "zh-Hans": "隐藏选定的行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.d473ac0c0d",
+          "title": {
+            "en": "Move to the next box, ⌥, control, or command",
+            "zh-Hans": "移到工作表中的前一个单元格或对话框中的前一个选项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.6b4f4f42e6",
+          "title": {
+            "en": "Move to the previous box, ⌥, control, or command",
+            "zh-Hans": "移到工作表中的前一个单元格或对话框中的前一个选项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.0d83fe157f",
+          "title": {
+            "en": "Exit a dialog or cancel an action",
+            "zh-Hans": "关闭对话框或取消某一过程，如粘贴操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.2ab46a9be3",
+          "title": {
+            "en": "Perform the action assigned to the default command button (the button with the bold outline, often the OK button)",
+            "zh-Hans": "在对话框中，按该键可执行对话框中默认命令按钮（带有突出轮廓的按钮，通常为“确定”按钮）的操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-windows-and-dialogs.5033a69c16",
+          "title": {
+            "en": "Cancel the command and close",
+            "zh-Hans": "Ctrl+F7：如果工作簿窗口未最大化，则按 Ctrl+F7 可对该窗口执行“移动”命令。 使用箭头键移动窗口，并在完成时按 Enter，或按 Esc 取消。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook",
+      "title": {
+        "en": "Move and scroll in a sheet or workbook",
+        "zh-Hans": "在工作表或工作簿中移动与滚动"
+      },
+      "items": [
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.95d932d463",
+          "title": {
+            "en": "Move to the beginning of the row",
+            "zh-Hans": "移到工作表的开头。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.bc5231e2aa",
+          "title": {
+            "en": "Move to the beginning of the sheet",
+            "zh-Hans": "移到工作表的开头。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 4096,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.cf74b122dc",
+          "title": {
+            "en": "Move to the last cell in use on the sheet",
+            "zh-Hans": "移动到选定表右下角的最后一个单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 4096,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.85e5ac41d7",
+          "title": {
+            "en": "Move down one screen",
+            "zh-Hans": "在工作表中向下移动一屏。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.4ff705a9fe",
+          "title": {
+            "en": "Move up one screen",
+            "zh-Hans": "在工作表中向上移动一屏。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.93bd131c98",
+          "title": {
+            "en": "Move one screen to the right",
+            "zh-Hans": "在工作表中向右移动一屏。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 2048,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.4a2c5d5da8",
+          "title": {
+            "en": "Move one screen to the left",
+            "zh-Hans": "在工作表中向左移动一屏。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 2048,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.f57cad78e0",
+          "title": {
+            "en": "Scroll to display the active cell",
+            "zh-Hans": "将单元格的选定范围扩展到活动单元格所在列或行中的最后一个非空单元格，或者如果下一个单元格为空，则扩展到下一个非空单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 4096,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.a22a35ee22",
+          "title": {
+            "en": "Display the Go To dialog box",
+            "zh-Hans": "F5（单独使用）：显示“定位”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.f064aa4339",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "移动到功能区上的“操作说明搜索”或“搜索”字段，并键入搜索词以获取帮助或帮助内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.e243c08cbf",
+          "title": {
+            "en": "Move between unlocked cells on a protected sheet",
+            "zh-Hans": "在受保护的工作表中，在未锁定的单元格之间移动。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.5f085b5db1",
+          "title": {
+            "en": "Move to next workbook",
+            "zh-Hans": "移到工作簿中的下一个工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.enter-data-on-a-sheet",
+      "title": {
+        "en": "Enter data on a sheet",
+        "zh-Hans": "在工作表中输入数据"
+      },
+      "items": [
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.75a3d57b07",
+          "title": {
+            "en": "Edit the selected cell",
+            "zh-Hans": "移动到选定列的最后一个单元。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.e967ca4175",
+          "title": {
+            "en": "Complete a cell entry and move forward in the selection",
+            "zh-Hans": "完成单元格输入并选择上面的单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.0dad49def8",
+          "title": {
+            "en": "Start a new line in the same cell",
+            "zh-Hans": "在同一单元格中另起一个新行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 6144,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.5df22d2508",
+          "title": {
+            "en": "Fill the selected cell range with the text that you type",
+            "zh-Hans": "使用当前输入填充选定的单元格区域。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.7d5d49e5fc",
+          "title": {
+            "en": "Complete a cell entry and move up in the selection",
+            "zh-Hans": "完成单元格输入并选择上面的单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.e5dc2b4599",
+          "title": {
+            "en": "Complete a cell entry and move to the right in the selection",
+            "zh-Hans": "完成单元格输入并选择上面的单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.ac4ee54f43",
+          "title": {
+            "en": "Complete a cell entry and move to the left in the selection",
+            "zh-Hans": "完成单元格输入并选择上面的单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.01e1adb046",
+          "title": {
+            "en": "Cancel a cell entry",
+            "zh-Hans": "取消单元格或编辑栏中的输入。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.7e8088fe3b",
+          "title": {
+            "en": "Delete the character to the left of the insertion point, or delete the selection",
+            "zh-Hans": "在单元格编辑模式下，按该键将会删除插入点左边的字符。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.a9cf4ca9c3",
+          "title": {
+            "en": "Move to the beginning of the line",
+            "zh-Hans": "移到工作表的开头。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.6e73ef576c",
+          "title": {
+            "en": "Insert a comment",
+            "zh-Hans": "插入函数。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.a560f5f338",
+          "title": {
+            "en": "Open and edit a cell comment",
+            "zh-Hans": "打开并编辑单元格备注。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.639799c535",
+          "title": {
+            "en": "Fill down",
+            "zh-Hans": "使用 向下填充 命令将选定区域内最顶层单元格的内容和格式复制到下面的单元格中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.5ac25361df",
+          "title": {
+            "en": "Fill to the right",
+            "zh-Hans": "在工作表中向右移动一屏。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.excel.enter-data-on-a-sheet.969319c7e6",
+          "title": {
+            "en": "Define a name",
+            "zh-Hans": "定义名称以在引用中使用。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.work-in-cells-or-the-formula-bar",
+      "title": {
+        "en": "Work in cells or the Formula bar",
+        "zh-Hans": "在单元格或编辑栏中操作"
+      },
+      "items": [
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.75a3d57b07",
+          "title": {
+            "en": "Edit the selected cell",
+            "zh-Hans": "移动到选定列的最后一个单元。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.279cd41b36",
+          "title": {
+            "en": "Edit the active cell and then clear it, or delete the preceding character in the active cell as you edit the cell contents",
+            "zh-Hans": "编辑活动单元格，并将插入点放在其内容的末尾。 或者，如果单元格的编辑已关闭，则将插入点移到编辑栏中。 如果编辑公式，请关闭或打开点模式，以便可以使用箭头键创建引用。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.cf2651d282",
+          "title": {
+            "en": "Complete a cell entry",
+            "zh-Hans": "完成单元格输入并选择上面的单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.54052a3bf1",
+          "title": {
+            "en": "Cancel an entry in the cell or formula bar",
+            "zh-Hans": "取消单元格或编辑栏中的输入。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.d50d97c27c",
+          "title": {
+            "en": "Display the Formula Builder after you type a valid function name in a formula",
+            "zh-Hans": "当插入点位于公式中某个函数名称的右侧时，会显示 函数参数 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.fca2ded1a0",
+          "title": {
+            "en": "Insert a hyperlink",
+            "zh-Hans": "插入函数。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.2267d02baa",
+          "title": {
+            "en": "Edit the active cell and position the insertion point at the end of the line",
+            "zh-Hans": "编辑活动单元格，并将插入点放在其内容的末尾。 或者，如果单元格的编辑已关闭，则将插入点移到编辑栏中。 如果编辑公式，请关闭或打开点模式，以便可以使用箭头键创建引用。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4096,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.f762a6566d",
+          "title": {
+            "en": "Open the Formula Builder",
+            "zh-Hans": "转到“公式”选项卡。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.bce38dc75f",
+          "title": {
+            "en": "Calculate the active sheet",
+            "zh-Hans": "计算活动工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.1b4fe59b57",
+          "title": {
+            "en": "Display a contextual menu",
+            "zh-Hans": "打开上下文菜单。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 512,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.51b286835d",
+          "title": {
+            "en": "Start a formula",
+            "zh-Hans": "在同一单元格中另起一个新行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.aa4ed2aa31",
+          "title": {
+            "en": "Toggle the formula reference style between absolute, relative, and mixed",
+            "zh-Hans": "当公式中选定单元格引用或区域时，按 F4 可在绝对和相对引用的所有各种组合中循环切换。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.ce36e5a885",
+          "title": {
+            "en": "Insert the AutoSum formula",
+            "zh-Hans": "插入 自动求和 公式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.e18e6a3312",
+          "title": {
+            "en": "Enter the date",
+            "zh-Hans": "输入当前日期。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 4096,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.f6eb55b7aa",
+          "title": {
+            "en": "Enter the time",
+            "zh-Hans": "输入当前时间。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.158702e8ad",
+          "title": {
+            "en": "Copy the value from the cell above the active cell into the cell or the formula bar",
+            "zh-Hans": "将活动单元格上方的单元格的值复制到单元格或编辑栏中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 4608,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.b9dcf10b29",
+          "title": {
+            "en": "Alternate between displaying cell values and displaying cell formulas",
+            "zh-Hans": "在工作表中，在显示单元格值或公式之间切换。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.3b9ee9de77",
+          "title": {
+            "en": "Copy a formula from the cell above the active cell into the cell or the formula bar",
+            "zh-Hans": "将公式从活动单元格上面的单元格复制到单元格或编辑栏。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 4096,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.8e59f58adb",
+          "title": {
+            "en": "Display the AutoComplete list",
+            "zh-Hans": "显示或隐藏大纲符号。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6144,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.969319c7e6",
+          "title": {
+            "en": "Define a name",
+            "zh-Hans": "定义名称以在引用中使用。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.excel.work-in-cells-or-the-formula-bar.961b0ea4ae",
+          "title": {
+            "en": "Open the Smart Lookup pane",
+            "zh-Hans": "打开“格式单元格”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 6400,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.format-and-edit-data",
+      "title": {
+        "en": "Format and edit data",
+        "zh-Hans": "设置格式与编辑数据"
+      },
+      "items": [
+        {
+          "id": "remote.excel.format-and-edit-data.75a3d57b07",
+          "title": {
+            "en": "Edit the selected cell",
+            "zh-Hans": "移动到选定列的最后一个单元。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.4f00005e40",
+          "title": {
+            "en": "Create a table",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.86ac189e7e",
+          "title": {
+            "en": "Insert a line break in a cell",
+            "zh-Hans": "在同一单元格中另起一个新行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2304,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.ec46833174",
+          "title": {
+            "en": "Increase font size",
+            "zh-Hans": "增大字号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.59581b6e7a",
+          "title": {
+            "en": "Decrease font size",
+            "zh-Hans": "减小字号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.808e7ece97",
+          "title": {
+            "en": "Align center",
+            "zh-Hans": "居中对齐单元格内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.2f221242e7",
+          "title": {
+            "en": "Align left",
+            "zh-Hans": "居中对齐单元格内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.892e4f1aca",
+          "title": {
+            "en": "Display the Format Cells dialog box",
+            "zh-Hans": "打开“格式单元格”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.dbe25e92a3",
+          "title": {
+            "en": "Apply the general number format",
+            "zh-Hans": "应用 常规 数字格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4608,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.cebc303622",
+          "title": {
+            "en": "Apply the currency format with two decimal places (negative numbers appear in red with parentheses)",
+            "zh-Hans": "应用带两位小数的 货币 格式（负数放在括号中）。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 4608,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.42c1e30e61",
+          "title": {
+            "en": "Apply the percentage format with no decimal places",
+            "zh-Hans": "应用不带小数位数的 百分比 格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4608,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.c4286013a0",
+          "title": {
+            "en": "Apply the exponential number format with two decimal places",
+            "zh-Hans": "应用带两位小数的 科学 计数格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 4608,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.187e8127d6",
+          "title": {
+            "en": "Apply the date format with the day, month, and year",
+            "zh-Hans": "应用带年、月、日的 日期 格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 4608,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.c95d14effa",
+          "title": {
+            "en": "Apply the time format with the hour and minute, and indicate AM or PM",
+            "zh-Hans": "应用带小时和分钟以及上午或下午的 时间 格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4608,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.5fc64ee372",
+          "title": {
+            "en": "Apply the number format with two decimal places, thousands separator, and minus sign (-) for negative values",
+            "zh-Hans": "应用带两个小数位数、千位分隔符并对负值使用减号(-)的 数字 格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4608,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.846f9db5f0",
+          "title": {
+            "en": "Apply the outline border around the selected cells",
+            "zh-Hans": "将轮廓边框应用于选定单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.54d2dc3dd2",
+          "title": {
+            "en": "Add an outline border to the right of the selection",
+            "zh-Hans": "将轮廓边框应用于选定单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.9c96dc0041",
+          "title": {
+            "en": "Add an outline border to the left of the selection",
+            "zh-Hans": "将轮廓边框应用于选定单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.2f766a8260",
+          "title": {
+            "en": "Add an outline border to the top of the selection",
+            "zh-Hans": "将轮廓边框应用于选定单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.a8e87ffafa",
+          "title": {
+            "en": "Add an outline border to the bottom of the selection",
+            "zh-Hans": "将轮廓边框应用于选定单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.9e7c9db870",
+          "title": {
+            "en": "Remove outline borders",
+            "zh-Hans": "从选定单元格中删除轮廓边框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 2304,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.f69aa198b1",
+          "title": {
+            "en": "Apply or remove bold formatting",
+            "zh-Hans": "将文本设置为加粗或删除加粗格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.ad33bc538b",
+          "title": {
+            "en": "Apply or remove italic formatting",
+            "zh-Hans": "将文本设置为斜体或删除倾斜格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.2d923687fc",
+          "title": {
+            "en": "Apply or remove underscoring",
+            "zh-Hans": "应用或删除删除线格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.fcff68f21e",
+          "title": {
+            "en": "Apply or remove strikethrough formatting",
+            "zh-Hans": "应用或删除删除线格式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.caf823f91e",
+          "title": {
+            "en": "Hide a column",
+            "zh-Hans": "选择工作表中的整列。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.458d2fa304",
+          "title": {
+            "en": "Unhide a column",
+            "zh-Hans": "选择工作表中的整列。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 768,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.8ec1a18714",
+          "title": {
+            "en": "Hide a row",
+            "zh-Hans": "选择工作表中的整行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.75222b962d",
+          "title": {
+            "en": "Unhide a row",
+            "zh-Hans": "选择工作表中的整行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 768,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.4f89d6ec89",
+          "title": {
+            "en": "Edit the active cell",
+            "zh-Hans": "Ctrl+F2：在编辑栏中编辑活动单元格。 如果已编辑活动单元格，请在公式和单元格编辑器之间移动焦点。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4096,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.48355904d8",
+          "title": {
+            "en": "Cancel an entry in the cell or the formula bar",
+            "zh-Hans": "取消单元格或编辑栏中的输入。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.279cd41b36",
+          "title": {
+            "en": "Edit the active cell and then clear it, or delete the preceding character in the active cell as you edit the cell contents",
+            "zh-Hans": "编辑活动单元格，并将插入点放在其内容的末尾。 或者，如果单元格的编辑已关闭，则将插入点移到编辑栏中。 如果编辑公式，请关闭或打开点模式，以便可以使用箭头键创建引用。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.4e3d04da55",
+          "title": {
+            "en": "Paste text into the active cell",
+            "zh-Hans": "将公式从活动单元格上面的单元格复制到单元格或编辑栏。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.cf2651d282",
+          "title": {
+            "en": "Complete a cell entry",
+            "zh-Hans": "完成单元格输入并选择上面的单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.3bd87158b9",
+          "title": {
+            "en": "Enter a formula as an array formula",
+            "zh-Hans": "以数组公式的形式输入公式。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.format-and-edit-data.d50d97c27c",
+          "title": {
+            "en": "Display the Formula Builder after you type a valid function name in a formula",
+            "zh-Hans": "当插入点位于公式中某个函数名称的右侧时，会显示 函数参数 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.work-with-a-selection",
+      "title": {
+        "en": "Work with a selection",
+        "zh-Hans": "使用所选区域"
+      },
+      "items": [
+        {
+          "id": "remote.excel.work-with-a-selection.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切所选内容。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.bf4aeb778f",
+          "title": {
+            "en": "Clear",
+            "zh-Hans": "清除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.2fe9619599",
+          "title": {
+            "en": "Delete the selection",
+            "zh-Hans": "删除表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4096,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.a4c9f4c258",
+          "title": {
+            "en": "Undo the last action",
+            "zh-Hans": "撤消最后一个操作。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.caf823f91e",
+          "title": {
+            "en": "Hide a column",
+            "zh-Hans": "选择工作表中的整列。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.458d2fa304",
+          "title": {
+            "en": "Unhide a column",
+            "zh-Hans": "选择工作表中的整列。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 768,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.8ec1a18714",
+          "title": {
+            "en": "Hide a row",
+            "zh-Hans": "选择工作表中的整行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.75222b962d",
+          "title": {
+            "en": "Unhide a row",
+            "zh-Hans": "选择工作表中的整行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 768,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.f0f6bfbffe",
+          "title": {
+            "en": "Move from top to bottom within the selection (down)*",
+            "zh-Hans": "按 Ctrl+Shift+End 可将单元格选定区域扩展到工作表上所使用的最后一个单元格（位于右下角）。 如果光标位于编辑栏中，按 Ctrl+Shift+End 可选择编辑栏中从光标所在位置到末尾处的所有文本，这不会影响编辑栏的高度。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.6fd9a530b0",
+          "title": {
+            "en": "Move from bottom to top within the selection (up)*",
+            "zh-Hans": "按 Ctrl+Shift+End 可将单元格选定区域扩展到工作表上所使用的最后一个单元格（位于右下角）。 如果光标位于编辑栏中，按 Ctrl+Shift+End 可选择编辑栏中从光标所在位置到末尾处的所有文本，这不会影响编辑栏的高度。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.8bb636ac03",
+          "title": {
+            "en": "Move from left to right within the selection, or move down one cell if only one column is selected",
+            "zh-Hans": "将单元格的选定范围扩展到活动单元格所在列或行中的最后一个非空单元格，或者如果下一个单元格为空，则扩展到下一个非空单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.bb91d863e2",
+          "title": {
+            "en": "Move from right to left within the selection, or move down one cell if only one column is selected",
+            "zh-Hans": "将单元格的选定范围扩展到活动单元格所在列或行中的最后一个非空单元格，或者如果下一个单元格为空，则扩展到下一个非空单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.687d1709c3",
+          "title": {
+            "en": "Move clockwise to the next corner of the selection",
+            "zh-Hans": "移动到选定表左上角的第一个单元。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 4096,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.3fc6afa6e4",
+          "title": {
+            "en": "Group selected cells",
+            "zh-Hans": "复制选定的单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.excel.work-with-a-selection.afe546ae44",
+          "title": {
+            "en": "Ungroup selected cells",
+            "zh-Hans": "复制选定的单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.use-charts",
+      "title": {
+        "en": "Use charts",
+        "zh-Hans": "使用图表"
+      },
+      "items": [
+        {
+          "id": "remote.excel.use-charts.9d20bd2be8",
+          "title": {
+            "en": "Insert a new chart sheet.",
+            "zh-Hans": "在单独的 图表 工作表中创建当前区域内数据的图表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.outline-data",
+      "title": {
+        "en": "Outline data",
+        "zh-Hans": "分级显示数据"
+      },
+      "items": [
+        {
+          "id": "remote.excel.outline-data.ca9a87c5e6",
+          "title": {
+            "en": "Display or hide outline symbols",
+            "zh-Hans": "显示或隐藏大纲符号。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 4096,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.excel.outline-data.74281287ee",
+          "title": {
+            "en": "Hide selected rows",
+            "zh-Hans": "隐藏选定的行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 4096,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.excel.outline-data.93844411e2",
+          "title": {
+            "en": "Unhide selected rows",
+            "zh-Hans": "隐藏选定的行。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 4608,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.excel.outline-data.06eb2672cd",
+          "title": {
+            "en": "Hide selected columns",
+            "zh-Hans": "隐藏选定的列。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4096,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.excel.outline-data.b7d41ba43d",
+          "title": {
+            "en": "Unhide selected columns",
+            "zh-Hans": "隐藏选定的列。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4608,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.excel.function-key-shortcuts-for-excel-2016",
+      "title": {
+        "en": "Function key shortcuts for Excel 2016",
+        "zh-Hans": "Excel 功能键"
+      },
+      "items": [
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.c3da5e89db",
+          "title": {
+            "en": "Display the Help window",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.75a3d57b07",
+          "title": {
+            "en": "Edit the selected cell",
+            "zh-Hans": "移动到选定列的最后一个单元。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.b01c70d511",
+          "title": {
+            "en": "Insert or edit a cell comment",
+            "zh-Hans": "编辑活动单元格，并将插入点放在其内容的末尾。 或者，如果单元格的编辑已关闭，则将插入点移到编辑栏中。 如果编辑公式，请关闭或打开点模式，以便可以使用箭头键创建引用。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.bbbd5e3464",
+          "title": {
+            "en": "Open the Save dialog",
+            "zh-Hans": "打开“转到”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.f762a6566d",
+          "title": {
+            "en": "Open the Formula Builder",
+            "zh-Hans": "转到“公式”选项卡。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.b708760476",
+          "title": {
+            "en": "Open the Define Name dialog",
+            "zh-Hans": "打开“自动筛选菜单”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.6edf5b40f5",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭工作簿。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.719ded9070",
+          "title": {
+            "en": "Display the Go To dialog",
+            "zh-Hans": "F5（单独使用）：显示“定位”对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.dbdd60870b",
+          "title": {
+            "en": "Display the Find dialog",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.9861ef5a17",
+          "title": {
+            "en": "Move to the Search Sheet dialog",
+            "zh-Hans": "移到工作簿中的下一个工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 4096,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.23bbbfc580",
+          "title": {
+            "en": "Check spelling",
+            "zh-Hans": "检查活动工作表或选定范围中的拼写。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.ba819a045f",
+          "title": {
+            "en": "Extend the selection",
+            "zh-Hans": "将单元格的选定范围扩大一个单元格。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.adfed23584",
+          "title": {
+            "en": "Add to the selection",
+            "zh-Hans": "通过使用箭头键将非邻近单元格或区域添加到单元格的选定范围中。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.8cc703538d",
+          "title": {
+            "en": "Display the Macro dialog",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.082d386e69",
+          "title": {
+            "en": "Calculate all open workbooks",
+            "zh-Hans": "计算所有打开的工作簿中的所有工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.bce38dc75f",
+          "title": {
+            "en": "Calculate the active sheet",
+            "zh-Hans": "计算活动工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.7ec2af3078",
+          "title": {
+            "en": "Minimize the active window",
+            "zh-Hans": "计算活动工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 4096,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.33dac6fc1e",
+          "title": {
+            "en": "Display a contextual menu, or \"right click\" menu",
+            "zh-Hans": "显示 错误检查 按钮的菜单或消息。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 512,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.444b0a4e17",
+          "title": {
+            "en": "Maximize or restore the active window",
+            "zh-Hans": "Ctrl+F10：最大化或还原选定的工作簿窗口。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 4096,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.f008937f69",
+          "title": {
+            "en": "Insert a new chart sheet*",
+            "zh-Hans": "在单独的 图表 工作表中创建当前区域内数据的图表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.f1bda51538",
+          "title": {
+            "en": "Insert a new sheet*",
+            "zh-Hans": "按住 Shift 键的同时拖动选定的行、列或选定单元格，移动所选单元格并拖放以将其插入新位置。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 512,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.19f4964863",
+          "title": {
+            "en": "Insert an Excel 4.0 macro sheet",
+            "zh-Hans": "插入 Excel 4.0 宏工作表。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.39ce3ecd4a",
+          "title": {
+            "en": "Open Visual Basic",
+            "zh-Hans": "打开 Microsoft Visual Basic for Applications 编辑器。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.c3bd5693f4",
+          "title": {
+            "en": "Display the Save As dialog",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.excel.function-key-shortcuts-for-excel-2016.45a4f14db4",
+          "title": {
+            "en": "Display the Open dialog",
+            "zh-Hans": "显示 创建表 对话框。"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        }
+      ]
+    }
+  ]
+}

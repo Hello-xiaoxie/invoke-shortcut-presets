@@ -1,0 +1,372 @@
+{
+  "bundleIdentifier": "com.apple.Safari",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.safari.bookmarks",
+      "title": {
+        "en": "Bookmarks",
+        "zh-Hans": "书签"
+      },
+      "items": [
+        {
+          "id": "remote.safari.toggle-bookmarks",
+          "title": {
+            "en": "Show / Hide Bookmarks",
+            "zh-Hans": "显示/隐藏书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4352,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.safari.reading",
+      "title": {
+        "en": "Reading List",
+        "zh-Hans": "阅读列表"
+      },
+      "items": [
+        {
+          "id": "remote.safari.reader",
+          "title": {
+            "en": "Open Reader",
+            "zh-Hans": "打开阅读器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.safari.add-reader",
+          "title": {
+            "en": "Add the to Reader",
+            "zh-Hans": "添加到阅读列表"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.safari.reading-sidebar",
+          "title": {
+            "en": "Show / Hide Reading List sidebar",
+            "zh-Hans": "显示/隐藏阅读列表边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4352,
+            "displayKey": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.safari.window",
+      "title": {
+        "en": "Window",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.safari.reopen-window",
+          "title": {
+            "en": "Reopen the last window you closed",
+            "zh-Hans": "重新打开上次关闭的窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.safari.next-window",
+          "title": {
+            "en": "Switch to another Safari window",
+            "zh-Hans": "切换 Safari 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.safari.zoom-in",
+          "title": {
+            "en": "Zoom in website content",
+            "zh-Hans": "放大网页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "+"
+          }
+        },
+        {
+          "id": "remote.safari.zoom-out",
+          "title": {
+            "en": "Zoom out website content",
+            "zh-Hans": "缩小网页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.safari.history",
+      "title": {
+        "en": "History",
+        "zh-Hans": "历史记录"
+      },
+      "items": [
+        {
+          "id": "remote.safari.recent-url",
+          "title": {
+            "en": "See a list of your recently visited pages by URL",
+            "zh-Hans": "按 URL 查看最近访问"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2048,
+            "displayKey": "<"
+          }
+        },
+        {
+          "id": "remote.safari.forward",
+          "title": {
+            "en": "Go forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "]"
+          }
+        },
+        {
+          "id": "remote.safari.back",
+          "title": {
+            "en": "Go back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.safari.prefs",
+      "title": {
+        "en": "Preferences",
+        "zh-Hans": "偏好设置"
+      },
+      "items": [
+        {
+          "id": "remote.safari.prefs",
+          "title": {
+            "en": "Change Safari preferences",
+            "zh-Hans": "打开 Safari 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.safari.homepage",
+          "title": {
+            "en": "Go to homepage",
+            "zh-Hans": "前往主页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.safari.tabs",
+      "title": {
+        "en": "Tabs",
+        "zh-Hans": "标签页"
+      },
+      "items": [
+        {
+          "id": "remote.safari.reopen-tab",
+          "title": {
+            "en": "Reopen the last tab you closed",
+            "zh-Hans": "重新打开关闭的标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.safari.close-tab",
+          "title": {
+            "en": "Close the active tab",
+            "zh-Hans": "关闭标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.safari.tab-overview",
+          "title": {
+            "en": "Show tab overview",
+            "zh-Hans": "显示标签概览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.safari.page",
+      "title": {
+        "en": "Current webpage",
+        "zh-Hans": "当前网页"
+      },
+      "items": [
+        {
+          "id": "remote.safari.print",
+          "title": {
+            "en": "Print the current webpage",
+            "zh-Hans": "打印网页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.safari.smart-search",
+          "title": {
+            "en": "Select the Smart Search field",
+            "zh-Hans": "聚焦智能搜索栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.safari.next-field",
+          "title": {
+            "en": "Highlight the next field, pop-up menu, or clickable item",
+            "zh-Hans": "下一可聚焦项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 2048,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.safari.find-page",
+          "title": {
+            "en": "Search the current webpage",
+            "zh-Hans": "在页面中搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.safari.scroll",
+      "title": {
+        "en": "Scroll",
+        "zh-Hans": "滚动"
+      },
+      "items": [
+        {
+          "id": "remote.safari.scroll-top",
+          "title": {
+            "en": "Scroll to the top",
+            "zh-Hans": "滚到顶部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.safari.scroll-bottom",
+          "title": {
+            "en": "Scroll to the bottom",
+            "zh-Hans": "滚到底部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.safari.page-up",
+          "title": {
+            "en": "Scroll up a screen",
+            "zh-Hans": "向上滚动一屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.safari.page-down",
+          "title": {
+            "en": "Scroll down a screen",
+            "zh-Hans": "向下滚动一屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    }
+  ]
+}

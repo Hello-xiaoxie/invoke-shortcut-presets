@@ -1,0 +1,831 @@
+{
+  "bundleIdentifier": "com.seriflabs.affinitypublisher2",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.affinity-publisher.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-publisher.tools.429bf73f61",
+          "title": {
+            "en": "Move Tool",
+            "zh-Hans": "Move Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.667cd38954",
+          "title": {
+            "en": "Node Tool",
+            "zh-Hans": "Node Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.daa3bfaeb7",
+          "title": {
+            "en": "Pen Tool",
+            "zh-Hans": "Pen Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.54384b43fe",
+          "title": {
+            "en": "Text Tool",
+            "zh-Hans": "Text Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.16548ce753",
+          "title": {
+            "en": "Picture Frame Tool",
+            "zh-Hans": "Picture Frame Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.257750032e",
+          "title": {
+            "en": "Shape Tool",
+            "zh-Hans": "Shape Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.4285c3f505",
+          "title": {
+            "en": "Zoom Tool",
+            "zh-Hans": "Zoom Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.53a1692d9a",
+          "title": {
+            "en": "View Tool",
+            "zh-Hans": "View Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.3cd01a795d",
+          "title": {
+            "en": "Color Picker Tool",
+            "zh-Hans": "Color Picker Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.dad3bc6d39",
+          "title": {
+            "en": "Gradient Tool",
+            "zh-Hans": "Gradient Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.5f1435c9ac",
+          "title": {
+            "en": "Transparency Tool",
+            "zh-Hans": "Transparency Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.tools.9503a1f201",
+          "title": {
+            "en": "Toggle UI",
+            "zh-Hans": "Toggle UI"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-publisher.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-publisher.file.09ffe6d4e0",
+          "title": {
+            "en": "New",
+            "zh-Hans": "新建"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.file.eeba4972ae",
+          "title": {
+            "en": "Open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.file.b15c1777b0",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.file.f4d4748442",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.file.88c366f8ab",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.file.db13c6cd0a",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-publisher.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-publisher.edit.4f0d19021d",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.edit.75d6a0aeaa",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.edit.b951698f99",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.edit.29a60cc579",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.edit.cf012e6cb6",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.edit.95d44f240f",
+          "title": {
+            "en": "Deselect",
+            "zh-Hans": "Deselect"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.edit.d3ab8db0f5",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.edit.5504d44348",
+          "title": {
+            "en": "Find and Replace",
+            "zh-Hans": "查找 and Replace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.edit.41948ab249",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-publisher.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-publisher.view.06bacb5250",
+          "title": {
+            "en": "Zoom 100%",
+            "zh-Hans": "Zoom 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.ce019b8824",
+          "title": {
+            "en": "Zoom 200%",
+            "zh-Hans": "Zoom 200%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.c3a327ad99",
+          "title": {
+            "en": "Zoom 400%",
+            "zh-Hans": "Zoom 400%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.1e38d1d22c",
+          "title": {
+            "en": "Zoom Actual Size",
+            "zh-Hans": "Zoom Actual Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.0b7d2d28d4",
+          "title": {
+            "en": "Zoom to Fit",
+            "zh-Hans": "缩放以适合"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.4bac3b9d86",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.5cb109c028",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.6579db90cc",
+          "title": {
+            "en": "Switch View",
+            "zh-Hans": "Switch View"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.f5d4a18697",
+          "title": {
+            "en": "Rulers",
+            "zh-Hans": "Rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.f0cc204a6a",
+          "title": {
+            "en": "Guides",
+            "zh-Hans": "Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.view.56a487a9b9",
+          "title": {
+            "en": "Grid",
+            "zh-Hans": "网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-publisher.layers",
+      "title": {
+        "en": "Layers",
+        "zh-Hans": "图层"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-publisher.layers.88046711ff",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.layers.105a5cd5b7",
+          "title": {
+            "en": "Hide",
+            "zh-Hans": "隐藏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.layers.f2496786ba",
+          "title": {
+            "en": "Lock",
+            "zh-Hans": "锁定"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.layers.3588229fa3",
+          "title": {
+            "en": "Toggle Active Selector",
+            "zh-Hans": "Toggle Active Selector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.layers.4f72cbe976",
+          "title": {
+            "en": "Set Black ",
+            "zh-Hans": "Set Black "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-publisher.text-formatting",
+      "title": {
+        "en": "Text Formatting",
+        "zh-Hans": "文本格式"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-publisher.text-formatting.7b879c758c",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.085a2308ec",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.b71fce2ba5",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.84589860db",
+          "title": {
+            "en": "Character Panel",
+            "zh-Hans": "Character Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.24ceb45aa0",
+          "title": {
+            "en": "Typography Dialog",
+            "zh-Hans": "Typography Dialog"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.9de71dd0c7",
+          "title": {
+            "en": "Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.a0f769c6fa",
+          "title": {
+            "en": "Align Center",
+            "zh-Hans": "Align Center"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.c58579c791",
+          "title": {
+            "en": "Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.8a5b7f82c6",
+          "title": {
+            "en": "Subscript",
+            "zh-Hans": "Subscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.text-formatting.8f9d245acb",
+          "title": {
+            "en": "Superscript",
+            "zh-Hans": "Superscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-publisher.opacity",
+      "title": {
+        "en": "Opacity",
+        "zh-Hans": "不透明度"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-publisher.opacity.76bd95d63b",
+          "title": {
+            "en": "10% Opacity",
+            "zh-Hans": "10% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.481ca39546",
+          "title": {
+            "en": "20% Opacity",
+            "zh-Hans": "20% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.60f37b09c1",
+          "title": {
+            "en": "30% Opacity",
+            "zh-Hans": "30% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.179cc72980",
+          "title": {
+            "en": "40% Opacity",
+            "zh-Hans": "40% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.b449130803",
+          "title": {
+            "en": "50% Opacity",
+            "zh-Hans": "50% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.c2cb23e242",
+          "title": {
+            "en": "60% Opacity",
+            "zh-Hans": "60% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.729f4216be",
+          "title": {
+            "en": "70% Opacity",
+            "zh-Hans": "70% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.655e40a739",
+          "title": {
+            "en": "80% Opacity",
+            "zh-Hans": "80% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.8346996e66",
+          "title": {
+            "en": "90% Opacity",
+            "zh-Hans": "90% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.affinity-publisher.opacity.38ca316a0e",
+          "title": {
+            "en": "100% Opacity",
+            "zh-Hans": "100% Opacity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    }
+  ]
+}

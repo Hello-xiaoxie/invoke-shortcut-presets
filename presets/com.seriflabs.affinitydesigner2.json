@@ -1,0 +1,1089 @@
+{
+  "bundleIdentifier": "com.seriflabs.affinitydesigner2",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.affinity-designer.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-designer.tools.66517c70ea",
+          "title": {
+            "en": "cycle text tools",
+            "zh-Hans": "cycle text tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.4e9af09012",
+          "title": {
+            "en": "transparency tool",
+            "zh-Hans": "transparency tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.d240e55b6d",
+          "title": {
+            "en": "color picker tool",
+            "zh-Hans": "color picker tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.51db8cd261",
+          "title": {
+            "en": "pen tool",
+            "zh-Hans": "pen tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.74985ba2d5",
+          "title": {
+            "en": "decrease brush size",
+            "zh-Hans": "decrease brush size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.ead064a7ff",
+          "title": {
+            "en": "increase brush size",
+            "zh-Hans": "increase brush size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.10d9ae2c26",
+          "title": {
+            "en": "node tool",
+            "zh-Hans": "node tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.7d1ad090d2",
+          "title": {
+            "en": "point transform tool",
+            "zh-Hans": "point transform tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.1547a98a96",
+          "title": {
+            "en": "fill tool",
+            "zh-Hans": "fill tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.a30f53e06b",
+          "title": {
+            "en": "view tool",
+            "zh-Hans": "view tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.fd64235660",
+          "title": {
+            "en": "toggle snapping",
+            "zh-Hans": "toggle snapping"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 0,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.210a9a5c89",
+          "title": {
+            "en": "clip to canvas",
+            "zh-Hans": "clip to canvas"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 0,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.1bc33aca55",
+          "title": {
+            "en": "zoom tool",
+            "zh-Hans": "zoom tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.f3108de771",
+          "title": {
+            "en": "toggle active selector",
+            "zh-Hans": "toggle active selector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.91dfdec840",
+          "title": {
+            "en": "corner tool",
+            "zh-Hans": "corner tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.97b3a2a4a1",
+          "title": {
+            "en": "move tool",
+            "zh-Hans": "move tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.b239739468",
+          "title": {
+            "en": "vector brush tool / cycle brush or pixel tools (pixel persona)",
+            "zh-Hans": "vector brush tool / cycle brush or pixel tools (pixel persona)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.69a187c794",
+          "title": {
+            "en": "pencil tool",
+            "zh-Hans": "pencil tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.tools.e413a202d6",
+          "title": {
+            "en": "cycle shape tool / cycle marquees (pixel persona)",
+            "zh-Hans": "cycle shape tool / cycle marquees (pixel persona)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-designer.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-designer.general.be3ab1b938",
+          "title": {
+            "en": "cancel operation",
+            "zh-Hans": "cancel operation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.29845a05c5",
+          "title": {
+            "en": "help",
+            "zh-Hans": "help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.1d5dad00b6",
+          "title": {
+            "en": "toggle UI",
+            "zh-Hans": "toggle UI"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.da0812c235",
+          "title": {
+            "en": "cycle split view",
+            "zh-Hans": "cycle split view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.14c3c3fe56",
+          "title": {
+            "en": "reset selection box",
+            "zh-Hans": "reset selection box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.dc72fb4271",
+          "title": {
+            "en": "set fill or stroke to none",
+            "zh-Hans": "set fill or stroke to none"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.c63faf217a",
+          "title": {
+            "en": "switch view",
+            "zh-Hans": "switch view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.bfe82b9a45",
+          "title": {
+            "en": "close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.846e2013ed",
+          "title": {
+            "en": "rulers",
+            "zh-Hans": "rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.23e97ac139",
+          "title": {
+            "en": "character / character panel (advanced text)",
+            "zh-Hans": "character / character panel (advanced text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.59f9fee22d",
+          "title": {
+            "en": "redo",
+            "zh-Hans": "redo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.84086ee198",
+          "title": {
+            "en": "open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.fec77befb4",
+          "title": {
+            "en": "print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.3eb8d5e993",
+          "title": {
+            "en": "back one",
+            "zh-Hans": "back one"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.a60dd759e2",
+          "title": {
+            "en": "forward one",
+            "zh-Hans": "forward one"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.cac312e368",
+          "title": {
+            "en": "convert to curves",
+            "zh-Hans": "convert to curves"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.b33a9ba077",
+          "title": {
+            "en": "select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.d86efdfbde",
+          "title": {
+            "en": "save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.d05de38e6f",
+          "title": {
+            "en": "group",
+            "zh-Hans": "group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.61dcb55be1",
+          "title": {
+            "en": "duplicate",
+            "zh-Hans": "duplicate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.cea847a395",
+          "title": {
+            "en": "lock",
+            "zh-Hans": "lock"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.24be9de99e",
+          "title": {
+            "en": "show guides",
+            "zh-Hans": "show guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.6042093238",
+          "title": {
+            "en": "show grid",
+            "zh-Hans": "show grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.a9a0d4ea0c",
+          "title": {
+            "en": "undo",
+            "zh-Hans": "undo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.4cd0e3883b",
+          "title": {
+            "en": "cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.8f1b5fc578",
+          "title": {
+            "en": "copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.74d3dca831",
+          "title": {
+            "en": "paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.ee42552c43",
+          "title": {
+            "en": "new",
+            "zh-Hans": "new"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.7a4028cb88",
+          "title": {
+            "en": "curves",
+            "zh-Hans": "curves"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.08ceb39cfc",
+          "title": {
+            "en": "preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.e42122e76a",
+          "title": {
+            "en": "hold for view tool",
+            "zh-Hans": "hold for view tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.b1a1e29ac2",
+          "title": {
+            "en": "selection brush (pixel persona)",
+            "zh-Hans": "selection brush (pixel persona)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.38a11f656b",
+          "title": {
+            "en": "erase brush (pixel persona)",
+            "zh-Hans": "erase brush (pixel persona)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.7d39367ccf",
+          "title": {
+            "en": "cycle dodge or burn brushes (pixel persona)",
+            "zh-Hans": "cycle dodge or burn brushes (pixel persona)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.general.6231951c85",
+          "title": {
+            "en": "freehand selection tool (pixel persona)",
+            "zh-Hans": "freehand selection tool (pixel persona)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-designer.advanced-text",
+      "title": {
+        "en": "Advanced Text",
+        "zh-Hans": "高级文本"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-designer.advanced-text.13709ded8a",
+          "title": {
+            "en": "typography dialog (advanced text)",
+            "zh-Hans": "typography dialog (advanced text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.7ade446f78",
+          "title": {
+            "en": "bold (advanced text)",
+            "zh-Hans": "加粗 (advanced text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.fdf1417c4b",
+          "title": {
+            "en": "italic (advanced text)",
+            "zh-Hans": "斜体 (advanced text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.8305ecb064",
+          "title": {
+            "en": "Align left",
+            "zh-Hans": "Align left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.f12cfa378e",
+          "title": {
+            "en": "Align center",
+            "zh-Hans": "Align center"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.585db783ec",
+          "title": {
+            "en": "Align right",
+            "zh-Hans": "Align right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.6d53649c63",
+          "title": {
+            "en": "Tighten spacing more",
+            "zh-Hans": "Tighten spacing more"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.23dfce940d",
+          "title": {
+            "en": "Loosen spacing more",
+            "zh-Hans": "Loosen spacing more"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.738fc0defc",
+          "title": {
+            "en": "Precise raise baseline",
+            "zh-Hans": "Precise raise baseline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2816,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.f2bce81bb0",
+          "title": {
+            "en": "Precise lower baseline",
+            "zh-Hans": "Precise lower baseline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2816,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.4f741c83a3",
+          "title": {
+            "en": "Precise increase leading",
+            "zh-Hans": "Precise increase leading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.advanced-text.c474c9479a",
+          "title": {
+            "en": "Precise decrease leading",
+            "zh-Hans": "Precise decrease leading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-designer.opacity",
+      "title": {
+        "en": "Opacity",
+        "zh-Hans": "不透明度"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-designer.opacity.d4e1c2ae86",
+          "title": {
+            "en": "change opacity (100%)",
+            "zh-Hans": "change opacity (100%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 0,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.4c0ac5a8ce",
+          "title": {
+            "en": "change opacity (10%)",
+            "zh-Hans": "change opacity (10%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.ec64ba76bd",
+          "title": {
+            "en": "change opacity (20%)",
+            "zh-Hans": "change opacity (20%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.9fe10a73d3",
+          "title": {
+            "en": "change opacity (30%)",
+            "zh-Hans": "change opacity (30%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.a81b9bd57b",
+          "title": {
+            "en": "change opacity (40%)",
+            "zh-Hans": "change opacity (40%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 0,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.0b65132aef",
+          "title": {
+            "en": "change opacity (50%)",
+            "zh-Hans": "change opacity (50%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 0,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.ddf295297b",
+          "title": {
+            "en": "change opacity (60%)",
+            "zh-Hans": "change opacity (60%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 0,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.0b618aefb2",
+          "title": {
+            "en": "change opacity (70%)",
+            "zh-Hans": "change opacity (70%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 0,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.69ef0af895",
+          "title": {
+            "en": "change opacity (80%)",
+            "zh-Hans": "change opacity (80%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 0,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.opacity.7d4af8a5a6",
+          "title": {
+            "en": "change opacity (90%)",
+            "zh-Hans": "change opacity (90%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 0,
+            "displayKey": "9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-designer.zoom",
+      "title": {
+        "en": "Zoom",
+        "zh-Hans": "缩放"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-designer.zoom.e93f6daa0a",
+          "title": {
+            "en": "zoom to 100%",
+            "zh-Hans": "zoom to 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.zoom.3d9eedc5bf",
+          "title": {
+            "en": "zoom to 200%",
+            "zh-Hans": "zoom to 200%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.zoom.cc8f1aa5e7",
+          "title": {
+            "en": "zoom to 400%",
+            "zh-Hans": "zoom to 400%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.zoom.1bf4bd9b36",
+          "title": {
+            "en": "zoom to 800%",
+            "zh-Hans": "zoom to 800%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.zoom.18f9702b30",
+          "title": {
+            "en": "zoom to actual size",
+            "zh-Hans": "zoom to actual size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.zoom.c50eb92533",
+          "title": {
+            "en": "zoom to pixel size",
+            "zh-Hans": "zoom to pixel size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.zoom.d2cfdb33bb",
+          "title": {
+            "en": "zoom to fit",
+            "zh-Hans": "zoom to fit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.zoom.8e41febbd8",
+          "title": {
+            "en": "zoom out",
+            "zh-Hans": "zoom out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.affinity-designer.zoom.bfd05740d5",
+          "title": {
+            "en": "zoom in",
+            "zh-Hans": "zoom in"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        }
+      ]
+    }
+  ]
+}

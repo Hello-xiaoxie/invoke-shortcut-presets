@@ -1,0 +1,381 @@
+{
+  "bundleIdentifier": "com.danielhooper.principle",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.principle.layers",
+      "title": {
+        "en": "Layers",
+        "zh-Hans": "图层"
+      },
+      "items": [
+        {
+          "id": "remote.principle.layers.f8fa9a3b1a",
+          "title": {
+            "en": "Add rectangle",
+            "zh-Hans": "Add rectangle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.principle.layers.9efe8a4eb6",
+          "title": {
+            "en": "Add rectangle as child",
+            "zh-Hans": "Add rectangle as child"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.principle.layers.0408772e33",
+          "title": {
+            "en": "Add Text",
+            "zh-Hans": "Add Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.principle.layers.17f8d4dad5",
+          "title": {
+            "en": "Add Text as child",
+            "zh-Hans": "Add Text as child"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.principle.layers.79bc7608fa",
+          "title": {
+            "en": "Add Artboard",
+            "zh-Hans": "Add Artboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.principle.layers.b0fb87819e",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.principle.layers.fcfb48217e",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.principle.layers.e05123eb27",
+          "title": {
+            "en": "Bring to Front",
+            "zh-Hans": "置于顶层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.principle.layers.488e995448",
+          "title": {
+            "en": "Bring forward",
+            "zh-Hans": "Bring forward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.principle.layers.0419efbbaf",
+          "title": {
+            "en": "Send Backward",
+            "zh-Hans": "后移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.principle.layers.7972d461f2",
+          "title": {
+            "en": "Send to Back",
+            "zh-Hans": "置于底层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.principle.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.principle.editing.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.principle.editing.20b322211a",
+          "title": {
+            "en": "Rename Layer",
+            "zh-Hans": "Rename Layer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.principle.canvas-navigation",
+      "title": {
+        "en": "Canvas Navigation",
+        "zh-Hans": "画布导航"
+      },
+      "items": [
+        {
+          "id": "remote.principle.canvas-navigation.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.principle.canvas-navigation.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.principle.canvas-navigation.7593413d30",
+          "title": {
+            "en": "Zoom All",
+            "zh-Hans": "Zoom All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.principle.canvas-navigation.ca4616fc71",
+          "title": {
+            "en": "Zoom Selection",
+            "zh-Hans": "Zoom Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.principle.canvas-navigation.c7b915ef92",
+          "title": {
+            "en": "Center Selection",
+            "zh-Hans": "Center Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.principle.canvas-navigation.eedfae2fca",
+          "title": {
+            "en": "Actual Size",
+            "zh-Hans": "Actual Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.principle.selection",
+      "title": {
+        "en": "Selection",
+        "zh-Hans": "选择"
+      },
+      "items": [
+        {
+          "id": "remote.principle.selection.988f664350",
+          "title": {
+            "en": "Select Parent",
+            "zh-Hans": "选择父级"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.principle.selection.6f3749251f",
+          "title": {
+            "en": "Select Child",
+            "zh-Hans": "Select Child"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.principle.selection.009e96c166",
+          "title": {
+            "en": "Select Next Sibling",
+            "zh-Hans": "Select Next Sibling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.principle.selection.16dcb2fc9f",
+          "title": {
+            "en": "Select Previous Sibling",
+            "zh-Hans": "Select Previous Sibling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.principle.selection.ddc74f6d03",
+          "title": {
+            "en": "Select all Siblings",
+            "zh-Hans": "全选 Siblings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.principle.preview",
+      "title": {
+        "en": "Preview",
+        "zh-Hans": "预览"
+      },
+      "items": [
+        {
+          "id": "remote.principle.preview.8b45c101fd",
+          "title": {
+            "en": "Rewind Prototype",
+            "zh-Hans": "Rewind Prototype"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.principle.preview.56196e8cd0",
+          "title": {
+            "en": "Start recording video",
+            "zh-Hans": "Start recording video"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.principle.preview.5a0e40e104",
+          "title": {
+            "en": "Start recording video without cursor",
+            "zh-Hans": "Start recording video without cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 6144,
+            "displayKey": "V"
+          }
+        }
+      ]
+    }
+  ]
+}

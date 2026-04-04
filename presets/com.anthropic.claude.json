@@ -1,0 +1,228 @@
+{
+  "bundleIdentifier": "com.anthropic.claude",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.claude.core",
+      "title": {
+        "en": "Core",
+        "zh-Hans": "核心"
+      },
+      "items": [
+        {
+          "id": "remote.claude.new-chat",
+          "title": {
+            "en": "New Chat",
+            "zh-Hans": "新建对话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.claude.send",
+          "title": {
+            "en": "Send Message",
+            "zh-Hans": "发送"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.claude.newline",
+          "title": {
+            "en": "Add New Line",
+            "zh-Hans": "换行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.claude.stop",
+          "title": {
+            "en": "Stop Response",
+            "zh-Hans": "停止回复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.claude.nav",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.claude.sidebar",
+          "title": {
+            "en": "Toggle Sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.claude.prev-conv",
+          "title": {
+            "en": "Previous Conversation",
+            "zh-Hans": "上一个对话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.claude.next-conv",
+          "title": {
+            "en": "Next Conversation",
+            "zh-Hans": "下一个对话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "]"
+          }
+        },
+        {
+          "id": "remote.claude.focus-input",
+          "title": {
+            "en": "Focus Chat Input",
+            "zh-Hans": "聚焦输入框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.claude.actions",
+      "title": {
+        "en": "Actions",
+        "zh-Hans": "操作"
+      },
+      "items": [
+        {
+          "id": "remote.claude.copy-response",
+          "title": {
+            "en": "Copy Response",
+            "zh-Hans": "复制回复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.claude.copy-code",
+          "title": {
+            "en": "Copy Code Block",
+            "zh-Hans": "复制代码块"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.claude.regenerate",
+          "title": {
+            "en": "Regenerate",
+            "zh-Hans": "重新生成"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.claude.attach",
+          "title": {
+            "en": "Attach File",
+            "zh-Hans": "添加附件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.claude.edit",
+      "title": {
+        "en": "Text Editing",
+        "zh-Hans": "文本编辑"
+      },
+      "items": [
+        {
+          "id": "remote.claude.select-all",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.claude.undo",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤销"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.claude.redo",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "重做"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    }
+  ]
+}

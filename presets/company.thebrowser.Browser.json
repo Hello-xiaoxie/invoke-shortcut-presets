@@ -1,0 +1,117 @@
+{
+  "bundleIdentifier": "company.thebrowser.Browser",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.arc.global-shortcuts",
+      "title": {
+        "en": "Global Shortcuts",
+        "zh-Hans": "全局快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.arc.global-shortcuts.7b5a075d3e",
+          "title": {
+            "en": "Add split view",
+            "zh-Hans": "添加分屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 4608,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.arc.global-shortcuts.d1ae22cd81",
+          "title": {
+            "en": "Toggle sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.arc.global-shortcuts.3c2a9a0cf2",
+          "title": {
+            "en": "Close tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.arc.global-shortcuts.8cd22cde5f",
+          "title": {
+            "en": "Capture",
+            "zh-Hans": "截图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 768,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.arc.global-shortcuts.ae5b59108f",
+          "title": {
+            "en": "Copy page url",
+            "zh-Hans": "复制页面链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.arc.global-shortcuts.d6ad2f8e41",
+          "title": {
+            "en": "Enter reader mode",
+            "zh-Hans": "进入阅读模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.arc.global-shortcuts.ad7f2396de",
+          "title": {
+            "en": "New tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.arc.global-shortcuts.33ae304a1c",
+          "title": {
+            "en": "Developer tools",
+            "zh-Hans": "开发者工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        }
+      ]
+    }
+  ]
+}

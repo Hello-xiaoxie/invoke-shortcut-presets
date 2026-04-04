@@ -1,0 +1,720 @@
+{
+  "bundleIdentifier": "com.google.Chrome",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.chrome.webpages",
+      "title": {
+        "en": "Webpages",
+        "zh-Hans": "网页"
+      },
+      "items": [
+        {
+          "id": "remote.chrome.zoom-reset",
+          "title": {
+            "en": "Reset page zoom level",
+            "zh-Hans": "重置页面缩放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.chrome.home-tab",
+          "title": {
+            "en": "Open the Home page in the current tab",
+            "zh-Hans": "在当前标签打开主页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.chrome.delete-prev-word",
+          "title": {
+            "en": "Delete the previous word in a text field",
+            "zh-Hans": "删除光标前一词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.chrome.word-next",
+          "title": {
+            "en": "Move your cursor to the next word",
+            "zh-Hans": "光标移到下一词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.chrome.word-prev",
+          "title": {
+            "en": "Move your cursor to the beginning of the previous word in a text field",
+            "zh-Hans": "光标移到上一词词首"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.chrome.page-bottom",
+          "title": {
+            "en": "Go to the bottom of the page",
+            "zh-Hans": "跳到页面底部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.chrome.page-top",
+          "title": {
+            "en": "Go to the top of the page",
+            "zh-Hans": "跳到页面顶部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.chrome.scroll-up",
+          "title": {
+            "en": "Scroll up a webpage, a screen at a time",
+            "zh-Hans": "向上滚动一屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 512,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.chrome.scroll-down",
+          "title": {
+            "en": "Scroll down a webpage, a screen at a time",
+            "zh-Hans": "向下滚动一屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.chrome.zoom-default",
+          "title": {
+            "en": "Return everything on the page to default size",
+            "zh-Hans": "恢复默认缩放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.chrome.zoom-out",
+          "title": {
+            "en": "Make everything on the page smaller",
+            "zh-Hans": "缩小页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.chrome.zoom-in",
+          "title": {
+            "en": "Make everything on the page bigger",
+            "zh-Hans": "放大页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "+"
+          }
+        },
+        {
+          "id": "remote.chrome.fullscreen",
+          "title": {
+            "en": "Turn full-screen mode on or off",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.chrome.bookmark-all-tabs",
+          "title": {
+            "en": "Save all open tabs as bookmarks in a new folder",
+            "zh-Hans": "将所有标签存为新书签文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.chrome.bookmark-page",
+          "title": {
+            "en": "Save your current webpage as a bookmark",
+            "zh-Hans": "将当前页加入书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.chrome.view-source",
+          "title": {
+            "en": "Display non-editable HTML source code for the current page",
+            "zh-Hans": "查看网页源代码"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.chrome.open-file",
+          "title": {
+            "en": "Open a file from your computer in Chrome",
+            "zh-Hans": "打开本地文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.chrome.a11y-back",
+          "title": {
+            "en": "Browse clickable items moving backward",
+            "zh-Hans": "焦点反向浏览可点击项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.chrome.a11y-fwd",
+          "title": {
+            "en": "Browse clickable items moving forward",
+            "zh-Hans": "焦点正向浏览可点击项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.chrome.stop-load",
+          "title": {
+            "en": "Stop the page loading",
+            "zh-Hans": "停止加载"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.chrome.reload-nocache",
+          "title": {
+            "en": "Reload the current page, ignoring cached content",
+            "zh-Hans": "强制重新加载（忽略缓存）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.chrome.reload",
+          "title": {
+            "en": "Reload the current page",
+            "zh-Hans": "重新加载"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.chrome.save-page",
+          "title": {
+            "en": "Open options to save the current page",
+            "zh-Hans": "存储网页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.chrome.print",
+          "title": {
+            "en": "Open options to print the current page",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.chrome.address",
+      "title": {
+        "en": "Address bar",
+        "zh-Hans": "地址栏"
+      },
+      "items": [
+        {
+          "id": "remote.chrome.focus-address-ctrl-f5",
+          "title": {
+            "en": "Move cursor to the address bar",
+            "zh-Hans": "光标移到地址栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 4096,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.chrome.web-search",
+          "title": {
+            "en": "Search the web from anywhere on the page",
+            "zh-Hans": "在页面中搜索网络"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.chrome.focus-omnibox",
+          "title": {
+            "en": "Jump to the address bar",
+            "zh-Hans": "跳到地址栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.chrome.actions",
+      "title": {
+        "en": "Action",
+        "zh-Hans": "操作"
+      },
+      "items": [
+        {
+          "id": "remote.chrome.main-menu-bar",
+          "title": {
+            "en": "Jump to the main menu bar",
+            "zh-Hans": "跳到菜单栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 4096,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.chrome.profile-menu",
+          "title": {
+            "en": "Log in as a different user, browse as a Guest, or access payment and password info",
+            "zh-Hans": "用户 / 访客 / 密码与付款"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.chrome.clear-data",
+          "title": {
+            "en": "Open the Clear Browsing Data options",
+            "zh-Hans": "清除浏览数据"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.chrome.devtools",
+          "title": {
+            "en": "Open Developer Tools",
+            "zh-Hans": "开发者工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.chrome.find-selection",
+          "title": {
+            "en": "When Find Bar is open, search for selected text",
+            "zh-Hans": "查找栏用所选内容搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.chrome.find-prev",
+          "title": {
+            "en": "Jump to the previous match to your Find Bar search",
+            "zh-Hans": "查找上一处"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.chrome.find-next",
+          "title": {
+            "en": "Jump to the next match to your Find Bar search",
+            "zh-Hans": "查找下一处"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.chrome.find-bar",
+          "title": {
+            "en": "Open the Find Bar to search the current page",
+            "zh-Hans": "在页面中查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.chrome.cycle-toolbars",
+          "title": {
+            "en": "Cycle focus to unfocused dialog (if showing) and all toolbars",
+            "zh-Hans": "在对话框与工具栏间切换焦点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.chrome.downloads",
+          "title": {
+            "en": "Open the Downloads page in a new tab",
+            "zh-Hans": "在新标签打开下载内容"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.chrome.history",
+          "title": {
+            "en": "Open the History page in a new tab",
+            "zh-Hans": "在新标签打开历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.chrome.bookmark-manager",
+          "title": {
+            "en": "Open the Bookmarks Manager",
+            "zh-Hans": "打开书签管理器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.chrome.toggle-bookmarks-bar",
+          "title": {
+            "en": "Show or hide the Bookmarks bar",
+            "zh-Hans": "显示/隐藏书签栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.chrome.chrome-menu",
+          "title": {
+            "en": "Open the Chrome menu",
+            "zh-Hans": "打开 Chrome 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.chrome.tabs",
+      "title": {
+        "en": "Tab and window",
+        "zh-Hans": "标签与窗口"
+      },
+      "items": [
+        {
+          "id": "remote.chrome.tab-search",
+          "title": {
+            "en": "Tab search",
+            "zh-Hans": "标签页搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.chrome.quit",
+          "title": {
+            "en": "Quit Google Chrome",
+            "zh-Hans": "退出 Chrome"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.chrome.minimize",
+          "title": {
+            "en": "Minimize the current window",
+            "zh-Hans": "最小化窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.chrome.close-window",
+          "title": {
+            "en": "Close the current window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.chrome.close-tab",
+          "title": {
+            "en": "Close the current tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.chrome.history-forward",
+          "title": {
+            "en": "Open the next page from your browsing history in the current tab",
+            "zh-Hans": "历史记录前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "]"
+          }
+        },
+        {
+          "id": "remote.chrome.history-back",
+          "title": {
+            "en": "Open the previous page from your browsing history in the current tab",
+            "zh-Hans": "历史记录后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.chrome.last-tab",
+          "title": {
+            "en": "Jump to the last tab",
+            "zh-Hans": "跳到最后一枚标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.chrome.tab-3",
+          "title": {
+            "en": "Jump to third tab",
+            "zh-Hans": "跳到第 3 枚标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.chrome.prev-tab",
+          "title": {
+            "en": "Jump to the previous open tab",
+            "zh-Hans": "上一枚标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.chrome.next-tab",
+          "title": {
+            "en": "Jump to the next open tab",
+            "zh-Hans": "下一枚标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.chrome.reopen-tab",
+          "title": {
+            "en": "Reopen previously closed tabs in the order they were closed",
+            "zh-Hans": "按关闭顺序恢复标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.chrome.new-tab",
+          "title": {
+            "en": "Open a new tab, and jump to it",
+            "zh-Hans": "新建标签并切换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.chrome.incognito",
+          "title": {
+            "en": "Open a new window in Incognito mode",
+            "zh-Hans": "新建无痕窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.chrome.new-window",
+          "title": {
+            "en": "Open a new window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    }
+  ]
+}

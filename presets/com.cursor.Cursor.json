@@ -1,0 +1,252 @@
+{
+  "bundleIdentifier": "com.cursor.Cursor",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.cursor.ai",
+      "title": {
+        "en": "AI Chat",
+        "zh-Hans": "AI 对话"
+      },
+      "items": [
+        {
+          "id": "remote.cursor.open-chat",
+          "title": {
+            "en": "Open Chat Panel",
+            "zh-Hans": "打开聊天面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.cursor.gen-ai",
+          "title": {
+            "en": "Generate with AI",
+            "zh-Hans": "AI 生成"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.cursor.accept-inline",
+          "title": {
+            "en": "Accept Inline Suggestion",
+            "zh-Hans": "接受内联建议"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.cursor.reject-inline",
+          "title": {
+            "en": "Reject Inline Suggestion",
+            "zh-Hans": "拒绝内联建议"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.cursor.autocomplete",
+          "title": {
+            "en": "Show Autocomplete",
+            "zh-Hans": "显示自动完成"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.cursor.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.cursor.sidebar",
+          "title": {
+            "en": "Toggle Sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.cursor.terminal",
+          "title": {
+            "en": "Toggle Terminal",
+            "zh-Hans": "切换终端"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.cursor.find-files",
+          "title": {
+            "en": "Find in Files",
+            "zh-Hans": "在文件中查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.cursor.go-file",
+          "title": {
+            "en": "Go to File",
+            "zh-Hans": "转到文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.cursor.cmd-palette",
+          "title": {
+            "en": "Command Palette",
+            "zh-Hans": "命令面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.cursor.code",
+      "title": {
+        "en": "Code Actions",
+        "zh-Hans": "代码操作"
+      },
+      "items": [
+        {
+          "id": "remote.cursor.quick-fix",
+          "title": {
+            "en": "Quick Fix",
+            "zh-Hans": "快速修复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.cursor.go-def",
+          "title": {
+            "en": "Go to Definition",
+            "zh-Hans": "转到定义"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.cursor.refs",
+          "title": {
+            "en": "Find References",
+            "zh-Hans": "查找引用"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 512,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.cursor.rename",
+          "title": {
+            "en": "Rename Symbol",
+            "zh-Hans": "重命名符号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.cursor.nav",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.cursor.back",
+          "title": {
+            "en": "Go Back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.cursor.fwd",
+          "title": {
+            "en": "Go Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "]"
+          }
+        },
+        {
+          "id": "remote.cursor.go-line",
+          "title": {
+            "en": "Go to Line",
+            "zh-Hans": "转到行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        }
+      ]
+    }
+  ]
+}

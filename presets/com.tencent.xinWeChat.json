@@ -1,0 +1,128 @@
+{
+  "bundleIdentifier": "com.tencent.xinWeChat",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.wechat.shortcuts",
+      "title": {
+        "en": "WeChat Shortcuts",
+        "zh-Hans": "微信快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.wechat.send-message",
+          "title": {
+            "en": "Send Message",
+            "zh-Hans": "发送消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          },
+          "searchKeywords": [
+            "enter",
+            "return",
+            "发送",
+            "回车"
+          ]
+        },
+        {
+          "id": "remote.wechat.voice-to-text",
+          "title": {
+            "en": "Voice Input to Text (hold Fn, or Fn+Control)",
+            "zh-Hans": "语音输入文字（按住 Fn，或 Fn+⌃）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 63,
+            "carbonModifiers": 16781312,
+            "displayKey": "Fn"
+          },
+          "shortcutDisplayTokens": [
+            "按住",
+            "Fn",
+            "或",
+            "⌃Fn"
+          ],
+          "searchKeywords": [
+            "control",
+            "dictation",
+            "fn",
+            "function",
+            "hold",
+            "mic",
+            "or",
+            "voice",
+            "语音",
+            "话筒",
+            "按住"
+          ]
+        },
+        {
+          "id": "remote.wechat.screenshot",
+          "title": {
+            "en": "Screenshot",
+            "zh-Hans": "截图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4352,
+            "displayKey": "A"
+          },
+          "searchKeywords": [
+            "capture",
+            "screen",
+            "截屏",
+            "截图"
+          ]
+        },
+        {
+          "id": "remote.wechat.lock",
+          "title": {
+            "en": "Lock",
+            "zh-Hans": "锁定"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          },
+          "searchKeywords": [
+            "lock",
+            "password",
+            "锁定",
+            "锁屏"
+          ]
+        },
+        {
+          "id": "remote.wechat.toggle-window",
+          "title": {
+            "en": "Show / Hide Window",
+            "zh-Hans": "显示/隐藏窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          },
+          "searchKeywords": [
+            "hide",
+            "show",
+            "toggle",
+            "window",
+            "冲突",
+            "显示",
+            "隐藏",
+            "窗口"
+          ]
+        }
+      ]
+    }
+  ]
+}

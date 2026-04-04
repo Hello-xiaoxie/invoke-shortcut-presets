@@ -1,0 +1,504 @@
+{
+  "bundleIdentifier": "com.microsoft.teams2",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.teams.meetings-and-calls",
+      "title": {
+        "en": "Meetings and Calls",
+        "zh-Hans": "会议与通话"
+      },
+      "items": [
+        {
+          "id": "remote.teams.meetings-and-calls.4f68906bed",
+          "title": {
+            "en": "Toggle fullscreen",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.teams.meetings-and-calls.7668f098dc",
+          "title": {
+            "en": "Go to sharing toolbar",
+            "zh-Hans": "转到共享工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 768,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.teams.meetings-and-calls.9bd49b2a5e",
+          "title": {
+            "en": "Toggle video",
+            "zh-Hans": "开关视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.teams.meetings-and-calls.282bd069e7",
+          "title": {
+            "en": "Toggle mute",
+            "zh-Hans": "开关静音"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.teams.meetings-and-calls.459cb07e5d",
+          "title": {
+            "en": "Start video call",
+            "zh-Hans": "开始视频通话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.teams.meetings-and-calls.293d51ced1",
+          "title": {
+            "en": "Start audio call",
+            "zh-Hans": "开始语音通话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.teams.meetings-and-calls.d940a4755a",
+          "title": {
+            "en": "Decline call",
+            "zh-Hans": "拒接来电"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.teams.meetings-and-calls.c171d3d311",
+          "title": {
+            "en": "Accept audio call",
+            "zh-Hans": "接听语音"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.teams.meetings-and-calls.e44e668ed7",
+          "title": {
+            "en": "Accept video call",
+            "zh-Hans": "接听视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.teams.messaging",
+      "title": {
+        "en": "Messaging",
+        "zh-Hans": "消息"
+      },
+      "items": [
+        {
+          "id": "remote.teams.messaging.736cfd397d",
+          "title": {
+            "en": "Reply to thread",
+            "zh-Hans": "回复话题"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2560,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.teams.messaging.52a7c1bb5e",
+          "title": {
+            "en": "Start new line",
+            "zh-Hans": "换行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.teams.messaging.7c3e363c13",
+          "title": {
+            "en": "Attach file",
+            "zh-Hans": "附加文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.teams.messaging.39c9829737",
+          "title": {
+            "en": "Send (expanded compose box)",
+            "zh-Hans": "发送（展开撰写框）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.teams.messaging.68b602dac0",
+          "title": {
+            "en": "Expand compose box",
+            "zh-Hans": "展开撰写框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.teams.messaging.e2016f1552",
+          "title": {
+            "en": "Go to compose box",
+            "zh-Hans": "转到撰写框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.teams.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.teams.navigation.d8bdc8311a",
+          "title": {
+            "en": "Go to next section",
+            "zh-Hans": "转到下一区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.f0654e210c",
+          "title": {
+            "en": "Go to previous section",
+            "zh-Hans": "转到上一区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 768,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.7f7cf2b8a5",
+          "title": {
+            "en": "Move selected team down",
+            "zh-Hans": "将所选团队下移"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.27098e1de1",
+          "title": {
+            "en": "Move selected team up",
+            "zh-Hans": "将所选团队上移"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.ad09150261",
+          "title": {
+            "en": "Go to next list item",
+            "zh-Hans": "下一列表项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.5e1000b7c8",
+          "title": {
+            "en": "Go to previous list item",
+            "zh-Hans": "上一列表项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.8420750146",
+          "title": {
+            "en": "Open Files",
+            "zh-Hans": "打开文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 768,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.dc18bc901a",
+          "title": {
+            "en": "Open Calls",
+            "zh-Hans": "打开通话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 768,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.24215cad4b",
+          "title": {
+            "en": "Open Calendar",
+            "zh-Hans": "打开日历"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 768,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.ed46d7dfb4",
+          "title": {
+            "en": "Open Teams",
+            "zh-Hans": "打开团队"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 768,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.57c77b4d43",
+          "title": {
+            "en": "Open Chat",
+            "zh-Hans": "打开聊天"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 768,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.teams.navigation.45e1705801",
+          "title": {
+            "en": "Open Activity",
+            "zh-Hans": "打开活动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 768,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.teams.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.teams.general.4b3aa43f99",
+          "title": {
+            "en": "Return to default zoom",
+            "zh-Hans": "恢复默认缩放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.teams.general.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.teams.general.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.teams.general.c140ceeeec",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.teams.general.d4b7f7dcdb",
+          "title": {
+            "en": "Open Help",
+            "zh-Hans": "打开帮助"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 256,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.teams.general.3b4b6c9bec",
+          "title": {
+            "en": "Open Settings",
+            "zh-Hans": "打开设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.teams.general.4207b04c6b",
+          "title": {
+            "en": "Start a new chat",
+            "zh-Hans": "开始新聊天"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.teams.general.8019a6e44b",
+          "title": {
+            "en": "Goto",
+            "zh-Hans": "转到"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.teams.general.518ac6f6ca",
+          "title": {
+            "en": "Show commands",
+            "zh-Hans": "显示命令"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.teams.general.f4f8ea567c",
+          "title": {
+            "en": "Go to Search",
+            "zh-Hans": "前往搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.teams.general.a02754063c",
+          "title": {
+            "en": "Show keyboard shortcuts",
+            "zh-Hans": "显示键盘快捷键"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        }
+      ]
+    }
+  ]
+}

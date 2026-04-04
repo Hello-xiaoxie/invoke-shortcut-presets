@@ -1,0 +1,492 @@
+{
+  "bundleIdentifier": "app.rive.editor",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.rive.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.rive.tools.07d0ec5ba4",
+          "title": {
+            "en": "Select Tool",
+            "zh-Hans": "Select Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.rive.tools.c1d986f600",
+          "title": {
+            "en": "Translate Tool",
+            "zh-Hans": "Translate Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.rive.tools.ed502b074b",
+          "title": {
+            "en": "Rotate Tool",
+            "zh-Hans": "Rotate Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rive.tools.2487cdd76c",
+          "title": {
+            "en": "Scale Tool",
+            "zh-Hans": "Scale Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.rive.tools.6b5ab1041f",
+          "title": {
+            "en": "Rectangle Tool",
+            "zh-Hans": "Rectangle Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rive.tools.d14c45445d",
+          "title": {
+            "en": "Ellipse Tool",
+            "zh-Hans": "Ellipse Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rive.tools.df8fe706c6",
+          "title": {
+            "en": "Pen Tool",
+            "zh-Hans": "Pen Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rive.tools.9102217573",
+          "title": {
+            "en": "Artboard Tool",
+            "zh-Hans": "Artboard Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.rive.tools.574fff53dd",
+          "title": {
+            "en": "Bone Tool",
+            "zh-Hans": "Bone Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.rive.tools.dda3ef69ee",
+          "title": {
+            "en": "Group Tool",
+            "zh-Hans": "Group Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rive.tools.9df50d6de7",
+          "title": {
+            "en": "Freeze",
+            "zh-Hans": "Freeze"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rive.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.rive.editor.e8214265ab",
+          "title": {
+            "en": "Switch Mode",
+            "zh-Hans": "Switch Mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.rive.editor.2a73d32fe2",
+          "title": {
+            "en": "Select Behind",
+            "zh-Hans": "Select Behind"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 58,
+            "carbonModifiers": 2048,
+            "displayKey": "58"
+          }
+        },
+        {
+          "id": "remote.rive.editor.a3550e777c",
+          "title": {
+            "en": "Edit Vertices",
+            "zh-Hans": "Edit Vertices"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.rive.editor.e437c3fcf0",
+          "title": {
+            "en": "Group selection",
+            "zh-Hans": "Group selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rive.editor.2100bf62c3",
+          "title": {
+            "en": "Ungroup selection",
+            "zh-Hans": "Ungroup selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rive.editor.35b02210e4",
+          "title": {
+            "en": "Convert to Solo",
+            "zh-Hans": "Convert to Solo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rive.editor.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rive.editor.48cab712cc",
+          "title": {
+            "en": "Layer forward",
+            "zh-Hans": "Layer forward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.rive.editor.a2fea77a25",
+          "title": {
+            "en": "Layer backward",
+            "zh-Hans": "Layer backward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.rive.editor.ec560f01bc",
+          "title": {
+            "en": "Layer to top",
+            "zh-Hans": "Layer to top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.rive.editor.f171e5f235",
+          "title": {
+            "en": "Layer to bottom",
+            "zh-Hans": "Layer to bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.rive.editor.1d2820004a",
+          "title": {
+            "en": "Move timeline playhead",
+            "zh-Hans": "Move timeline playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.rive.editor.73a7a75df8",
+          "title": {
+            "en": "Move selected keys",
+            "zh-Hans": "Move selected keys"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2048,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.rive.editor.3956e8d5c5",
+          "title": {
+            "en": "Skip to keys",
+            "zh-Hans": "Skip to keys"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.rive.editor.e5c750dbe8",
+          "title": {
+            "en": "Color Picker",
+            "zh-Hans": "Color Picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.rive.editor.fa1f914ea0",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "Search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.rive.editor.45fa429ce2",
+          "title": {
+            "en": "Reveal keys for selection",
+            "zh-Hans": "Reveal keys for selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rive.editor.d7c70ad1b1",
+          "title": {
+            "en": "Play default State Machine",
+            "zh-Hans": "Play default State Machine"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 512,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rive.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.rive.view.31e46b88aa",
+          "title": {
+            "en": "Fit selection to screen",
+            "zh-Hans": "Fit selection to screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rive.view.841ff07caa",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.rive.view.4c1f2e4aab",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.rive.view.7ebd1b954f",
+          "title": {
+            "en": "Zoom",
+            "zh-Hans": "缩放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.rive.view.204f50dad6",
+          "title": {
+            "en": "Pan",
+            "zh-Hans": "Pan"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rive.hierarchy",
+      "title": {
+        "en": "Hierarchy",
+        "zh-Hans": "层级"
+      },
+      "items": [
+        {
+          "id": "remote.rive.hierarchy.4915199e01",
+          "title": {
+            "en": "Select parent",
+            "zh-Hans": "Select parent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.rive.hierarchy.ec148e828f",
+          "title": {
+            "en": "Select 1st child",
+            "zh-Hans": "Select 1st child"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.rive.hierarchy.f438823733",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        }
+      ]
+    }
+  ]
+}

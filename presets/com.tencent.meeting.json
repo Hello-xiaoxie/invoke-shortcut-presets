@@ -1,0 +1,154 @@
+{
+  "bundleIdentifier": "com.tencent.meeting",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.tencent-meeting.shortcuts",
+      "title": {
+        "en": "Shortcuts",
+        "zh-Hans": "快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.tencent-meeting.mute-microphone",
+          "title": {
+            "en": "Mute / Unmute Microphone",
+            "zh-Hans": "开启/关闭麦克风"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2048,
+            "displayKey": "M"
+          },
+          "searchKeywords": [
+            "audio",
+            "mic",
+            "microphone",
+            "mute",
+            "unmute",
+            "麦克风",
+            "静音"
+          ]
+        },
+        {
+          "id": "remote.tencent-meeting.toggle-video",
+          "title": {
+            "en": "Start / Stop Video",
+            "zh-Hans": "开启/关闭视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2048,
+            "displayKey": "V"
+          },
+          "searchKeywords": [
+            "camera",
+            "video",
+            "视频",
+            "摄像头"
+          ]
+        },
+        {
+          "id": "remote.tencent-meeting.screen-share",
+          "title": {
+            "en": "Start / Stop Screen Sharing (global shortcut)",
+            "zh-Hans": "开启/关闭屏幕共享（全局快捷键）"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2048,
+            "displayKey": "S"
+          },
+          "searchKeywords": [
+            "global",
+            "share",
+            "sharing",
+            "全局",
+            "屏幕共享",
+            "共享屏幕"
+          ]
+        },
+        {
+          "id": "remote.tencent-meeting.activate-window",
+          "title": {
+            "en": "Activate Meeting Window",
+            "zh-Hans": "激活会议窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          },
+          "searchKeywords": [
+            "activate",
+            "focus",
+            "window",
+            "会议窗口",
+            "激活"
+          ]
+        },
+        {
+          "id": "remote.tencent-meeting.recording",
+          "title": {
+            "en": "Start / Stop Recording",
+            "zh-Hans": "开始/结束录制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2048,
+            "displayKey": "C"
+          },
+          "searchKeywords": [
+            "cloud",
+            "record",
+            "recording",
+            "录制",
+            "云录制"
+          ]
+        },
+        {
+          "id": "remote.tencent-meeting.local-recording",
+          "title": {
+            "en": "Start / Stop Local Recording",
+            "zh-Hans": "开始/结束本地录制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          },
+          "searchKeywords": [
+            "disk",
+            "local",
+            "record",
+            "本地录制"
+          ]
+        },
+        {
+          "id": "remote.tencent-meeting.pause-recording",
+          "title": {
+            "en": "Pause / Resume Recording",
+            "zh-Hans": "暂停/恢复录制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2048,
+            "displayKey": "P"
+          },
+          "searchKeywords": [
+            "pause",
+            "resume",
+            "暂停",
+            "恢复"
+          ]
+        }
+      ]
+    }
+  ]
+}
