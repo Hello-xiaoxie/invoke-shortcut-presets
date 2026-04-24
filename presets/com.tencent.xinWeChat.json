@@ -121,6 +121,146 @@
             "隐藏",
             "窗口"
           ]
+        },
+        {
+          "id": "remote.wechat.new-note",
+          "title": {
+            "en": "New Note",
+            "zh-Hans": "新建笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          },
+          "shortcutDisplayTokens": [
+            "⌥",
+            "⇧",
+            "⌘",
+            "D"
+          ],
+          "searchKeywords": [
+            "note",
+            "new",
+            "memo",
+            "笔记",
+            "新建"
+          ]
+        },
+        {
+          "id": "remote.wechat.next-unread-chat",
+          "title": {
+            "en": "Show Next Unread Chat",
+            "zh-Hans": "显示下一个未读会话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          },
+          "shortcutDisplayTokens": [
+            "⌥",
+            "⌘",
+            "↓"
+          ],
+          "searchKeywords": [
+            "chat",
+            "next",
+            "unread",
+            "session",
+            "会话",
+            "未读",
+            "下一个"
+          ]
+        },
+        {
+          "id": "remote.wechat.nav-chats",
+          "title": {
+            "en": "Switch to Chats",
+            "zh-Hans": "切换到聊天"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          },
+          "shortcutDisplayTokens": [
+            "⌘",
+            "1"
+          ],
+          "searchKeywords": [
+            "chats",
+            "nav",
+            "tab",
+            "聊天"
+          ]
+        },
+        {
+          "id": "remote.wechat.nav-contacts",
+          "title": {
+            "en": "Switch to Contacts",
+            "zh-Hans": "切换到通讯录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          },
+          "shortcutDisplayTokens": [
+            "⌘",
+            "2"
+          ],
+          "searchKeywords": [
+            "contacts",
+            "nav",
+            "tab",
+            "通讯录"
+          ]
+        },
+        {
+          "id": "remote.wechat.nav-favorites",
+          "title": {
+            "en": "Switch to Favorites",
+            "zh-Hans": "切换到收藏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          },
+          "shortcutDisplayTokens": [
+            "⌘",
+            "3"
+          ],
+          "searchKeywords": [
+            "favorites",
+            "collection",
+            "nav",
+            "tab",
+            "收藏"
+          ]
+        },
+        {
+          "id": "remote.wechat.nav-moments",
+          "title": {
+            "en": "Switch to Moments",
+            "zh-Hans": "切换到朋友圈"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          },
+          "shortcutDisplayTokens": [
+            "⌘",
+            "4"
+          ],
+          "searchKeywords": [
+            "moments",
+            "nav",
+            "tab",
+            "朋友圈"
+          ]
         }
       ]
     }
