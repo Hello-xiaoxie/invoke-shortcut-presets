@@ -1,0 +1,1623 @@
+{
+  "bundleIdentifier": "org.inkscape.Inkscape",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.inkscape.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.tools.165d5b6ba3",
+          "title": {
+            "en": "Selector",
+            "zh-Hans": "Selector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.f4953f70fe",
+          "title": {
+            "en": "Selector (temporary)",
+            "zh-Hans": "Selector (temporary)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.e3acf13f08",
+          "title": {
+            "en": "Node tool",
+            "zh-Hans": "节点 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.126d6e1208",
+          "title": {
+            "en": "Zoom tool",
+            "zh-Hans": "缩放工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.e5332134c1",
+          "title": {
+            "en": "Rectangle tool",
+            "zh-Hans": "矩形工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.c299694f52",
+          "title": {
+            "en": "Ellipse/arc tool",
+            "zh-Hans": "Ellipse/arc tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.2363980e18",
+          "title": {
+            "en": "Freehand tool",
+            "zh-Hans": "Freehand tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.e15c61eed1",
+          "title": {
+            "en": "Bezier tool",
+            "zh-Hans": "Bezier tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 512,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.3aa1481e31",
+          "title": {
+            "en": "Calligraphic tool",
+            "zh-Hans": "Calligraphic tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.58e37e71b4",
+          "title": {
+            "en": "Gradient tool",
+            "zh-Hans": "渐变工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.9593936276",
+          "title": {
+            "en": "Dropper tool",
+            "zh-Hans": "Dropper tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.cc01a3bf02",
+          "title": {
+            "en": "Text tool",
+            "zh-Hans": "文本 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.45b40582c1",
+          "title": {
+            "en": "Spiral tool",
+            "zh-Hans": "Spiral tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.507e4d29e8",
+          "title": {
+            "en": "Star tool",
+            "zh-Hans": "Star tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.inkscape.tools.03e7b73769",
+          "title": {
+            "en": "Connector tool",
+            "zh-Hans": "Connector tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.dialogs",
+      "title": {
+        "en": "Dialogs",
+        "zh-Hans": "对话框"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.dialogs.9471f0e213",
+          "title": {
+            "en": "Fill and Stroke",
+            "zh-Hans": "Fill and Stroke"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.d20c815467",
+          "title": {
+            "en": "Swatches",
+            "zh-Hans": "Swatches"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.ef1914fde3",
+          "title": {
+            "en": "Text and font",
+            "zh-Hans": "Text and font"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.937a113bf7",
+          "title": {
+            "en": "Transform",
+            "zh-Hans": "变换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.bb3828daaa",
+          "title": {
+            "en": "Layers",
+            "zh-Hans": "图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.bc849685e9",
+          "title": {
+            "en": "Align and Distribute",
+            "zh-Hans": "Align and Distribute"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.d89014ed19",
+          "title": {
+            "en": "Object Properties",
+            "zh-Hans": "对象 Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.86f3a23685",
+          "title": {
+            "en": "Undo history",
+            "zh-Hans": "Undo 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.76c8e631d6",
+          "title": {
+            "en": "XML editor",
+            "zh-Hans": "XML 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.7721ef3f1e",
+          "title": {
+            "en": "Document preferences",
+            "zh-Hans": "文档 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.b063e49ebf",
+          "title": {
+            "en": "Inkscape preferences",
+            "zh-Hans": "Inkscape 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.397793d8a8",
+          "title": {
+            "en": "Export to PNG",
+            "zh-Hans": "Export to PNG"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.7e3e44f17f",
+          "title": {
+            "en": "Trace bitmap",
+            "zh-Hans": "Trace bitmap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2560,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.189a332766",
+          "title": {
+            "en": "Toggle dialogs",
+            "zh-Hans": "切换dialogs"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.cb473201dd",
+          "title": {
+            "en": "Return to the canvas",
+            "zh-Hans": "Return to the canvas"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.6c97e34203",
+          "title": {
+            "en": "Close the dialog",
+            "zh-Hans": "Close the dialog"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.9b94903f96",
+          "title": {
+            "en": "Jump to the next widget",
+            "zh-Hans": "Jump to the next widget"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.c3f2f5aa3a",
+          "title": {
+            "en": "Jump to previous widget",
+            "zh-Hans": "跳转到previous widget"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.3b244dccb6",
+          "title": {
+            "en": "Set the new value",
+            "zh-Hans": "Set the new value"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.678bab3371",
+          "title": {
+            "en": "In XML editor, set the attribute value",
+            "zh-Hans": "In XML editor, set the attribute value"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.7d0458b0ac",
+          "title": {
+            "en": "Activate current button or list",
+            "zh-Hans": "Activate current button or list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.inkscape.dialogs.ba22d71594",
+          "title": {
+            "en": "In a multi-tab dialog, switch tabs",
+            "zh-Hans": "In a multi-tab dialog, switch tabs"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 256,
+            "displayKey": "Page Up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.controls-bar",
+      "title": {
+        "en": "Controls bar",
+        "zh-Hans": "控制栏"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.controls-bar.ddac3cb8ec",
+          "title": {
+            "en": "Jump to the first editable filed",
+            "zh-Hans": "Jump to the first editable filed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2048,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.inkscape.controls-bar.91e1189c92",
+          "title": {
+            "en": "Jump to next field",
+            "zh-Hans": "跳转到next field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.inkscape.controls-bar.b4b9edc14a",
+          "title": {
+            "en": "Jump to previous field",
+            "zh-Hans": "跳转到previous field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.inkscape.controls-bar.51698b98b2",
+          "title": {
+            "en": "Change value by 0.1",
+            "zh-Hans": "Change value by 0.1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.inkscape.controls-bar.f3f5060266",
+          "title": {
+            "en": "Change value by 5.0",
+            "zh-Hans": "Change value by 5.0"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.inkscape.controls-bar.4cbb954b3f",
+          "title": {
+            "en": "Accept the new value",
+            "zh-Hans": "Accept the new value"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.inkscape.controls-bar.b9329c6946",
+          "title": {
+            "en": "Cancel changes, return to canvas",
+            "zh-Hans": "Cancel changes, return to canvas"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.inkscape.controls-bar.18508267d3",
+          "title": {
+            "en": "Cancel changes",
+            "zh-Hans": "Cancel changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.canvas",
+      "title": {
+        "en": "Canvas",
+        "zh-Hans": "画布"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.canvas.841ff07caa",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.4c1f2e4aab",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.b9f1dd1107",
+          "title": {
+            "en": "Zoom in or out",
+            "zh-Hans": "Zoom in or out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.79c89f3ece",
+          "title": {
+            "en": "Activate zoon field",
+            "zh-Hans": "Activate zoon field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2048,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.22bab98ebe",
+          "title": {
+            "en": "Zoom 1:1",
+            "zh-Hans": "Zoom 1:1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.2f853274e8",
+          "title": {
+            "en": "Zoom 1:2",
+            "zh-Hans": "Zoom 1:2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.25a206dad9",
+          "title": {
+            "en": "Zoom to selection",
+            "zh-Hans": "Zoom to selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.16ec5cd1ea",
+          "title": {
+            "en": "Zoom to drawing",
+            "zh-Hans": "Zoom to drawing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 0,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.608e1ff6b5",
+          "title": {
+            "en": "Zoom to page",
+            "zh-Hans": "Zoom to page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 0,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.757b0b6463",
+          "title": {
+            "en": "Zoom to page width",
+            "zh-Hans": "Zoom to page width"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.3b151f0c2d",
+          "title": {
+            "en": "Perevious zoom",
+            "zh-Hans": "Perevious zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.778fc996bb",
+          "title": {
+            "en": "Next zoom",
+            "zh-Hans": "下一个 zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.34cfa54cf2",
+          "title": {
+            "en": "Scroll canvas",
+            "zh-Hans": "滚动canvas"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.789c51ef7e",
+          "title": {
+            "en": "Scroll canvas vertically",
+            "zh-Hans": "滚动canvas vertically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.955d13aa3e",
+          "title": {
+            "en": "Scroll canvas horizontally",
+            "zh-Hans": "滚动canvas horizontally"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.a70d25e350",
+          "title": {
+            "en": "Toggle guides and snapping to guides",
+            "zh-Hans": "Toggle guides and snapping to guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.ecc0307907",
+          "title": {
+            "en": "Toggle grids and snapping to grids",
+            "zh-Hans": "Toggle grids and snapping to grids"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.7ec992e43c",
+          "title": {
+            "en": "Toggle snapping on and off",
+            "zh-Hans": "Toggle snapping on and off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.canvas.fbb1eb5cdc",
+          "title": {
+            "en": "Toggle normal/outline mode",
+            "zh-Hans": "切换normal/大纲 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.file",
+      "title": {
+        "en": "FIle",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.file.1a578c91d4",
+          "title": {
+            "en": "Create new document",
+            "zh-Hans": "Create new 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.inkscape.file.be7b88d97e",
+          "title": {
+            "en": "Open an SVG document",
+            "zh-Hans": "Open an SVG document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.inkscape.file.397793d8a8",
+          "title": {
+            "en": "Export to PNG",
+            "zh-Hans": "Export to PNG"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.inkscape.file.19fbadedd0",
+          "title": {
+            "en": "Import bitmap or SVG",
+            "zh-Hans": "Import bitmap or SVG"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.inkscape.file.bc11e15469",
+          "title": {
+            "en": "Print document",
+            "zh-Hans": "打印 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.inkscape.file.16b3603761",
+          "title": {
+            "en": "Save document",
+            "zh-Hans": "存储 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.inkscape.file.885c5427ef",
+          "title": {
+            "en": "Save under a new name",
+            "zh-Hans": "Save under a new name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.inkscape.file.420d4c3cc8",
+          "title": {
+            "en": "Save a copy",
+            "zh-Hans": "Save a copy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.inkscape.file.2cd70c9fb3",
+          "title": {
+            "en": "Exit inkscape",
+            "zh-Hans": "Exit inkscape"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.window",
+      "title": {
+        "en": "Window",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.window.4d0f7ccf83",
+          "title": {
+            "en": "Toggle rulers",
+            "zh-Hans": "切换rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.inkscape.window.4f6726114d",
+          "title": {
+            "en": "Toggle scrollbars",
+            "zh-Hans": "切换scrollbars"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.inkscape.window.25df0dafe0",
+          "title": {
+            "en": "Toggle fullscreen",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.inkscape.window.cc6a2de8af",
+          "title": {
+            "en": "Main menu",
+            "zh-Hans": "Main 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.inkscape.window.ad3aa0f7a0",
+          "title": {
+            "en": "Drop-down menu",
+            "zh-Hans": "Drop-下 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 512,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.inkscape.window.e2c2dda066",
+          "title": {
+            "en": "Close document window",
+            "zh-Hans": "关闭 文档 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.inkscape.window.f7078fbbf1",
+          "title": {
+            "en": "Next document window",
+            "zh-Hans": "下一个 文档 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.inkscape.window.037d4e9723",
+          "title": {
+            "en": "Previous document window",
+            "zh-Hans": "上一个 文档 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 768,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.layers",
+      "title": {
+        "en": "Layers",
+        "zh-Hans": "图层"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.layers.c896aa7ad5",
+          "title": {
+            "en": "Move to layer above",
+            "zh-Hans": "移动to 图层 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.inkscape.layers.7386b584ca",
+          "title": {
+            "en": "Move to layer below",
+            "zh-Hans": "移动to 图层 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 512,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.inkscape.layers.1310d81e24",
+          "title": {
+            "en": "Raise layer",
+            "zh-Hans": "Raise 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 768,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.inkscape.layers.0e195cf4ad",
+          "title": {
+            "en": "Lower layer",
+            "zh-Hans": "Lower 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 768,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.inkscape.layers.406b03d361",
+          "title": {
+            "en": "Raise layer to top",
+            "zh-Hans": "Raise layer to top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 768,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.inkscape.layers.a47d760c84",
+          "title": {
+            "en": "Lower layer to bottom",
+            "zh-Hans": "Lower layer to bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 768,
+            "displayKey": "End"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.object",
+      "title": {
+        "en": "Object",
+        "zh-Hans": "对象"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.object.40499a904a",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.ab4ceedce7",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.inkscape.object.85f48d9bb0",
+          "title": {
+            "en": "Copy selection",
+            "zh-Hans": "复制 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.da0170a983",
+          "title": {
+            "en": "Cut selection",
+            "zh-Hans": "剪切 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.dc503d0e23",
+          "title": {
+            "en": "Paste clipboard",
+            "zh-Hans": "粘贴 剪贴板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.d3b475facd",
+          "title": {
+            "en": "Paste in place",
+            "zh-Hans": "Paste in place"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.691411640e",
+          "title": {
+            "en": "Paste style",
+            "zh-Hans": "粘贴 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.c912d7ce40",
+          "title": {
+            "en": "Paste path effect",
+            "zh-Hans": "粘贴 路径 效果"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.fff32f692a",
+          "title": {
+            "en": "Duplicate selection",
+            "zh-Hans": "创建副本 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.728a3bf1a7",
+          "title": {
+            "en": "Clone object",
+            "zh-Hans": "Clone 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2048,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.76d5ea7234",
+          "title": {
+            "en": "Unlink clone",
+            "zh-Hans": "Unlink clone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2560,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.852adf2344",
+          "title": {
+            "en": "Select original",
+            "zh-Hans": "选择original"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 512,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.8f27c53f82",
+          "title": {
+            "en": "Create a bitmap copy",
+            "zh-Hans": "Create a bitmap 复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2048,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.7e3e44f17f",
+          "title": {
+            "en": "Trace bitmap",
+            "zh-Hans": "Trace bitmap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2560,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.66a24671ab",
+          "title": {
+            "en": "Object to pattern",
+            "zh-Hans": "Object to pattern"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2048,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.2794357b29",
+          "title": {
+            "en": "Pattern to objects",
+            "zh-Hans": "Pattern to objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.03715f866a",
+          "title": {
+            "en": "Group selected objects",
+            "zh-Hans": "编组 所选 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.6788039b6a",
+          "title": {
+            "en": "Ungroup selected objects",
+            "zh-Hans": "取消编组 所选 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.d7d0d11010",
+          "title": {
+            "en": "Raise selection to top",
+            "zh-Hans": "Raise selection to top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.c2388f894b",
+          "title": {
+            "en": "Lower selection to bottom",
+            "zh-Hans": "Lower selection to bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.642dd8199b",
+          "title": {
+            "en": "Raise selection one step",
+            "zh-Hans": "Raise selection one step"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.inkscape.object.72850e7680",
+          "title": {
+            "en": "Lower selection one step",
+            "zh-Hans": "Lower selection one step"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.calligraphy-tool",
+      "title": {
+        "en": "Calligraphy tool",
+        "zh-Hans": "书法工具"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.calligraphy-tool.44246ac81d",
+          "title": {
+            "en": "Adjust pen width by 1",
+            "zh-Hans": "Adjust pen width by 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.inkscape.calligraphy-tool.dd21df0d7f",
+          "title": {
+            "en": "Set pen width to 1 or 100",
+            "zh-Hans": "Set pen width to 1 or 100"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.inkscape.calligraphy-tool.fbc7ed65f9",
+          "title": {
+            "en": "Adjust pen angle",
+            "zh-Hans": "Adjust pen angle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.inkscape.calligraphy-tool.7fd8181e5f",
+          "title": {
+            "en": "Deselect",
+            "zh-Hans": "取消选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.spiral-tool",
+      "title": {
+        "en": "Spiral Tool",
+        "zh-Hans": "螺旋工具"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.spiral-tool.7fd8181e5f",
+          "title": {
+            "en": "Deselect",
+            "zh-Hans": "取消选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.inkscape.tweak-tool",
+      "title": {
+        "en": "Tweak tool",
+        "zh-Hans": "微调工具"
+      },
+      "items": [
+        {
+          "id": "remote.inkscape.tweak-tool.80ecea6c64",
+          "title": {
+            "en": "Push mode",
+            "zh-Hans": "Push 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.ced237d18f",
+          "title": {
+            "en": "Shrink mode",
+            "zh-Hans": "Shrink 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.06a62277fc",
+          "title": {
+            "en": "Grow mode",
+            "zh-Hans": "Grow 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 512,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.e65111a1ba",
+          "title": {
+            "en": "Attract mode",
+            "zh-Hans": "Attract 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.3543c9c538",
+          "title": {
+            "en": "Repel mode",
+            "zh-Hans": "Repel 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.d89a68a5fc",
+          "title": {
+            "en": "Roughen mode",
+            "zh-Hans": "Roughen 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.34d1b94279",
+          "title": {
+            "en": "Color paint mode",
+            "zh-Hans": "颜色 paint 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.6aaae035af",
+          "title": {
+            "en": "Color jitter mode",
+            "zh-Hans": "颜色 jitter 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 512,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.fd0f7e276b",
+          "title": {
+            "en": "Adjust brush width by",
+            "zh-Hans": "Adjust brush width by"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.15247f47ac",
+          "title": {
+            "en": "Set brush width by 1",
+            "zh-Hans": "Set brush width by 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.inkscape.tweak-tool.b3c4046f3a",
+          "title": {
+            "en": "Adjust tweaking force",
+            "zh-Hans": "Adjust tweaking force"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    }
+  ]
+}

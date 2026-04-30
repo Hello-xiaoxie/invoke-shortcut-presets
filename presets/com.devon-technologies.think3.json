@@ -1,0 +1,1002 @@
+{
+  "bundleIdentifier": "com.devon-technologies.think3",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.devonthink.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.devonthink.file.646f9292ec",
+          "title": {
+            "en": "New Window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.501436c4fc",
+          "title": {
+            "en": "Index Files and Folders...",
+            "zh-Hans": "Index Files and Folders..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2304,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.8d9ecb8869",
+          "title": {
+            "en": "Update Items",
+            "zh-Hans": "Update Items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.54c75aa37a",
+          "title": {
+            "en": "Synchronize All Databases",
+            "zh-Hans": "Synchronize 全部 Databases"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.f01a855d81",
+          "title": {
+            "en": "Database Properties...",
+            "zh-Hans": "Database Properties..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.66f4c6638b",
+          "title": {
+            "en": "Close Database",
+            "zh-Hans": "关闭 Database"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.7686452d5d",
+          "title": {
+            "en": "Verify ",
+            "zh-Hans": "Verify "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.b9c0285c0d",
+          "title": {
+            "en": "Check File Integrity",
+            "zh-Hans": "Check 文件 Integrity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.fa61a2d277",
+          "title": {
+            "en": "Optimize Database",
+            "zh-Hans": "Optimize Database"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.b42cbf797c",
+          "title": {
+            "en": "Page Setup...",
+            "zh-Hans": "页面 Setup..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.devonthink.file.530d91fada",
+          "title": {
+            "en": "Print...",
+            "zh-Hans": "打印..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.devonthink.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.devonthink.edit.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.4e7ea1539f",
+          "title": {
+            "en": "Copy with Source Link",
+            "zh-Hans": "Copy with Source Link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.207853f3a9",
+          "title": {
+            "en": "Paste with Source Link",
+            "zh-Hans": "Paste with Source Link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.f354904d77",
+          "title": {
+            "en": "Paste and Match Style",
+            "zh-Hans": "Paste and Match Style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.9cd0b6e6bf",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.5121f40beb",
+          "title": {
+            "en": "Tags...",
+            "zh-Hans": "标签..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 4096,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.devonthink.edit.5a824820b0",
+          "title": {
+            "en": "Start Dictation",
+            "zh-Hans": "开始 Dictation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.devonthink.data",
+      "title": {
+        "en": "Data",
+        "zh-Hans": "数据"
+      },
+      "items": [
+        {
+          "id": "remote.devonthink.data.faf81553ec",
+          "title": {
+            "en": "Open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.e79b4e2ceb",
+          "title": {
+            "en": "Launch URL",
+            "zh-Hans": "Launch URL"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.3c376389ed",
+          "title": {
+            "en": "Reveal",
+            "zh-Hans": "Reveal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.36812c54fd",
+          "title": {
+            "en": "Save All",
+            "zh-Hans": "存储 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.9d87fe9a60",
+          "title": {
+            "en": "Move To...",
+            "zh-Hans": "移动To..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.91f28a15ee",
+          "title": {
+            "en": "Move Again",
+            "zh-Hans": "移动Again"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.16ed6d3060",
+          "title": {
+            "en": "Group Similar Items",
+            "zh-Hans": "编组 Similar Items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.374cb986c0",
+          "title": {
+            "en": "Ungroup Items",
+            "zh-Hans": "取消编组 Items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.devonthink.data.bba06cf87b",
+          "title": {
+            "en": "Move to Trash",
+            "zh-Hans": "移到废纸篓"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.devonthink.format",
+      "title": {
+        "en": "Format",
+        "zh-Hans": "格式"
+      },
+      "items": [
+        {
+          "id": "remote.devonthink.format.a3e95af2f6",
+          "title": {
+            "en": "Make Rich Text",
+            "zh-Hans": "Make Rich 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.devonthink.format.1ff807ef9e",
+          "title": {
+            "en": "Highlight",
+            "zh-Hans": "Highlight"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.devonthink.format.3875c4bdc0",
+          "title": {
+            "en": "Make Link",
+            "zh-Hans": "Make 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.devonthink.format.d8a83c4ab7",
+          "title": {
+            "en": "Show Format Bar",
+            "zh-Hans": "显示 Format Bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.devonthink.format.90fb4f3d92",
+          "title": {
+            "en": "Show Editing Bar",
+            "zh-Hans": "显示 Editing Bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.devonthink.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.devonthink.view.a1e7dc4ad8",
+          "title": {
+            "en": "Sidebar - Navigate",
+            "zh-Hans": "侧边栏 - Navigate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.501c8a2a27",
+          "title": {
+            "en": "Sidebar - Reading List",
+            "zh-Hans": "侧边栏 - Reading List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.d735571698",
+          "title": {
+            "en": "Sidebar - Import",
+            "zh-Hans": "侧边栏 - 导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.638056fdce",
+          "title": {
+            "en": "Sidebar - Extras",
+            "zh-Hans": "侧边栏 - Extras"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2304,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.45a5a0f42a",
+          "title": {
+            "en": "View - as Icons",
+            "zh-Hans": "视图 - as Icons"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.2b4bb4e564",
+          "title": {
+            "en": "View - as List",
+            "zh-Hans": "视图 - as List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.efb627b6ce",
+          "title": {
+            "en": "View - as Columns",
+            "zh-Hans": "视图 - as 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.74126632f3",
+          "title": {
+            "en": "View - Cover Flow",
+            "zh-Hans": "视图 - Cover Flow"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.6721a89d0d",
+          "title": {
+            "en": "Preview - None",
+            "zh-Hans": "预览 - None"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.d25133fd03",
+          "title": {
+            "en": "Preview - Standard",
+            "zh-Hans": "预览 - Standard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.0c73304448",
+          "title": {
+            "en": "Preview - Widescreen",
+            "zh-Hans": "预览 - Widescreen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.devonthink.view.4b5c445305",
+          "title": {
+            "en": "Quick Look",
+            "zh-Hans": "快速查看"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.5bdbee1407",
+          "title": {
+            "en": "Show Tags",
+            "zh-Hans": "显示 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.06b0237662",
+          "title": {
+            "en": "Show Details",
+            "zh-Hans": "显示 Details"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.devonthink.view.ab8da7b1dc",
+          "title": {
+            "en": "Show Only Documents",
+            "zh-Hans": "显示 Only 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2304,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.devonthink.go",
+      "title": {
+        "en": "Go",
+        "zh-Hans": "跳转"
+      },
+      "items": [
+        {
+          "id": "remote.devonthink.go.3cef07b481",
+          "title": {
+            "en": "Previous Database",
+            "zh-Hans": "上一个 Database"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.90b68b2265",
+          "title": {
+            "en": "Next Database",
+            "zh-Hans": "下一个 Database"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.8d4ee2b32d",
+          "title": {
+            "en": "Top Group",
+            "zh-Hans": "顶部 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.330940009c",
+          "title": {
+            "en": "Enclosing Group",
+            "zh-Hans": "Enclosing 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.a6778bbdac",
+          "title": {
+            "en": "Selected Group",
+            "zh-Hans": "所选 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.918657786b",
+          "title": {
+            "en": "To Last Destination Group",
+            "zh-Hans": "To Last Destination Group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.f0ba8a81be",
+          "title": {
+            "en": "First Document",
+            "zh-Hans": "第一个 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 2304,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.907e211f24",
+          "title": {
+            "en": "Previous Document",
+            "zh-Hans": "上一个 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.e3b0cdb24b",
+          "title": {
+            "en": "Next Document",
+            "zh-Hans": "下一个 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.4dc856f665",
+          "title": {
+            "en": "Last Document",
+            "zh-Hans": "最后一个 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 2304,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.5d882c306e",
+          "title": {
+            "en": "To Group",
+            "zh-Hans": "To Group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.7041c02b76",
+          "title": {
+            "en": "To Document",
+            "zh-Hans": "To Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.719289e11b",
+          "title": {
+            "en": "To Page",
+            "zh-Hans": "To Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.d19a506091",
+          "title": {
+            "en": "To Link",
+            "zh-Hans": "To Link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.devonthink.go.aa9816892f",
+          "title": {
+            "en": "Back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.devonthink.go.f815d08615",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.97c1e9f06b",
+          "title": {
+            "en": "Previous Instance",
+            "zh-Hans": "上一个 实例"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.454f28f6fa",
+          "title": {
+            "en": "Next Instance",
+            "zh-Hans": "下一个 实例"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.a6ac163a1d",
+          "title": {
+            "en": "Previous Highlight",
+            "zh-Hans": "上一个 Highlight"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.e8330deabe",
+          "title": {
+            "en": "Next Highlight",
+            "zh-Hans": "下一个 Highlight"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.a4e7f2b5a3",
+          "title": {
+            "en": "Next Unread Item",
+            "zh-Hans": "下一个 未读 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.cc075ccc91",
+          "title": {
+            "en": "Complete News",
+            "zh-Hans": "Complete News"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.2a1a153000",
+          "title": {
+            "en": "Move Focus to Sidebar",
+            "zh-Hans": "Move Focus to Sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 6400,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.a8fd08327f",
+          "title": {
+            "en": "Move Focus to View",
+            "zh-Hans": "Move Focus to View"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 6400,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.0869eae15a",
+          "title": {
+            "en": "Move Focus to Preview",
+            "zh-Hans": "Move Focus to Preview"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6400,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.devonthink.go.3fbde40e57",
+          "title": {
+            "en": "Move Focus to Inspector",
+            "zh-Hans": "Move Focus to Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6400,
+            "displayKey": "I"
+          }
+        }
+      ]
+    }
+  ]
+}

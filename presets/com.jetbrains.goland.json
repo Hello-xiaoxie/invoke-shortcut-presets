@@ -1,0 +1,1650 @@
+{
+  "bundleIdentifier": "com.jetbrains.goland",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.goland.vcs-local-history",
+      "title": {
+        "en": "VCS / Local History",
+        "zh-Hans": "版本控制/本地历史"
+      },
+      "items": [
+        {
+          "id": "remote.goland.vcs-local-history.7708092e76",
+          "title": {
+            "en": "VCS quick popup",
+            "zh-Hans": "VCS quick popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.goland.vcs-local-history.89be903e9a",
+          "title": {
+            "en": "Push commits",
+            "zh-Hans": "Push commits"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.goland.vcs-local-history.2d918902df",
+          "title": {
+            "en": "Update project from VCS",
+            "zh-Hans": "Update project from VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.goland.vcs-local-history.515ebfe02c",
+          "title": {
+            "en": "Commit project to VCS",
+            "zh-Hans": "Commit project to VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.compile-and-run",
+      "title": {
+        "en": "Compile and Run",
+        "zh-Hans": "编译与运行"
+      },
+      "items": [
+        {
+          "id": "remote.goland.compile-and-run.6ab5b9b407",
+          "title": {
+            "en": "Run context configuration from editor",
+            "zh-Hans": "Run context configuration from editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4608,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.goland.compile-and-run.25505811bd",
+          "title": {
+            "en": "Debug",
+            "zh-Hans": "调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.goland.compile-and-run.323392fd84",
+          "title": {
+            "en": "Run",
+            "zh-Hans": "Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.goland.compile-and-run.1d8a290672",
+          "title": {
+            "en": "Select configuration and debug",
+            "zh-Hans": "Select configuration and debug"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6144,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.goland.compile-and-run.e86ab4e340",
+          "title": {
+            "en": "Select configuration and run",
+            "zh-Hans": "Select configuration and run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6144,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.goland.navigation.3870033eb1",
+          "title": {
+            "en": "Show usages",
+            "zh-Hans": "显示 usages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2304,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.f1fc5478ef",
+          "title": {
+            "en": "Highlight usages in file",
+            "zh-Hans": "Highlight usages in file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 768,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.b15022e1a1",
+          "title": {
+            "en": "Find usages in file",
+            "zh-Hans": "Find usages in file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.19faf5044a",
+          "title": {
+            "en": "Find usages",
+            "zh-Hans": "查找 usages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2048,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.eaff73cca5",
+          "title": {
+            "en": "Show bookmarks",
+            "zh-Hans": "显示 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.95e1d86cf7",
+          "title": {
+            "en": "Go to numbered bookmark 0/1/2",
+            "zh-Hans": "转到numbered 书签 0/1/2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4096,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.3f6434b49b",
+          "title": {
+            "en": "Toggle bookmark with mnemonic",
+            "zh-Hans": "Toggle bookmark with mnemonic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.238c2950f1",
+          "title": {
+            "en": "Toggle bookmark",
+            "zh-Hans": "切换bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.d96c868ff7",
+          "title": {
+            "en": "Show navigation bar",
+            "zh-Hans": "显示 navigation bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 2048,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.703383a7a1",
+          "title": {
+            "en": "Edit source / View source",
+            "zh-Hans": "编辑 源 / 视图 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.308a91e178",
+          "title": {
+            "en": "Previous highlighted error",
+            "zh-Hans": "上一个 highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.51022ef92e",
+          "title": {
+            "en": "Next highlighted error",
+            "zh-Hans": "下一个 highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.ce003befe8",
+          "title": {
+            "en": "File structure popup",
+            "zh-Hans": "文件 structure popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.1a952cd9bc",
+          "title": {
+            "en": "Move to code block end",
+            "zh-Hans": "Move to code block end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.goland.navigation.01ccb94e11",
+          "title": {
+            "en": "Move to code block start",
+            "zh-Hans": "Move to code block start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.70b4d2d940",
+          "title": {
+            "en": "Go to previous / next declaration",
+            "zh-Hans": "Go to previous / next declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.6472f52231",
+          "title": {
+            "en": "Go to super-method or super-type",
+            "zh-Hans": "Go to super-method or super-type"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.f9b2cd6683",
+          "title": {
+            "en": "Go to type declaration",
+            "zh-Hans": "转到type declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4608,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.de4a5fff84",
+          "title": {
+            "en": "Open quick definition lookup",
+            "zh-Hans": "Open quick definition lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2304,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.0ece6d203c",
+          "title": {
+            "en": "Go to implementation",
+            "zh-Hans": "转到implementation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.ed1910c176",
+          "title": {
+            "en": "Go to declaration",
+            "zh-Hans": "转到declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.e304894a52",
+          "title": {
+            "en": "Select current file or symbol in any view",
+            "zh-Hans": "Select current file or symbol in any view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 2048,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.bff6b0c548",
+          "title": {
+            "en": "Navigate to last edit location",
+            "zh-Hans": "Navigate to last edit location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 768,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.ce64474ae6",
+          "title": {
+            "en": "Navigate forward",
+            "zh-Hans": "向前导航"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.637d0b5f89",
+          "title": {
+            "en": "Navigate back",
+            "zh-Hans": "向后导航"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.a957eeee0e",
+          "title": {
+            "en": "Go to line",
+            "zh-Hans": "转到line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.641cb02822",
+          "title": {
+            "en": "Hide active or last active window",
+            "zh-Hans": "Hide active or last active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.199d3f47fc",
+          "title": {
+            "en": "Go to editor (from tool window)",
+            "zh-Hans": "Go to editor (from tool window)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.abe1df5c14",
+          "title": {
+            "en": "Go back to previous tool window",
+            "zh-Hans": "Go back to previous tool window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.aa9a4867a5",
+          "title": {
+            "en": "Go to next / previous editor tab",
+            "zh-Hans": "转到next / 上一个 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4096,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.fbe1caeba6",
+          "title": {
+            "en": "Go to symbol",
+            "zh-Hans": "转到符号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.7ba6e020ab",
+          "title": {
+            "en": "Go to file",
+            "zh-Hans": "转到file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.goland.navigation.eab3ee59b6",
+          "title": {
+            "en": "Go to class",
+            "zh-Hans": "转到class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.refactoring",
+      "title": {
+        "en": "Refactoring",
+        "zh-Hans": "重构"
+      },
+      "items": [
+        {
+          "id": "remote.goland.refactoring.19ce705234",
+          "title": {
+            "en": "Extract variable",
+            "zh-Hans": "Extract 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.goland.refactoring.1c558ac1d5",
+          "title": {
+            "en": "Extract method",
+            "zh-Hans": "Extract 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.goland.refactoring.de1ff69725",
+          "title": {
+            "en": "Refactor this",
+            "zh-Hans": "Refactor this"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.goland.refactoring.1a2fcd6c38",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.goland.refactoring.cfc647eb63",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.goland.editing.acae83bf39",
+          "title": {
+            "en": "Insert live template",
+            "zh-Hans": "插入 live 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.goland.editing.a56afd1009",
+          "title": {
+            "en": "Surround with live template",
+            "zh-Hans": "Surround with live template"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.goland.editing.c0013d37f9",
+          "title": {
+            "en": "Close active editor tab",
+            "zh-Hans": "关闭 活动 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.goland.editing.47836eb4be",
+          "title": {
+            "en": "Collapse all",
+            "zh-Hans": "折叠all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.goland.editing.37d978bbd1",
+          "title": {
+            "en": "Expand all",
+            "zh-Hans": "展开all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 768,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.goland.editing.5f36aacc56",
+          "title": {
+            "en": "Collapse code block",
+            "zh-Hans": "折叠code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.goland.editing.79baf488af",
+          "title": {
+            "en": "Expand code block",
+            "zh-Hans": "展开code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.goland.editing.0211bf55a7",
+          "title": {
+            "en": "Delete to word start",
+            "zh-Hans": "Delete to word start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 2048,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.goland.editing.48edf96812",
+          "title": {
+            "en": "Delete to word end",
+            "zh-Hans": "Delete to word end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.goland.editing.41e1602785",
+          "title": {
+            "en": "Select till code block end",
+            "zh-Hans": "Select till code block end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.goland.editing.9eca6948cc",
+          "title": {
+            "en": "Select till code block start",
+            "zh-Hans": "Select till code block start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.goland.editing.998a1d1b37",
+          "title": {
+            "en": "Toggle case",
+            "zh-Hans": "切换case"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.goland.editing.52a7c1bb5e",
+          "title": {
+            "en": "Start new line",
+            "zh-Hans": "开始 new 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.goland.editing.0cf918eb29",
+          "title": {
+            "en": "Smart line split",
+            "zh-Hans": "Smart 行 split"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.goland.editing.ac721a12ea",
+          "title": {
+            "en": "Smart line join",
+            "zh-Hans": "Smart 行 join"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4608,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.goland.editing.65da75225e",
+          "title": {
+            "en": "Delete line at caret",
+            "zh-Hans": "Delete line at caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.goland.editing.f766038d11",
+          "title": {
+            "en": "Duplicate current line",
+            "zh-Hans": "创建副本 当前 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.goland.editing.bd15add86a",
+          "title": {
+            "en": "Paste from recent buffers...",
+            "zh-Hans": "Paste from recent buffers..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.goland.editing.c41205ae3c",
+          "title": {
+            "en": "Paste from clipboard",
+            "zh-Hans": "Paste from clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.goland.editing.4dc82c12cd",
+          "title": {
+            "en": "Copy current line to clipboard",
+            "zh-Hans": "Copy current line to clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.goland.editing.76116b1c91",
+          "title": {
+            "en": "Cut current line to clipboard",
+            "zh-Hans": "Cut current line to clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.goland.editing.43633cc3d2",
+          "title": {
+            "en": "Indent / unindent selected lines",
+            "zh-Hans": "Indent / unindent selected lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.goland.editing.8b406f83a3",
+          "title": {
+            "en": "Auto-indent line",
+            "zh-Hans": "Auto-indent 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.goland.editing.a14e63d3db",
+          "title": {
+            "en": "Optimize imports",
+            "zh-Hans": "Optimize imports"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 6144,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.goland.editing.f53274747f",
+          "title": {
+            "en": "Reformat code",
+            "zh-Hans": "Reformat code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.goland.editing.1fa2c03149",
+          "title": {
+            "en": "Context info",
+            "zh-Hans": "Context info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4608,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.goland.editing.8dd194ddda",
+          "title": {
+            "en": "Comment with block comment",
+            "zh-Hans": "Comment with block comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 2304,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.goland.editing.b41ca659f5",
+          "title": {
+            "en": "Comment with line comment",
+            "zh-Hans": "Comment with line comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.goland.editing.90f5c47f37",
+          "title": {
+            "en": "Surround with …",
+            "zh-Hans": "Surround with …"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.goland.editing.0f78dbe51b",
+          "title": {
+            "en": "Implement methods",
+            "zh-Hans": "Implement methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.goland.editing.5cfa780cfd",
+          "title": {
+            "en": "Override methods",
+            "zh-Hans": "Override methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.goland.editing.25585196ec",
+          "title": {
+            "en": "Show descriptions of error at caret",
+            "zh-Hans": "Show descriptions of error at caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 256,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.goland.editing.ae0f3ff2ac",
+          "title": {
+            "en": "Brief info",
+            "zh-Hans": "Brief info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.goland.editing.44186f2e92",
+          "title": {
+            "en": "External doc",
+            "zh-Hans": "External doc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 512,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.goland.editing.0ade735c1b",
+          "title": {
+            "en": "Quick documentation lookup",
+            "zh-Hans": "Quick documentation lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4096,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.goland.editing.85f95268de",
+          "title": {
+            "en": "Complete statement",
+            "zh-Hans": "Complete statement"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.debugging",
+      "title": {
+        "en": "Debugging",
+        "zh-Hans": "调试"
+      },
+      "items": [
+        {
+          "id": "remote.goland.debugging.a855d669ad",
+          "title": {
+            "en": "View breakpoints",
+            "zh-Hans": "视图 breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 768,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.goland.debugging.be2a19bc7b",
+          "title": {
+            "en": "Toggle breakpoint",
+            "zh-Hans": "切换断点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.goland.debugging.7b188603fe",
+          "title": {
+            "en": "Resume program",
+            "zh-Hans": "Resume program"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.goland.debugging.78d89a955d",
+          "title": {
+            "en": "Evaluate expression",
+            "zh-Hans": "Evaluate expression"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2048,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.goland.debugging.8641d58894",
+          "title": {
+            "en": "Run to cursor",
+            "zh-Hans": "Run to cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2048,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.goland.debugging.57177a5867",
+          "title": {
+            "en": "Step out",
+            "zh-Hans": "单步跳出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.goland.debugging.fc8dd72b83",
+          "title": {
+            "en": "Step over",
+            "zh-Hans": "单步跳过"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.goland.debugging.97185f2bd4",
+          "title": {
+            "en": "Smart step into",
+            "zh-Hans": "Smart step into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.goland.debugging.fc0ed9c336",
+          "title": {
+            "en": "Step into",
+            "zh-Hans": "单步调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.search-replace",
+      "title": {
+        "en": "Search / Replace",
+        "zh-Hans": "搜索 / 替换"
+      },
+      "items": [
+        {
+          "id": "remote.goland.search-replace.309c88af78",
+          "title": {
+            "en": "Unselect occurrence",
+            "zh-Hans": "Unselect occurrence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.goland.search-replace.9d06e29263",
+          "title": {
+            "en": "Select all occurrences",
+            "zh-Hans": "全选 occurrences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4352,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.goland.search-replace.963418ae09",
+          "title": {
+            "en": "Select next occurrence",
+            "zh-Hans": "选择next occurrence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.goland.search-replace.d8b66c1095",
+          "title": {
+            "en": "Replace in path",
+            "zh-Hans": "Replace in path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.goland.search-replace.b36717c7bb",
+          "title": {
+            "en": "Find in path",
+            "zh-Hans": "Find in path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.goland.search-replace.eccb3fa2a7",
+          "title": {
+            "en": "Find previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.goland.search-replace.311842e8cb",
+          "title": {
+            "en": "Find next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.goland.search-replace.98bc8cfea2",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.goland.search-replace.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.show-tool-windows",
+      "title": {
+        "en": "Show Tool Windows",
+        "zh-Hans": "显示 Tool Windows"
+      },
+      "items": [
+        {
+          "id": "remote.goland.show-tool-windows.017cd61c6b",
+          "title": {
+            "en": "Show Terminal window",
+            "zh-Hans": "显示 终端 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 2048,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.ea20abec92",
+          "title": {
+            "en": "Show Commit window",
+            "zh-Hans": "显示 提交 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.a9400ff1e5",
+          "title": {
+            "en": "Show Version Control window",
+            "zh-Hans": "显示 Version Control 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.56fa17d8b0",
+          "title": {
+            "en": "Show Services window",
+            "zh-Hans": "显示 Services 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.d92753f593",
+          "title": {
+            "en": "Show Structure window",
+            "zh-Hans": "显示 Structure 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.5f9da55c88",
+          "title": {
+            "en": "Show Problems window",
+            "zh-Hans": "显示 Problems 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.fda934281d",
+          "title": {
+            "en": "Show Debug window",
+            "zh-Hans": "显示 调试 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.a63ed298a0",
+          "title": {
+            "en": "Show Run window",
+            "zh-Hans": "显示 Run 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.4cfc045a93",
+          "title": {
+            "en": "Show Find window",
+            "zh-Hans": "显示 查找 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.52a0c8a87a",
+          "title": {
+            "en": "Show Favorites window",
+            "zh-Hans": "显示 Favorites 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.goland.show-tool-windows.5983033075",
+          "title": {
+            "en": "Show Project window",
+            "zh-Hans": "显示 项目 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.goland.general.c79a22d592",
+          "title": {
+            "en": "Open settings dialog",
+            "zh-Hans": "打开 设置 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.goland.general.9cc11488b8",
+          "title": {
+            "en": "Quick switch current scheme",
+            "zh-Hans": "Quick switch current scheme"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.goland.general.170255e842",
+          "title": {
+            "en": "Inspect current file",
+            "zh-Hans": "Inspect 当前 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.goland.general.996f65ff55",
+          "title": {
+            "en": "Toggle maximizing editor",
+            "zh-Hans": "切换maximizing 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 768,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.goland.general.2d30510cb3",
+          "title": {
+            "en": "Synchronize",
+            "zh-Hans": "Synchronize"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.goland.general.0cf8b5a3dd",
+          "title": {
+            "en": "Save all",
+            "zh-Hans": "全部保存"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.goland.important",
+      "title": {
+        "en": "Important",
+        "zh-Hans": "重要"
+      },
+      "items": [
+        {
+          "id": "remote.goland.important.ded68f228b",
+          "title": {
+            "en": "Search everywhere",
+            "zh-Hans": "搜索 everywhere"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.goland.important.caf60fc1ab",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.goland.important.fb8248e666",
+          "title": {
+            "en": "Recent files popup",
+            "zh-Hans": "Recent 文件 popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.goland.important.9175461e1d",
+          "title": {
+            "en": "Extend selection",
+            "zh-Hans": "Extend 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.goland.important.24769c0e43",
+          "title": {
+            "en": "Shrink selection",
+            "zh-Hans": "收缩选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.goland.important.9cb938551d",
+          "title": {
+            "en": "Parameter info",
+            "zh-Hans": "Parameter info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.goland.important.3d9a420a71",
+          "title": {
+            "en": "Generate code",
+            "zh-Hans": "Generate code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.goland.important.653fbbb08b",
+          "title": {
+            "en": "Show intentions and quick-fixes",
+            "zh-Hans": "Show intentions and quick-fixes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.goland.important.e8f2c73e65",
+          "title": {
+            "en": "Smart code completion",
+            "zh-Hans": "Smart code completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4608,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.goland.important.70e9e2dfff",
+          "title": {
+            "en": "Basic code completion",
+            "zh-Hans": "Basic code completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.goland.important.f6370a3a00",
+          "title": {
+            "en": "Find action",
+            "zh-Hans": "查找 action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    }
+  ]
+}

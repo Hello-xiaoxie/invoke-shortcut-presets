@@ -1,0 +1,213 @@
+{
+  "bundleIdentifier": "com.openai.codex",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.openai-codex.thread",
+      "title": {
+        "en": "Thread",
+        "zh-Hans": "话题"
+      },
+      "items": [
+        {
+          "id": "remote.openai-codex.thread.d3abe7a96a",
+          "title": {
+            "en": "New thread",
+            "zh-Hans": "新建thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.openai-codex.thread.453f5837fa",
+          "title": {
+            "en": "Previous thread",
+            "zh-Hans": "上一个 thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.openai-codex.thread.a910c15730",
+          "title": {
+            "en": "Next thread",
+            "zh-Hans": "下一个 thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.openai-codex.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.openai-codex.file.3dd9440d72",
+          "title": {
+            "en": "Open folder",
+            "zh-Hans": "打开 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.openai-codex.file.c04694b443",
+          "title": {
+            "en": "Settings",
+            "zh-Hans": "设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.openai-codex.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.openai-codex.navigation.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.openai-codex.navigation.aa9816892f",
+          "title": {
+            "en": "Back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.openai-codex.navigation.f815d08615",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.openai-codex.panels",
+      "title": {
+        "en": "Panels",
+        "zh-Hans": "面板"
+      },
+      "items": [
+        {
+          "id": "remote.openai-codex.panels.377f91d86e",
+          "title": {
+            "en": "Toggle sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.openai-codex.panels.71ebf4b5cc",
+          "title": {
+            "en": "Toggle terminal",
+            "zh-Hans": "切换terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.openai-codex.panels.abbcfc6d46",
+          "title": {
+            "en": "Toggle diff panel",
+            "zh-Hans": "切换diff 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.openai-codex.skills",
+      "title": {
+        "en": "Skills",
+        "zh-Hans": "技能"
+      },
+      "items": [
+        {
+          "id": "remote.openai-codex.skills.438fd7e9d2",
+          "title": {
+            "en": "Force reload skills",
+            "zh-Hans": "Force reload skills"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.openai-codex.skills.108ec0423c",
+          "title": {
+            "en": "Go to skills",
+            "zh-Hans": "转到skills"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "bundleIdentifier": "com.linear",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.linear.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.linear.general.a5abb8743a",
+          "title": {
+            "en": "Logout",
+            "zh-Hans": "退出登录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2560,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.linear.general.2c3df79807",
+          "title": {
+            "en": "Toggle list/board view",
+            "zh-Hans": "切换列表/看板视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.linear.general.c399859dfa",
+          "title": {
+            "en": "Open details sidebar",
+            "zh-Hans": "打开详情侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.linear.general.498307c436",
+          "title": {
+            "en": "Move left",
+            "zh-Hans": "向左移动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.linear.general.e59790c5c8",
+          "title": {
+            "en": "Move right",
+            "zh-Hans": "向右移动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.linear.general.baa01c19ba",
+          "title": {
+            "en": "Move down",
+            "zh-Hans": "向下移动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.linear.general.9665ea931d",
+          "title": {
+            "en": "Move up",
+            "zh-Hans": "向上移动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.linear.general.be6234118a",
+          "title": {
+            "en": "Clear a list selection",
+            "zh-Hans": "清除a list 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.linear.general.6ca58f6fa8",
+          "title": {
+            "en": "Select in a list",
+            "zh-Hans": "选择in a list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.linear.general.6028ff9fad",
+          "title": {
+            "en": "Open focused item",
+            "zh-Hans": "打开 focused 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.linear.general.2e1214c878",
+          "title": {
+            "en": "Peek into issue (hover and hold)",
+            "zh-Hans": "Peek into issue (hover and hold)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.linear.general.47f895162c",
+          "title": {
+            "en": "Back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.linear.general.0e2f5cfd40",
+          "title": {
+            "en": "Save or submit",
+            "zh-Hans": "Save or submit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.linear.general.b19d185510",
+          "title": {
+            "en": "Open command menu",
+            "zh-Hans": "打开 command 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linear.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.linear.editor.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.linear.editor.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.linear.editor.5304cb2520",
+          "title": {
+            "en": "Turn text into link",
+            "zh-Hans": "Turn 文本 into 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.linear.editor.13a0d5ee21",
+          "title": {
+            "en": "Inline code",
+            "zh-Hans": "Inline code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.linear.editor.1d6233ac77",
+          "title": {
+            "en": "Code block",
+            "zh-Hans": "Code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.linear.editor.582c1bbb0b",
+          "title": {
+            "en": "Attach image/file",
+            "zh-Hans": "Attach 图片/文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.linear.editor.768661b903",
+          "title": {
+            "en": "Numbered list",
+            "zh-Hans": "Numbered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 768,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.linear.editor.03998cc4b6",
+          "title": {
+            "en": "Bulleted list",
+            "zh-Hans": "Bulleted list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 768,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.linear.editor.1b588dfa0c",
+          "title": {
+            "en": "Todo list",
+            "zh-Hans": "Todo list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 768,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.linear.editor.f79ef57789",
+          "title": {
+            "en": "Header (1-6)",
+            "zh-Hans": "页头 (1-6)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 768,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.linear.editor.47398ad061",
+          "title": {
+            "en": "Blockquote",
+            "zh-Hans": "Blockquote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.linear.editor.a332ad34d7",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "Strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.linear.editor.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.linear.editor.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.linear.editor.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linear.workflow",
+      "title": {
+        "en": "Workflow",
+        "zh-Hans": "工作流"
+      },
+      "items": [
+        {
+          "id": "remote.linear.workflow.0439adabdd",
+          "title": {
+            "en": "Comment on issue",
+            "zh-Hans": "Comment on issue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.linear.workflow.402daba594",
+          "title": {
+            "en": "Add to project",
+            "zh-Hans": "添加to 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.linear.workflow.1453fb912a",
+          "title": {
+            "en": "Add to active cycle",
+            "zh-Hans": "Add to active cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.linear.workflow.9cf02a1e6e",
+          "title": {
+            "en": "Add to cycle",
+            "zh-Hans": "添加to cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.linear.workflow.22b156ef62",
+          "title": {
+            "en": "Create sub-issue",
+            "zh-Hans": "创建子事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.linear.workflow.55e0a83682",
+          "title": {
+            "en": "Copy issue URL",
+            "zh-Hans": "复制事项 URL"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.linear.workflow.cc7fe5ba43",
+          "title": {
+            "en": "Copy git branch name",
+            "zh-Hans": "Copy git branch name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.linear.workflow.5e7c3fa438",
+          "title": {
+            "en": "Copy issue id",
+            "zh-Hans": "复制 事项 id"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linear.filtering-issues",
+      "title": {
+        "en": "Filtering issues",
+        "zh-Hans": "筛选议题"
+      },
+      "items": [
+        {
+          "id": "remote.linear.filtering-issues.794630029d",
+          "title": {
+            "en": "Clear all issue filters",
+            "zh-Hans": "Clear all issue filters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.linear.filtering-issues.e33f0773c9",
+          "title": {
+            "en": "Clear last issue filter",
+            "zh-Hans": "清除last 事项 滤镜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.linear.filtering-issues.0cc186cbce",
+          "title": {
+            "en": "Filter issues",
+            "zh-Hans": "滤镜 issues"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linear.issue-relations",
+      "title": {
+        "en": "Issue relations",
+        "zh-Hans": "议题关联"
+      },
+      "items": [
+        {
+          "id": "remote.linear.issue-relations.0e63855928",
+          "title": {
+            "en": "Reference related issue",
+            "zh-Hans": "引用 related 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.issue-relations.f8eff70a16",
+          "title": {
+            "en": "Mark as blocking",
+            "zh-Hans": "Mark as blocking"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.issue-relations.563c021a16",
+          "title": {
+            "en": "Mark as blocked",
+            "zh-Hans": "Mark as blocked"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linear.issue-actions",
+      "title": {
+        "en": "Issue actions",
+        "zh-Hans": "议题操作"
+      },
+      "items": [
+        {
+          "id": "remote.linear.issue-actions.c590abca11",
+          "title": {
+            "en": "Remove issue due date",
+            "zh-Hans": "Remove issue due date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.ab0dbfc51b",
+          "title": {
+            "en": "Set issue due date",
+            "zh-Hans": "Set issue due date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.3502144fd3",
+          "title": {
+            "en": "Manage issue subscribers",
+            "zh-Hans": "Manage 事项 subscribers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.58e34cc472",
+          "title": {
+            "en": "Subscribe to issue",
+            "zh-Hans": "Subscribe to issue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.07b8bbdbc7",
+          "title": {
+            "en": "Restore issue",
+            "zh-Hans": "Restore 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.f7f301bc68",
+          "title": {
+            "en": "Archive issue",
+            "zh-Hans": "归档事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.f9f1d5d271",
+          "title": {
+            "en": "Move to another team",
+            "zh-Hans": "Move to another team"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.f6ecfd7448",
+          "title": {
+            "en": "Set issue status",
+            "zh-Hans": "Set 事项 status"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.c8d918e142",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.98add6e60c",
+          "title": {
+            "en": "Remove due date",
+            "zh-Hans": "移除due date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.c84cbc30a9",
+          "title": {
+            "en": "Set due date",
+            "zh-Hans": "Set due date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.5c325c16b8",
+          "title": {
+            "en": "Change estimate",
+            "zh-Hans": "Change estimate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.ec76cb5a41",
+          "title": {
+            "en": "Change priority",
+            "zh-Hans": "Change priority"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.7271ecac14",
+          "title": {
+            "en": "Change status",
+            "zh-Hans": "Change status"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.a58a624929",
+          "title": {
+            "en": "Remove label",
+            "zh-Hans": "移除标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.e54d8123f9",
+          "title": {
+            "en": "Add label",
+            "zh-Hans": "添加标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.bb9320ce8e",
+          "title": {
+            "en": "Assign to me",
+            "zh-Hans": "分配给我"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.41a564038b",
+          "title": {
+            "en": "Assign to user",
+            "zh-Hans": "Assign to user"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.728572c8ad",
+          "title": {
+            "en": "Edit issue",
+            "zh-Hans": "编辑 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.linear.issue-actions.0d76a23656",
+          "title": {
+            "en": "New issue",
+            "zh-Hans": "新建issue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linear.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.linear.navigation.67334b8f14",
+          "title": {
+            "en": "Go to team",
+            "zh-Hans": "转到team"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4608,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.linear.navigation.2b98e363b2",
+          "title": {
+            "en": "Open a team",
+            "zh-Hans": "打开 a team"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.6483f0d948",
+          "title": {
+            "en": "Open my profile",
+            "zh-Hans": "打开 my profile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.d3b7a95438",
+          "title": {
+            "en": "Open a user",
+            "zh-Hans": "打开 a user"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.c940435648",
+          "title": {
+            "en": "Open a cycle",
+            "zh-Hans": "打开 a cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.a0356cd0c5",
+          "title": {
+            "en": "Open a project",
+            "zh-Hans": "Open a project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.f1b2a2d6c4",
+          "title": {
+            "en": "Open a favorite",
+            "zh-Hans": "打开 a favorite"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.fa8ae8bab1",
+          "title": {
+            "en": "Go to settings",
+            "zh-Hans": "转到settings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.6bb42eaac2",
+          "title": {
+            "en": "Go to projects",
+            "zh-Hans": "转到projects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.716940c0d3",
+          "title": {
+            "en": "Go to upcoming cycle",
+            "zh-Hans": "转到upcoming cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.dbbe0f255d",
+          "title": {
+            "en": "Go to active cycle",
+            "zh-Hans": "转到active cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.394a3d8a96",
+          "title": {
+            "en": "Go to cycles",
+            "zh-Hans": "转到cycles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.a46d3cd983",
+          "title": {
+            "en": "Go to board",
+            "zh-Hans": "转到board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.4668606b52",
+          "title": {
+            "en": "Go to all issues",
+            "zh-Hans": "转到all issues"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.714a7324f8",
+          "title": {
+            "en": "Go to archived issues",
+            "zh-Hans": "转到archived issues"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.46cb33308a",
+          "title": {
+            "en": "Go to backlog",
+            "zh-Hans": "转到backlog"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.17f27557af",
+          "title": {
+            "en": "Go to active issues",
+            "zh-Hans": "转到active issues"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.7ed1188596",
+          "title": {
+            "en": "Go to my issues",
+            "zh-Hans": "转到我的事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.318d879f11",
+          "title": {
+            "en": "Go to inbox",
+            "zh-Hans": "转到收件箱"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.linear.navigation.6f21db4c50",
+          "title": {
+            "en": "Open this view",
+            "zh-Hans": "Open this view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.linear.navigation.66d0ddd2bf",
+          "title": {
+            "en": "Open search",
+            "zh-Hans": "打开搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.linear.navigation.d2bcdac186",
+          "title": {
+            "en": "Open sub issue",
+            "zh-Hans": "打开 sub 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.linear.navigation.dbca969e5f",
+          "title": {
+            "en": "Open parent issue",
+            "zh-Hans": "打开 parent 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    }
+  ]
+}

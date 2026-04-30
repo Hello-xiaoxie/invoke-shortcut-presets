@@ -1,0 +1,366 @@
+{
+  "bundleIdentifier": "io.sipapp.Sip-paddle",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.sip.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.sip.general.143a834e3c",
+          "title": {
+            "en": "Show picker",
+            "zh-Hans": "显示 picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6400,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sip.general.ce625a8135",
+          "title": {
+            "en": "Show color panel",
+            "zh-Hans": "显示 颜色 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6400,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sip.general.5d2b5a4d04",
+          "title": {
+            "en": "Show menu bar",
+            "zh-Hans": "显示 菜单 bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 6400,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.sip.general.6103c0be55",
+          "title": {
+            "en": "Show contrast checker",
+            "zh-Hans": "显示 contrast checker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 6400,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.sip.general.00e28506d2",
+          "title": {
+            "en": "Get primary color",
+            "zh-Hans": "Get primary 颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6400,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sip.general.befb98d066",
+          "title": {
+            "en": "Get secondary color",
+            "zh-Hans": "Get secondary 颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 6400,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sip.picker",
+      "title": {
+        "en": "Picker",
+        "zh-Hans": "拾取器"
+      },
+      "items": [
+        {
+          "id": "remote.sip.picker.3707f7f5ed",
+          "title": {
+            "en": "Move picker left 1px",
+            "zh-Hans": "Move picker left 1px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.sip.picker.b61c326a25",
+          "title": {
+            "en": "Move picker right 1px",
+            "zh-Hans": "Move picker right 1px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.sip.picker.a09795db28",
+          "title": {
+            "en": "Move picker up 1px",
+            "zh-Hans": "Move picker up 1px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sip.picker.1ced4c8fb8",
+          "title": {
+            "en": "Move picker down 1px",
+            "zh-Hans": "Move picker down 1px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sip.picker.50e2ce0458",
+          "title": {
+            "en": "Move picker left 10px",
+            "zh-Hans": "Move picker left 10px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.sip.picker.72568092ac",
+          "title": {
+            "en": "Move picker right 10px",
+            "zh-Hans": "Move picker right 10px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.sip.picker.1c6fe40f7e",
+          "title": {
+            "en": "Move picker up 10px",
+            "zh-Hans": "Move picker up 10px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sip.picker.95aa69c462",
+          "title": {
+            "en": "Move picker down 10px",
+            "zh-Hans": "Move picker down 10px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sip.zoom-and-size",
+      "title": {
+        "en": "Zoom and size",
+        "zh-Hans": "缩放与尺寸"
+      },
+      "items": [
+        {
+          "id": "remote.sip.zoom-and-size.820ea2377c",
+          "title": {
+            "en": "Increase picker size",
+            "zh-Hans": "Increase picker size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.sip.zoom-and-size.712cdc1c64",
+          "title": {
+            "en": "Decrease picker size",
+            "zh-Hans": "Decrease picker size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.sip.zoom-and-size.62b935ecef",
+          "title": {
+            "en": "Increase picker zoom",
+            "zh-Hans": "Increase picker zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2048,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.sip.zoom-and-size.b715a7bf57",
+          "title": {
+            "en": "Decrease picker zoom",
+            "zh-Hans": "Decrease picker zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 2048,
+            "displayKey": "-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sip.color-and-formats",
+      "title": {
+        "en": "Color and formats",
+        "zh-Hans": "颜色与格式"
+      },
+      "items": [
+        {
+          "id": "remote.sip.color-and-formats.3ada90018c",
+          "title": {
+            "en": "Next color",
+            "zh-Hans": "下一个 颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6144,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sip.color-and-formats.af83566333",
+          "title": {
+            "en": "Previous color",
+            "zh-Hans": "上一个 颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6144,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sip.color-and-formats.6c9086b25b",
+          "title": {
+            "en": "Next format",
+            "zh-Hans": "下一个 format"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 6144,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.sip.color-and-formats.a9eeec3480",
+          "title": {
+            "en": "Previous format",
+            "zh-Hans": "上一个 format"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 6144,
+            "displayKey": "←"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sip.colorspace",
+      "title": {
+        "en": "Colorspace",
+        "zh-Hans": "色彩空间"
+      },
+      "items": [
+        {
+          "id": "remote.sip.colorspace.a5ddd168f5",
+          "title": {
+            "en": "Next color space",
+            "zh-Hans": "下一个 颜色 space"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.sip.colorspace.ba5f7a692a",
+          "title": {
+            "en": "Previous color space",
+            "zh-Hans": "上一个 颜色 space"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sip.color-dock",
+      "title": {
+        "en": "Color dock",
+        "zh-Hans": "颜色面板"
+      },
+      "items": [
+        {
+          "id": "remote.sip.color-dock.d1c3ff65ee",
+          "title": {
+            "en": "Show / hide color dock",
+            "zh-Hans": "显示 / 隐藏 颜色 dock"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6400,
+            "displayKey": "D"
+          }
+        }
+      ]
+    }
+  ]
+}

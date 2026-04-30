@@ -1,0 +1,1011 @@
+{
+  "bundleIdentifier": "com.culturedcode.ThingsMac",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.things-3.navigate",
+      "title": {
+        "en": "Navigate",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.navigate.49db5d0fb4",
+          "title": {
+            "en": "Go to Inbox",
+            "zh-Hans": "转到Inbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.b7e744f016",
+          "title": {
+            "en": "Go to Today",
+            "zh-Hans": "转到Today"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.877e74e178",
+          "title": {
+            "en": "Go to Upcoming",
+            "zh-Hans": "转到Upcoming"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.9939f11aa0",
+          "title": {
+            "en": "Go to Anytime",
+            "zh-Hans": "转到Anytime"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.9e61681b05",
+          "title": {
+            "en": "Go to Someday",
+            "zh-Hans": "转到Someday"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.459b3a1aa9",
+          "title": {
+            "en": "Go to Logbook",
+            "zh-Hans": "转到Logbook"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.413ed7b14f",
+          "title": {
+            "en": "Show to-do or project in context",
+            "zh-Hans": "Show to-do or project in context"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.c3af139327",
+          "title": {
+            "en": "Enter a selected project",
+            "zh-Hans": "Enter a 所选 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.087dfb902c",
+          "title": {
+            "en": "Return to previous list",
+            "zh-Hans": "Return to previous list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.b1677e3b92",
+          "title": {
+            "en": "Scroll to top",
+            "zh-Hans": "滚动到顶部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.3d2ab78725",
+          "title": {
+            "en": "Scroll to bottom",
+            "zh-Hans": "滚动到底部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.7bc04313e9",
+          "title": {
+            "en": "Navigate up in the sidebar",
+            "zh-Hans": "Navigate up in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.things-3.navigate.aea841214e",
+          "title": {
+            "en": "Navigate down in the sidebar",
+            "zh-Hans": "Navigate down in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.create-new-items",
+      "title": {
+        "en": "Create new items",
+        "zh-Hans": "创建新项目"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.create-new-items.9392481e2b",
+          "title": {
+            "en": "Create a new to-do",
+            "zh-Hans": "Create a new to-do"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.things-3.create-new-items.e5f6f01eb7",
+          "title": {
+            "en": "Create a new to-do below selection",
+            "zh-Hans": "Create a new to-do below selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.things-3.create-new-items.765754cf18",
+          "title": {
+            "en": "Paste plain text to create new to-dos",
+            "zh-Hans": "Paste plain text to create new to-dos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.things-3.create-new-items.65b772ab1b",
+          "title": {
+            "en": "Create a checklist in an open to-do",
+            "zh-Hans": "Create a checklist in an open to-do"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.things-3.create-new-items.cb82df10a8",
+          "title": {
+            "en": "Create a new heading",
+            "zh-Hans": "Create a new heading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.things-3.create-new-items.8ab16bbe57",
+          "title": {
+            "en": "Create heading for selected to-dos",
+            "zh-Hans": "Create heading for selected to-dos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2816,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.things-3.create-new-items.47228767c1",
+          "title": {
+            "en": "Create a new project",
+            "zh-Hans": "Create a new 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.things-3.create-new-items.a0eca93b1c",
+          "title": {
+            "en": "Open Quick Entry",
+            "zh-Hans": "打开 Quick Entry"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.things-3.create-new-items.69174e9511",
+          "title": {
+            "en": "Open Quick Entry with Autofill",
+            "zh-Hans": "Open Quick Entry with Autofill"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.edit-items",
+      "title": {
+        "en": "Edit items",
+        "zh-Hans": "编辑项目"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.edit-items.54ed8be1b7",
+          "title": {
+            "en": "Open a to-do or project",
+            "zh-Hans": "Open a to-do or project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.2ac88c8a7e",
+          "title": {
+            "en": "Save and close",
+            "zh-Hans": "Save and close"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.cae96cced5",
+          "title": {
+            "en": "Save and close",
+            "zh-Hans": "Save and close"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.bffbf91495",
+          "title": {
+            "en": "Duplicate a to-do or project",
+            "zh-Hans": "Duplicate a to-do or project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.066b6623fe",
+          "title": {
+            "en": "Copy a to-do or project",
+            "zh-Hans": "Copy a to-do or project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.169835b93d",
+          "title": {
+            "en": "Paste a to-do or project",
+            "zh-Hans": "Paste a to-do or project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.b48324afc4",
+          "title": {
+            "en": "Complete selected items",
+            "zh-Hans": "Complete 所选 items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.4532a69195",
+          "title": {
+            "en": "Cancel selected items",
+            "zh-Hans": "Cancel 所选 items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.109ef376f6",
+          "title": {
+            "en": "Delete selected items",
+            "zh-Hans": "删除 所选 items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-items.685b6bba3b",
+          "title": {
+            "en": "Move completed to Logbook",
+            "zh-Hans": "Move completed to Logbook"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.select-items",
+      "title": {
+        "en": "Select items",
+        "zh-Hans": "选择项目"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.select-items.c8d9dc7c26",
+          "title": {
+            "en": "Select item above",
+            "zh-Hans": "选择item 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.things-3.select-items.c81d59fb99",
+          "title": {
+            "en": "Select item below",
+            "zh-Hans": "选择item 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.things-3.select-items.3333333b5c",
+          "title": {
+            "en": "Extend selection upwards",
+            "zh-Hans": "Extend 选择 upwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.things-3.select-items.a5c01701a7",
+          "title": {
+            "en": "Extend selection downwards",
+            "zh-Hans": "Extend 选择 downwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.things-3.select-items.9c78674ece",
+          "title": {
+            "en": "Extend selection to the top",
+            "zh-Hans": "Extend selection to the top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.things-3.select-items.954b2d1432",
+          "title": {
+            "en": "Extend selection to the bottom",
+            "zh-Hans": "Extend selection to the bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.things-3.select-items.24b7ad5dfd",
+          "title": {
+            "en": "Select everything",
+            "zh-Hans": "选择everything"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.move-items",
+      "title": {
+        "en": "Move items",
+        "zh-Hans": "移动项目"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.move-items.4cc0d17a8c",
+          "title": {
+            "en": "Move selection to another list",
+            "zh-Hans": "Move selection to another list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.things-3.move-items.3e71306a20",
+          "title": {
+            "en": "Move copied to-dos and projects",
+            "zh-Hans": "Move copied to-dos and projects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.things-3.move-items.1431c597d6",
+          "title": {
+            "en": "Move selection up",
+            "zh-Hans": "移动selection 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.things-3.move-items.aadb11bb49",
+          "title": {
+            "en": "Move selection down",
+            "zh-Hans": "移动selection 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.things-3.move-items.f66ef10519",
+          "title": {
+            "en": "Move selection to top of list",
+            "zh-Hans": "Move selection to top of list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.things-3.move-items.1245999f48",
+          "title": {
+            "en": "Move selection to bottom of list",
+            "zh-Hans": "Move selection to bottom of list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.edit-dates",
+      "title": {
+        "en": "Edit dates",
+        "zh-Hans": "编辑日期"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.edit-dates.64278d2976",
+          "title": {
+            "en": "Show When",
+            "zh-Hans": "显示 When"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.e0a289a108",
+          "title": {
+            "en": "Start Today",
+            "zh-Hans": "开始 Today"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.98f767963a",
+          "title": {
+            "en": "Start This Evening",
+            "zh-Hans": "Start This Evening"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.a5e77379e4",
+          "title": {
+            "en": "Start Anytime",
+            "zh-Hans": "开始 Anytime"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.090ddb507c",
+          "title": {
+            "en": "Start Someday",
+            "zh-Hans": "开始 Someday"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.162b96b4db",
+          "title": {
+            "en": "Start date  1 day",
+            "zh-Hans": "开始 date  1 day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.6c3c70d623",
+          "title": {
+            "en": "Start date -1 day",
+            "zh-Hans": "开始 date -1 day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.e3a27f2e6b",
+          "title": {
+            "en": "Start date  1 week",
+            "zh-Hans": "开始 date  1 week"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 512,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.88e1b68588",
+          "title": {
+            "en": "Start date -1 week",
+            "zh-Hans": "开始 date -1 week"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 512,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.37569de250",
+          "title": {
+            "en": "Add a Deadline",
+            "zh-Hans": "添加a Deadline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.5cce791317",
+          "title": {
+            "en": "Deadline  1 day",
+            "zh-Hans": "Deadline  1 day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.5ee941712a",
+          "title": {
+            "en": "Deadline -1 day",
+            "zh-Hans": "Deadline -1 day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.b18354702f",
+          "title": {
+            "en": "Deadline  1 week",
+            "zh-Hans": "Deadline  1 week"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 512,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.0aedc4a529",
+          "title": {
+            "en": "Deadline -1 week",
+            "zh-Hans": "Deadline -1 week"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 512,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.things-3.edit-dates.4aa08a4565",
+          "title": {
+            "en": "Make to-do or project repeating",
+            "zh-Hans": "Make to-do or project repeating"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.control-windows",
+      "title": {
+        "en": "Control windows",
+        "zh-Hans": "控制窗口"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.control-windows.dc0dadf1fc",
+          "title": {
+            "en": "Open new window",
+            "zh-Hans": "打开新窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.things-3.control-windows.d54048a860",
+          "title": {
+            "en": "Cycle through open windows",
+            "zh-Hans": "Cycle through open windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.things-3.control-windows.0ab56ae849",
+          "title": {
+            "en": "Close current window",
+            "zh-Hans": "关闭 当前 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.things-3.control-windows.b7452b58ea",
+          "title": {
+            "en": "Close all windows",
+            "zh-Hans": "关闭 全部 windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.things-3.control-windows.45984618bb",
+          "title": {
+            "en": "Hide or show sidebar",
+            "zh-Hans": "Hide or show sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.things-3.control-windows.39649fb260",
+          "title": {
+            "en": "Hide or show toolbar",
+            "zh-Hans": "Hide or show toolbar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.things-3.control-windows.beb1102f3a",
+          "title": {
+            "en": "Full screen",
+            "zh-Hans": "全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.open-in-new-window",
+      "title": {
+        "en": "Open in new window",
+        "zh-Hans": "打开 in 新建窗口"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.open-in-new-window.0018e69346",
+          "title": {
+            "en": "Open selected project in new window",
+            "zh-Hans": "Open selected project in new window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.things-3.open-in-new-window.e308a4f21b",
+          "title": {
+            "en": "Any list",
+            "zh-Hans": "Any list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.search",
+      "title": {
+        "en": "Search",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.search.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.tags",
+      "title": {
+        "en": "Tags",
+        "zh-Hans": "标签"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.tags.64258ef0eb",
+          "title": {
+            "en": "Open tag window",
+            "zh-Hans": "打开 标签 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.things-3.tags.610b5e64ac",
+          "title": {
+            "en": "Close tag window",
+            "zh-Hans": "关闭 标签 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.things-3.tags.94cab17da0",
+          "title": {
+            "en": "Access tag picker for selected to-dos",
+            "zh-Hans": "Access tag picker for selected to-dos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.things-3.tags.9cd477490d",
+          "title": {
+            "en": "Destroy previous filter",
+            "zh-Hans": "Destroy 上一个 滤镜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 4096,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.things-3.links",
+      "title": {
+        "en": "Links",
+        "zh-Hans": "链接"
+      },
+      "items": [
+        {
+          "id": "remote.things-3.links.9b1d50f8da",
+          "title": {
+            "en": "Open a link",
+            "zh-Hans": "Open a link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2304,
+            "displayKey": "36"
+          }
+        }
+      ]
+    }
+  ]
+}

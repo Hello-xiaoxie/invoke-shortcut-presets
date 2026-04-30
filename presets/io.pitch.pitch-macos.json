@@ -1,0 +1,201 @@
+{
+  "bundleIdentifier": "io.pitch.pitch-macos",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.pitch.shortcuts",
+      "title": {
+        "en": "Shortcuts",
+        "zh-Hans": "快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.pitch.shortcuts.97f92105d7",
+          "title": {
+            "en": "access the quick menu",
+            "zh-Hans": "access the quick menu"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.66b2cee661",
+          "title": {
+            "en": "new presentation",
+            "zh-Hans": "new presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.df9e006ef9",
+          "title": {
+            "en": "go to workspace",
+            "zh-Hans": "go to workspace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.fbbc5b3bf1",
+          "title": {
+            "en": "open presentation",
+            "zh-Hans": "打开 presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.d1fa3a81aa",
+          "title": {
+            "en": "create template / normal text",
+            "zh-Hans": "create 模板 / normal 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.ed22037fdd",
+          "title": {
+            "en": "create folder",
+            "zh-Hans": "create 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.a7df2ae6e4",
+          "title": {
+            "en": "open a new presentation",
+            "zh-Hans": "打开 a new presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 512,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.7874eed3cf",
+          "title": {
+            "en": "headline",
+            "zh-Hans": "headline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.f78de28ce6",
+          "title": {
+            "en": "image",
+            "zh-Hans": "图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.970236fe48",
+          "title": {
+            "en": "shape",
+            "zh-Hans": "形状"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.ca5fecf928",
+          "title": {
+            "en": "enter the player",
+            "zh-Hans": "enter the player"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.bbb5e5a19c",
+          "title": {
+            "en": "add comment",
+            "zh-Hans": "add 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.d145eae39b",
+          "title": {
+            "en": "assign to",
+            "zh-Hans": "assign to"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.6cf9093d77",
+          "title": {
+            "en": "apply style",
+            "zh-Hans": "apply 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pitch.shortcuts.72c0fdc256",
+          "title": {
+            "en": "jump to slide",
+            "zh-Hans": "jump to slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        }
+      ]
+    }
+  ]
+}

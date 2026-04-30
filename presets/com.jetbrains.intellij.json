@@ -1,0 +1,1449 @@
+{
+  "bundleIdentifier": "com.jetbrains.intellij",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.intellij-idea.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.general-shortcuts.5847c8114d",
+          "title": {
+            "en": "Open Corresponding Tool Window",
+            "zh-Hans": "打开 Corresponding Tool 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.intellij-idea.general-shortcuts.8d66ec67e7",
+          "title": {
+            "en": "Save All",
+            "zh-Hans": "存储 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.general-shortcuts.2d30510cb3",
+          "title": {
+            "en": "Synchronize",
+            "zh-Hans": "Synchronize"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.general-shortcuts.69b4726738",
+          "title": {
+            "en": "Toggle Maximize Editor",
+            "zh-Hans": "切换Maximize 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 768,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.general-shortcuts.eb76dc0b06",
+          "title": {
+            "en": "Find Action",
+            "zh-Hans": "查找 Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.general-shortcuts.130d348f8c",
+          "title": {
+            "en": "Open Setting Dialog",
+            "zh-Hans": "打开 Setting 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.intellij-idea.general-shortcuts.2c43586ac2",
+          "title": {
+            "en": "Open Project Structure Dialog",
+            "zh-Hans": "打开 项目 Structure 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.intellij-idea.general-shortcuts.a9d8e4d902",
+          "title": {
+            "en": "Quick Switch Current Scheme",
+            "zh-Hans": "Quick Switch Current Scheme"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.general-shortcuts.df5feb7f0e",
+          "title": {
+            "en": "Inspect Current file with Current file",
+            "zh-Hans": "Inspect Current file with Current file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.intellij-idea.debugging-shortcuts",
+      "title": {
+        "en": "Debugging Shortcuts",
+        "zh-Hans": "调试快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.debugging-shortcuts.7f8d6347e5",
+          "title": {
+            "en": "Run to Cursor",
+            "zh-Hans": "Run to Cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2048,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.debugging-shortcuts.ab5b323c3f",
+          "title": {
+            "en": "Smart Step In/Step Out",
+            "zh-Hans": "Smart Step In/Step Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.debugging-shortcuts.d8c311358f",
+          "title": {
+            "en": "Step Over",
+            "zh-Hans": "Step Over"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.debugging-shortcuts.d0b12895eb",
+          "title": {
+            "en": "Step Into",
+            "zh-Hans": "Step Into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.debugging-shortcuts.fd5c03a90e",
+          "title": {
+            "en": "Evaluate Expression",
+            "zh-Hans": "Evaluate Expression"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2048,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.debugging-shortcuts.8bd9c47f47",
+          "title": {
+            "en": "Switch Breakpoint",
+            "zh-Hans": "Switch 断点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.debugging-shortcuts.b07e8939c3",
+          "title": {
+            "en": "View Breakpoints",
+            "zh-Hans": "视图 Breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 768,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.debugging-shortcuts.87cb1d512c",
+          "title": {
+            "en": "Resume Program",
+            "zh-Hans": "Resume Program"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.intellij-idea.editing-shortcuts",
+      "title": {
+        "en": "Editing Shortcuts",
+        "zh-Hans": "编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.eb93059641",
+          "title": {
+            "en": "Basic Code Completion",
+            "zh-Hans": "Basic Code Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.f84e9f23d1",
+          "title": {
+            "en": "Smart Code Completion",
+            "zh-Hans": "Smart Code Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4608,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.9611cbfe1c",
+          "title": {
+            "en": "Quick Documentation Setup",
+            "zh-Hans": "Quick Documentation Setup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4096,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.6e6287882b",
+          "title": {
+            "en": "External document",
+            "zh-Hans": "External 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 512,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.47c8e7abc3",
+          "title": {
+            "en": "Complete Statement",
+            "zh-Hans": "Complete Statement"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.60bb45ef36",
+          "title": {
+            "en": "Parameter Information",
+            "zh-Hans": "Parameter Information"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.662fbf66a7",
+          "title": {
+            "en": "Override Methods",
+            "zh-Hans": "Override Methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.3b1def2e19",
+          "title": {
+            "en": "Generate Code",
+            "zh-Hans": "Generate Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.1e5fda6fcf",
+          "title": {
+            "en": "Generate Code",
+            "zh-Hans": "Generate Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 4096,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.b971b718bc",
+          "title": {
+            "en": "Implement Methods",
+            "zh-Hans": "Implement Methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.863b2d792b",
+          "title": {
+            "en": "Surround With",
+            "zh-Hans": "Surround With"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.2ed96b80d0",
+          "title": {
+            "en": "Comment/Uncomment with Line Comment",
+            "zh-Hans": "Comment/Uncomment with Line Comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.f6f9a5a8c6",
+          "title": {
+            "en": "Comment/Uncomment with Block Comment",
+            "zh-Hans": "Comment/Uncomment with Block Comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.3b65f611c6",
+          "title": {
+            "en": "Extend Selection",
+            "zh-Hans": "Extend 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.9b260e3569",
+          "title": {
+            "en": "Shrink Selection",
+            "zh-Hans": "Shrink 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.c1c05a458a",
+          "title": {
+            "en": "Context Information",
+            "zh-Hans": "Context Information"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4608,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.4dc9fc93e6",
+          "title": {
+            "en": "Show Intention Actions and Quick Fixes",
+            "zh-Hans": "Show Intention Actions and Quick Fixes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.bb6da74a59",
+          "title": {
+            "en": "Reformat Code",
+            "zh-Hans": "Reformat Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.53920267d4",
+          "title": {
+            "en": "Duplicate Current Line",
+            "zh-Hans": "创建副本 当前 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.e60454d935",
+          "title": {
+            "en": "Cut/Copy/Paste Current line to Clipboard",
+            "zh-Hans": "Cut/Copy/Paste Current line to Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.0cd87c9612",
+          "title": {
+            "en": "Oraganize Import",
+            "zh-Hans": "Oraganize 导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 6144,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.91a6f5f320",
+          "title": {
+            "en": "AutoIndent Lines",
+            "zh-Hans": "AutoIndent Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.65da75225e",
+          "title": {
+            "en": "Delete line at caret",
+            "zh-Hans": "Delete line at caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.c1f7b35c54",
+          "title": {
+            "en": "Start New line",
+            "zh-Hans": "开始 New 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.ac721a12ea",
+          "title": {
+            "en": "Smart line join",
+            "zh-Hans": "Smart 行 join"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4608,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.0cf918eb29",
+          "title": {
+            "en": "Smart line split",
+            "zh-Hans": "Smart 行 split"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.1bfbe0251d",
+          "title": {
+            "en": "Close Active Editor Tab",
+            "zh-Hans": "关闭 活动 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.1b49b22d59",
+          "title": {
+            "en": "Expand All",
+            "zh-Hans": "展开All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.93bda5bce6",
+          "title": {
+            "en": "Collapse All",
+            "zh-Hans": "折叠All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.01b94cb12e",
+          "title": {
+            "en": "Expand/Collapse Code block",
+            "zh-Hans": "Expand/Collapse Code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.03204782e3",
+          "title": {
+            "en": "Delete to end word",
+            "zh-Hans": "Delete to end word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.0211bf55a7",
+          "title": {
+            "en": "Delete to word start",
+            "zh-Hans": "Delete to word start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 2048,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.41e1602785",
+          "title": {
+            "en": "Select till code block end",
+            "zh-Hans": "Select till code block end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.9eca6948cc",
+          "title": {
+            "en": "Select till code block start",
+            "zh-Hans": "Select till code block start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.intellij-idea.editing-shortcuts.c02d984752",
+          "title": {
+            "en": "Switch case for Word at Caret or Selected block",
+            "zh-Hans": "Switch case for Word at Caret or Selected block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.intellij-idea.find-and-replace-shortcuts",
+      "title": {
+        "en": "Find and Replace Shortcuts",
+        "zh-Hans": "查找 and 替换 Shortcuts"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.98bc8cfea2",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.5c4502c59a",
+          "title": {
+            "en": "Search Everywhere",
+            "zh-Hans": "搜索 Everywhere"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.f3971cf25f",
+          "title": {
+            "en": "Find in Path",
+            "zh-Hans": "Find in Path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.db9f5efd25",
+          "title": {
+            "en": "Replace in Path",
+            "zh-Hans": "Replace in Path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.3c3b6f6a49",
+          "title": {
+            "en": "Select Next Occurance",
+            "zh-Hans": "选择Next Occurance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.a256d89b1a",
+          "title": {
+            "en": "Select All Occurance",
+            "zh-Hans": "全选 Occurance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4352,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.find-and-replace-shortcuts.5d3e5fa530",
+          "title": {
+            "en": "Unselect Occurance",
+            "zh-Hans": "Unselect Occurance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.intellij-idea.refactoring",
+      "title": {
+        "en": "Refactoring",
+        "zh-Hans": "重构"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.refactoring.cfc647eb63",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.1a2fcd6c38",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.caf60fc1ab",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.7f54b87a47",
+          "title": {
+            "en": "Inline",
+            "zh-Hans": "Inline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.6e658cad46",
+          "title": {
+            "en": "Change Signature",
+            "zh-Hans": "Change Signature"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.de1ff69725",
+          "title": {
+            "en": "Refactor this",
+            "zh-Hans": "Refactor this"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.8a58b63810",
+          "title": {
+            "en": "Safe Delete",
+            "zh-Hans": "Safe 删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.5de98fb942",
+          "title": {
+            "en": "Extract Method",
+            "zh-Hans": "Extract 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.041b0fa96d",
+          "title": {
+            "en": "Extract Field",
+            "zh-Hans": "Extract Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.05e879e5a3",
+          "title": {
+            "en": "Extract parameter",
+            "zh-Hans": "Extract parameter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.8c305e36ba",
+          "title": {
+            "en": "Extract Constant",
+            "zh-Hans": "Extract Constant"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.refactoring.bb6c9134a2",
+          "title": {
+            "en": "Extract Variable",
+            "zh-Hans": "Extract 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.intellij-idea.usage-shortcuts",
+      "title": {
+        "en": "Usage Shortcuts",
+        "zh-Hans": "Usage快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.usage-shortcuts.8d6fed6904",
+          "title": {
+            "en": "Find Usage in File",
+            "zh-Hans": "Find Usage in File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.usage-shortcuts.e2b901f2f2",
+          "title": {
+            "en": "Find Usage",
+            "zh-Hans": "查找 Usage"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2048,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.usage-shortcuts.7006636d21",
+          "title": {
+            "en": "Highlight Usage in File",
+            "zh-Hans": "Highlight Usage in File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 768,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.usage-shortcuts.9889099428",
+          "title": {
+            "en": "Show Usage",
+            "zh-Hans": "显示 Usage"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2304,
+            "displayKey": "F7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.intellij-idea.vcs-local-history",
+      "title": {
+        "en": "VCS/Local History",
+        "zh-Hans": "版本控制/本地历史"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.vcs-local-history.acc3414678",
+          "title": {
+            "en": "VCS Quick Popup",
+            "zh-Hans": "VCS Quick Popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.vcs-local-history.529a4e56c2",
+          "title": {
+            "en": "Commit Project to VCS",
+            "zh-Hans": "Commit Project to VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.vcs-local-history.3cf8621ea4",
+          "title": {
+            "en": "Update Project from VCS",
+            "zh-Hans": "Update Project from VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.vcs-local-history.5b23ce6dda",
+          "title": {
+            "en": "Push Commits",
+            "zh-Hans": "Push Commits"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.intellij-idea.live-templates",
+      "title": {
+        "en": "Live Templates",
+        "zh-Hans": "动态模板"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.live-templates.3376bffb6e",
+          "title": {
+            "en": "Insert Live Template",
+            "zh-Hans": "插入 Live 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.live-templates.15d907a430",
+          "title": {
+            "en": "Surround with Live Template",
+            "zh-Hans": "Surround with Live Template"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.intellij-idea.navigation-shortcuts",
+      "title": {
+        "en": "Navigation Shortcuts",
+        "zh-Hans": "导航快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.dd7430f511",
+          "title": {
+            "en": "Go to Class",
+            "zh-Hans": "转到Class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.d71324300a",
+          "title": {
+            "en": "Go to File",
+            "zh-Hans": "转到文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.0da9ba7fb5",
+          "title": {
+            "en": "Go to Symbol",
+            "zh-Hans": "转到Symbol"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.a94bea17d5",
+          "title": {
+            "en": "Go back to Previous tool window",
+            "zh-Hans": "Go back to Previous tool window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.546cf79934",
+          "title": {
+            "en": "Go to Editor",
+            "zh-Hans": "转到Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.9f68f8c8da",
+          "title": {
+            "en": "Hide Active/Last Active Window",
+            "zh-Hans": "隐藏 活动/最后一个 活动 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.b83572be38",
+          "title": {
+            "en": "Go to Line",
+            "zh-Hans": "转到行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.a3e0a7940f",
+          "title": {
+            "en": "Recent files Popup",
+            "zh-Hans": "Recent 文件 Popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.3eb7e5516a",
+          "title": {
+            "en": "Select current file/Symbol in any View",
+            "zh-Hans": "Select current file/Symbol in any View"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 2048,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.3e5a6bad06",
+          "title": {
+            "en": "Go to Next/Previous Tab",
+            "zh-Hans": "转到Next/上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4096,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.8188453d18",
+          "title": {
+            "en": "Go to Type Declaration",
+            "zh-Hans": "转到Type Declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4608,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.b1c8451437",
+          "title": {
+            "en": "Navigate back/forward",
+            "zh-Hans": "Navigate back/向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.af30f17460",
+          "title": {
+            "en": "Go to last edit location",
+            "zh-Hans": "Go to last edit location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 768,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.a529e9b1a3",
+          "title": {
+            "en": "Go to super method/super class",
+            "zh-Hans": "Go to super method/super class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.3f7e5ac6b6",
+          "title": {
+            "en": "Type Hierarchy",
+            "zh-Hans": "Type Hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.8892337ca8",
+          "title": {
+            "en": "Method Hierarchy",
+            "zh-Hans": "方法 Hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.5d3cf3834c",
+          "title": {
+            "en": "Toggle Bookmark",
+            "zh-Hans": "切换Bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.6a39b8b093",
+          "title": {
+            "en": "Toggle Bookmark with Mnemonic",
+            "zh-Hans": "Toggle Bookmark with Mnemonic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.876b924b77",
+          "title": {
+            "en": "Show Bookmarks",
+            "zh-Hans": "显示 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.092c89a8a7",
+          "title": {
+            "en": "Go to Numbered Bookmark",
+            "zh-Hans": "转到Numbered 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.6c9f6a9e46",
+          "title": {
+            "en": "Show Navigation bar",
+            "zh-Hans": "显示 Navigation bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 2048,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.1b193c758a",
+          "title": {
+            "en": "Edit Source",
+            "zh-Hans": "编辑 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.6333e69304",
+          "title": {
+            "en": "View Source",
+            "zh-Hans": "视图 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.a3c281b437",
+          "title": {
+            "en": "Call Hierarchy",
+            "zh-Hans": "Call Hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 6144,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.96e1e9a9d6",
+          "title": {
+            "en": "File Structure Popup",
+            "zh-Hans": "文件 Structure Popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.e34425dfd3",
+          "title": {
+            "en": "Move to code block end/start",
+            "zh-Hans": "Move to code block end/start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.85e654345f",
+          "title": {
+            "en": "Go to Declaration",
+            "zh-Hans": "转到Declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.78af51ede7",
+          "title": {
+            "en": "Go to Previous/Next Method",
+            "zh-Hans": "转到Previous/下一个 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.intellij-idea.navigation-shortcuts.0acfb9a480",
+          "title": {
+            "en": "Open Quick Definition Lookup",
+            "zh-Hans": "Open Quick Definition Lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        }
+      ]
+    }
+  ]
+}

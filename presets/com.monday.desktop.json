@@ -1,0 +1,261 @@
+{
+  "bundleIdentifier": "com.monday.desktop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.monday-com.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.monday-com.general.0d136a88a4",
+          "title": {
+            "en": "Open Shortcut Cheat Sheet",
+            "zh-Hans": "打开 Shortcut Cheat 工作表"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 512,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.ccdce5ca3d",
+          "title": {
+            "en": "Bolt Switch - switch between boards",
+            "zh-Hans": "Bolt Switch - switch between boards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.eba886d1e9",
+          "title": {
+            "en": "Close Pulse Page, Dialogs, or Search",
+            "zh-Hans": "Close Pulse Page, Dialogs, or Search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.bf93014fba",
+          "title": {
+            "en": "Navigate to next cell/ previous cell",
+            "zh-Hans": "导航到next 单元格/ 上一个 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.8731afb2bf",
+          "title": {
+            "en": "Edit cell content",
+            "zh-Hans": "编辑 单元格 content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.e52669718a",
+          "title": {
+            "en": "Clear cell content",
+            "zh-Hans": "清除cell content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.7dbe27fb9f",
+          "title": {
+            "en": "Open column view",
+            "zh-Hans": "打开 列 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.59f9d4ae31",
+          "title": {
+            "en": "Search Boards",
+            "zh-Hans": "搜索 Boards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.666a3105ee",
+          "title": {
+            "en": "Enter an Update",
+            "zh-Hans": "Enter an Update"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.13619bc606",
+          "title": {
+            "en": "Close an Update",
+            "zh-Hans": "关闭 an Update"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.676f23e7c2",
+          "title": {
+            "en": "Exit fullscreen mode",
+            "zh-Hans": "Exit 全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.502b4beca2",
+          "title": {
+            "en": "Search Boards with BoltSwitch",
+            "zh-Hans": "Search Boards with BoltSwitch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.2ee7690a8e",
+          "title": {
+            "en": "Search Board/ Find",
+            "zh-Hans": "搜索 Board/ 查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.09041742eb",
+          "title": {
+            "en": "Copy cell content",
+            "zh-Hans": "复制 单元格 content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.5ce0b66d9b",
+          "title": {
+            "en": "Cut cell content",
+            "zh-Hans": "剪切 单元格 content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.4a7e28e1e3",
+          "title": {
+            "en": "Paste cell content",
+            "zh-Hans": "粘贴 单元格 content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.f224634943",
+          "title": {
+            "en": "Select pulse",
+            "zh-Hans": "选择pulse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.afc1449881",
+          "title": {
+            "en": "Select range of pulses",
+            "zh-Hans": "Select range of pulses"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.0d2a94a6b9",
+          "title": {
+            "en": "Collapes/ expand Group",
+            "zh-Hans": "Collapes/ expand 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.monday-com.general.69843b14ec",
+          "title": {
+            "en": "Add numbered and bulleted lists",
+            "zh-Hans": "Add numbered and bulleted lists"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 768,
+            "displayKey": "8"
+          }
+        }
+      ]
+    }
+  ]
+}

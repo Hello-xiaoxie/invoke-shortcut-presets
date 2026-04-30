@@ -1,0 +1,1764 @@
+{
+  "bundleIdentifier": "com.adobe.InCopy",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-incopy.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.tools.95455fde06",
+          "title": {
+            "en": "Switch between Text tool and Note tool",
+            "zh-Hans": "Switch between Text tool and Note tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tools.3ee36f1fa5",
+          "title": {
+            "en": "Temporarily switch from Text tool to Note Tool",
+            "zh-Hans": "Temporarily switch from Text tool to Note Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 2560,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tools.aa3457ad26",
+          "title": {
+            "en": "Temporarily switch to Hand tool (Layout view)",
+            "zh-Hans": "Temporarily switch to Hand tool (Layout view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tools.fe7756b05b",
+          "title": {
+            "en": "Temporarily switch to Zoom tool (Layout view)",
+            "zh-Hans": "Temporarily switch to Zoom tool (Layout view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tools.13b720869b",
+          "title": {
+            "en": "Temporarily switch to Zoom In tool (Layout view)",
+            "zh-Hans": "Temporarily switch to Zoom In tool (Layout view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tools.d985111310",
+          "title": {
+            "en": "Temporarily switch to Zoom Out tool (Layout view)",
+            "zh-Hans": "Temporarily switch to Zoom Out tool (Layout view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2304,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.navigation-shortcuts",
+      "title": {
+        "en": "Navigation Shortcuts",
+        "zh-Hans": "导航快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.c242dab72d",
+          "title": {
+            "en": "Go to first/last page (Layout view)",
+            "zh-Hans": "Go to first/last page (Layout view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.d20e5cd41d",
+          "title": {
+            "en": "Go to previous/next page (Layout view)",
+            "zh-Hans": "Go to previous/next page (Layout view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.edc0157af6",
+          "title": {
+            "en": "Move right/left one character",
+            "zh-Hans": "Move right/left one character"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.1c40e35f3d",
+          "title": {
+            "en": "Move up/down one line",
+            "zh-Hans": "Move up/down one line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.32c0735dd5",
+          "title": {
+            "en": "Move right/left one word",
+            "zh-Hans": "Move right/left one word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.323d9e32bd",
+          "title": {
+            "en": "Go to beginning of sentence forward/backward (Galley and Story views)",
+            "zh-Hans": "Go to beginning of sentence forward/backward (Galley and Story views)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.47282c46e4",
+          "title": {
+            "en": "Go to beginning/end of line",
+            "zh-Hans": "Go to beginning/end of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.e5789f913f",
+          "title": {
+            "en": "Go to previous/next paragraph",
+            "zh-Hans": "转到previous/下一个 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.994335a596",
+          "title": {
+            "en": "Go to next story (Galley view)",
+            "zh-Hans": "Go to next story (Galley view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.ff737bfcf3",
+          "title": {
+            "en": "Go to previous story (Galley view)",
+            "zh-Hans": "Go to previous story (Galley view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.88e8f187f9",
+          "title": {
+            "en": "Go to beginning/end of story",
+            "zh-Hans": "Go to beginning/end of story"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.0f40526b99",
+          "title": {
+            "en": "Select one character to the right/left",
+            "zh-Hans": "Select one character to the right/left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.80c6d454b6",
+          "title": {
+            "en": "Select one word to the right/left",
+            "zh-Hans": "Select one word to the right/left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.7e3baf093e",
+          "title": {
+            "en": "Select to the start/end of the line",
+            "zh-Hans": "Select to the start/end of the line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.7794449884",
+          "title": {
+            "en": "Select current paragraph (Galley and Story views)",
+            "zh-Hans": "Select current paragraph (Galley and Story views)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.47a65c6c6d",
+          "title": {
+            "en": "Select sentence forward/backward (Galley and Story views)",
+            "zh-Hans": "Select sentence forward/backward (Galley and Story views)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2816,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.20fbeec85e",
+          "title": {
+            "en": "Select one line above/below",
+            "zh-Hans": "选择one 行 上方/下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.2a5d979733",
+          "title": {
+            "en": "Select one paragraph before/after",
+            "zh-Hans": "Select one paragraph before/after"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.f925eac7c8",
+          "title": {
+            "en": "Select to beginning/end of story",
+            "zh-Hans": "Select to beginning/end of story"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 768,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.2d13d65b4a",
+          "title": {
+            "en": "Delete word in front of insertion point (Galley and Story views)",
+            "zh-Hans": "Delete word in front of insertion point (Galley and Story views)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.23e861d490",
+          "title": {
+            "en": "Delete current sentence (Galley and Story views)",
+            "zh-Hans": "Delete current sentence (Galley and Story views)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.c87029d2d2",
+          "title": {
+            "en": "Delete current paragraph (Galley and Story views)",
+            "zh-Hans": "Delete current paragraph (Galley and Story views)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2816,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.6def052c9d",
+          "title": {
+            "en": "Recompose all stories",
+            "zh-Hans": "Recompose 全部 stories"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.bd97c03c3e",
+          "title": {
+            "en": "Toggle current and previous view",
+            "zh-Hans": "Toggle current and previous view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.d3700bf14f",
+          "title": {
+            "en": "Go to Next window",
+            "zh-Hans": "转到Next 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.8881f1f62b",
+          "title": {
+            "en": "Go to Previous window",
+            "zh-Hans": "转到Previous 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 768,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.e76798629f",
+          "title": {
+            "en": "Scroll up/down one screen",
+            "zh-Hans": "Scroll up/down one screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.c688f8d9cc",
+          "title": {
+            "en": "Go to first/last spread",
+            "zh-Hans": "Go to first/last spread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2560,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.39bb7032a7",
+          "title": {
+            "en": "Go to first previous/ next spread",
+            "zh-Hans": "Go to first previous/ next spread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.39e67b8aa8",
+          "title": {
+            "en": "Fit selection in window",
+            "zh-Hans": "Fit selection in window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2304,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.a4844bfd0f",
+          "title": {
+            "en": "Increase screen to 50%/ 200%/400%",
+            "zh-Hans": "Increase screen to 50%/ 200%/400%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.navigation-shortcuts.faa55b17c1",
+          "title": {
+            "en": "Access view percent field",
+            "zh-Hans": "Access view percent field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.moving-and-transforming-graphics",
+      "title": {
+        "en": "Moving and Transforming Graphics",
+        "zh-Hans": "移动与变换图形"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.moving-and-transforming-graphics.b7b324395e",
+          "title": {
+            "en": "Increase/Decrease size/scale by 1%",
+            "zh-Hans": "Increase/Decrease size/scale by 1%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.moving-and-transforming-graphics.acee55d9a4",
+          "title": {
+            "en": "Increase/Decrease size/scale by 5%",
+            "zh-Hans": "Increase/Decrease size/scale by 5%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2304,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.moving-and-transforming-graphics.240d5493fb",
+          "title": {
+            "en": "Move selection",
+            "zh-Hans": "移动selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.moving-and-transforming-graphics.abf8a2a5f5",
+          "title": {
+            "en": "Move selection by 1/10th",
+            "zh-Hans": "Move selection by 1/10th"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.moving-and-transforming-graphics.576c4f37dd",
+          "title": {
+            "en": "Move selection by 10 times",
+            "zh-Hans": "Move selection by 10 times"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.working-with-text",
+      "title": {
+        "en": "Working with Text",
+        "zh-Hans": "文本操作"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.working-with-text.a88e6a9e37",
+          "title": {
+            "en": "Enables the Position tool in text",
+            "zh-Hans": "Enables the Position tool in text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.e9673eca9b",
+          "title": {
+            "en": "Normal horizontal scale",
+            "zh-Hans": "Normal 水平 scale"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.8b9c41c8d5",
+          "title": {
+            "en": "Normal vertical scale",
+            "zh-Hans": "Normal 垂直 scale"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2816,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.4bcf972709",
+          "title": {
+            "en": "Increase/Decrease text point size",
+            "zh-Hans": "Increase/Decrease text point size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.b9bdd89597",
+          "title": {
+            "en": "Increase/Decrease text point size five times",
+            "zh-Hans": "Increase/Decrease text point size five times"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2816,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.5fab316f51",
+          "title": {
+            "en": "Increase/Decrease leading (horizontal text)",
+            "zh-Hans": "Increase/Decrease leading (horizontal text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.e621a8b0ef",
+          "title": {
+            "en": "Increase/Decrease leading (vertical text)",
+            "zh-Hans": "Increase/Decrease leading (vertical text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.88d9e273e3",
+          "title": {
+            "en": "Increase/Decrease leading five times (horizontal text)",
+            "zh-Hans": "Increase/Decrease leading five times (horizontal text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.648adafef9",
+          "title": {
+            "en": "Increase/Decrease leading five times (vertical text)",
+            "zh-Hans": "Increase/Decrease leading five times (vertical text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.f75462fba8",
+          "title": {
+            "en": "Auto leading",
+            "zh-Hans": "Auto leading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2816,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.2c645cb9b1",
+          "title": {
+            "en": "Increase/Decrease kerning/tracking",
+            "zh-Hans": "Increase/Decrease kerning/tracking"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.b18a251e55",
+          "title": {
+            "en": "Increase/Decrease kerning/tracking five times",
+            "zh-Hans": "Increase/Decrease kerning/tracking five times"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.ec696a3db4",
+          "title": {
+            "en": "Reset all manual kerning preferences (reset track to 0)",
+            "zh-Hans": "Reset all manual kerning preferences (reset track to 0)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2304,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.606b9e5f54",
+          "title": {
+            "en": "Increase/Decrease baseline shift (horizontal text)",
+            "zh-Hans": "Increase/Decrease baseline shift (horizontal text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.0970c68d9e",
+          "title": {
+            "en": "Increase/Decrease baseline shift (vertical text)",
+            "zh-Hans": "Increase/Decrease baseline shift (vertical text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.6ec5441627",
+          "title": {
+            "en": "Increase/Decrease baseline shift five times (horizontal text)",
+            "zh-Hans": "Increase/Decrease baseline shift five times (horizontal text)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2816,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.6fcf3c7cd0",
+          "title": {
+            "en": "Increase/Decrease word space kerning",
+            "zh-Hans": "Increase/Decrease word space kerning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 2304,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.e1ca82895c",
+          "title": {
+            "en": "Increase/Decrease word space kerning five times",
+            "zh-Hans": "Increase/Decrease word space kerning five times"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 2816,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.ce6ab578e3",
+          "title": {
+            "en": "Align text left/center/right",
+            "zh-Hans": "对齐 文本 左/中心/右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.f00272eac5",
+          "title": {
+            "en": "Justify with last line aligned left",
+            "zh-Hans": "Justify with last line aligned left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.387a2a27f0",
+          "title": {
+            "en": "Justify all lines",
+            "zh-Hans": "Justify 全部 lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.f3857c0c55",
+          "title": {
+            "en": "Insert right indent tab",
+            "zh-Hans": "插入 右 indent 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.82efa85497",
+          "title": {
+            "en": "Update missing font list",
+            "zh-Hans": "Update missing font list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2816,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-text.b51a9ed28e",
+          "title": {
+            "en": "Toggle typographer’s quotes preference",
+            "zh-Hans": "Toggle typographer’s quotes preference"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2816,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.working-with-types",
+      "title": {
+        "en": "Working with Types",
+        "zh-Hans": "Types操作"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.working-with-types.6d68d0a03b",
+          "title": {
+            "en": "Open Justification dialog box",
+            "zh-Hans": "Open Justification dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2816,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.3c785ee286",
+          "title": {
+            "en": "Open Keep Options dialog box",
+            "zh-Hans": "Open Keep Options dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.bcc06296d1",
+          "title": {
+            "en": "Open Paragraph Rules dialog box",
+            "zh-Hans": "Open Paragraph Rules dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.fc378fe6e6",
+          "title": {
+            "en": "Redefine character style",
+            "zh-Hans": "Redefine 字符 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.0418c2742c",
+          "title": {
+            "en": "Open Drop Caps and Nested Styles dialog box",
+            "zh-Hans": "Open Drop Caps and Nested Styles dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.51a00efdb4",
+          "title": {
+            "en": "Redefine paragraph style",
+            "zh-Hans": "Redefine 段落 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2816,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.daf410d10d",
+          "title": {
+            "en": "Toggle all caps (on/off)",
+            "zh-Hans": "Toggle all caps (on/off)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.43ee84423f",
+          "title": {
+            "en": "Toggle small caps (on/off)",
+            "zh-Hans": "Toggle small caps (on/off)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.dad4dbf9f0",
+          "title": {
+            "en": "Superscript",
+            "zh-Hans": "Superscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 768,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.5d4b83ccc1",
+          "title": {
+            "en": "Subscript",
+            "zh-Hans": "Subscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2816,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.041f43c8d6",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.c0be314f6e",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "Strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.16ab7f3801",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.7da188aa27",
+          "title": {
+            "en": "Normal",
+            "zh-Hans": "Normal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.7c4e03452f",
+          "title": {
+            "en": "Toggle align to grid (on/off)",
+            "zh-Hans": "Toggle align to grid (on/off)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-types.61512aadb1",
+          "title": {
+            "en": "Toggle auto-hyphenate (on/off)",
+            "zh-Hans": "Toggle auto-hyphenate (on/off)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2816,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.find-and-replace",
+      "title": {
+        "en": "Find and Replace",
+        "zh-Hans": "查找和替换"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.find-and-replace.ff43d9a36f",
+          "title": {
+            "en": "Insert selected text into Find What box",
+            "zh-Hans": "Insert selected text into Find What box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 256,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.find-and-replace.49ce465563",
+          "title": {
+            "en": "Insert selected text into Find What box and find next",
+            "zh-Hans": "Insert selected text into Find What box and find next"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 512,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.find-and-replace.44aaebe187",
+          "title": {
+            "en": "Replace selected text with Change To text",
+            "zh-Hans": "Replace selected text with Change To text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.find-and-replace.dd7e64e7e3",
+          "title": {
+            "en": "Replace selected text with Change To text and find next",
+            "zh-Hans": "Replace selected text with Change To text and find next"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.find-and-replace.c24c0e17f7",
+          "title": {
+            "en": "Insert selected text into Replace box",
+            "zh-Hans": "Insert selected text into Replace box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 256,
+            "displayKey": "F2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.tables",
+      "title": {
+        "en": "Tables",
+        "zh-Hans": "表格"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.tables.990e0c47a4",
+          "title": {
+            "en": "Clear cell",
+            "zh-Hans": "清除cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tables.1804393256",
+          "title": {
+            "en": "Move to next cell",
+            "zh-Hans": "移动to 下一个 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tables.0257a21240",
+          "title": {
+            "en": "Move to previous cell",
+            "zh-Hans": "移动to 上一个 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tables.a307d80752",
+          "title": {
+            "en": "Move up/down through table cells",
+            "zh-Hans": "Move up/down through table cells"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tables.e2af000465",
+          "title": {
+            "en": "Move to first/last cell in column",
+            "zh-Hans": "Move to first/last cell in column"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tables.8b4362e883",
+          "title": {
+            "en": "Move to first/last cell in row",
+            "zh-Hans": "Move to first/last cell in row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 2048,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tables.8d7a5199a2",
+          "title": {
+            "en": "Move to first/last row in frame",
+            "zh-Hans": "Move to first/last row in frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tables.86680bb93a",
+          "title": {
+            "en": "Select cells above/below",
+            "zh-Hans": "选择cells 上方/下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.tables.ac43756099",
+          "title": {
+            "en": "Select cells to the right/left",
+            "zh-Hans": "Select cells to the right/left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.type-panel-and-dialog-boxes",
+      "title": {
+        "en": "Type Panel and Dialog Boxes",
+        "zh-Hans": "文字面板和对话框"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.type-panel-and-dialog-boxes.6d68d0a03b",
+          "title": {
+            "en": "Open Justification dialog box",
+            "zh-Hans": "Open Justification dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2816,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.type-panel-and-dialog-boxes.bcc06296d1",
+          "title": {
+            "en": "Open Paragraph Rules dialog box",
+            "zh-Hans": "Open Paragraph Rules dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.type-panel-and-dialog-boxes.3c785ee286",
+          "title": {
+            "en": "Open Keep Options dialog box",
+            "zh-Hans": "Open Keep Options dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.type-panel-and-dialog-boxes.25ee394756",
+          "title": {
+            "en": "Activate Character panel",
+            "zh-Hans": "Activate 字符 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.type-panel-and-dialog-boxes.f0b4e63b75",
+          "title": {
+            "en": "Activate Paragraph panel",
+            "zh-Hans": "Activate 段落 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.character-and-paragraph-styles",
+      "title": {
+        "en": "Character and Paragraph Styles",
+        "zh-Hans": "字符与段落样式"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.character-and-paragraph-styles.b67499addc",
+          "title": {
+            "en": "Make character style definition match text",
+            "zh-Hans": "Make 字符 样式 定义 match 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.character-and-paragraph-styles.9417c7e776",
+          "title": {
+            "en": "Make paragraph style definition match text",
+            "zh-Hans": "Make 段落 样式 定义 match 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.character-and-paragraph-styles.becb42fdf4",
+          "title": {
+            "en": "Show/hide Paragraph and Character Styles panels, respectively",
+            "zh-Hans": "Show/hide Paragraph and Character Styles panels, respectively"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.thesaurus",
+      "title": {
+        "en": "Thesaurus",
+        "zh-Hans": "同义词词典"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.thesaurus.fb83d2f205",
+          "title": {
+            "en": "Load word",
+            "zh-Hans": "Load 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 768,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.thesaurus.471e4b99f2",
+          "title": {
+            "en": "Look up word",
+            "zh-Hans": "Look 上 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 768,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.thesaurus.9d484fde0d",
+          "title": {
+            "en": "Change word",
+            "zh-Hans": "Change 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 768,
+            "displayKey": "7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.working-with-xml",
+      "title": {
+        "en": "Working with XML",
+        "zh-Hans": "XML操作"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.working-with-xml.6f3df318a0",
+          "title": {
+            "en": "Expand/Collapse element",
+            "zh-Hans": "Expand/Collapse 元素"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-xml.cf3631bb39",
+          "title": {
+            "en": "Expand/Collapse element and child elements",
+            "zh-Hans": "Expand/Collapse element and child elements"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-xml.6037a88a07",
+          "title": {
+            "en": "Extend XML selection up/down",
+            "zh-Hans": "Extend XML 选择 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-xml.65cfd83869",
+          "title": {
+            "en": "Move XML selection up/down",
+            "zh-Hans": "移动XML 选择 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-xml.e14f5f0833",
+          "title": {
+            "en": "Scroll structure pane up/down one screen",
+            "zh-Hans": "Scroll structure pane up/down one screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-xml.4c8d350b5e",
+          "title": {
+            "en": "Select first/last XML node",
+            "zh-Hans": "Select first/last XML node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-xml.f0d42531e0",
+          "title": {
+            "en": "Extend selection to first/last XML node",
+            "zh-Hans": "Extend selection to first/last XML node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-xml.fb8b9b9924",
+          "title": {
+            "en": "Go to previous/next validation error",
+            "zh-Hans": "Go to previous/next validation error"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.working-with-xml.642fdad455",
+          "title": {
+            "en": "Automatically tag text frames and tables",
+            "zh-Hans": "Automatically tag text frames and tables"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2816,
+            "displayKey": "F7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-incopy.other-shortcuts",
+      "title": {
+        "en": "Other Shortcuts",
+        "zh-Hans": "其他快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.c66005ca57",
+          "title": {
+            "en": "Close current document",
+            "zh-Hans": "关闭 当前 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.f26d8f85c5",
+          "title": {
+            "en": "Close all documents",
+            "zh-Hans": "关闭 全部 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2816,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.152c63d7a7",
+          "title": {
+            "en": "Save all documents",
+            "zh-Hans": "存储 全部 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.83356c9c9d",
+          "title": {
+            "en": "Expand all stories",
+            "zh-Hans": "展开all stories"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.f738dfc282",
+          "title": {
+            "en": "Collapse all stories",
+            "zh-Hans": "折叠all stories"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2816,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.acdc0d9946",
+          "title": {
+            "en": "Show/Hide all toolbars and panels",
+            "zh-Hans": "Show/Hide all toolbars and panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 2304,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.65d4351712",
+          "title": {
+            "en": "New default document",
+            "zh-Hans": "新建default 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.ab1affa2a0",
+          "title": {
+            "en": "Display Links panel",
+            "zh-Hans": "Display Links 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.4c4973b704",
+          "title": {
+            "en": "Activate last-used field in panel",
+            "zh-Hans": "Activate last-used field in panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 2304,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.4659946617",
+          "title": {
+            "en": "Update beginning to cursor info",
+            "zh-Hans": "Update beginning to cursor info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2816,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.6be681d99e",
+          "title": {
+            "en": "Update copyfit progress info",
+            "zh-Hans": "Update copyfit progress info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2816,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.6ea47922ef",
+          "title": {
+            "en": "Update cursor to end info",
+            "zh-Hans": "Update cursor to end info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 2816,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.b9aa4a5f5f",
+          "title": {
+            "en": "Update selection info",
+            "zh-Hans": "Update 选择 info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2816,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.559ee7986f",
+          "title": {
+            "en": "Update whole story info",
+            "zh-Hans": "Update whole story info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2816,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.394d5e7681",
+          "title": {
+            "en": "Force redraw",
+            "zh-Hans": "Force redraw"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.b09485a050",
+          "title": {
+            "en": "Toggle units",
+            "zh-Hans": "切换units"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2816,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.dc7c2f701b",
+          "title": {
+            "en": "New text macro",
+            "zh-Hans": "新建text macro"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2304,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.598d65be13",
+          "title": {
+            "en": "Edit text macro",
+            "zh-Hans": "编辑 文本 macro"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2816,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-incopy.other-shortcuts.140b9086b8",
+          "title": {
+            "en": "Insert macro text",
+            "zh-Hans": "插入 macro 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2560,
+            "displayKey": "F8"
+          }
+        }
+      ]
+    }
+  ]
+}

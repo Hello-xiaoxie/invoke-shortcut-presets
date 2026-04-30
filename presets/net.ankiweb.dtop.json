@@ -1,0 +1,1224 @@
+{
+  "bundleIdentifier": "net.ankiweb.dtop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.anki.browser",
+      "title": {
+        "en": "Browser",
+        "zh-Hans": "浏览器"
+      },
+      "items": [
+        {
+          "id": "remote.anki.browser.b5cd542cee",
+          "title": {
+            "en": "Preview",
+            "zh-Hans": "预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.anki.browser.7980293dcc",
+          "title": {
+            "en": "Last card",
+            "zh-Hans": "最后一个 card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.anki.browser.156ee2b9f6",
+          "title": {
+            "en": "Goto previous card",
+            "zh-Hans": "Goto 上一个 card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.anki.browser.c4f5ca37c4",
+          "title": {
+            "en": "Goto next card",
+            "zh-Hans": "Goto 下一个 card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.anki.browser.60fff91e8b",
+          "title": {
+            "en": "First card",
+            "zh-Hans": "第一个 card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.anki.browser.1790d574a0",
+          "title": {
+            "en": "Goto card list",
+            "zh-Hans": "Goto card list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.anki.browser.85bf9548e0",
+          "title": {
+            "en": "Goto note",
+            "zh-Hans": "Goto 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.anki.browser.bc9746319b",
+          "title": {
+            "en": "Goto sidebar",
+            "zh-Hans": "Goto 侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.anki.browser.2f35fa9246",
+          "title": {
+            "en": "Filter",
+            "zh-Hans": "筛选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.anki.browser.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.anki.browser.08178f97bf",
+          "title": {
+            "en": "Info",
+            "zh-Hans": "Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.anki.browser.6c64748300",
+          "title": {
+            "en": "Suspend",
+            "zh-Hans": "Suspend"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.anki.browser.b9bab7a368",
+          "title": {
+            "en": "Reposition",
+            "zh-Hans": "Reposition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.anki.browser.e967f9ddaf",
+          "title": {
+            "en": "Reschedule",
+            "zh-Hans": "Reschedule"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.anki.browser.029cc35351",
+          "title": {
+            "en": "Change deck",
+            "zh-Hans": "Change deck"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.anki.browser.4d0e883763",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.anki.browser.4e6418098c",
+          "title": {
+            "en": "Find and replace",
+            "zh-Hans": "Find and replace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.anki.browser.651a1b63e8",
+          "title": {
+            "en": "Change note type",
+            "zh-Hans": "Change 笔记 type"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.anki.browser.bd16244ddd",
+          "title": {
+            "en": "Toggle mark",
+            "zh-Hans": "切换mark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.anki.browser.686a615df8",
+          "title": {
+            "en": "Remove tags",
+            "zh-Hans": "移除tags"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.anki.browser.2afd468622",
+          "title": {
+            "en": "Add tags",
+            "zh-Hans": "添加tags"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.anki.browser.1844781940",
+          "title": {
+            "en": "Export Notes",
+            "zh-Hans": "导出 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.anki.browser.f353e944ad",
+          "title": {
+            "en": "Add Notes",
+            "zh-Hans": "添加Notes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.anki.browser.ee457d59f8",
+          "title": {
+            "en": "Invert selection",
+            "zh-Hans": "Invert 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.anki.browser.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.anki.browser.5a042d0632",
+          "title": {
+            "en": "Suspend card",
+            "zh-Hans": "Suspend card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.browser.99e0a76abe",
+          "title": {
+            "en": "Suspend note",
+            "zh-Hans": "Suspend 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.browser.2ca7088d80",
+          "title": {
+            "en": "Bury card",
+            "zh-Hans": "Bury card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.anki.browser.834cec5b29",
+          "title": {
+            "en": "Bury note",
+            "zh-Hans": "Bury 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.anki.browser.b37ed951e9",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.anki.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.anki.editor.a69d93addf",
+          "title": {
+            "en": "History",
+            "zh-Hans": "历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.anki.editor.40260bc447",
+          "title": {
+            "en": "Add card",
+            "zh-Hans": "添加card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.anki.editor.f1b21188db",
+          "title": {
+            "en": "Edit HTML",
+            "zh-Hans": "编辑 HTML"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.anki.editor.435aed5ce9",
+          "title": {
+            "en": "Insert latex math environment",
+            "zh-Hans": "Insert latex math environment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.editor.12165cc124",
+          "title": {
+            "en": "Insert latex equation",
+            "zh-Hans": "插入 latex equation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.editor.6622218517",
+          "title": {
+            "en": "Insert latex",
+            "zh-Hans": "插入 latex"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.editor.a773e2533a",
+          "title": {
+            "en": "Insert mathjax chemistry",
+            "zh-Hans": "插入 mathjax chemistry"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.editor.835bda7ea4",
+          "title": {
+            "en": "Insert mathjax block",
+            "zh-Hans": "插入 mathjax block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.editor.3d613fe655",
+          "title": {
+            "en": "Insert mathjax inline",
+            "zh-Hans": "插入 mathjax inline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.editor.4c86aea871",
+          "title": {
+            "en": "Focus tags",
+            "zh-Hans": "聚焦tags"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.anki.editor.55c1442387",
+          "title": {
+            "en": "Record audio",
+            "zh-Hans": "Record 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.anki.editor.6a25a14f0c",
+          "title": {
+            "en": "Attach pictures/audio/video",
+            "zh-Hans": "Attach pictures/音频/视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.anki.editor.454081629f",
+          "title": {
+            "en": "Cloze deletion",
+            "zh-Hans": "Cloze deletion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.anki.editor.47f80391b0",
+          "title": {
+            "en": "Change Colour",
+            "zh-Hans": "Change Colour"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.anki.editor.8fcfd0e5e5",
+          "title": {
+            "en": "Set foreground",
+            "zh-Hans": "Set foreground"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.anki.editor.94ff87d8cf",
+          "title": {
+            "en": "Remove format",
+            "zh-Hans": "移除format"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.anki.editor.f49766cc1a",
+          "title": {
+            "en": "Subscript",
+            "zh-Hans": "Subscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.anki.editor.c383e35474",
+          "title": {
+            "en": "Superscript",
+            "zh-Hans": "Superscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.anki.editor.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.anki.editor.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.anki.editor.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.anki.editor.8298b8643a",
+          "title": {
+            "en": "Customize Card Templates",
+            "zh-Hans": "Customize Card 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.anki.reviewer",
+      "title": {
+        "en": "Reviewer",
+        "zh-Hans": "审阅器"
+      },
+      "items": [
+        {
+          "id": "remote.anki.reviewer.152ac1392b",
+          "title": {
+            "en": "Replay Own Voice",
+            "zh-Hans": "Replay Own Voice"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.6a3b7f1b5e",
+          "title": {
+            "en": "Record Own Voice",
+            "zh-Hans": "Record Own Voice"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.55dd50a4b7",
+          "title": {
+            "en": "Audio  5s",
+            "zh-Hans": "音频  5s"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 0,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.79f4ce9fe6",
+          "title": {
+            "en": "Audio -5s",
+            "zh-Hans": "音频 -5s"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 0,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.28537001e8",
+          "title": {
+            "en": "Pause Audio",
+            "zh-Hans": "Pause 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 0,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.3bd634ab68",
+          "title": {
+            "en": "Replay Audio",
+            "zh-Hans": "Replay 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.f563ecf4dd",
+          "title": {
+            "en": "Options",
+            "zh-Hans": "Options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.51eb1fecb8",
+          "title": {
+            "en": "Delete Note",
+            "zh-Hans": "删除 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.90acd04754",
+          "title": {
+            "en": "Suspend Note",
+            "zh-Hans": "Suspend 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.6f9eb462ce",
+          "title": {
+            "en": "Suspend Card",
+            "zh-Hans": "Suspend Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.ef3d7872f8",
+          "title": {
+            "en": "Bury Note",
+            "zh-Hans": "Bury 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.4cef2afc9d",
+          "title": {
+            "en": "Bury Card",
+            "zh-Hans": "Bury Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.6e5c0223e7",
+          "title": {
+            "en": "Mark Note",
+            "zh-Hans": "Mark 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.285f153959",
+          "title": {
+            "en": "Blue Flag",
+            "zh-Hans": "Blue Flag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.9fc24bd7de",
+          "title": {
+            "en": "Green Flag",
+            "zh-Hans": "Green Flag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.710a77a5ad",
+          "title": {
+            "en": "Orange Flag",
+            "zh-Hans": "Orange Flag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.2f5b50c117",
+          "title": {
+            "en": "Red Flag",
+            "zh-Hans": "Red Flag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.81f8dbeabe",
+          "title": {
+            "en": "Flip Card/Answer Good",
+            "zh-Hans": "Flip Card/Answer Good"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.9e8c233254",
+          "title": {
+            "en": "Edit Card",
+            "zh-Hans": "编辑 Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.2480f2de6b",
+          "title": {
+            "en": "Press the 4th answer button",
+            "zh-Hans": "Press the 4th answer button"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 0,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.d50e15c2f9",
+          "title": {
+            "en": "Press the 3rd answer button",
+            "zh-Hans": "Press the 3rd answer button"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.2ac382db15",
+          "title": {
+            "en": "Press the 2nd answer button",
+            "zh-Hans": "Press the 2nd answer button"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.anki.reviewer.b7d91bb38d",
+          "title": {
+            "en": "Press the first answer button",
+            "zh-Hans": "Press the first answer button"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.anki.home-screen",
+      "title": {
+        "en": "Home Screen",
+        "zh-Hans": "主屏幕"
+      },
+      "items": [
+        {
+          "id": "remote.anki.home-screen.48aa2ce731",
+          "title": {
+            "en": "Import File",
+            "zh-Hans": "导入 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.anki.home-screen.a3faf618bd",
+          "title": {
+            "en": "Sync",
+            "zh-Hans": "Sync"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.anki.home-screen.a0645dada2",
+          "title": {
+            "en": "Stats",
+            "zh-Hans": "Stats"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.anki.home-screen.21bee084b2",
+          "title": {
+            "en": "Browse",
+            "zh-Hans": "Browse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.anki.home-screen.31d983f9ba",
+          "title": {
+            "en": "Add",
+            "zh-Hans": "Add"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.anki.home-screen.3028784e92",
+          "title": {
+            "en": "Decks",
+            "zh-Hans": "Decks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.anki.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.anki.tools.027c0fa3cc",
+          "title": {
+            "en": "Preferences...",
+            "zh-Hans": "偏好设置..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.anki.tools.b7dd68f94f",
+          "title": {
+            "en": "Manage Note Types",
+            "zh-Hans": "Manage 笔记 Types"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.anki.tools.92d3ce99b1",
+          "title": {
+            "en": "Add-ons",
+            "zh-Hans": "Add-ons"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.anki.tools.f22207ef05",
+          "title": {
+            "en": "Create Filtered Deck...",
+            "zh-Hans": "Create Filtered Deck..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.anki.tools.a12fdd733d",
+          "title": {
+            "en": "Study Deck",
+            "zh-Hans": "Study Deck"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.anki.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.anki.edit.9185e7ca81",
+          "title": {
+            "en": "Emoji ",
+            "zh-Hans": "Emoji "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4352,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.anki.edit.558777c44b",
+          "title": {
+            "en": "Start Dictation...",
+            "zh-Hans": "开始 Dictation..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.anki.edit.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.anki.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.anki.file.e36c4e07e3",
+          "title": {
+            "en": "Exit",
+            "zh-Hans": "Exit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.anki.file.b59d332d1b",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.anki.file.1d7c70fbb4",
+          "title": {
+            "en": "Import",
+            "zh-Hans": "导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.anki.file.e71a4f16a4",
+          "title": {
+            "en": "Switch Profile",
+            "zh-Hans": "Switch Profile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.anki.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.anki.general.77bb17ba6a",
+          "title": {
+            "en": "Guide",
+            "zh-Hans": "参考线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.anki.general.809adf1d4d",
+          "title": {
+            "en": "Close dialog",
+            "zh-Hans": "关闭 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    }
+  ]
+}

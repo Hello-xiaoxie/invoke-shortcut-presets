@@ -1,0 +1,297 @@
+{
+  "bundleIdentifier": "com.knollsoft.Rectangle",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.rectangle.halves",
+      "title": {
+        "en": "Halves",
+        "zh-Hans": "二分"
+      },
+      "items": [
+        {
+          "id": "remote.rectangle.halves.6222431f8a",
+          "title": {
+            "en": "Left Half",
+            "zh-Hans": "左 Half"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 6144,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.rectangle.halves.29cac9013c",
+          "title": {
+            "en": "Right Half",
+            "zh-Hans": "右 Half"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 6144,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.rectangle.halves.b31c0ed39c",
+          "title": {
+            "en": "Top Half",
+            "zh-Hans": "顶部 Half"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6144,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rectangle.halves.82f578e773",
+          "title": {
+            "en": "Bottom Half",
+            "zh-Hans": "底部 Half"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6144,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.rectangle.halves.c15f1ae4b5",
+          "title": {
+            "en": "Maximize",
+            "zh-Hans": "Maximize"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 6144,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.rectangle.halves.9f7289bf8f",
+          "title": {
+            "en": "Center",
+            "zh-Hans": "中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6144,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rectangle.quarters",
+      "title": {
+        "en": "Quarters",
+        "zh-Hans": "四分"
+      },
+      "items": [
+        {
+          "id": "remote.rectangle.quarters.13d5daef73",
+          "title": {
+            "en": "Top Left",
+            "zh-Hans": "顶部 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 6144,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rectangle.quarters.ee5fa84db2",
+          "title": {
+            "en": "Top Right",
+            "zh-Hans": "顶部 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.rectangle.quarters.eeefc3d7fa",
+          "title": {
+            "en": "Bottom Left",
+            "zh-Hans": "底部 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 6144,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.rectangle.quarters.9a68d221b3",
+          "title": {
+            "en": "Bottom Right",
+            "zh-Hans": "底部 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 6144,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rectangle.thirds",
+      "title": {
+        "en": "Thirds",
+        "zh-Hans": "三分"
+      },
+      "items": [
+        {
+          "id": "remote.rectangle.thirds.2581dbdc15",
+          "title": {
+            "en": "First Third",
+            "zh-Hans": "第一个 Third"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6144,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rectangle.thirds.85e924d08d",
+          "title": {
+            "en": "Center Third",
+            "zh-Hans": "中心 Third"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6144,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rectangle.thirds.f70af60fce",
+          "title": {
+            "en": "Last Third",
+            "zh-Hans": "最后一个 Third"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 6144,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rectangle.thirds.b9728526db",
+          "title": {
+            "en": "First Two Thirds",
+            "zh-Hans": "第一个 Two Thirds"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 6144,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.rectangle.thirds.2874b80f27",
+          "title": {
+            "en": "Last Two Thirds",
+            "zh-Hans": "最后一个 Two Thirds"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 6144,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rectangle.display",
+      "title": {
+        "en": "Display",
+        "zh-Hans": "显示"
+      },
+      "items": [
+        {
+          "id": "remote.rectangle.display.aba65d4b8f",
+          "title": {
+            "en": "Next Display",
+            "zh-Hans": "下一个 Display"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 6400,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.rectangle.display.9c8adcf8c5",
+          "title": {
+            "en": "Previous Display",
+            "zh-Hans": "上一个 Display"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 6400,
+            "displayKey": "←"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rectangle.sizing",
+      "title": {
+        "en": "Sizing",
+        "zh-Hans": "尺寸调整"
+      },
+      "items": [
+        {
+          "id": "remote.rectangle.sizing.251b935fb5",
+          "title": {
+            "en": "Make Larger",
+            "zh-Hans": "Make Larger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 6144,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.rectangle.sizing.e143517d09",
+          "title": {
+            "en": "Make Smaller",
+            "zh-Hans": "Make Smaller"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 6144,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.rectangle.sizing.024b4545d7",
+          "title": {
+            "en": "Restore",
+            "zh-Hans": "Restore"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 6144,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    }
+  ]
+}

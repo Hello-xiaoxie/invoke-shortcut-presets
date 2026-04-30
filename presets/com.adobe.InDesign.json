@@ -1,0 +1,1770 @@
+{
+  "bundleIdentifier": "com.adobe.InDesign",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-indesign.efficient-zoom-pan",
+      "title": {
+        "en": "Efficient Zoom & Pan",
+        "zh-Hans": "高效缩放与平移"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.efficient-zoom-pan.95d52c8314",
+          "title": {
+            "en": "Drag mouse to Zoom",
+            "zh-Hans": "Drag mouse to Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.efficient-zoom-pan.077b589fa1",
+          "title": {
+            "en": "Fit Page in view",
+            "zh-Hans": "Fit Page in view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.efficient-zoom-pan.4377b9e6b1",
+          "title": {
+            "en": "Fit Spread in View",
+            "zh-Hans": "Fit Spread in View"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.efficient-zoom-pan.080f1d99ce",
+          "title": {
+            "en": "Zoom in/Zoom out",
+            "zh-Hans": "放大/缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.formatting-shortcuts",
+      "title": {
+        "en": "Formatting Shortcuts",
+        "zh-Hans": "格式化快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.15c3d27548",
+          "title": {
+            "en": "Decrease/Increase font size",
+            "zh-Hans": "Decrease/Increase font size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.4006417cb0",
+          "title": {
+            "en": "Adjust Leading size",
+            "zh-Hans": "Adjust Leading size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.1af24ff80c",
+          "title": {
+            "en": "Flush Left",
+            "zh-Hans": "Flush 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.22c6a733ee",
+          "title": {
+            "en": "Flush Right",
+            "zh-Hans": "Flush 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.5643908d18",
+          "title": {
+            "en": "CReturn",
+            "zh-Hans": "CReturn"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.da563f6a04",
+          "title": {
+            "en": "Justify",
+            "zh-Hans": "Justify"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.ccf1f9f83c",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.16ab7f3801",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.041f43c8d6",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.6a86ce2350",
+          "title": {
+            "en": "Tracking",
+            "zh-Hans": "Tracking"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.2ea91c5059",
+          "title": {
+            "en": "Kerning",
+            "zh-Hans": "Kerning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.formatting-shortcuts.72da8e8120",
+          "title": {
+            "en": "Adjust baseline shift",
+            "zh-Hans": "Adjust baseline shift"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.panels",
+      "title": {
+        "en": "Panels",
+        "zh-Hans": "面板"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.panels.892f8f092a",
+          "title": {
+            "en": "Swatches",
+            "zh-Hans": "Swatches"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.bdbc556084",
+          "title": {
+            "en": "Layers",
+            "zh-Hans": "图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.5a11c9a5fc",
+          "title": {
+            "en": "Stroke",
+            "zh-Hans": "描边"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.6b88f5b90a",
+          "title": {
+            "en": "Paragraph styles",
+            "zh-Hans": "段落 styles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.ca8f03afd4",
+          "title": {
+            "en": "Character styles",
+            "zh-Hans": "字符 styles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 512,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.6e23a69e88",
+          "title": {
+            "en": "Text Wrap",
+            "zh-Hans": "文本 Wrap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.7e612657c2",
+          "title": {
+            "en": "Links",
+            "zh-Hans": "Links"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.34a39cfc0c",
+          "title": {
+            "en": "Info",
+            "zh-Hans": "Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.ccae4c89ec",
+          "title": {
+            "en": "Character",
+            "zh-Hans": "字符"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.14f31798ca",
+          "title": {
+            "en": "Control",
+            "zh-Hans": "Control"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2304,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.1722b967d3",
+          "title": {
+            "en": "Object Styles",
+            "zh-Hans": "对象 Styles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.65a75afbf1",
+          "title": {
+            "en": "Colors",
+            "zh-Hans": "Colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.76ecd32356",
+          "title": {
+            "en": "Paragraph Styles",
+            "zh-Hans": "段落 Styles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.f503c3071b",
+          "title": {
+            "en": "Index",
+            "zh-Hans": "Index"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.89a7b2632c",
+          "title": {
+            "en": "Tables",
+            "zh-Hans": "Tables"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.5ace2f4d81",
+          "title": {
+            "en": "Scripts",
+            "zh-Hans": "Scripts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 2304,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.panels.bd671f8bc1",
+          "title": {
+            "en": "Text wrap",
+            "zh-Hans": "文本 wrap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.file-menu-shortcuts",
+      "title": {
+        "en": "File Menu Shortcuts",
+        "zh-Hans": "File Menu快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.0b78e0dc5a",
+          "title": {
+            "en": "New File",
+            "zh-Hans": "新建File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.c7879f2087",
+          "title": {
+            "en": "Open File",
+            "zh-Hans": "打开 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.2a710d1229",
+          "title": {
+            "en": "Open in bridge",
+            "zh-Hans": "Open in bridge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.0c0230f9c1",
+          "title": {
+            "en": "Place",
+            "zh-Hans": "Place"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.279a0d6e12",
+          "title": {
+            "en": "Page Setup",
+            "zh-Hans": "页面 Setup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.57b5c5f63f",
+          "title": {
+            "en": "Package",
+            "zh-Hans": "Package"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2816,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.99495611bd",
+          "title": {
+            "en": "Quit Application",
+            "zh-Hans": "退出 Application"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.file-menu-shortcuts.b59d332d1b",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.edit-menu-shortcuts",
+      "title": {
+        "en": "Edit Menu shortcuts",
+        "zh-Hans": "编辑菜单快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.708eed2d11",
+          "title": {
+            "en": "Paste Without formatting",
+            "zh-Hans": "粘贴 Without formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.9cd0b6e6bf",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.d851f7f269",
+          "title": {
+            "en": "Find/Change",
+            "zh-Hans": "查找/Change"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.845a7a0c54",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.8ab22b02e9",
+          "title": {
+            "en": "Check Spelling",
+            "zh-Hans": "Check Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.3e6c7752b1",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.5c4f556662",
+          "title": {
+            "en": "Paste in Place",
+            "zh-Hans": "Paste in Place"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.2bbdd1cc86",
+          "title": {
+            "en": "Paste Into",
+            "zh-Hans": "粘贴 Into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.25ec0efe73",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.e3a1521444",
+          "title": {
+            "en": "Edit in Story Editor",
+            "zh-Hans": "Edit in Story Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.5dcb5825b1",
+          "title": {
+            "en": "Check Out",
+            "zh-Hans": "Check Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.f2d72c684b",
+          "title": {
+            "en": "Check In",
+            "zh-Hans": "Check In"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 768,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.443117e147",
+          "title": {
+            "en": "Update Content",
+            "zh-Hans": "Update Content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 256,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.edit-menu-shortcuts.2136b98b49",
+          "title": {
+            "en": "Quick apply",
+            "zh-Hans": "Quick apply"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.layout-menu-shortcuts",
+      "title": {
+        "en": "Layout Menu Shortcuts",
+        "zh-Hans": "Layout Menu快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.layout-menu-shortcuts.8ec1d7804e",
+          "title": {
+            "en": "Go to Page",
+            "zh-Hans": "转到Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.layout-menu-shortcuts.290a3b17bb",
+          "title": {
+            "en": "Add Page",
+            "zh-Hans": "添加Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.layout-menu-shortcuts.7e8faa85e0",
+          "title": {
+            "en": "Previous/Next Spread",
+            "zh-Hans": "上一个/下一个 Spread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.type-menu-shortcuts",
+      "title": {
+        "en": "Type Menu Shortcuts",
+        "zh-Hans": "Type Menu快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.type-menu-shortcuts.67f3e619db",
+          "title": {
+            "en": "Tabs",
+            "zh-Hans": "标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.type-menu-shortcuts.719fc1986f",
+          "title": {
+            "en": "Glyphs",
+            "zh-Hans": "Glyphs"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 2560,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.type-menu-shortcuts.500576b4a5",
+          "title": {
+            "en": "Forced link break",
+            "zh-Hans": "Forced 链接 break"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.type-menu-shortcuts.b7bd50e33f",
+          "title": {
+            "en": "Hidden Characters",
+            "zh-Hans": "隐藏 Characters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.object-menu-shortcuts",
+      "title": {
+        "en": "Object Menu shortcuts",
+        "zh-Hans": "对象菜单快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.af7f87485b",
+          "title": {
+            "en": "Transform again",
+            "zh-Hans": "Transform again"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2304,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.b0fb87819e",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.fcfb48217e",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.9d27426321",
+          "title": {
+            "en": "Compound Path",
+            "zh-Hans": "Compound 路径"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.273ee55670",
+          "title": {
+            "en": "Drop Shadow",
+            "zh-Hans": "Drop 阴影"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.9fd68bc717",
+          "title": {
+            "en": "CReturn Content",
+            "zh-Hans": "CReturn Content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.05a9d2a2ae",
+          "title": {
+            "en": "Fill frame proportionlly",
+            "zh-Hans": "填充 画框 proportionlly"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.c7e0fdee0e",
+          "title": {
+            "en": "Bring front",
+            "zh-Hans": "Bring front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.ca941627e6",
+          "title": {
+            "en": "Send back",
+            "zh-Hans": "Send back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.object-menu-shortcuts.891f1bcb99",
+          "title": {
+            "en": "Text Frame Options",
+            "zh-Hans": "文本 画框 Options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.view-menu-shortcuts",
+      "title": {
+        "en": "View Menu Shortcuts",
+        "zh-Hans": "View Menu快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.7c628c2914",
+          "title": {
+            "en": "Smart Guides",
+            "zh-Hans": "Smart Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.f0cc204a6a",
+          "title": {
+            "en": "Guides",
+            "zh-Hans": "Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.43903f1438",
+          "title": {
+            "en": "High Quality Display",
+            "zh-Hans": "High Quality Display"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.ba260ce95e",
+          "title": {
+            "en": "Text Threads",
+            "zh-Hans": "文本 Threads"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.d8e245f616",
+          "title": {
+            "en": "Frame edges",
+            "zh-Hans": "画框 edges"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.b9eb1b7e04",
+          "title": {
+            "en": "Rulers",
+            "zh-Hans": "Rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.98c8b5bab2",
+          "title": {
+            "en": "Actual Size",
+            "zh-Hans": "Actual Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.3054bb20a7",
+          "title": {
+            "en": "200% size",
+            "zh-Hans": "200% size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.77d375ee9f",
+          "title": {
+            "en": "400% size",
+            "zh-Hans": "400% size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.5bdbc3928f",
+          "title": {
+            "en": "50% size",
+            "zh-Hans": "50% size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.987fc35d43",
+          "title": {
+            "en": "Set Presentation background to black",
+            "zh-Hans": "Set Presentation background to black"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.01056b974e",
+          "title": {
+            "en": "Set Presentation background to gray",
+            "zh-Hans": "Set Presentation background to gray"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.94329e1879",
+          "title": {
+            "en": "Set Presentation background to white",
+            "zh-Hans": "Set Presentation background to white"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.877d427630",
+          "title": {
+            "en": "Show Cyan plate",
+            "zh-Hans": "显示 Cyan plate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2816,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.27d182b54b",
+          "title": {
+            "en": "Show Magenta plate",
+            "zh-Hans": "显示 Magenta plate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2816,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.118f015641",
+          "title": {
+            "en": "Show Yellow plate",
+            "zh-Hans": "显示 Yellow plate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2816,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.218cc4f377",
+          "title": {
+            "en": "Show Black Plate",
+            "zh-Hans": "显示 Black Plate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2816,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.cbd999341e",
+          "title": {
+            "en": "Show 1st spot plate",
+            "zh-Hans": "Show 1st spot plate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2816,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.9030f4edb5",
+          "title": {
+            "en": "Show 2nd spot plate",
+            "zh-Hans": "Show 2nd spot plate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2816,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.0070e20b5b",
+          "title": {
+            "en": "Show 3rd spot plate",
+            "zh-Hans": "Show 3rd spot plate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 2816,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.view-menu-shortcuts.402d252900",
+          "title": {
+            "en": "Show All Plates",
+            "zh-Hans": "显示 全部 Plates"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2816,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-indesign.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-indesign.tools.d3891ba1c3",
+          "title": {
+            "en": "Selection tool",
+            "zh-Hans": "选择工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.ffd81e01de",
+          "title": {
+            "en": "Direct selection tool",
+            "zh-Hans": "Direct 选择 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.6cb4ac2634",
+          "title": {
+            "en": "magic wind tool",
+            "zh-Hans": "magic wind tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.70a844bd19",
+          "title": {
+            "en": "Lasso tool",
+            "zh-Hans": "套索工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.cac2569b34",
+          "title": {
+            "en": "Pen tool",
+            "zh-Hans": "钢笔工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.623652fa05",
+          "title": {
+            "en": "Blob brush tool",
+            "zh-Hans": "Blob brush tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 512,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.87fe9f741b",
+          "title": {
+            "en": "Add/Delete anchor point tool",
+            "zh-Hans": "Add/Delete anchor point tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.75e3d913b7",
+          "title": {
+            "en": "Convert anchor point tool",
+            "zh-Hans": "Convert anchor point tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.c27507ab73",
+          "title": {
+            "en": "Type tool",
+            "zh-Hans": "文字工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.e01c75dbad",
+          "title": {
+            "en": "Line segment tool",
+            "zh-Hans": "行 segment tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 0,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.82f9168042",
+          "title": {
+            "en": "Rectangle tool",
+            "zh-Hans": "矩形工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.aa8cbcf115",
+          "title": {
+            "en": "Ellipse tool",
+            "zh-Hans": "椭圆工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.2dfce86a71",
+          "title": {
+            "en": "Paintbrush tool",
+            "zh-Hans": "Paintbrush tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.c94b94f956",
+          "title": {
+            "en": "Pencil tool",
+            "zh-Hans": "铅笔工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.ce82791ff7",
+          "title": {
+            "en": "Rotate tool",
+            "zh-Hans": "旋转工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.85009e18b1",
+          "title": {
+            "en": "Reflect tool",
+            "zh-Hans": "镜像工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.26fe7c5084",
+          "title": {
+            "en": "Scale tool",
+            "zh-Hans": "缩放工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.b3dc9d040b",
+          "title": {
+            "en": "Warp tool",
+            "zh-Hans": "变形工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.551eaafa79",
+          "title": {
+            "en": "Width tool",
+            "zh-Hans": "宽度工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 512,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.0466461605",
+          "title": {
+            "en": "Free Transform tool",
+            "zh-Hans": "Free Transform tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.5d69cf6fce",
+          "title": {
+            "en": "Shape builder tool",
+            "zh-Hans": "形状 builder tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.a94d892336",
+          "title": {
+            "en": "Perspective grid tool",
+            "zh-Hans": "Perspective 网格 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.1a8e255ee3",
+          "title": {
+            "en": "Perspective selection tool",
+            "zh-Hans": "Perspective 选择 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.15690752ed",
+          "title": {
+            "en": "Symbol sprayer tool",
+            "zh-Hans": "符号 sprayer tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.6b3b422fc2",
+          "title": {
+            "en": "Column graph tool",
+            "zh-Hans": "列 graph tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.096e0bf161",
+          "title": {
+            "en": "Mesh tool",
+            "zh-Hans": "网格工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.92a8be086d",
+          "title": {
+            "en": "Gradient tool",
+            "zh-Hans": "渐变工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.7154b7553b",
+          "title": {
+            "en": "Eyedropper tool",
+            "zh-Hans": "吸管工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.24e761c5ac",
+          "title": {
+            "en": "Blend tool",
+            "zh-Hans": "混合工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.126d6e1208",
+          "title": {
+            "en": "Zoom tool",
+            "zh-Hans": "缩放工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.44cbba7f31",
+          "title": {
+            "en": "Hand tool",
+            "zh-Hans": "抓手工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.f6654561d4",
+          "title": {
+            "en": "Scissors tool",
+            "zh-Hans": "剪刀工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.494e509cb4",
+          "title": {
+            "en": "Eraser tool",
+            "zh-Hans": "橡皮擦工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.bb60d6e18a",
+          "title": {
+            "en": "Slice tool",
+            "zh-Hans": "切片工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 512,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.8e81604715",
+          "title": {
+            "en": "Live paint selection tool",
+            "zh-Hans": "Live paint selection tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-indesign.tools.dca55a22c6",
+          "title": {
+            "en": "Live Paint selection tool",
+            "zh-Hans": "Live Paint selection tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        }
+      ]
+    }
+  ]
+}

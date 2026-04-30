@@ -1,0 +1,738 @@
+{
+  "bundleIdentifier": "com.mcneel.rhinoceros",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.rhinoceros-3d.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.rhinoceros-3d.navigation.8174f0223d",
+          "title": {
+            "en": "Pan view in",
+            "zh-Hans": "Pan view in"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.navigation.37f9a36358",
+          "title": {
+            "en": "Pan view out",
+            "zh-Hans": "Pan 视图 out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.navigation.5b16bdb4a4",
+          "title": {
+            "en": "TiltView right",
+            "zh-Hans": "TiltView 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 4864,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.navigation.72ff24a609",
+          "title": {
+            "en": "TiltView left",
+            "zh-Hans": "TiltView 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4864,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.navigation.fdf9ee90a8",
+          "title": {
+            "en": "Adjust camera lens length in a perspective view (toward telephoto)",
+            "zh-Hans": "Adjust camera lens length in a perspective view (toward telephoto)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 2560,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.navigation.e72f22163b",
+          "title": {
+            "en": "Adjust camera lens length in a perspective view (toward wide angle)",
+            "zh-Hans": "Adjust camera lens length in a perspective view (toward wide angle)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 2560,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.navigation.cc8014d83c",
+          "title": {
+            "en": "Next viewport active. ",
+            "zh-Hans": "下一个 viewport 活动. "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4352,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rhinoceros-3d.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.rhinoceros-3d.general.4d0e883763",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.cbafaacc9c",
+          "title": {
+            "en": "Show Rhinoceros Preferences",
+            "zh-Hans": "显示 Rhinoceros 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.b8a483d6d5",
+          "title": {
+            "en": "Show or hide left sidebar",
+            "zh-Hans": "Show or hide left sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.face357aa1",
+          "title": {
+            "en": "Show or hide right sidebar",
+            "zh-Hans": "Show or hide right sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.2f83419c50",
+          "title": {
+            "en": "Show Spelling and Grammar",
+            "zh-Hans": "Show Spelling and Grammar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.60ff363de9",
+          "title": {
+            "en": "Check Spelling",
+            "zh-Hans": "Check Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.0a7a1a0789",
+          "title": {
+            "en": "Help topics",
+            "zh-Hans": "Help topics"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.a97f147d7b",
+          "title": {
+            "en": "Block definition",
+            "zh-Hans": "Block 定义"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.9d273a5a9a",
+          "title": {
+            "en": "Copy to clipboard",
+            "zh-Hans": "Copy to clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.f1dacd6209",
+          "title": {
+            "en": "Zoom extents",
+            "zh-Hans": "Zoom extents"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.ff0f0f26fb",
+          "title": {
+            "en": "Zoom extents all viewports",
+            "zh-Hans": "Zoom extents all viewports"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.b732a5fe58",
+          "title": {
+            "en": "Enter Full Screen",
+            "zh-Hans": "Enter 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.b0fb87819e",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.d0352e4c4c",
+          "title": {
+            "en": "Hide application",
+            "zh-Hans": "隐藏 application"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.c9549e1b75",
+          "title": {
+            "en": "Insert",
+            "zh-Hans": "插入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.c6260ea8ff",
+          "title": {
+            "en": "Join",
+            "zh-Hans": "连接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.2840a46690",
+          "title": {
+            "en": "Command search",
+            "zh-Hans": "Command 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.653620b863",
+          "title": {
+            "en": "Lock",
+            "zh-Hans": "锁定"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.3179cd0bc7",
+          "title": {
+            "en": "Minimize Window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.946a0c7221",
+          "title": {
+            "en": "New",
+            "zh-Hans": "新建"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.faf81553ec",
+          "title": {
+            "en": "Open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.af1fb0a377",
+          "title": {
+            "en": "Exit Rhinoceros",
+            "zh-Hans": "Exit Rhinoceros"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.967b97a25d",
+          "title": {
+            "en": "Set rendered display mode",
+            "zh-Hans": "Set rendered display mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.2e48346ff1",
+          "title": {
+            "en": "Trim",
+            "zh-Hans": "修剪"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.264cb0dee4",
+          "title": {
+            "en": "Show or hide object snaps panel",
+            "zh-Hans": "Show or hide object snaps panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.b7452b58ea",
+          "title": {
+            "en": "Close all windows",
+            "zh-Hans": "关闭 全部 windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.100de20da9",
+          "title": {
+            "en": "Set wireframe display mode",
+            "zh-Hans": "Set wireframe display mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4352,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.4237a4facc",
+          "title": {
+            "en": "Set x-ray display mode",
+            "zh-Hans": "Set x-ray display mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 4352,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.3a73c2c1fa",
+          "title": {
+            "en": "Maximize top viewport",
+            "zh-Hans": "Maximize 顶部 viewport"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 256,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.f56d463fca",
+          "title": {
+            "en": "Command history",
+            "zh-Hans": "Command 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 113,
+            "carbonModifiers": 0,
+            "displayKey": "113"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.5b50f6c4c1",
+          "title": {
+            "en": "Maximize front viewport",
+            "zh-Hans": "Maximize front viewport"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 113,
+            "carbonModifiers": 256,
+            "displayKey": "113"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.cce6c9a847",
+          "title": {
+            "en": "Object properties",
+            "zh-Hans": "对象 properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 114,
+            "carbonModifiers": 0,
+            "displayKey": "114"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.9e38d54f0a",
+          "title": {
+            "en": "Maximize right viewport",
+            "zh-Hans": "Maximize 右 viewport"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 114,
+            "carbonModifiers": 256,
+            "displayKey": "114"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.053c3f367d",
+          "title": {
+            "en": "Maximize perspective viewport",
+            "zh-Hans": "Maximize perspective viewport"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.24fe12be2b",
+          "title": {
+            "en": "Show or hide camera",
+            "zh-Hans": "Show or hide camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.769fface4f",
+          "title": {
+            "en": "Show or hide grid",
+            "zh-Hans": "Show or hide grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.6f5f12d1e9",
+          "title": {
+            "en": "Ortho toggle",
+            "zh-Hans": "Ortho toggle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.7b4329564e",
+          "title": {
+            "en": "Toggle grid snap",
+            "zh-Hans": "切换grid snap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.0ca7c7188a",
+          "title": {
+            "en": "Control points on",
+            "zh-Hans": "Control points on"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.d7f45142d2",
+          "title": {
+            "en": "Points off",
+            "zh-Hans": "Points off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.7e24c8a21f",
+          "title": {
+            "en": "Pan in",
+            "zh-Hans": "Pan in"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.d3efd781d2",
+          "title": {
+            "en": "Zoom lens in",
+            "zh-Hans": "Zoom lens in"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 512,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.61c48c28c1",
+          "title": {
+            "en": "Pan out",
+            "zh-Hans": "Pan out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.rhinoceros-3d.general.d63a0b74e9",
+          "title": {
+            "en": "Zoom lens out",
+            "zh-Hans": "Zoom lens out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 512,
+            "displayKey": "I"
+          }
+        }
+      ]
+    }
+  ]
+}

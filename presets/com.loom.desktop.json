@@ -1,0 +1,135 @@
+{
+  "bundleIdentifier": "com.loom.desktop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.loom.recording",
+      "title": {
+        "en": "Recording",
+        "zh-Hans": "录制"
+      },
+      "items": [
+        {
+          "id": "remote.loom.recording.f3120a514b",
+          "title": {
+            "en": "Start ",
+            "zh-Hans": "开始 "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.loom.recording.d6a25647ff",
+          "title": {
+            "en": "Pause ",
+            "zh-Hans": "Pause "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2560,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.loom.recording.6c904849ba",
+          "title": {
+            "en": "Cancel Recording",
+            "zh-Hans": "Cancel Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.loom.recording.0959a0737e",
+          "title": {
+            "en": "Quick Restart Recording",
+            "zh-Hans": "Quick Restart Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.loom.screenshot",
+      "title": {
+        "en": "Screenshot",
+        "zh-Hans": "截图"
+      },
+      "items": [
+        {
+          "id": "remote.loom.screenshot.ecf3b128e9",
+          "title": {
+            "en": "Full-Screen Screenshot",
+            "zh-Hans": "Full-Screen Screenshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 768,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.loom.screenshot.cd24915a28",
+          "title": {
+            "en": "Custom Size Screenshot",
+            "zh-Hans": "Custom Size Screenshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 768,
+            "displayKey": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.loom.drawing-effects",
+      "title": {
+        "en": "Drawing & Effects",
+        "zh-Hans": "绘图与效果"
+      },
+      "items": [
+        {
+          "id": "remote.loom.drawing-effects.dc3a868e9d",
+          "title": {
+            "en": "Draw on Screen",
+            "zh-Hans": "Draw on Screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.loom.drawing-effects.00e3adbf4a",
+          "title": {
+            "en": "Confetti Effect",
+            "zh-Hans": "Confetti 效果"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4352,
+            "displayKey": "C"
+          }
+        }
+      ]
+    }
+  ]
+}

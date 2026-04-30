@@ -1,0 +1,465 @@
+{
+  "bundleIdentifier": "com.hnc.Discord",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.discord.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.discord.general.f064aa4339",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.discord.general.738a43c63c",
+          "title": {
+            "en": "Get Help",
+            "zh-Hans": "Get Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.discord.general.23ec9c7ca5",
+          "title": {
+            "en": "Show Keyboard Shortcuts List",
+            "zh-Hans": "Show Keyboard Shortcuts List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.discord.general.22ab3e4dd6",
+          "title": {
+            "en": "Toggle Settings",
+            "zh-Hans": "切换Settings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.discord.calls",
+      "title": {
+        "en": "Calls",
+        "zh-Hans": "通话"
+      },
+      "items": [
+        {
+          "id": "remote.discord.calls.6fcf874302",
+          "title": {
+            "en": "Start Call in Private Message or Group",
+            "zh-Hans": "Start Call in Private Message or Group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.discord.calls.412420b2fc",
+          "title": {
+            "en": "Answer Incoming Call",
+            "zh-Hans": "Answer Incoming Call"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.discord.calls.3f17f0d1e8",
+          "title": {
+            "en": "Decline Incoming Call",
+            "zh-Hans": "Decline Incoming Call"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.discord.calls.b14e256460",
+          "title": {
+            "en": "Start Voice Call",
+            "zh-Hans": "开始 Voice Call"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.discord.calls.24cdc55279",
+          "title": {
+            "en": "Toggle Deafen",
+            "zh-Hans": "切换全部静音"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.discord.calls.073607824b",
+          "title": {
+            "en": "Toggle Mute",
+            "zh-Hans": "切换静音"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.discord.calls.5e535ec9a1",
+          "title": {
+            "en": "Toggle Video",
+            "zh-Hans": "切换Video"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.discord.calls.87fdce1398",
+          "title": {
+            "en": "Leave Call",
+            "zh-Hans": "离开通话"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.discord.messaging",
+      "title": {
+        "en": "Messaging",
+        "zh-Hans": "消息"
+      },
+      "items": [
+        {
+          "id": "remote.discord.messaging.a1b99ecb77",
+          "title": {
+            "en": "Upload a file",
+            "zh-Hans": "Upload a 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.discord.messaging.4e1c85c4c4",
+          "title": {
+            "en": "Toggle GIF picker",
+            "zh-Hans": "切换GIF picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.discord.messaging.7cdc24b836",
+          "title": {
+            "en": "Toggle emoji picker",
+            "zh-Hans": "切换emoji picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.discord.messaging.5ae52600b6",
+          "title": {
+            "en": "Toggle sticker picker",
+            "zh-Hans": "切换sticker picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.discord.messaging.248ec6439a",
+          "title": {
+            "en": "Toggle Inbox Popout",
+            "zh-Hans": "切换Inbox Popout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.discord.messaging.8df59e4ed8",
+          "title": {
+            "en": "Toggle Pins Popout",
+            "zh-Hans": "切换Pins Popout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.discord.messaging.35a383acea",
+          "title": {
+            "en": "Mark channel as read",
+            "zh-Hans": "Mark 频道 as 已读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.discord.messaging.06f148690b",
+          "title": {
+            "en": "Mark server read",
+            "zh-Hans": "Mark server 已读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.discord.messaging.9148d56da1",
+          "title": {
+            "en": "Create private group",
+            "zh-Hans": "Create private 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.discord.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.discord.navigation.a6b845aa87",
+          "title": {
+            "en": "Create or join a server",
+            "zh-Hans": "Create or join a server"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.discord.navigation.c4bd72de77",
+          "title": {
+            "en": "Toggle QuickSwitcher",
+            "zh-Hans": "切换QuickSwitcher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.discord.navigation.ec80973d49",
+          "title": {
+            "en": "Toggle between last server and DMs",
+            "zh-Hans": "Toggle between last server and DMs"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.discord.navigation.2127abe1fc",
+          "title": {
+            "en": "Navigate Between Unread Channels with Mentions",
+            "zh-Hans": "Navigate Between Unread Channels with Mentions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2816,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.discord.navigation.2cfe041081",
+          "title": {
+            "en": "Navigate Between Unread Channels",
+            "zh-Hans": "Navigate Between 未读 频道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.discord.navigation.34955463fb",
+          "title": {
+            "en": "Navigate Between Channels",
+            "zh-Hans": "Navigate Between 频道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.discord.navigation.17cc6295e0",
+          "title": {
+            "en": "Navigate Between Servers",
+            "zh-Hans": "Navigate Between Servers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.discord.messages",
+      "title": {
+        "en": "Messages",
+        "zh-Hans": "消息"
+      },
+      "items": [
+        {
+          "id": "remote.discord.messages.3400ef032d",
+          "title": {
+            "en": "Mark Unread",
+            "zh-Hans": "Mark 未读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.discord.messages.f07481bc85",
+          "title": {
+            "en": "Reply",
+            "zh-Hans": "回复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.discord.messages.6de6c83351",
+          "title": {
+            "en": "Add Reaction",
+            "zh-Hans": "添加Reaction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 0,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.discord.messages.f6f4eda1ec",
+          "title": {
+            "en": "Pin Message",
+            "zh-Hans": "固定消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.discord.messages.d377dd03d1",
+          "title": {
+            "en": "Delete Message",
+            "zh-Hans": "删除消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.discord.messages.f9f89dd8c1",
+          "title": {
+            "en": "Edit Message",
+            "zh-Hans": "编辑消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        }
+      ]
+    }
+  ]
+}

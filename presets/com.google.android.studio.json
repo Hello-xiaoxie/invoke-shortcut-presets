@@ -1,0 +1,1578 @@
+{
+  "bundleIdentifier": "com.google.android.studio",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.android-studio.version-control-local-history",
+      "title": {
+        "en": "Version control / local history",
+        "zh-Hans": "版本控制/本地历史"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.version-control-local-history.635eebf72d",
+          "title": {
+            "en": "Open VCS popup",
+            "zh-Hans": "打开 VCS popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.android-studio.version-control-local-history.18ae3c6d1e",
+          "title": {
+            "en": "View recent changes",
+            "zh-Hans": "视图 recent changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.android-studio.version-control-local-history.2d918902df",
+          "title": {
+            "en": "Update project from VCS",
+            "zh-Hans": "Update project from VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.android-studio.version-control-local-history.515ebfe02c",
+          "title": {
+            "en": "Commit project to VCS",
+            "zh-Hans": "Commit project to VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.refactoring",
+      "title": {
+        "en": "Refactoring",
+        "zh-Hans": "重构"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.refactoring.05e879e5a3",
+          "title": {
+            "en": "Extract parameter",
+            "zh-Hans": "Extract parameter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.da1186e07b",
+          "title": {
+            "en": "Extract constant",
+            "zh-Hans": "Extract constant"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.7bbfc967e2",
+          "title": {
+            "en": "Extract field",
+            "zh-Hans": "Extract field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.19ce705234",
+          "title": {
+            "en": "Extract variable",
+            "zh-Hans": "Extract 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.1c558ac1d5",
+          "title": {
+            "en": "Extract method",
+            "zh-Hans": "Extract 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.7f54b87a47",
+          "title": {
+            "en": "Inline",
+            "zh-Hans": "Inline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.938c624551",
+          "title": {
+            "en": "Change signature",
+            "zh-Hans": "Change signature"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.caf60fc1ab",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.b2d51230e1",
+          "title": {
+            "en": "Safe delete",
+            "zh-Hans": "Safe 删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.1a2fcd6c38",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.android-studio.refactoring.cfc647eb63",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.debugging",
+      "title": {
+        "en": "Debugging",
+        "zh-Hans": "调试"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.debugging.a855d669ad",
+          "title": {
+            "en": "View breakpoints",
+            "zh-Hans": "视图 breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 768,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.be2a19bc7b",
+          "title": {
+            "en": "Toggle breakpoint",
+            "zh-Hans": "切换断点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.7b188603fe",
+          "title": {
+            "en": "Resume program",
+            "zh-Hans": "Resume program"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.78d89a955d",
+          "title": {
+            "en": "Evaluate expression",
+            "zh-Hans": "Evaluate expression"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2048,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.8641d58894",
+          "title": {
+            "en": "Run to cursor",
+            "zh-Hans": "Run to cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2048,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.57177a5867",
+          "title": {
+            "en": "Step out",
+            "zh-Hans": "单步跳出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.97185f2bd4",
+          "title": {
+            "en": "Smart step into",
+            "zh-Hans": "Smart step into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.fc0ed9c336",
+          "title": {
+            "en": "Step into",
+            "zh-Hans": "单步调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.fc8dd72b83",
+          "title": {
+            "en": "Step over",
+            "zh-Hans": "单步跳过"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.android-studio.debugging.25505811bd",
+          "title": {
+            "en": "Debug",
+            "zh-Hans": "调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.build-and-run",
+      "title": {
+        "en": "Build and run",
+        "zh-Hans": "构建与运行"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.build-and-run.ae72d4fd0c",
+          "title": {
+            "en": "Apply Code Changes",
+            "zh-Hans": "Apply Code Changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4864,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.android-studio.build-and-run.9ab7f31ac2",
+          "title": {
+            "en": "Apply Changes and Restart Activity",
+            "zh-Hans": "Apply Changes and Restart Activity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4352,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.android-studio.build-and-run.1358b6570e",
+          "title": {
+            "en": "Build and run",
+            "zh-Hans": "Build and run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.android-studio.build-and-run.f7233777b4",
+          "title": {
+            "en": "Build",
+            "zh-Hans": "Build"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.writing-code",
+      "title": {
+        "en": "Writing code",
+        "zh-Hans": "编写代码"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.writing-code.b23ae76d95",
+          "title": {
+            "en": "Next/previous highlighted error",
+            "zh-Hans": "下一个/上一个 highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.52a7c1bb5e",
+          "title": {
+            "en": "Start new line",
+            "zh-Hans": "开始 new 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.0cf918eb29",
+          "title": {
+            "en": "Smart line split",
+            "zh-Hans": "Smart 行 split"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.ac721a12ea",
+          "title": {
+            "en": "Smart line join",
+            "zh-Hans": "Smart 行 join"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4608,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.af0bd0448d",
+          "title": {
+            "en": "Indent/unindent lines",
+            "zh-Hans": "Indent/unindent lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.8fe2824187",
+          "title": {
+            "en": "Auto-indent lines",
+            "zh-Hans": "Auto-indent lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.f53274747f",
+          "title": {
+            "en": "Reformat code",
+            "zh-Hans": "Reformat code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.627536c2bb",
+          "title": {
+            "en": "Project quick fix (show intention actions and quick fixes)",
+            "zh-Hans": "Project quick fix (show intention actions and quick fixes)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.a14e63d3db",
+          "title": {
+            "en": "Optimize imports",
+            "zh-Hans": "Optimize imports"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 6144,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.35143b844b",
+          "title": {
+            "en": "Delete to start of word",
+            "zh-Hans": "Delete to start of word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.168f0d5eac",
+          "title": {
+            "en": "Delete to end of word",
+            "zh-Hans": "Delete to end of word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.ccc8f6d8c6",
+          "title": {
+            "en": "Select to the code block end",
+            "zh-Hans": "Select to the code block end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2816,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.a3025d5361",
+          "title": {
+            "en": "Select to the code block start",
+            "zh-Hans": "Select to the code block start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2816,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.2f6db38fa1",
+          "title": {
+            "en": "Move to code block end",
+            "zh-Hans": "Move to code block end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.7c3326f233",
+          "title": {
+            "en": "Move to code block start",
+            "zh-Hans": "Move to code block start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.cd6c49fc0d",
+          "title": {
+            "en": "Decrease current selection to previous state",
+            "zh-Hans": "Decrease current selection to previous state"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.c4b85e2604",
+          "title": {
+            "en": "Select successively increasing code blocks",
+            "zh-Hans": "Select successively increasing code blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.80b08d2bce",
+          "title": {
+            "en": "Comment/uncomment with block comment",
+            "zh-Hans": "Comment/uncomment with block comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 768,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.8b2e09c840",
+          "title": {
+            "en": "Comment/uncomment with line comment",
+            "zh-Hans": "Comment/uncomment with line comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.3f6434b49b",
+          "title": {
+            "en": "Toggle bookmark with mnemonic",
+            "zh-Hans": "Toggle bookmark with mnemonic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.238c2950f1",
+          "title": {
+            "en": "Toggle bookmark",
+            "zh-Hans": "切换bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.9376625899",
+          "title": {
+            "en": "Toggle project tool window visibility",
+            "zh-Hans": "Toggle project tool window visibility"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.65fd2b1aa3",
+          "title": {
+            "en": "Open quick definition lookup",
+            "zh-Hans": "Open quick definition lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.1ec4470853",
+          "title": {
+            "en": "Go to super-method/super-class",
+            "zh-Hans": "Go to super-method/super-class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.ba20dc3f3f",
+          "title": {
+            "en": "Go to implementations",
+            "zh-Hans": "转到implementations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.d2085e5f54",
+          "title": {
+            "en": "Go to declaration (directly)",
+            "zh-Hans": "转到declaration (directly)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.a2e9860f96",
+          "title": {
+            "en": "Show parameters for selected method",
+            "zh-Hans": "Show parameters for selected method"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.0ade735c1b",
+          "title": {
+            "en": "Quick documentation lookup",
+            "zh-Hans": "Quick documentation lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4096,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.85f95268de",
+          "title": {
+            "en": "Complete statement",
+            "zh-Hans": "Complete statement"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.201d6ede8f",
+          "title": {
+            "en": "Smart code completion (filters the list of methods and variables by expected type)",
+            "zh-Hans": "Smart code completion (filters the list of methods and variables by expected type)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4608,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.70e9e2dfff",
+          "title": {
+            "en": "Basic code completion",
+            "zh-Hans": "Basic code completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.ed83734a99",
+          "title": {
+            "en": "Duplicate current line or selection",
+            "zh-Hans": "Duplicate current line or selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.dce5e89c73",
+          "title": {
+            "en": "Collapse/expand all code blocks",
+            "zh-Hans": "Collapse/expand all code blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.57702408c6",
+          "title": {
+            "en": "Collapse/expand current code block",
+            "zh-Hans": "Collapse/expand current code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.e80040d4e5",
+          "title": {
+            "en": "Delete line at caret",
+            "zh-Hans": "Delete line at caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.bdb1aa45eb",
+          "title": {
+            "en": "Surround with (if...else / try...catch / etc.)",
+            "zh-Hans": "Surround with (if...else / try...catch / etc.)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.0f78dbe51b",
+          "title": {
+            "en": "Implement methods",
+            "zh-Hans": "Implement methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.5cfa780cfd",
+          "title": {
+            "en": "Override methods",
+            "zh-Hans": "Override methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.android-studio.writing-code.23878ae67a",
+          "title": {
+            "en": "Generate code (getters, setters, constructors, hashCode/equals, toString, new file, new class)",
+            "zh-Hans": "Generate code (getters, setters, constructors, hashCode/equals, toString, new file, new class)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.design-tools-navigation-editor",
+      "title": {
+        "en": "Design tools: Navigation Editor",
+        "zh-Hans": "Design tools: Navigation编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.design-tools-navigation-editor.6585898bb2",
+          "title": {
+            "en": "Select all destinations",
+            "zh-Hans": "全选 destinations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-navigation-editor.d400eed29f",
+          "title": {
+            "en": "Cycle through destinations",
+            "zh-Hans": "Cycle through destinations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-navigation-editor.a63719d5b6",
+          "title": {
+            "en": "Group into nested graph",
+            "zh-Hans": "Group into nested graph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-navigation-editor.d80fcd6f8b",
+          "title": {
+            "en": "Toggle render errors panel",
+            "zh-Hans": "切换render errors 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-navigation-editor.b8f0d3975a",
+          "title": {
+            "en": "Go to XML",
+            "zh-Hans": "转到XML"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-navigation-editor.a40f2dd19c",
+          "title": {
+            "en": "Zoom to fit",
+            "zh-Hans": "Zoom to fit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-navigation-editor.a8d3d68193",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-navigation-editor.ecbd1dbd60",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.design-tools-layout-editor",
+      "title": {
+        "en": "Design tools: Layout Editor",
+        "zh-Hans": "Design tools: Layout编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.f9c7ae775e",
+          "title": {
+            "en": "Select all components",
+            "zh-Hans": "全选 components"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.b8f0d3975a",
+          "title": {
+            "en": "Go to XML",
+            "zh-Hans": "转到XML"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.a40f2dd19c",
+          "title": {
+            "en": "Zoom to fit",
+            "zh-Hans": "Zoom to fit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.a8d3d68193",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.ecbd1dbd60",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.26b20d290e",
+          "title": {
+            "en": "Delete constraints",
+            "zh-Hans": "删除 constraints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.d80fcd6f8b",
+          "title": {
+            "en": "Toggle render errors panel",
+            "zh-Hans": "切换render errors 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.8e91b24ade",
+          "title": {
+            "en": "Force refresh",
+            "zh-Hans": "Force refresh"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.c3e593eb11",
+          "title": {
+            "en": "Toggle devices",
+            "zh-Hans": "切换devices"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.c8bec3f7b7",
+          "title": {
+            "en": "Toggle between Portrait and Landscape modes",
+            "zh-Hans": "Toggle between Portrait and Landscape modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.android-studio.design-tools-layout-editor.2c5e5cbf0d",
+          "title": {
+            "en": "Toggle between Design and Blueprint modes",
+            "zh-Hans": "Toggle between Design and Blueprint modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.viewing-layouts",
+      "title": {
+        "en": "Viewing layouts",
+        "zh-Hans": "查看布局"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.viewing-layouts.5d6ceac333",
+          "title": {
+            "en": "Actual size",
+            "zh-Hans": "Actual size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 768,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.android-studio.viewing-layouts.7c73bf5990",
+          "title": {
+            "en": "Fit to screen",
+            "zh-Hans": "Fit to screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.android-studio.viewing-layouts.6af1f2a73c",
+          "title": {
+            "en": "Zoom in/out",
+            "zh-Hans": "放大/out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.navigating-and-searching",
+      "title": {
+        "en": "Navigating and searching",
+        "zh-Hans": "and searching导航"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.navigating-and-searching.f2f35352fa",
+          "title": {
+            "en": "Open call hierarchy",
+            "zh-Hans": "打开 call hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 6144,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.9f3541cce8",
+          "title": {
+            "en": "Open method hierarchy",
+            "zh-Hans": "打开 方法 hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.792fd55d99",
+          "title": {
+            "en": "Open type hierarchy",
+            "zh-Hans": "打开 type hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.a957eeee0e",
+          "title": {
+            "en": "Go to line",
+            "zh-Hans": "转到line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.cef4756cc4",
+          "title": {
+            "en": "Hide active or last active tool window",
+            "zh-Hans": "Hide active or last active tool window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.cfec13d7b8",
+          "title": {
+            "en": "Return to editor window from a tool window",
+            "zh-Hans": "Return to editor window from a tool window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.c0013d37f9",
+          "title": {
+            "en": "Close active editor tab",
+            "zh-Hans": "关闭 活动 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.0b8bf7d59b",
+          "title": {
+            "en": "Go to last edit location",
+            "zh-Hans": "Go to last edit location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.dff96202a7",
+          "title": {
+            "en": "Recently edited files pop-up",
+            "zh-Hans": "Recently edited files pop-up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.84b2b50971",
+          "title": {
+            "en": "Recently opened files pop-up",
+            "zh-Hans": "Recently opened files pop-up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.2951a301c0",
+          "title": {
+            "en": "Open current editor tab in new window",
+            "zh-Hans": "Open current editor tab in new window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.112c0f76b9",
+          "title": {
+            "en": "Jump to source",
+            "zh-Hans": "跳转到source"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.9800f6e6ee",
+          "title": {
+            "en": "Navigate between open editor tabs",
+            "zh-Hans": "Navigate between 打开 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4096,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.bf1eb423aa",
+          "title": {
+            "en": "Open file structure pop-up",
+            "zh-Hans": "打开 文件 structure pop-上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.b36717c7bb",
+          "title": {
+            "en": "Find in path",
+            "zh-Hans": "Find in path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.97b33b308d",
+          "title": {
+            "en": "Find file (instead of class)",
+            "zh-Hans": "Find file (instead of class)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.91fc373228",
+          "title": {
+            "en": "Find class",
+            "zh-Hans": "查找 类"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.b138258f27",
+          "title": {
+            "en": "Search by symbol name",
+            "zh-Hans": "Search by symbol name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.f6370a3a00",
+          "title": {
+            "en": "Find action",
+            "zh-Hans": "查找 action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.98bc8cfea2",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.eccb3fa2a7",
+          "title": {
+            "en": "Find previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.311842e8cb",
+          "title": {
+            "en": "Find next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.android-studio.navigating-and-searching.a43d742683",
+          "title": {
+            "en": "Search everything (including code and menus)",
+            "zh-Hans": "Search everything (including code and menus)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.android-studio.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.android-studio.general.cf82db62c6",
+          "title": {
+            "en": "Switch between tabs and tool window",
+            "zh-Hans": "Switch between tabs and tool window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.android-studio.general.de32109aba",
+          "title": {
+            "en": "Open project structure dialog",
+            "zh-Hans": "打开 项目 structure 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.android-studio.general.f0c29b29e9",
+          "title": {
+            "en": "Open settings dialogue",
+            "zh-Hans": "打开 设置 dialogue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.android-studio.general.b2cc537cb7",
+          "title": {
+            "en": "Quick switch scheme",
+            "zh-Hans": "Quick switch scheme"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.android-studio.general.7c727017e1",
+          "title": {
+            "en": "Inspect current file with current profile",
+            "zh-Hans": "Inspect current file with current profile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.android-studio.general.d92694dd7e",
+          "title": {
+            "en": "Add to favorites",
+            "zh-Hans": "添加to favorites"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.android-studio.general.e472103d00",
+          "title": {
+            "en": "Maximize/minimize editor",
+            "zh-Hans": "Maximize/最小化 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 4352,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.android-studio.general.2d30510cb3",
+          "title": {
+            "en": "Synchronize",
+            "zh-Hans": "Synchronize"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.android-studio.general.0cf8b5a3dd",
+          "title": {
+            "en": "Save all",
+            "zh-Hans": "全部保存"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    }
+  ]
+}

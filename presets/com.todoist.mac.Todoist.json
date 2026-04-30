@@ -1,0 +1,324 @@
+{
+  "bundleIdentifier": "com.todoist.mac.Todoist",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.todoist.sub-tasks",
+      "title": {
+        "en": "Sub-tasks",
+        "zh-Hans": "子任务"
+      },
+      "items": [
+        {
+          "id": "remote.todoist.sub-tasks.402c9002b9",
+          "title": {
+            "en": "Sort by assignee",
+            "zh-Hans": "Sort by assignee"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.todoist.sub-tasks.42655daad1",
+          "title": {
+            "en": "Sort by name",
+            "zh-Hans": "Sort by name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.todoist.sub-tasks.a81b2a194c",
+          "title": {
+            "en": "Sort by priority",
+            "zh-Hans": "Sort by priority"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.todoist.sub-tasks.550c5ed30c",
+          "title": {
+            "en": "Sort by date",
+            "zh-Hans": "Sort by date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.todoist.sub-tasks.1722429996",
+          "title": {
+            "en": "Decrease task indent (inside projects)",
+            "zh-Hans": "Decrease task indent (inside projects)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.todoist.sub-tasks.2f3aada725",
+          "title": {
+            "en": "Increase task indent (inside projects)",
+            "zh-Hans": "Increase task indent (inside projects)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.todoist.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.todoist.general.ac2a442c31",
+          "title": {
+            "en": "Move to the task below the task currently being edited (inside projects)",
+            "zh-Hans": "Move to the task below the task currently being edited (inside projects)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.todoist.general.acd69629f2",
+          "title": {
+            "en": "Move to the task above the task currently being edited (inside projects)",
+            "zh-Hans": "Move to the task above the task currently being edited (inside projects)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.todoist.general.89c5ede059",
+          "title": {
+            "en": "Save a new task or save changes to an existing one and create a new task above it",
+            "zh-Hans": "Save a new task or save changes to an existing one and create a new task above it"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 4096,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.todoist.general.4a25690da4",
+          "title": {
+            "en": "Save changes to an existing task and create a new task below it",
+            "zh-Hans": "Save changes to an existing task and create a new task below it"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.todoist.general.3ddcd8841b",
+          "title": {
+            "en": "Save a newly created task and create a new one below it",
+            "zh-Hans": "Save a newly created task and create a new one below it"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.todoist.general.b16f5f26ca",
+          "title": {
+            "en": "Cancel current changes",
+            "zh-Hans": "Cancel 当前 changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.todoist.general.6fc6775bcf",
+          "title": {
+            "en": "Switch to the Board view",
+            "zh-Hans": "切换到the Board 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.todoist.general.66d0ddd2bf",
+          "title": {
+            "en": "Open search",
+            "zh-Hans": "打开搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.todoist.general.e747d42b32",
+          "title": {
+            "en": "Add a section",
+            "zh-Hans": "添加a section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.todoist.general.7d6e5eb00d",
+          "title": {
+            "en": "Add a task at the top of the list",
+            "zh-Hans": "Add a task at the top of the list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.todoist.general.a0f05c73d4",
+          "title": {
+            "en": "Add a task at the bottom of the list",
+            "zh-Hans": "Add a task at the bottom of the list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.todoist.general.7bc8cf31f1",
+          "title": {
+            "en": "Add a task (with Quick Add)",
+            "zh-Hans": "Add a task (with Quick Add)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.todoist.general.598d19db4a",
+          "title": {
+            "en": "Go to start page",
+            "zh-Hans": "转到start 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.todoist.general.881d55a883",
+          "title": {
+            "en": "Open or close menu",
+            "zh-Hans": "Open or close menu"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.todoist.quick-add",
+      "title": {
+        "en": "Quick Add",
+        "zh-Hans": "快速添加"
+      },
+      "items": [
+        {
+          "id": "remote.todoist.quick-add.379449465d",
+          "title": {
+            "en": "Pick a section",
+            "zh-Hans": "Pick a section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.todoist.global",
+      "title": {
+        "en": "Global",
+        "zh-Hans": "全局"
+      },
+      "items": [
+        {
+          "id": "remote.todoist.global.db2d1471ac",
+          "title": {
+            "en": "Open task Quick Add",
+            "zh-Hans": "打开 任务 Quick Add"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4352,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.todoist.global.d432b72d57",
+          "title": {
+            "en": "Show/hide Todoist",
+            "zh-Hans": "显示/隐藏 Todoist"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4352,
+            "displayKey": "T"
+          }
+        }
+      ]
+    }
+  ]
+}

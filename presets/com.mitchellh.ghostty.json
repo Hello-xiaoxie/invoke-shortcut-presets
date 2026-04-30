@@ -1,0 +1,549 @@
+{
+  "bundleIdentifier": "com.mitchellh.ghostty",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.ghostty.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.ghostty.file.5bc0e40899",
+          "title": {
+            "en": "New window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.ad7f2396de",
+          "title": {
+            "en": "New tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.0f5d9aff69",
+          "title": {
+            "en": "Split right",
+            "zh-Hans": "Split 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.4515afe37b",
+          "title": {
+            "en": "Split down",
+            "zh-Hans": "Split 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.8b62a9c62e",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.62411ab1b4",
+          "title": {
+            "en": "Close tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.9eb03d01ca",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.2766d3bc20",
+          "title": {
+            "en": "Close all windows",
+            "zh-Hans": "关闭 全部 windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2816,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.c04694b443",
+          "title": {
+            "en": "Settings",
+            "zh-Hans": "设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.ghostty.file.12f114a16e",
+          "title": {
+            "en": "Hide Ghostty",
+            "zh-Hans": "隐藏 Ghostty"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.7945bb76a0",
+          "title": {
+            "en": "Hide others",
+            "zh-Hans": "隐藏 others"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2816,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.ghostty.file.16cff735bc",
+          "title": {
+            "en": "Quit Ghostty",
+            "zh-Hans": "退出 Ghostty"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ghostty.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.ghostty.edit.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.ghostty.edit.6f4182faad",
+          "title": {
+            "en": "Paste selection",
+            "zh-Hans": "粘贴 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.ghostty.edit.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ghostty.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.ghostty.view.2bb99694dc",
+          "title": {
+            "en": "Show all tabs",
+            "zh-Hans": "显示 全部 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.ghostty.view.279c174e32",
+          "title": {
+            "en": "Reset font size",
+            "zh-Hans": "重置font size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.ghostty.view.281bae3d89",
+          "title": {
+            "en": "Increase font size",
+            "zh-Hans": "Increase 字体 size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.ghostty.view.830dc4e8de",
+          "title": {
+            "en": "Decrease font size",
+            "zh-Hans": "Decrease 字体 size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.ghostty.view.5671763937",
+          "title": {
+            "en": "Command palette",
+            "zh-Hans": "Command 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.ghostty.view.ab499e9d39",
+          "title": {
+            "en": "Quick terminal",
+            "zh-Hans": "Quick 终端"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.ghostty.view.0ba0ef61c2",
+          "title": {
+            "en": "Terminal inspector",
+            "zh-Hans": "终端 inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ghostty.window",
+      "title": {
+        "en": "Window",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.ghostty.window.a73346595e",
+          "title": {
+            "en": "Minimize",
+            "zh-Hans": "最小化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.65140e3ddb",
+          "title": {
+            "en": "Fill",
+            "zh-Hans": "填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.7588af6fc6",
+          "title": {
+            "en": "Center",
+            "zh-Hans": "中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.b48ec33e14",
+          "title": {
+            "en": "Toggle full screen",
+            "zh-Hans": "Toggle 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.cfb1e9b702",
+          "title": {
+            "en": "Show previous tab",
+            "zh-Hans": "显示 上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.8711a86d9b",
+          "title": {
+            "en": "Show next tab",
+            "zh-Hans": "显示 下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.4c679a1219",
+          "title": {
+            "en": "Zoom split",
+            "zh-Hans": "Zoom split"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.a81fc024d5",
+          "title": {
+            "en": "Select split above",
+            "zh-Hans": "选择split 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.af64464add",
+          "title": {
+            "en": "Select split below",
+            "zh-Hans": "选择split 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.3460e1aef5",
+          "title": {
+            "en": "Select split left",
+            "zh-Hans": "选择split 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.84b683b2fb",
+          "title": {
+            "en": "Select split right",
+            "zh-Hans": "选择split 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.268c4af529",
+          "title": {
+            "en": "Equalize splits",
+            "zh-Hans": "Equalize splits"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4352,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.2a90d5820b",
+          "title": {
+            "en": "Move divider up",
+            "zh-Hans": "移动divider 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.412dca47e3",
+          "title": {
+            "en": "Move divider down",
+            "zh-Hans": "移动divider 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.193417763f",
+          "title": {
+            "en": "Move divider left",
+            "zh-Hans": "移动divider 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.bd30c6296b",
+          "title": {
+            "en": "Move divider right",
+            "zh-Hans": "移动divider 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.83af679212",
+          "title": {
+            "en": "Float on top",
+            "zh-Hans": "Float on 顶部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.ghostty.window.01443c4fa9",
+          "title": {
+            "en": "Bring all to front",
+            "zh-Hans": "Bring all to front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ghostty.help",
+      "title": {
+        "en": "Help",
+        "zh-Hans": "帮助"
+      },
+      "items": [
+        {
+          "id": "remote.ghostty.help.ef9b1bdef9",
+          "title": {
+            "en": "Ghostty help",
+            "zh-Hans": "Ghostty help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "bundleIdentifier": "com.design.spline",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.spline.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.spline.navigation.a88e060c94",
+          "title": {
+            "en": "Open/Import",
+            "zh-Hans": "打开/导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.d7cb49111b",
+          "title": {
+            "en": "Save File to Local",
+            "zh-Hans": "Save File to Local"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.69d69ad9b6",
+          "title": {
+            "en": "Paste in Place",
+            "zh-Hans": "Paste in Place"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.b56bd7553c",
+          "title": {
+            "en": "Select All Objects",
+            "zh-Hans": "全选 Objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.d2a1b5f86e",
+          "title": {
+            "en": "Unselect Objects",
+            "zh-Hans": "Unselect Objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.91a17f50e6",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.31861b228c",
+          "title": {
+            "en": "Toggle UI",
+            "zh-Hans": "切换UI"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.c67ba7a6ac",
+          "title": {
+            "en": "Toggle Full Screen",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.063539ba4e",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.spline.navigation.e5bf4df57b",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.c2c07e6870",
+          "title": {
+            "en": "Reset View/Camera",
+            "zh-Hans": "重置View/Camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spline.navigation.8fd3b45122",
+          "title": {
+            "en": "Group Selection",
+            "zh-Hans": "编组 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spline.objects",
+      "title": {
+        "en": "Objects",
+        "zh-Hans": "对象"
+      },
+      "items": [
+        {
+          "id": "remote.spline.objects.5fd36b889c",
+          "title": {
+            "en": "Delete Objects",
+            "zh-Hans": "删除 Objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.spline.objects.284db124cd",
+          "title": {
+            "en": "Escape Creating Objects",
+            "zh-Hans": "Escape Creating Objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.spline.objects.aa54a8dbef",
+          "title": {
+            "en": "Rectangle",
+            "zh-Hans": "Rectangle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spline.objects.c49cbf5c0b",
+          "title": {
+            "en": "Ellipse",
+            "zh-Hans": "Ellipse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.spline.objects.7dc4081216",
+          "title": {
+            "en": "Triangle",
+            "zh-Hans": "Triangle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.spline.objects.7cb286f088",
+          "title": {
+            "en": "Polygon",
+            "zh-Hans": "Polygon"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.spline.objects.65682dae50",
+          "title": {
+            "en": "Focus Objects",
+            "zh-Hans": "聚焦Objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spline.objects.ea0a831cc6",
+          "title": {
+            "en": "Oriented to Object",
+            "zh-Hans": "Oriented to Object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spline.objects.bff6b496fc",
+          "title": {
+            "en": "Zoom 100%",
+            "zh-Hans": "Zoom 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 512,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spline.transformations",
+      "title": {
+        "en": "Transformations",
+        "zh-Hans": "变换"
+      },
+      "items": [
+        {
+          "id": "remote.spline.transformations.ea67972cec",
+          "title": {
+            "en": "Transform (Mirror)",
+            "zh-Hans": "Transform (Mirror)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.spline.transformations.4ee9d76aa7",
+          "title": {
+            "en": "Transform (Aspect Ratio)",
+            "zh-Hans": "Transform (Aspect Ratio)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.spline.transformations.53b6573775",
+          "title": {
+            "en": "Transform (Both)",
+            "zh-Hans": "Transform (Both)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        }
+      ]
+    }
+  ]
+}

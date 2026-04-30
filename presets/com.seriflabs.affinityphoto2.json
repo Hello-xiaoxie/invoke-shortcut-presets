@@ -1,0 +1,2283 @@
+{
+  "bundleIdentifier": "com.seriflabs.affinityphoto2",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.affinity-photo-2.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.editing.e58771549e",
+          "title": {
+            "en": "Resize Document",
+            "zh-Hans": "调整大小Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.3971a1c003",
+          "title": {
+            "en": "Resize Canvas",
+            "zh-Hans": "调整大小Canvas"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.9053fda8aa",
+          "title": {
+            "en": "Reset Selection Box",
+            "zh-Hans": "重置Selection Box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.8dd0db7280",
+          "title": {
+            "en": "Toggle Snapping",
+            "zh-Hans": "切换Snapping"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 0,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.fdc2b57157",
+          "title": {
+            "en": "Erase with Pixel Tool on current layer",
+            "zh-Hans": "Erase with Pixel Tool on current layer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.d3beec55d0",
+          "title": {
+            "en": "Switch between Stroke/Fill (or Colour 1/Colour 2) colour selectors (Colour and Swatches panels)",
+            "zh-Hans": "Switch between Stroke/Fill (or Colour 1/Colour 2) colour selectors (Colour and Swatches panels)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.0217f3c751",
+          "title": {
+            "en": "Swap Stroke/Fill (or Colour 1/Colour 2) colour selectors",
+            "zh-Hans": "Swap Stroke/Fill (or Colour 1/Colour 2) colour selectors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 512,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.4595402ab7",
+          "title": {
+            "en": "Set No fill on Stroke/Fill (or Colour 1/Colour 2) colour selectors",
+            "zh-Hans": "Set No fill on Stroke/Fill (or Colour 1/Colour 2) colour selectors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.5fbf081dc6",
+          "title": {
+            "en": "Toggle between Crop Tool overlays",
+            "zh-Hans": "Toggle between Crop Tool overlays"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.93df5fb71f",
+          "title": {
+            "en": "Flip golden spiral overlay (crop tool enabled)",
+            "zh-Hans": "Flip golden spiral overlay (crop tool enabled)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.editing.ea8f360233",
+          "title": {
+            "en": "Cancel a sizing, moving, or creating operation",
+            "zh-Hans": "Cancel a sizing, moving, or creating operation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.vector-graphics",
+      "title": {
+        "en": "Vector graphics",
+        "zh-Hans": "矢量图形"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.vector-graphics.229718ddf1",
+          "title": {
+            "en": "Edit curves as you draw using node editing (from pen)",
+            "zh-Hans": "Edit curves as you draw using node editing (from pen)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.vector-graphics.1d3bf0c27d",
+          "title": {
+            "en": "Convert to Curves",
+            "zh-Hans": "Convert to Curves"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.file.e4384ca1a4",
+          "title": {
+            "en": "New Document",
+            "zh-Hans": "新建Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.file.d7fdff8e6a",
+          "title": {
+            "en": "New From Clipboard",
+            "zh-Hans": "新建From 剪贴板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2816,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.file.452e58aeb5",
+          "title": {
+            "en": "Open Document",
+            "zh-Hans": "打开 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.file.eb79f75687",
+          "title": {
+            "en": "Close Document/Close App (when no documents open)",
+            "zh-Hans": "Close Document/Close App (when no documents open)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.file.e8e12538da",
+          "title": {
+            "en": "Switch Document/View",
+            "zh-Hans": "Switch 文档/视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.file.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.file.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.file.dea3c23383",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.file.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.tools.1ac9d8c19d",
+          "title": {
+            "en": "Flood Fill Tool / Gradient cycle",
+            "zh-Hans": "Flood Fill Tool / Gradient cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.23c8b43d99",
+          "title": {
+            "en": "View Tool",
+            "zh-Hans": "视图 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.ca100e0d19",
+          "title": {
+            "en": "Move Tool",
+            "zh-Hans": "移动Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.0205aa5b51",
+          "title": {
+            "en": "Crop Tool",
+            "zh-Hans": "Crop Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.cbdcf1c495",
+          "title": {
+            "en": "Selection Tools cycle",
+            "zh-Hans": "选择 Tools cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.21b2fb98a1",
+          "title": {
+            "en": "Pen and Node Tool cycle",
+            "zh-Hans": "Pen and Node Tool cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.69f4279374",
+          "title": {
+            "en": "Zoom Tool",
+            "zh-Hans": "Zoom Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.8943b6d2c5",
+          "title": {
+            "en": "Clone Tool",
+            "zh-Hans": "Clone Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.9f259b5d79",
+          "title": {
+            "en": "Shape Tools cycle",
+            "zh-Hans": "形状 Tools cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.ec9092519c",
+          "title": {
+            "en": "Text Tools cycle",
+            "zh-Hans": "文本 Tools cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.75a64f3604",
+          "title": {
+            "en": "Dodge, Burn and Sponge Brush Tool cycle",
+            "zh-Hans": "Dodge, Burn and Sponge Brush Tool cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.274bfd6b86",
+          "title": {
+            "en": "Retouch Tools cycle",
+            "zh-Hans": "Retouch Tools cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.fe9726bc2b",
+          "title": {
+            "en": "Painting Tools cycle",
+            "zh-Hans": "Painting Tools cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.71a689ed8d",
+          "title": {
+            "en": "Erase Tools cycle",
+            "zh-Hans": "Erase Tools cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.6dde037f39",
+          "title": {
+            "en": "Marquee Selection Tools cycle",
+            "zh-Hans": "Marquee Selection Tools cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tools.b5fe393309",
+          "title": {
+            "en": "Free Hand Selection Tool",
+            "zh-Hans": "Free Hand Selection Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.liquify",
+      "title": {
+        "en": "Liquify",
+        "zh-Hans": "液化"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.liquify.8f79d9599f",
+          "title": {
+            "en": "Liquify Push Forward Tool",
+            "zh-Hans": "Liquify Push Forward Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.1b61c0c24e",
+          "title": {
+            "en": "Liquify Push Left Tool",
+            "zh-Hans": "Liquify Push Left Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.8264aed64b",
+          "title": {
+            "en": "Liquify Twirl Tool",
+            "zh-Hans": "Liquify Twirl Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.812de50944",
+          "title": {
+            "en": "Liquify Pinch Tool",
+            "zh-Hans": "Liquify Pinch Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.e0265df26f",
+          "title": {
+            "en": "Liquify Turbulence Tool",
+            "zh-Hans": "Liquify Turbulence Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.d9f3a0f3cf",
+          "title": {
+            "en": "Liquify Mesh Clone Tool",
+            "zh-Hans": "Liquify Mesh Clone Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.7debfd4400",
+          "title": {
+            "en": "Liquify Reconstruct Tool",
+            "zh-Hans": "Liquify Reconstruct Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.924a14d29f",
+          "title": {
+            "en": "Liquify Freeze Tool",
+            "zh-Hans": "Liquify Freeze Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.498d463ea7",
+          "title": {
+            "en": "Liquify Thaw Tool",
+            "zh-Hans": "Liquify Thaw Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.202d6a6fcb",
+          "title": {
+            "en": "Liquify Zoom Tool",
+            "zh-Hans": "Liquify Zoom Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.liquify.6fb546950b",
+          "title": {
+            "en": "Liquify View Tool",
+            "zh-Hans": "Liquify 视图 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.develop",
+      "title": {
+        "en": "Develop",
+        "zh-Hans": "开发"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.develop.bf97e841a3",
+          "title": {
+            "en": "Sampler Tool",
+            "zh-Hans": "Sampler Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.452c58eb89",
+          "title": {
+            "en": "White Balance Tool",
+            "zh-Hans": "White Balance Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.da9b309f53",
+          "title": {
+            "en": "Red Eye Removal Tool",
+            "zh-Hans": "Red Eye Removal Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.da9808a152",
+          "title": {
+            "en": "Blemish Removal Tool",
+            "zh-Hans": "Blemish Removal Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.e2de4c0e04",
+          "title": {
+            "en": "Overlay Paint Tool",
+            "zh-Hans": "覆盖层 Paint Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.ed3fcc01ee",
+          "title": {
+            "en": "Overlay Erase Tool",
+            "zh-Hans": "覆盖层 Erase Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.c64e7dd27e",
+          "title": {
+            "en": "Overlay Gradient Tool",
+            "zh-Hans": "覆盖层 渐变 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.0205aa5b51",
+          "title": {
+            "en": "Crop Tool",
+            "zh-Hans": "Crop Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.69f4279374",
+          "title": {
+            "en": "Zoom Tool",
+            "zh-Hans": "Zoom Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.develop.23c8b43d99",
+          "title": {
+            "en": "View Tool",
+            "zh-Hans": "视图 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.export",
+      "title": {
+        "en": "Export",
+        "zh-Hans": "导出"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.export.ef4720d1fa",
+          "title": {
+            "en": "Slice Tool",
+            "zh-Hans": "Slice Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.export.1f50830b46",
+          "title": {
+            "en": "Layer Select tool",
+            "zh-Hans": "图层 Select tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.panorama",
+      "title": {
+        "en": "Panorama",
+        "zh-Hans": "全景"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.panorama.0cc4f3bca9",
+          "title": {
+            "en": "Transform Source Image Tool",
+            "zh-Hans": "Transform 源 图片 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.panorama.c2904ddf7f",
+          "title": {
+            "en": "Add to Source Image Mask Tool",
+            "zh-Hans": "Add to Source Image Mask Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.panorama.a4ec0d96d2",
+          "title": {
+            "en": "Erase From Source Image Mask Tool",
+            "zh-Hans": "Erase From Source Image Mask Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.tone-mapping",
+      "title": {
+        "en": "Tone mapping",
+        "zh-Hans": "色调映射"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.tone-mapping.23c8b43d99",
+          "title": {
+            "en": "View Tool",
+            "zh-Hans": "视图 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tone-mapping.69f4279374",
+          "title": {
+            "en": "Zoom Tool",
+            "zh-Hans": "Zoom Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tone-mapping.e2de4c0e04",
+          "title": {
+            "en": "Overlay Paint Tool",
+            "zh-Hans": "覆盖层 Paint Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tone-mapping.ed3fcc01ee",
+          "title": {
+            "en": "Overlay Erase Tool",
+            "zh-Hans": "覆盖层 Erase Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.tone-mapping.c64e7dd27e",
+          "title": {
+            "en": "Overlay Gradient Tool",
+            "zh-Hans": "覆盖层 渐变 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.edit.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.edit.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.edit.31b728fa70",
+          "title": {
+            "en": "Copy Merged",
+            "zh-Hans": "复制 Merged"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.edit.01c7b05547",
+          "title": {
+            "en": "Paste Style",
+            "zh-Hans": "粘贴 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.edit.ecd3f3c84d",
+          "title": {
+            "en": "Paste FX",
+            "zh-Hans": "粘贴 FX"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.edit.5db0712b85",
+          "title": {
+            "en": "Paste without Format",
+            "zh-Hans": "粘贴 without Format"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.edit.3afea30bae",
+          "title": {
+            "en": "Paste Inside",
+            "zh-Hans": "粘贴 Inside"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.edit.54fb466650",
+          "title": {
+            "en": "Fill",
+            "zh-Hans": "填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.edit.a8f6e5adb5",
+          "title": {
+            "en": "Inpaint",
+            "zh-Hans": "Inpaint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 2048,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.layer-operations",
+      "title": {
+        "en": "Layer operations",
+        "zh-Hans": "图层操作"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.layer-operations.63bbbe5b51",
+          "title": {
+            "en": "Select All Layers",
+            "zh-Hans": "全选 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.b0fb87819e",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.fcfb48217e",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.66c0af7a9a",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.80eb753cfd",
+          "title": {
+            "en": "Invert",
+            "zh-Hans": "反相"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.5ad23286f8",
+          "title": {
+            "en": "Move to Front",
+            "zh-Hans": "移动to Front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.fd97b168e4",
+          "title": {
+            "en": "Move Forward One",
+            "zh-Hans": "Move Forward One"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.ea3d465788",
+          "title": {
+            "en": "Move to Back",
+            "zh-Hans": "移动to Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.b432c35bfe",
+          "title": {
+            "en": "Move Back One",
+            "zh-Hans": "Move Back One"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.6843964258",
+          "title": {
+            "en": "New Layer",
+            "zh-Hans": "新建图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.09fdad5a95",
+          "title": {
+            "en": "Merge Down",
+            "zh-Hans": "Merge 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.3bc7e3566f",
+          "title": {
+            "en": "Merge Selected",
+            "zh-Hans": "Merge 所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.92a328d838",
+          "title": {
+            "en": "Merge Visible",
+            "zh-Hans": "Merge 可见"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2816,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.layer-operations.82a4bada8d",
+          "title": {
+            "en": "Toggle between Frequency Separation layers",
+            "zh-Hans": "Toggle between Frequency Separation layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.live-projection",
+      "title": {
+        "en": "Live projection",
+        "zh-Hans": "实时投影"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.live-projection.29f5ee393c",
+          "title": {
+            "en": "Edit Live Projection",
+            "zh-Hans": "编辑 Live Projection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4352,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.brush",
+      "title": {
+        "en": "Brush",
+        "zh-Hans": "画笔"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.brush.1d6d5f7aa9",
+          "title": {
+            "en": "Picks up a new brush colour with colour picker",
+            "zh-Hans": "Picks up a new brush colour with colour picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.brush.1af8471088",
+          "title": {
+            "en": "Increase/decrease brush width (Photo and Liquify Personas)",
+            "zh-Hans": "Increase/decrease brush width (Photo and Liquify Personas)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.text",
+      "title": {
+        "en": "Text",
+        "zh-Hans": "文本"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.text.88ad9bad12",
+          "title": {
+            "en": "Bigger text",
+            "zh-Hans": "Bigger 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.7f6ebcf823",
+          "title": {
+            "en": "Smaller text",
+            "zh-Hans": "Smaller 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.8d75292d0a",
+          "title": {
+            "en": "Precise bigger text",
+            "zh-Hans": "Precise bigger 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.a5e8dd57de",
+          "title": {
+            "en": "Precise smaller text",
+            "zh-Hans": "Precise smaller 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.00560b7ce1",
+          "title": {
+            "en": "Tighten",
+            "zh-Hans": "Tighten"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.87c631bcbb",
+          "title": {
+            "en": "Loosen",
+            "zh-Hans": "Loosen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.8060dd7ab1",
+          "title": {
+            "en": "Tighten More",
+            "zh-Hans": "Tighten More"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.2aa2263658",
+          "title": {
+            "en": "Loosen More",
+            "zh-Hans": "Loosen More"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.c2ebcd381f",
+          "title": {
+            "en": "Show Character",
+            "zh-Hans": "显示 字符"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.bcd3b99a0e",
+          "title": {
+            "en": "Show Typography",
+            "zh-Hans": "显示 排版"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.bc6f8c848c",
+          "title": {
+            "en": "Superscript",
+            "zh-Hans": "Superscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 4352,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.9d31d5e1c8",
+          "title": {
+            "en": "Subscript",
+            "zh-Hans": "Subscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4352,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.023cbf82c4",
+          "title": {
+            "en": "Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.84f4d42c9c",
+          "title": {
+            "en": "Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.2de0e18e7d",
+          "title": {
+            "en": "Align Centre",
+            "zh-Hans": "对齐 Centre"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.dc0d81804c",
+          "title": {
+            "en": "Justify Left",
+            "zh-Hans": "Justify 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.15f18dc3ce",
+          "title": {
+            "en": "Increase Paragraph Leading",
+            "zh-Hans": "Increase 段落 Leading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.4f5c9859e0",
+          "title": {
+            "en": "Decrease Paragraph Leading",
+            "zh-Hans": "Decrease 段落 Leading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.0b329a0ef9",
+          "title": {
+            "en": "Precise Paragraph Increase Leading",
+            "zh-Hans": "Precise Paragraph Increase Leading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.1080887044",
+          "title": {
+            "en": "Precise Paragraph Decrease Leading",
+            "zh-Hans": "Precise Paragraph Decrease Leading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.b92eba7caa",
+          "title": {
+            "en": "Raise Baseline",
+            "zh-Hans": "Raise Baseline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.94fb7f1e18",
+          "title": {
+            "en": "Lower Baseline",
+            "zh-Hans": "Lower Baseline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.39ab583b00",
+          "title": {
+            "en": "Precise Raise Baseline",
+            "zh-Hans": "Precise Raise Baseline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2816,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.97d898a0ed",
+          "title": {
+            "en": "Precise Lower Baseline",
+            "zh-Hans": "Precise Lower Baseline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2816,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.0a725ea4ff",
+          "title": {
+            "en": "Special Characters",
+            "zh-Hans": "Special Characters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4352,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.9b462f16f5",
+          "title": {
+            "en": "Spelling Options",
+            "zh-Hans": "Spelling Options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 768,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.ae69c1471e",
+          "title": {
+            "en": "Line Break",
+            "zh-Hans": "行 Break"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 4096,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.f31f04c916",
+          "title": {
+            "en": "Non Breaking Space",
+            "zh-Hans": "Non Breaking Space"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.2dca049ef1",
+          "title": {
+            "en": "En Dash",
+            "zh-Hans": "En Dash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 2048,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.text.c84d98494d",
+          "title": {
+            "en": "Em Dash",
+            "zh-Hans": "Em Dash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 2560,
+            "displayKey": "-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.view.063539ba4e",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.e5bf4df57b",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.a8ae1e07b4",
+          "title": {
+            "en": "Zoom to Fit",
+            "zh-Hans": "缩放以适合"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.95fdfec755",
+          "title": {
+            "en": "(Zoom to) 100%",
+            "zh-Hans": "(Zoom to) 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.f45e4e4bc1",
+          "title": {
+            "en": "(Zoom to) 200%",
+            "zh-Hans": "(Zoom to) 200%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.c81b0b5186",
+          "title": {
+            "en": "(Zoom to) 400%",
+            "zh-Hans": "(Zoom to) 400%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.b66aa491ea",
+          "title": {
+            "en": "(Zoom to) 800%",
+            "zh-Hans": "(Zoom to) 800%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.1a440fff1d",
+          "title": {
+            "en": "(Zoom to) Actual Size",
+            "zh-Hans": "(Zoom to) Actual Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.d7bff3cec0",
+          "title": {
+            "en": "(Zoom to) Pixel Size",
+            "zh-Hans": "(Zoom to) Pixel Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.ecad52e4f5",
+          "title": {
+            "en": "Hot key panning",
+            "zh-Hans": "Hot key panning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.23c8b43d99",
+          "title": {
+            "en": "View Tool",
+            "zh-Hans": "视图 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.f7fb7d98d5",
+          "title": {
+            "en": "Toggle Full Screen",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.be7c97974e",
+          "title": {
+            "en": "Switch between views",
+            "zh-Hans": "Switch between views"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.ab5dd615a3",
+          "title": {
+            "en": "Show Rulers",
+            "zh-Hans": "显示标尺"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.2f0c2ec484",
+          "title": {
+            "en": "Show Guides",
+            "zh-Hans": "显示 Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.0e0cde8893",
+          "title": {
+            "en": "Show Grid",
+            "zh-Hans": "显示网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.beffe5bbe3",
+          "title": {
+            "en": "Grid Plane cycle",
+            "zh-Hans": "网格 Plane cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 0,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.view.4e5fe55f5f",
+          "title": {
+            "en": "Split View cycle (Liquify/Develop Persona)",
+            "zh-Hans": "Split View cycle (Liquify/Develop Persona)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.pixel-selection-mask",
+      "title": {
+        "en": "Pixel selection/Mask",
+        "zh-Hans": "像素选择/蒙版"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.56fd601c57",
+          "title": {
+            "en": "Deselect",
+            "zh-Hans": "取消选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.0b4e76842b",
+          "title": {
+            "en": "Invert Pixel Selection",
+            "zh-Hans": "Invert Pixel 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.240e5c2c27",
+          "title": {
+            "en": "Add to selection (Marquee/Free hand selection tools only)",
+            "zh-Hans": "Add to selection (Marquee/Free hand selection tools only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.ae8066078b",
+          "title": {
+            "en": "Remove from selection",
+            "zh-Hans": "移除from 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2048,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.891b473a94",
+          "title": {
+            "en": "Grow/Shrink",
+            "zh-Hans": "Grow/Shrink"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.3818886706",
+          "title": {
+            "en": "Feather",
+            "zh-Hans": "羽化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.0e01f4b645",
+          "title": {
+            "en": "Refine Edges",
+            "zh-Hans": "Refine Edges"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.a70f0c1071",
+          "title": {
+            "en": "Selection from layer",
+            "zh-Hans": "Selection from layer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.fd191101a1",
+          "title": {
+            "en": "Selection from layer luminosity",
+            "zh-Hans": "Selection from layer luminosity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.c593e475e0",
+          "title": {
+            "en": "Polygon selection (Freehand Selection Tool only)",
+            "zh-Hans": "Polygon selection (Freehand Selection Tool only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.585f40f462",
+          "title": {
+            "en": "Quick Mask",
+            "zh-Hans": "Quick 蒙版"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.pixel-selection-mask.a2dbdd58e0",
+          "title": {
+            "en": "Invert Mask",
+            "zh-Hans": "Invert 蒙版"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.workspace",
+      "title": {
+        "en": "Workspace",
+        "zh-Hans": "工作区"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.workspace.eba8b8918a",
+          "title": {
+            "en": "Show/Hide Studio (panels)",
+            "zh-Hans": "显示/隐藏 Studio (panels)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.workspace.c23bdadfee",
+          "title": {
+            "en": "Show/Hide Toolbar",
+            "zh-Hans": "显示/隐藏 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.workspace.6f3a820292",
+          "title": {
+            "en": "Toggle UI",
+            "zh-Hans": "切换UI"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.workspace.6ea6578bbf",
+          "title": {
+            "en": "Hide Workspace",
+            "zh-Hans": "隐藏 工作区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.adjustment-and-filter",
+      "title": {
+        "en": "Adjustment and filter",
+        "zh-Hans": "调整与滤镜"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.adjustment-and-filter.994c9add8c",
+          "title": {
+            "en": "Levels (Adjustment)",
+            "zh-Hans": "Levels (Adjustment)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.adjustment-and-filter.5fbaee9bfc",
+          "title": {
+            "en": "HSL (Adjustment)",
+            "zh-Hans": "HSL (Adjustment)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.adjustment-and-filter.8866dfe278",
+          "title": {
+            "en": "Invert (Adjustment)",
+            "zh-Hans": "Invert (Adjustment)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.adjustment-and-filter.4de4021b96",
+          "title": {
+            "en": "Curves (Adjustment)",
+            "zh-Hans": "Curves (Adjustment)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.adjustment-and-filter.3e96a3a546",
+          "title": {
+            "en": "Black and White (Adjustment)",
+            "zh-Hans": "Black and White (Adjustment)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2816,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.adjustment-and-filter.e4ed155f39",
+          "title": {
+            "en": "Repeat Filter",
+            "zh-Hans": "Repeat 滤镜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.affinity-photo-2.miscellaneous",
+      "title": {
+        "en": "Miscellaneous",
+        "zh-Hans": "其他"
+      },
+      "items": [
+        {
+          "id": "remote.affinity-photo-2.miscellaneous.17bcf963f3",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.miscellaneous.6a65811e07",
+          "title": {
+            "en": "Liquify Persona",
+            "zh-Hans": "Liquify Persona"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.miscellaneous.8a8c464221",
+          "title": {
+            "en": "Export Persona",
+            "zh-Hans": "导出 Persona"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.miscellaneous.5709351db9",
+          "title": {
+            "en": "Develop Persona",
+            "zh-Hans": "Develop Persona"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.miscellaneous.575aa69aa8",
+          "title": {
+            "en": "Hide Others (applications)",
+            "zh-Hans": "隐藏 Others (applications)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.affinity-photo-2.miscellaneous.ac72999b6a",
+          "title": {
+            "en": "Media Browser",
+            "zh-Hans": "媒体 Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        }
+      ]
+    }
+  ]
+}

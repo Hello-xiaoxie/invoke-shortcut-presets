@@ -1,0 +1,459 @@
+{
+  "bundleIdentifier": "com.stairways.keyboardmaestro.editor",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.keyboard-maestro.file-macro-management",
+      "title": {
+        "en": "File & Macro Management",
+        "zh-Hans": "文件与宏管理"
+      },
+      "items": [
+        {
+          "id": "remote.keyboard-maestro.file-macro-management.b872f6cda8",
+          "title": {
+            "en": "New Macro",
+            "zh-Hans": "新建Macro"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.file-macro-management.4f44d241ad",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.file-macro-management.d6751ae239",
+          "title": {
+            "en": "Delete Selected Macro Group",
+            "zh-Hans": "删除 所选 Macro 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.file-macro-management.8c59916da6",
+          "title": {
+            "en": "Record Quick Macro",
+            "zh-Hans": "Record Quick Macro"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.file-macro-management.96fd7e7a2b",
+          "title": {
+            "en": "Duplicate Selected Item",
+            "zh-Hans": "创建副本 所选 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.file-macro-management.beae9778b2",
+          "title": {
+            "en": "Make Alias of Selected Macro",
+            "zh-Hans": "Make Alias of Selected Macro"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.keyboard-maestro.editor-search-navigation",
+      "title": {
+        "en": "Editor - Search & Navigation",
+        "zh-Hans": "Editor - 搜索 & Navigation"
+      },
+      "items": [
+        {
+          "id": "remote.keyboard-maestro.editor-search-navigation.862939bdba",
+          "title": {
+            "en": "Search Macros in Selected Group",
+            "zh-Hans": "Search Macros in Selected Group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.editor-search-navigation.4f707a99b0",
+          "title": {
+            "en": "Search All Macros",
+            "zh-Hans": "搜索 全部 Macros"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.editor-search-navigation.28c0e8cac1",
+          "title": {
+            "en": "Insert Action by Name",
+            "zh-Hans": "Insert Action by Name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4352,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.editor-search-navigation.1563401d35",
+          "title": {
+            "en": "Complete Variables, Tokens, and Functions",
+            "zh-Hans": "Complete Variables, Tokens, and Functions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.keyboard-maestro.editor-action-management",
+      "title": {
+        "en": "Editor - Action Management",
+        "zh-Hans": "编辑器 - 操作管理"
+      },
+      "items": [
+        {
+          "id": "remote.keyboard-maestro.editor-action-management.b9a65e0908",
+          "title": {
+            "en": "Move Selected Action Up",
+            "zh-Hans": "移动Selected Action 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.editor-action-management.6631f0ed46",
+          "title": {
+            "en": "Move Selected Action Down",
+            "zh-Hans": "移动Selected Action 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4096,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.editor-action-management.ba8aa2a500",
+          "title": {
+            "en": "Move Action to Top",
+            "zh-Hans": "Move Action to Top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.editor-action-management.068453ed9a",
+          "title": {
+            "en": "Move Action to Bottom",
+            "zh-Hans": "Move Action to Bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.editor-action-management.3826e58207",
+          "title": {
+            "en": "Delete Selected Action",
+            "zh-Hans": "删除 所选 Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.keyboard-maestro.standard-edit-operations",
+      "title": {
+        "en": "Standard Edit Operations",
+        "zh-Hans": "标准编辑操作"
+      },
+      "items": [
+        {
+          "id": "remote.keyboard-maestro.standard-edit-operations.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.standard-edit-operations.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.standard-edit-operations.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.standard-edit-operations.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.standard-edit-operations.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.standard-edit-operations.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.keyboard-maestro.clipboard-history-switcher",
+      "title": {
+        "en": "Clipboard History Switcher",
+        "zh-Hans": "剪贴板历史切换器"
+      },
+      "items": [
+        {
+          "id": "remote.keyboard-maestro.clipboard-history-switcher.f2c8c6a0e0",
+          "title": {
+            "en": "Open Clipboard History Switcher",
+            "zh-Hans": "打开 剪贴板 历史记录 Switcher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4864,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.clipboard-history-switcher.4b76e1dd73",
+          "title": {
+            "en": "Paste Selected Clipboard",
+            "zh-Hans": "粘贴 所选 剪贴板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.clipboard-history-switcher.98d84b50b4",
+          "title": {
+            "en": "Paste as Plain Text",
+            "zh-Hans": "粘贴 as Plain 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.clipboard-history-switcher.b51782cd43",
+          "title": {
+            "en": "Set System Clipboard Only",
+            "zh-Hans": "Set System Clipboard Only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.clipboard-history-switcher.945feba319",
+          "title": {
+            "en": "Paste Entry 1-9",
+            "zh-Hans": "粘贴 Entry 1-9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.keyboard-maestro.named-clipboard-switcher",
+      "title": {
+        "en": "Named Clipboard Switcher",
+        "zh-Hans": "命名剪贴板切换器"
+      },
+      "items": [
+        {
+          "id": "remote.keyboard-maestro.named-clipboard-switcher.2b0f993985",
+          "title": {
+            "en": "Cut to Named Clipboard",
+            "zh-Hans": "Cut to Named Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.named-clipboard-switcher.73ca510e53",
+          "title": {
+            "en": "Copy to Named Clipboard",
+            "zh-Hans": "Copy to Named Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.named-clipboard-switcher.e87eb84938",
+          "title": {
+            "en": "Paste from Named Clipboard",
+            "zh-Hans": "Paste from Named Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.keyboard-maestro.switchers",
+      "title": {
+        "en": "Switchers",
+        "zh-Hans": "切换器"
+      },
+      "items": [
+        {
+          "id": "remote.keyboard-maestro.switchers.246817a828",
+          "title": {
+            "en": "Application Switcher",
+            "zh-Hans": "Application Switcher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.switchers.dc192f5453",
+          "title": {
+            "en": "Window Switcher",
+            "zh-Hans": "窗口 Switcher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.keyboard-maestro.switchers.e6de4d13ef",
+          "title": {
+            "en": "Application Launcher",
+            "zh-Hans": "Application Launcher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4352,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    }
+  ]
+}

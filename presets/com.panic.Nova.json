@@ -1,0 +1,579 @@
+{
+  "bundleIdentifier": "com.panic.Nova",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.nova.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.nova.navigation.2d01de6871",
+          "title": {
+            "en": "Move to Top of Document",
+            "zh-Hans": "Move to Top of Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.nova.navigation.7a9706db3b",
+          "title": {
+            "en": "Move to Bottom of Document",
+            "zh-Hans": "Move to Bottom of Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.nova.navigation.33708b1f70",
+          "title": {
+            "en": "Move to Beginning of Line",
+            "zh-Hans": "Move to Beginning of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.nova.navigation.0636ae142d",
+          "title": {
+            "en": "Move to End of Line",
+            "zh-Hans": "Move to End of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.nova.navigation.327e262e30",
+          "title": {
+            "en": "Move Word Left",
+            "zh-Hans": "移动Word 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.nova.navigation.74196f665a",
+          "title": {
+            "en": "Move Word Right",
+            "zh-Hans": "移动Word 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.nova.navigation.bad8942710",
+          "title": {
+            "en": "Go to Line",
+            "zh-Hans": "转到行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.nova.navigation.318bf36caa",
+          "title": {
+            "en": "Go Back",
+            "zh-Hans": "Go Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.nova.navigation.cc3ae9ba45",
+          "title": {
+            "en": "Go Forward",
+            "zh-Hans": "Go 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.nova.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.nova.editing.f151d88faa",
+          "title": {
+            "en": "Toggle Comment",
+            "zh-Hans": "切换注释"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.nova.editing.4996838537",
+          "title": {
+            "en": "Toggle Block Comment",
+            "zh-Hans": "切换Block 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 2304,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.nova.editing.1d8d790ca5",
+          "title": {
+            "en": "Shift Left (Unindent)",
+            "zh-Hans": "Shift 左 (Unindent)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.nova.editing.104f5c48af",
+          "title": {
+            "en": "Shift Right (Indent)",
+            "zh-Hans": "Shift 右 (Indent)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.nova.editing.995d82b044",
+          "title": {
+            "en": "Duplicate Line",
+            "zh-Hans": "创建副本 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.nova.editing.0b6ef34704",
+          "title": {
+            "en": "Delete Line",
+            "zh-Hans": "删除 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4608,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.nova.editing.68ad4463f3",
+          "title": {
+            "en": "Move Line Up",
+            "zh-Hans": "移动Line 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.nova.editing.4b78c082d9",
+          "title": {
+            "en": "Move Line Down",
+            "zh-Hans": "移动Line 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.nova.multi-cursor-and-selection",
+      "title": {
+        "en": "Multi-cursor and Selection",
+        "zh-Hans": "多光标与选择"
+      },
+      "items": [
+        {
+          "id": "remote.nova.multi-cursor-and-selection.c16eebc633",
+          "title": {
+            "en": "Add Cursor Above",
+            "zh-Hans": "添加Cursor 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.nova.multi-cursor-and-selection.86d186d313",
+          "title": {
+            "en": "Add Cursor Below",
+            "zh-Hans": "添加Cursor 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.nova.multi-cursor-and-selection.401fdb759a",
+          "title": {
+            "en": "Select All Occurrences",
+            "zh-Hans": "全选 Occurrences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4352,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.nova.multi-cursor-and-selection.7dcebbfc10",
+          "title": {
+            "en": "Select Word",
+            "zh-Hans": "选择Word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.nova.multi-cursor-and-selection.ebd1aded76",
+          "title": {
+            "en": "Select Line",
+            "zh-Hans": "选择Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.nova.find-and-replace",
+      "title": {
+        "en": "Find and Replace",
+        "zh-Hans": "查找和替换"
+      },
+      "items": [
+        {
+          "id": "remote.nova.find-and-replace.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.nova.find-and-replace.fe7b441f47",
+          "title": {
+            "en": "Find and Replace",
+            "zh-Hans": "查找和替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.nova.find-and-replace.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.nova.find-and-replace.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.nova.find-and-replace.51dfda5644",
+          "title": {
+            "en": "Find in Project",
+            "zh-Hans": "Find in Project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.nova.file-operations",
+      "title": {
+        "en": "File Operations",
+        "zh-Hans": "文件操作"
+      },
+      "items": [
+        {
+          "id": "remote.nova.file-operations.0b78e0dc5a",
+          "title": {
+            "en": "New File",
+            "zh-Hans": "新建File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.nova.file-operations.c7879f2087",
+          "title": {
+            "en": "Open File",
+            "zh-Hans": "打开 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.nova.file-operations.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.nova.file-operations.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.nova.file-operations.c7885432cf",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.nova.file-operations.d2c33fd7b0",
+          "title": {
+            "en": "Quick Open",
+            "zh-Hans": "快速打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.nova.editor-commands",
+      "title": {
+        "en": "Editor Commands",
+        "zh-Hans": "Editor命令"
+      },
+      "items": [
+        {
+          "id": "remote.nova.editor-commands.069a42c38f",
+          "title": {
+            "en": "Command Palette",
+            "zh-Hans": "命令面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.nova.editor-commands.5052edd9f8",
+          "title": {
+            "en": "Toggle Sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.nova.editor-commands.2c2e32b955",
+          "title": {
+            "en": "Toggle Terminal",
+            "zh-Hans": "切换终端"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.nova.editor-commands.17bcf963f3",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.nova.view-and-display",
+      "title": {
+        "en": "View and Display",
+        "zh-Hans": "视图与显示"
+      },
+      "items": [
+        {
+          "id": "remote.nova.view-and-display.063539ba4e",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.nova.view-and-display.e5bf4df57b",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.nova.view-and-display.b3577e74c1",
+          "title": {
+            "en": "Reset Zoom",
+            "zh-Hans": "重置Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.nova.view-and-display.10124801e1",
+          "title": {
+            "en": "Split Editor",
+            "zh-Hans": "拆分编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.nova.view-and-display.64aa357910",
+          "title": {
+            "en": "Toggle Minimap",
+            "zh-Hans": "切换Minimap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4352,
+            "displayKey": "M"
+          }
+        }
+      ]
+    }
+  ]
+}

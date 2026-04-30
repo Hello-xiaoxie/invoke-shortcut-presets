@@ -1,0 +1,1149 @@
+{
+  "bundleIdentifier": "com.apple.iMovieApp",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.imovie.information-shortcuts",
+      "title": {
+        "en": "Information shortcuts",
+        "zh-Hans": "信息快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.information-shortcuts.af29fd9517",
+          "title": {
+            "en": "Open help menu",
+            "zh-Hans": "打开 help 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 768,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.imovie.information-shortcuts.1f50322bed",
+          "title": {
+            "en": "Movie properties",
+            "zh-Hans": "Movie properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.import-and-export-shortcuts",
+      "title": {
+        "en": "Import and Export shortcuts",
+        "zh-Hans": "导入 and 导出 shortcuts"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.import-and-export-shortcuts.ed83345e87",
+          "title": {
+            "en": "Import media",
+            "zh-Hans": "导入 媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.imovie.import-and-export-shortcuts.d6b8343667",
+          "title": {
+            "en": "Share the selection  movie",
+            "zh-Hans": "Share the selection  movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.play-video",
+      "title": {
+        "en": "Play video",
+        "zh-Hans": "播放视频"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.play-video.04fd791fdd",
+          "title": {
+            "en": "Play video beginning from the frame beneath",
+            "zh-Hans": "Play video beginning from the frame beneath"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.imovie.play-video.d0acb78515",
+          "title": {
+            "en": "Play the selection",
+            "zh-Hans": "Play the selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.imovie.play-video.2fcd99ca06",
+          "title": {
+            "en": "Play the selected clip from beginning",
+            "zh-Hans": "Play the selected clip from beginning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 0,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.imovie.play-video.4e45762007",
+          "title": {
+            "en": "Play selected item in full screen",
+            "zh-Hans": "Play selected item in full screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.imovie.play-video.fc734a1e84",
+          "title": {
+            "en": "Exit full screen",
+            "zh-Hans": "Exit 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.imovie.play-video.b8b4c6386e",
+          "title": {
+            "en": "Move the palyhead by one frame",
+            "zh-Hans": "Move the palyhead by one frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.manage-events-and-projects",
+      "title": {
+        "en": "Manage events and projects",
+        "zh-Hans": "管理事件与项目"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.manage-events-and-projects.951b06c87a",
+          "title": {
+            "en": "Create a new movie project",
+            "zh-Hans": "Create a new movie project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.imovie.manage-events-and-projects.7b0384e4c7",
+          "title": {
+            "en": "Move to trash",
+            "zh-Hans": "移动to trash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.imovie.manage-events-and-projects.913bf94834",
+          "title": {
+            "en": "Open iMovie preferences",
+            "zh-Hans": "打开 iMovie 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.audio-related",
+      "title": {
+        "en": "Audio related",
+        "zh-Hans": "音频相关"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.audio-related.15c235dc2f",
+          "title": {
+            "en": "Open voiceover controls in the viewer",
+            "zh-Hans": "Open voiceover controls in the viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.imovie.audio-related.0c703ae17f",
+          "title": {
+            "en": "Turn on or silence audio while skimming video",
+            "zh-Hans": "Turn on or silence audio while skimming video"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.imovie.audio-related.7d2238eb1e",
+          "title": {
+            "en": "Detach audio from a clip",
+            "zh-Hans": "Detach audio from a clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.imovie.audio-related.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.imovie.audio-related.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.video-edit",
+      "title": {
+        "en": "Video edit",
+        "zh-Hans": "视频编辑"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.video-edit.19f8e1142c",
+          "title": {
+            "en": "Select an entire clip or project",
+            "zh-Hans": "Select an entire clip or project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.012235a2f8",
+          "title": {
+            "en": "Deselect all clips",
+            "zh-Hans": "Deselect 全部 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.8d856e5c5c",
+          "title": {
+            "en": "Add the selection to the movie",
+            "zh-Hans": "Add the selection to the movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.674d1a46e0",
+          "title": {
+            "en": "Connect the clip at the playhead position",
+            "zh-Hans": "Connect the clip at the playhead position"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.52497e5e72",
+          "title": {
+            "en": "Insert the selection in the movie",
+            "zh-Hans": "Insert the selection in the movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.2a84f392a2",
+          "title": {
+            "en": "Automatically improve the Video and audio quality",
+            "zh-Hans": "Automatically improve the Video and audio quality"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.6f1bc31e0e",
+          "title": {
+            "en": "Cut the selected frames",
+            "zh-Hans": "Cut the selected frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.46ebd6db16",
+          "title": {
+            "en": "Copy the selected frames",
+            "zh-Hans": "Copy the selected frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.f09d666aac",
+          "title": {
+            "en": "Paste Color adjustment",
+            "zh-Hans": "粘贴 颜色 adjustment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.cbdf9cafb1",
+          "title": {
+            "en": "Paste Crop adjustment",
+            "zh-Hans": "粘贴 Crop adjustment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.85bc84a571",
+          "title": {
+            "en": "Paste stabilization adjustment",
+            "zh-Hans": "粘贴 stabilization adjustment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.ded3624a43",
+          "title": {
+            "en": "Paste Rolling shutter adjustment",
+            "zh-Hans": "Paste Rolling shutter adjustment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.8cc36a3ed3",
+          "title": {
+            "en": "Paste volume adjustment",
+            "zh-Hans": "粘贴 volume adjustment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.00f244c66e",
+          "title": {
+            "en": "Paste the video effect",
+            "zh-Hans": "Paste the video effect"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.21d9ad696e",
+          "title": {
+            "en": "Paste the speed adjustments",
+            "zh-Hans": "Paste the speed adjustments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.94db44b585",
+          "title": {
+            "en": "Paste cutway Settings",
+            "zh-Hans": "粘贴 cutway 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.8dccb22476",
+          "title": {
+            "en": "Paste the map style",
+            "zh-Hans": "Paste the map style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.ccef4753b8",
+          "title": {
+            "en": "Rate favorite",
+            "zh-Hans": "Rate favorite"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.301538d1e8",
+          "title": {
+            "en": "Unmark selected frames",
+            "zh-Hans": "Unmark 所选 frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.a7c7a44554",
+          "title": {
+            "en": "Rate the selection as rejected or delete",
+            "zh-Hans": "Rate the selection as rejected or delete"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.89fdb1a418",
+          "title": {
+            "en": "Loop Playback",
+            "zh-Hans": "循环 Playback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.b1088a8905",
+          "title": {
+            "en": "Open the clip trimmer",
+            "zh-Hans": "Open the clip trimmer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.ee1a65eccc",
+          "title": {
+            "en": "Open the precision editor",
+            "zh-Hans": "Open the precision editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.97e8bb7cec",
+          "title": {
+            "en": "Crop",
+            "zh-Hans": "裁剪"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.9bdc7ff9fd",
+          "title": {
+            "en": "Split clip at Playhead",
+            "zh-Hans": "Split clip at Playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.imovie.video-edit.75278b5f0e",
+          "title": {
+            "en": "Create still frame",
+            "zh-Hans": "Create still 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.text-edit",
+      "title": {
+        "en": "Text edit",
+        "zh-Hans": "文本编辑"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.text-edit.1d36c4bd7c",
+          "title": {
+            "en": "Copy the selected Text",
+            "zh-Hans": "Copy the selected Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.imovie.text-edit.b44e10e942",
+          "title": {
+            "en": "Cut the selected Text",
+            "zh-Hans": "Cut the selected Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.imovie.text-edit.37c4c18d93",
+          "title": {
+            "en": "Paste the copied Text",
+            "zh-Hans": "Paste the copied Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.imovie-window",
+      "title": {
+        "en": "iMovie window",
+        "zh-Hans": "iMovie 窗口"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.imovie-window.a73346595e",
+          "title": {
+            "en": "Minimize",
+            "zh-Hans": "最小化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.aa9b4fea63",
+          "title": {
+            "en": "Go to library view",
+            "zh-Hans": "转到library 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.a5f3c8c1d2",
+          "title": {
+            "en": "Go to iMovie theater",
+            "zh-Hans": "转到iMovie theater"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.6d73e4f8f0",
+          "title": {
+            "en": "Show or hide the Adjustment bar",
+            "zh-Hans": "Show or hide the Adjustment bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.903b211bcb",
+          "title": {
+            "en": "Show or hide the Libraries list",
+            "zh-Hans": "Show or hide the Libraries list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 768,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.46c7eeaf6c",
+          "title": {
+            "en": "Show transitions in the browser",
+            "zh-Hans": "Show transitions in the browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.f75a443b50",
+          "title": {
+            "en": "Show titles",
+            "zh-Hans": "显示 titles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.2b8e1d6b92",
+          "title": {
+            "en": "Show map and backgrounds",
+            "zh-Hans": "Show map and backgrounds"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.ed253947d0",
+          "title": {
+            "en": "Show your iTunes library",
+            "zh-Hans": "Show your iTunes library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.8fe6766d84",
+          "title": {
+            "en": "Show sound effect",
+            "zh-Hans": "显示 sound 效果"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.69eaa28f77",
+          "title": {
+            "en": "Show your garageband library",
+            "zh-Hans": "Show your garageband library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.imovie.imovie-window.d7ce3bdf59",
+          "title": {
+            "en": "Play in full screen",
+            "zh-Hans": "Play in full screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.view-menu-function",
+      "title": {
+        "en": "View menu function",
+        "zh-Hans": "视图菜单功能"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.view-menu-function.354b97192a",
+          "title": {
+            "en": "Switch to Clip Viewer or Timeline Viewer",
+            "zh-Hans": "Switch to Clip Viewer or Timeline Viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.imovie.view-menu-function.fa089f5839",
+          "title": {
+            "en": "Scroll to playhead",
+            "zh-Hans": "滚动to 播放头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.imovie.view-menu-function.153dab72b7",
+          "title": {
+            "en": "Scroll to selection",
+            "zh-Hans": "滚动to 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.imovie.view-menu-function.f6d373290d",
+          "title": {
+            "en": "Zoom to selection",
+            "zh-Hans": "Zoom to selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.bookmarks",
+      "title": {
+        "en": "Bookmarks",
+        "zh-Hans": "书签"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.bookmarks.9e04dd55b6",
+          "title": {
+            "en": "Add bookmark",
+            "zh-Hans": "添加bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.imovie.bookmarks.8960b3630e",
+          "title": {
+            "en": "Delete bookmark",
+            "zh-Hans": "删除 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.imovie.bookmarks.8f60ec7240",
+          "title": {
+            "en": "Next bookmark",
+            "zh-Hans": "下一个 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.imovie.bookmarks.0479b6d7e9",
+          "title": {
+            "en": "Previous bookmark",
+            "zh-Hans": "上一个 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.advanced-functions",
+      "title": {
+        "en": "Advanced Functions",
+        "zh-Hans": "高级功能"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.advanced-functions.44fa8ac102",
+          "title": {
+            "en": "Paste over at playhead",
+            "zh-Hans": "Paste over at playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.imovie.advanced-functions.1409a770c7",
+          "title": {
+            "en": "Reverse clip direction",
+            "zh-Hans": "Reverse 片段 direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.imovie.advanced-functions.925964415d",
+          "title": {
+            "en": "Lock audio clip at Playhead",
+            "zh-Hans": "Lock audio clip at Playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.navigation.4d211edbf9",
+          "title": {
+            "en": "Play/Stop and Start/stop capture",
+            "zh-Hans": "Play/Stop and Start/stop capture"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.e9c2f132db",
+          "title": {
+            "en": "Move playhead to beginning of movie",
+            "zh-Hans": "Move playhead to beginning of movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.53f684f3b4",
+          "title": {
+            "en": "Forward one frame",
+            "zh-Hans": "Forward one frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.0acad575fa",
+          "title": {
+            "en": "Forward ten frames",
+            "zh-Hans": "向前 ten frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.da7d56c91c",
+          "title": {
+            "en": "Move playhead forward",
+            "zh-Hans": "移动playhead 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.43d40a30ee",
+          "title": {
+            "en": "Back one frame",
+            "zh-Hans": "Back one frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.720965fe26",
+          "title": {
+            "en": "Back ten frames",
+            "zh-Hans": "Back ten frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.90a9e6ca5f",
+          "title": {
+            "en": "Move playhead backward",
+            "zh-Hans": "移动playhead 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.74c9961c39",
+          "title": {
+            "en": "Move between text filed",
+            "zh-Hans": "Move between text filed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.2d0f6c6662",
+          "title": {
+            "en": "Jump forward to the next clip",
+            "zh-Hans": "Jump forward to the next clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.imovie.navigation.673a1728d2",
+          "title": {
+            "en": "Jump to the beginning of the current clip or jump to the previous clip",
+            "zh-Hans": "Jump to the beginning of the current clip or jump to the previous clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.imovie.accept-cancel",
+      "title": {
+        "en": "Accept/ Cancel",
+        "zh-Hans": "接受/取消"
+      },
+      "items": [
+        {
+          "id": "remote.imovie.accept-cancel.1787aeef50",
+          "title": {
+            "en": "Accept dialog (OK",
+            "zh-Hans": "Accept 对话框 (OK"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.imovie.accept-cancel.6ca0dfb396",
+          "title": {
+            "en": "Cancel dialog",
+            "zh-Hans": "Cancel 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.imovie.accept-cancel.6df99b2784",
+          "title": {
+            "en": "Cancel Dialog",
+            "zh-Hans": "Cancel 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        }
+      ]
+    }
+  ]
+}

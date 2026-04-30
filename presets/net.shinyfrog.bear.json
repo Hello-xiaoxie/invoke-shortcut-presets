@@ -1,0 +1,1029 @@
+{
+  "bundleIdentifier": "net.shinyfrog.bear",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.bear.formatting",
+      "title": {
+        "en": "Formatting",
+        "zh-Hans": "格式化"
+      },
+      "items": [
+        {
+          "id": "remote.bear.formatting.79b4fbec03",
+          "title": {
+            "en": "heading 1",
+            "zh-Hans": "heading 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.d80ec828ea",
+          "title": {
+            "en": "heading 2",
+            "zh-Hans": "heading 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.dec445328f",
+          "title": {
+            "en": "heading 3",
+            "zh-Hans": "heading 3"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.f491333832",
+          "title": {
+            "en": "heading 4",
+            "zh-Hans": "heading 4"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.f26e93ace8",
+          "title": {
+            "en": "heading 5",
+            "zh-Hans": "heading 5"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.c9ab800446",
+          "title": {
+            "en": "heading 6",
+            "zh-Hans": "heading 6"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.8c862b43b9",
+          "title": {
+            "en": "line separator",
+            "zh-Hans": "行 separator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.61671aa66b",
+          "title": {
+            "en": "bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.30f67635b2",
+          "title": {
+            "en": "italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.940521d2d5",
+          "title": {
+            "en": "underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.1973183386",
+          "title": {
+            "en": "strikethrough",
+            "zh-Hans": "strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.b968cd866a",
+          "title": {
+            "en": "link",
+            "zh-Hans": "链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.3bb6fdae80",
+          "title": {
+            "en": "wiki link",
+            "zh-Hans": "wiki 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.c96f3f757c",
+          "title": {
+            "en": "unordered list",
+            "zh-Hans": "unordered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.4aeec5a2a7",
+          "title": {
+            "en": "ordered list",
+            "zh-Hans": "ordered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.eb5268636c",
+          "title": {
+            "en": "quote",
+            "zh-Hans": "quote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.989ff0c3fc",
+          "title": {
+            "en": "inline code",
+            "zh-Hans": "inline code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.c51e4b76d0",
+          "title": {
+            "en": "code block",
+            "zh-Hans": "code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4352,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.3a90cf06b4",
+          "title": {
+            "en": "highlighter/marker",
+            "zh-Hans": "highlighter/标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.dacff0ce7d",
+          "title": {
+            "en": "footnote",
+            "zh-Hans": "footnote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.741e11326d",
+          "title": {
+            "en": "insert file",
+            "zh-Hans": "插入 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.6da0d6b830",
+          "title": {
+            "en": "todo",
+            "zh-Hans": "todo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.656100f4ad",
+          "title": {
+            "en": "toggle todo",
+            "zh-Hans": "toggle todo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.bear.formatting.1e091f06a5",
+          "title": {
+            "en": "shift line left",
+            "zh-Hans": "shift 行 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.29625e8dff",
+          "title": {
+            "en": "move line up",
+            "zh-Hans": "move 行 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.cffc3e9cc7",
+          "title": {
+            "en": "move line down",
+            "zh-Hans": "move 行 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.ef24166c37",
+          "title": {
+            "en": "shift the list element right",
+            "zh-Hans": "shift the list element right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.ab28a41980",
+          "title": {
+            "en": "shift the list element left",
+            "zh-Hans": "shift the list element left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.be02410782",
+          "title": {
+            "en": "long form date with time",
+            "zh-Hans": "long form date with time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 768,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.66d93d3b3d",
+          "title": {
+            "en": "long form date",
+            "zh-Hans": "long form date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 768,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.a75675bb2c",
+          "title": {
+            "en": "short form date",
+            "zh-Hans": "short form date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 768,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.1748bd093d",
+          "title": {
+            "en": "hours",
+            "zh-Hans": "hours"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 768,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.b33a9ba077",
+          "title": {
+            "en": "select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.d003726a1c",
+          "title": {
+            "en": "end editing",
+            "zh-Hans": "结束 editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.d25fed78ba",
+          "title": {
+            "en": "print note",
+            "zh-Hans": "打印 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.759f41150e",
+          "title": {
+            "en": "open link",
+            "zh-Hans": "打开 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.d79152c6b2",
+          "title": {
+            "en": "toggle folding",
+            "zh-Hans": "toggle folding"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.8dbda200e9",
+          "title": {
+            "en": "copy link to note",
+            "zh-Hans": "copy link to note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2816,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.bear.formatting.19024c6392",
+          "title": {
+            "en": "copy note identifier",
+            "zh-Hans": "复制 笔记 identifier"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2816,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bear.table",
+      "title": {
+        "en": "Table",
+        "zh-Hans": "表格"
+      },
+      "items": [
+        {
+          "id": "remote.bear.table.4ca3f8b92c",
+          "title": {
+            "en": "create table",
+            "zh-Hans": "create 表格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.bear.table.9437c5f871",
+          "title": {
+            "en": "add row",
+            "zh-Hans": "add 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 4352,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.bear.table.d540e4260e",
+          "title": {
+            "en": "add column",
+            "zh-Hans": "add 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.bear.table.17c1cc5189",
+          "title": {
+            "en": "delete row",
+            "zh-Hans": "删除 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 4352,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.bear.table.f840223433",
+          "title": {
+            "en": "delete column",
+            "zh-Hans": "删除 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 4864,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bear.panels",
+      "title": {
+        "en": "Panels",
+        "zh-Hans": "面板"
+      },
+      "items": [
+        {
+          "id": "remote.bear.panels.fa4d46391d",
+          "title": {
+            "en": "toggle statistics panel",
+            "zh-Hans": "toggle statistics 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.bear.panels.b14a39f0f2",
+          "title": {
+            "en": "toggle table of content panel",
+            "zh-Hans": "toggle table of content panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.bear.panels.b0bf458ee9",
+          "title": {
+            "en": "toggle the backlinks panel",
+            "zh-Hans": "toggle the backlinks panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.bear.panels.cbb47619d9",
+          "title": {
+            "en": "search inside the current note",
+            "zh-Hans": "search inside the current note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.bear.panels.3d3af557d9",
+          "title": {
+            "en": "search and replace inside the current note",
+            "zh-Hans": "search and replace inside the current note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.bear.panels.0440633d59",
+          "title": {
+            "en": "search inside the note list",
+            "zh-Hans": "search inside the note list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.bear.panels.2f5a2a9a52",
+          "title": {
+            "en": "create a new note",
+            "zh-Hans": "create a new 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.bear.panels.57cbfa5c89",
+          "title": {
+            "en": "create a new note in a new window",
+            "zh-Hans": "create a new note in a new window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.bear.panels.6714c80d3c",
+          "title": {
+            "en": "move the selection in the note and tags lists",
+            "zh-Hans": "move the selection in the note and tags lists"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.bear.panels.16ce2d68f3",
+          "title": {
+            "en": "move the selection in the note and tags lists",
+            "zh-Hans": "move the selection in the note and tags lists"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bear.sidebar",
+      "title": {
+        "en": "Sidebar",
+        "zh-Hans": "侧边栏"
+      },
+      "items": [
+        {
+          "id": "remote.bear.sidebar.46f538d000",
+          "title": {
+            "en": "move the selection between the sidebar, the note list and the editor; open/close nested tags",
+            "zh-Hans": "move the selection between the sidebar, the note list and the editor; open/close nested tags"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.24c16edd4d",
+          "title": {
+            "en": "move the selection between the sidebar, the note list and the editor; open/close nested tags",
+            "zh-Hans": "move the selection between the sidebar, the note list and the editor; open/close nested tags"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.330c0c6208",
+          "title": {
+            "en": "edit the selected note",
+            "zh-Hans": "edit the selected note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.4040311f24",
+          "title": {
+            "en": "delete selected note",
+            "zh-Hans": "删除 所选 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.93f95ae221",
+          "title": {
+            "en": "restore selected note",
+            "zh-Hans": "restore 所选 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.29d40287db",
+          "title": {
+            "en": "pin/unpin selected note",
+            "zh-Hans": "pin/unpin 所选 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.4f5b292a79",
+          "title": {
+            "en": "empty trash",
+            "zh-Hans": "empty trash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.e6e10d2584",
+          "title": {
+            "en": "select notes in the sidebar",
+            "zh-Hans": "select notes in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.0a65de4525",
+          "title": {
+            "en": "select untagged in the sidebar",
+            "zh-Hans": "select untagged in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.d61243fa27",
+          "title": {
+            "en": "select todo in the sidebar",
+            "zh-Hans": "select todo in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.8e55382b59",
+          "title": {
+            "en": "select today in the sidebar",
+            "zh-Hans": "select today in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2304,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.75cea06bbd",
+          "title": {
+            "en": "select locked in the sidebar",
+            "zh-Hans": "select locked in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.7389bfe93d",
+          "title": {
+            "en": "select trash in the sidebar",
+            "zh-Hans": "select trash in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 2304,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.9cedacb918",
+          "title": {
+            "en": "select archive in the sidebar",
+            "zh-Hans": "select archive in the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.4afed0970e",
+          "title": {
+            "en": "navigate back in visualized notes history",
+            "zh-Hans": "navigate back in visualized notes history"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.80d5d18f7a",
+          "title": {
+            "en": "navigate forward in visualized notes history",
+            "zh-Hans": "navigate forward in visualized notes history"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.dcbe023104",
+          "title": {
+            "en": "settings",
+            "zh-Hans": "设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.cf6707d7d2",
+          "title": {
+            "en": "export selected notes",
+            "zh-Hans": "导出 所选 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.bear.sidebar.caf926175a",
+          "title": {
+            "en": "import notes",
+            "zh-Hans": "导入 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bear.views",
+      "title": {
+        "en": "Views",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.bear.views.a20868c8f5",
+          "title": {
+            "en": "show editor only",
+            "zh-Hans": "显示 编辑器 only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.bear.views.5d575a5c41",
+          "title": {
+            "en": "show note list and editor",
+            "zh-Hans": "show note list and editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4096,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.bear.views.7fab441132",
+          "title": {
+            "en": "show sidebar, note list and editor",
+            "zh-Hans": "show sidebar, note list and editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 4096,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.bear.views.06512f2e0a",
+          "title": {
+            "en": "enter fullscreen",
+            "zh-Hans": "enter 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.bear.views.e8b5602070",
+          "title": {
+            "en": "Open main window",
+            "zh-Hans": "打开 main 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.bear.views.bfd05740d5",
+          "title": {
+            "en": "zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.bear.views.8e41febbd8",
+          "title": {
+            "en": "zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.bear.views.5b6e3dd927",
+          "title": {
+            "en": "actual size",
+            "zh-Hans": "actual size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    }
+  ]
+}

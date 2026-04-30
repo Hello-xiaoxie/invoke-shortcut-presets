@@ -1,0 +1,489 @@
+{
+  "bundleIdentifier": "com.google.sketchuppro",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.sketchup.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.sketchup.tools.45a503f79f",
+          "title": {
+            "en": "2 point arc tool",
+            "zh-Hans": "2 point arc tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.3f6cfea00f",
+          "title": {
+            "en": "circle tool",
+            "zh-Hans": "circle tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.1f2aef2248",
+          "title": {
+            "en": "circle tool - lock current inferences",
+            "zh-Hans": "circle tool - lock current inferences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.c7f9e5d6b7",
+          "title": {
+            "en": "eraser tool",
+            "zh-Hans": "eraser tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.e871f10215",
+          "title": {
+            "en": "eraser tool - soften or smooth",
+            "zh-Hans": "eraser tool - soften or smooth"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2048,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.e1013dc4fc",
+          "title": {
+            "en": "eraser tool - hide",
+            "zh-Hans": "eraser tool - 隐藏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.0b0a533089",
+          "title": {
+            "en": "eraser tool - unsoften or unsmooth",
+            "zh-Hans": "eraser tool - unsoften or unsmooth"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2560,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.497594270a",
+          "title": {
+            "en": "line tool",
+            "zh-Hans": "行 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.836f246913",
+          "title": {
+            "en": "line tool - lock in current inference direction",
+            "zh-Hans": "line tool - lock in current inference direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.6ff903d66e",
+          "title": {
+            "en": "move tool",
+            "zh-Hans": "move tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.72284e76e6",
+          "title": {
+            "en": "move tool - move a copy",
+            "zh-Hans": "move tool - move a copy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2048,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.1d3363de11",
+          "title": {
+            "en": "move tool - hold down to lock in current inference direction",
+            "zh-Hans": "move tool - hold down to lock in current inference direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.ed44259aa6",
+          "title": {
+            "en": "move tool - auto-fold",
+            "zh-Hans": "move tool - auto-fold"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.aa990df5b7",
+          "title": {
+            "en": "offset tool",
+            "zh-Hans": "offset tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.4a9836fe0b",
+          "title": {
+            "en": "orbit tool",
+            "zh-Hans": "orbit tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.e3f6a8bb1a",
+          "title": {
+            "en": "orbit tool - disable 'gravity-weighted' orbiting",
+            "zh-Hans": "orbit tool - disable 'gravity-weighted' orbiting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2048,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.f49fde1588",
+          "title": {
+            "en": "orbit tool - activate pan tool",
+            "zh-Hans": "orbit tool - activate pan tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.77e5ecd9e5",
+          "title": {
+            "en": "paint bucket tool",
+            "zh-Hans": "paint bucket tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.b5e1c6c4a3",
+          "title": {
+            "en": "paint bucket tool - fill material, paint all matching adjacent faces",
+            "zh-Hans": "paint bucket tool - fill material, paint all matching adjacent faces"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2048,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.9db076310f",
+          "title": {
+            "en": "paint bucket tool - replace material, paint all matching faces in the model",
+            "zh-Hans": "paint bucket tool - replace material, paint all matching faces in the model"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 512,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.23cc37041d",
+          "title": {
+            "en": "paint bucket tool - replace material on object, paint all matching faces on the same object",
+            "zh-Hans": "paint bucket tool - replace material on object, paint all matching faces on the same object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2560,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.09144482b9",
+          "title": {
+            "en": "paint bucket tool - sample material",
+            "zh-Hans": "paint bucket tool - sample material"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.bd85d6a3e3",
+          "title": {
+            "en": "push and pull tool",
+            "zh-Hans": "push and pull tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.34ebf9cec2",
+          "title": {
+            "en": "push and pull tool - push or pull a copy of the face, leaving original in place",
+            "zh-Hans": "push and pull tool - push or pull a copy of the face, leaving original in place"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2048,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.8894cf5f6f",
+          "title": {
+            "en": "rectangle tool",
+            "zh-Hans": "rectangle tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.813f50f06d",
+          "title": {
+            "en": "rectangle tool - start drawing from center",
+            "zh-Hans": "rectangle tool - start drawing from center"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.abd159e4ef",
+          "title": {
+            "en": "rotate tool",
+            "zh-Hans": "rotate tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.ad6e395d0f",
+          "title": {
+            "en": "rotate tool - rotate a copy",
+            "zh-Hans": "rotate tool - rotate a copy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2048,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.3042d74120",
+          "title": {
+            "en": "scale tool",
+            "zh-Hans": "scale tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.56b5f1347c",
+          "title": {
+            "en": "scale tool - scale about center",
+            "zh-Hans": "scale tool - scale about center"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2048,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.603bb2768d",
+          "title": {
+            "en": "scale tool - scale uniformly, don't distort",
+            "zh-Hans": "scale tool - scale uniformly, don't distort"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.2ce6c4206a",
+          "title": {
+            "en": "select tool",
+            "zh-Hans": "select tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.42de59d83c",
+          "title": {
+            "en": "select tool - add to selection",
+            "zh-Hans": "select tool - add to selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.b4cf13a80f",
+          "title": {
+            "en": "select tool - add or subtract from selection",
+            "zh-Hans": "select tool - add or subtract from selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 512,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.99f4d1b0c5",
+          "title": {
+            "en": "select tool - subtract from selection",
+            "zh-Hans": "select tool - subtract from selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2560,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.98c6f1edb6",
+          "title": {
+            "en": "tape measure tool",
+            "zh-Hans": "tape measure tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.4d4c4c36be",
+          "title": {
+            "en": "tape measure tool - toggle create guide or measure only",
+            "zh-Hans": "tape measure tool - toggle create guide or measure only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.1bc33aca55",
+          "title": {
+            "en": "zoom tool",
+            "zh-Hans": "zoom tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.sketchup.tools.ca45e44eaa",
+          "title": {
+            "en": "zoom tool - combine with click-drag mouse to change field of view",
+            "zh-Hans": "zoom tool - combine with click-drag mouse to change field of view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 512,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    }
+  ]
+}

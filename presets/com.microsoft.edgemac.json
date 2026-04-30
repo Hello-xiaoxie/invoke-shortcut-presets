@@ -1,0 +1,738 @@
+{
+  "bundleIdentifier": "com.microsoft.edgemac",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.microsoft-edge.history",
+      "title": {
+        "en": "History",
+        "zh-Hans": "历史"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-edge.history.a84b90bae2",
+          "title": {
+            "en": "Open History in a new tab (web UI)",
+            "zh-Hans": "Open History in a new tab (web UI)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.history.00e9b11b74",
+          "title": {
+            "en": "Open your home page in the current tab",
+            "zh-Hans": "Open your home page in the current tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.history.85d9606a3d",
+          "title": {
+            "en": "Go forward",
+            "zh-Hans": "Go 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.history.61ee17e5d6",
+          "title": {
+            "en": "Go back",
+            "zh-Hans": "Go back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.history.5f3a4a469d",
+          "title": {
+            "en": "Open clear browsing data options",
+            "zh-Hans": "Open clear browsing data options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-edge.pdf",
+      "title": {
+        "en": "PDF",
+        "zh-Hans": "PDF"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-edge.pdf.66b714620d",
+          "title": {
+            "en": "Rotate PDF clockwise 90*",
+            "zh-Hans": "Rotate PDF clockwise 90*"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 4096,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.pdf.485bc94b95",
+          "title": {
+            "en": "Rotate PDF counter-clockwise 90*",
+            "zh-Hans": "Rotate PDF counter-clockwise 90*"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 4096,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.pdf.f86a91be17",
+          "title": {
+            "en": "Toggle PDF between fit to page / fit to width",
+            "zh-Hans": "Toggle PDF between fit to page / fit to width"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 4096,
+            "displayKey": "\\"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-edge.page",
+      "title": {
+        "en": "Page",
+        "zh-Hans": "页面"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-edge.page.87ea3effdc",
+          "title": {
+            "en": "Delete entire text field / entire line of text",
+            "zh-Hans": "Delete entire text field / entire line of text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.4a7fe09b00",
+          "title": {
+            "en": "Move cursor to the end of last word in same line",
+            "zh-Hans": "Move cursor to the end of last word in same line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.21206ab90e",
+          "title": {
+            "en": "Move cursor to beginning of first word in same line",
+            "zh-Hans": "Move cursor to beginning of first word in same line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.7ae204bb9b",
+          "title": {
+            "en": "Jump to the previous match to your Find Bar search",
+            "zh-Hans": "Jump to the previous match to your Find Bar search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.e27798bb39",
+          "title": {
+            "en": "Jump to the next match to your Find Bar search",
+            "zh-Hans": "Jump to the next match to your Find Bar search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.5ca2372ad3",
+          "title": {
+            "en": "Search the web",
+            "zh-Hans": "Search the web"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.03cd6be984",
+          "title": {
+            "en": "Find on page",
+            "zh-Hans": "Find on page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.f539557a6c",
+          "title": {
+            "en": "Select the URL in the address bar to edit",
+            "zh-Hans": "Select the URL in the address bar to edit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.7c9daf06f4",
+          "title": {
+            "en": "Start or stop Read Aloud",
+            "zh-Hans": "Start or stop Read Aloud"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.2d4a3af536",
+          "title": {
+            "en": "Paste without formatting",
+            "zh-Hans": "粘贴 without formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.1bd948cf64",
+          "title": {
+            "en": "Save the current page",
+            "zh-Hans": "Save the current page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.3df21c5aef",
+          "title": {
+            "en": "Print the current page",
+            "zh-Hans": "Print the current page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.a566ca150a",
+          "title": {
+            "en": "Reset zoom level",
+            "zh-Hans": "重置zoom level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.21bfe3ba0e",
+          "title": {
+            "en": "Scroll down webpage, one screen at a time",
+            "zh-Hans": "Scroll down webpage, one screen at a time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 512,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.3e8bd1ddab",
+          "title": {
+            "en": "Scroll up webpage, one screen at a time",
+            "zh-Hans": "Scroll up webpage, one screen at a time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.3c328499d8",
+          "title": {
+            "en": "Stop loading page; close dialog or pop-up",
+            "zh-Hans": "Stop loading page; close dialog or pop-up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.69d149ec5b",
+          "title": {
+            "en": "Go to previous tab stop",
+            "zh-Hans": "Go to previous tab stop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.eea46e965b",
+          "title": {
+            "en": "Go to next tab stop",
+            "zh-Hans": "Go to next tab stop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.43e3ae7012",
+          "title": {
+            "en": "Go to the bottom of the page, Move keyboard focus to last item of pane",
+            "zh-Hans": "Go to the bottom of the page, Move keyboard focus to last item of pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.00f565ea31",
+          "title": {
+            "en": "Go to the top of the page, Move keyboard focus to first item of pane",
+            "zh-Hans": "Go to the top of the page, Move keyboard focus to first item of pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.page.ecbd1dbd60",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-edge.developer-tools",
+      "title": {
+        "en": "Developer Tools",
+        "zh-Hans": "开发者工具"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-edge.developer-tools.0ddc5e820b",
+          "title": {
+            "en": "Open the JavaScript Console",
+            "zh-Hans": "Open the JavaScript Console"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.developer-tools.e669002a22",
+          "title": {
+            "en": "Open Developer Tools",
+            "zh-Hans": "打开 开发者工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-edge.favorites",
+      "title": {
+        "en": "Favorites",
+        "zh-Hans": "收藏"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-edge.favorites.1a87c3f819",
+          "title": {
+            "en": "Save all open tabs as favorites in a new folder",
+            "zh-Hans": "Save all open tabs as favorites in a new folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.favorites.5f38888578",
+          "title": {
+            "en": "Save the current tab as a favorite",
+            "zh-Hans": "Save the current tab as a favorite"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.favorites.7d3008f8f2",
+          "title": {
+            "en": "Show or hide the favorites bar",
+            "zh-Hans": "Show or hide the favorites bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-edge.tab-and-window",
+      "title": {
+        "en": "Tab and Window",
+        "zh-Hans": "Tab and窗口"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-edge.tab-and-window.0386490559",
+          "title": {
+            "en": "Search the typed query in new tab",
+            "zh-Hans": "Search the typed query in new tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.ee9a998b4d",
+          "title": {
+            "en": "Open a file from your computer in Edge",
+            "zh-Hans": "Open a file from your computer in Edge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.605693b074",
+          "title": {
+            "en": "Open a new InPrivate window",
+            "zh-Hans": "Open a new InPrivate window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.3b7f76b218",
+          "title": {
+            "en": "Open a new window",
+            "zh-Hans": "Open a new window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.a4d5ed4308",
+          "title": {
+            "en": "Sign in as a different user or browse as a Guest",
+            "zh-Hans": "Sign in as a different user or browse as a Guest"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.f41f9938d9",
+          "title": {
+            "en": "Mute the current tab (toggle)",
+            "zh-Hans": "Mute the current tab (toggle)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4096,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.4338c9c93f",
+          "title": {
+            "en": "Open Downloads in a new tab",
+            "zh-Hans": "Open Downloads in a new tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.419c4d6aa8",
+          "title": {
+            "en": "Minimize all windows of the front app",
+            "zh-Hans": "Minimize all windows of the front app"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.d94258f711",
+          "title": {
+            "en": "Minimize window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.8f3b6c4344",
+          "title": {
+            "en": "Close the current window",
+            "zh-Hans": "Close the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.4662580a5d",
+          "title": {
+            "en": "Close the current tab",
+            "zh-Hans": "Close the current tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.00d7a19d6a",
+          "title": {
+            "en": "Reopen the last closed tab, and switch to it",
+            "zh-Hans": "Reopen the last closed tab, and switch to it"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.b0027cf0c4",
+          "title": {
+            "en": "Open a new tab and switch to it",
+            "zh-Hans": "Open a new tab and switch to it"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.22c5b58250",
+          "title": {
+            "en": "Switch to the last tab",
+            "zh-Hans": "切换到the 最后一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.9201abaff6",
+          "title": {
+            "en": "Switch to a specific tab",
+            "zh-Hans": "切换到a specific 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.77e242190d",
+          "title": {
+            "en": "Enter full screen (toggle)",
+            "zh-Hans": "Enter 全屏 (toggle)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.b818fb4ce9",
+          "title": {
+            "en": "Close the current window",
+            "zh-Hans": "Close the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.7af4840ae8",
+          "title": {
+            "en": "Reload the current page, ignoring cached content",
+            "zh-Hans": "Reload the current page, ignoring cached content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.edcdb220f6",
+          "title": {
+            "en": "Reload the current page",
+            "zh-Hans": "Reload the current page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.f15c7db280",
+          "title": {
+            "en": "Switch to the previous tab",
+            "zh-Hans": "切换到the 上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-edge.tab-and-window.829ae7afe2",
+          "title": {
+            "en": "Switch to the next tab",
+            "zh-Hans": "切换到the 下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,915 @@
+{
+  "bundleIdentifier": "com.apple.iWork.Keynote",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-keynote.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-keynote.general-shortcuts.f31d00ae6b",
+          "title": {
+            "en": "Create new documnet",
+            "zh-Hans": "Create new documnet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.general-shortcuts.0bdad4bbed",
+          "title": {
+            "en": "Display font window",
+            "zh-Hans": "Display 字体 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.general-shortcuts.f46e8af777",
+          "title": {
+            "en": "Show.hide format bar",
+            "zh-Hans": "显示.隐藏 format bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.general-shortcuts.a85b9d8edf",
+          "title": {
+            "en": "Display colors window",
+            "zh-Hans": "Display colors 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.general-shortcuts.b42d98caa0",
+          "title": {
+            "en": "Display Inspector window",
+            "zh-Hans": "Display Inspector 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.general-shortcuts.dcc338735b",
+          "title": {
+            "en": "Display Rulers",
+            "zh-Hans": "Display Rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.general-shortcuts.2fb293ca2c",
+          "title": {
+            "en": "Zoom in/Zoom out",
+            "zh-Hans": "放大/缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.apple-keynote.general-shortcuts.44a8a2db3a",
+          "title": {
+            "en": "Keynote Help",
+            "zh-Hans": "Keynote Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.general-shortcuts.d96fe0fc41",
+          "title": {
+            "en": "Show/hide toolbar",
+            "zh-Hans": "显示/隐藏 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-keynote.chart-data-editor",
+      "title": {
+        "en": "Chart data editor",
+        "zh-Hans": "图表数据编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.apple-keynote.chart-data-editor.bcc4edc2d0",
+          "title": {
+            "en": "Show/hide chart data editor",
+            "zh-Hans": "显示/隐藏 chart data 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.bd89dc5ec3",
+          "title": {
+            "en": "Complete a cell entry and move the selection down",
+            "zh-Hans": "Complete a cell entry and move the selection down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.81cd12b2fe",
+          "title": {
+            "en": "Complete a cell entry and move the selection up",
+            "zh-Hans": "Complete a cell entry and move the selection up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.d217864368",
+          "title": {
+            "en": "Complete a cell entry and move the selection right",
+            "zh-Hans": "Complete a cell entry and move the selection right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.d9a9e418f7",
+          "title": {
+            "en": "Complete a cell entry and move the selection left",
+            "zh-Hans": "Complete a cell entry and move the selection left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.0a5c8497d5",
+          "title": {
+            "en": "Complete a cell entry and select the cell",
+            "zh-Hans": "Complete a cell entry and select the cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.8260b0480c",
+          "title": {
+            "en": "Move to the begining",
+            "zh-Hans": "Move to the begining"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.51deac7d4f",
+          "title": {
+            "en": "Move to the end",
+            "zh-Hans": "Move to the end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.304cdc96a1",
+          "title": {
+            "en": "Extend the selection to the beginning of the row",
+            "zh-Hans": "Extend the selection to the beginning of the row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.chart-data-editor.98e6e301a2",
+          "title": {
+            "en": "Extend the selection to the end of the row",
+            "zh-Hans": "Extend the selection to the end of the row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 512,
+            "displayKey": "End"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-keynote.tables",
+      "title": {
+        "en": "Tables",
+        "zh-Hans": "表格"
+      },
+      "items": [
+        {
+          "id": "remote.apple-keynote.tables.a783eb9b03",
+          "title": {
+            "en": "Add a row above the selected cells",
+            "zh-Hans": "Add a row above the selected cells"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.tables.97503d5b5f",
+          "title": {
+            "en": "Add a column right the selected cells",
+            "zh-Hans": "Add a column right the selected cells"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.tables.a94938ce3d",
+          "title": {
+            "en": "Add a row below the selected cells",
+            "zh-Hans": "Add a row below the selected cells"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.tables.55fceee4ac",
+          "title": {
+            "en": "Add a column left the selected cells",
+            "zh-Hans": "Add a column left the selected cells"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.tables.3b68e85940",
+          "title": {
+            "en": "Delete selected object",
+            "zh-Hans": "删除 所选 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.tables.57d67d33fc",
+          "title": {
+            "en": "Select next cell",
+            "zh-Hans": "选择next 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.tables.92d235d168",
+          "title": {
+            "en": "Selected Previous cell",
+            "zh-Hans": "所选 上一个 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.tables.1e25238f05",
+          "title": {
+            "en": "Cycle through absoluteness of selected references",
+            "zh-Hans": "Cycle through absoluteness of selected references"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.tables.1b199c698e",
+          "title": {
+            "en": "Cycle through absoluteness of selected references of start an d end of cell",
+            "zh-Hans": "Cycle through absoluteness of selected references of start an d end of cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-keynote.formula-shortcuts-tables",
+      "title": {
+        "en": "Formula Shortcuts(Tables)",
+        "zh-Hans": "公式快捷键（表格）"
+      },
+      "items": [
+        {
+          "id": "remote.apple-keynote.formula-shortcuts-tables.acf8952a07",
+          "title": {
+            "en": "Open formula editor",
+            "zh-Hans": "打开 formula 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.apple-keynote.formula-shortcuts-tables.ad167e979c",
+          "title": {
+            "en": "Open formula editor for cell containing formula",
+            "zh-Hans": "Open formula editor for cell containing formula"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.apple-keynote.formula-shortcuts-tables.6754fb9720",
+          "title": {
+            "en": "Save changes",
+            "zh-Hans": "存储 changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.formula-shortcuts-tables.488342529f",
+          "title": {
+            "en": "Discard Changes",
+            "zh-Hans": "Discard Changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.formula-shortcuts-tables.d04f03a6b9",
+          "title": {
+            "en": "Change a selected cell references",
+            "zh-Hans": "Change a 所选 单元格 references"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.formula-shortcuts-tables.bfd7ef0e1b",
+          "title": {
+            "en": "Insert line break",
+            "zh-Hans": "插入 行 break"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.formula-shortcuts-tables.7912adc7e0",
+          "title": {
+            "en": "Insert a tab",
+            "zh-Hans": "Insert a tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 2048,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-keynote.objects-on-canvas",
+      "title": {
+        "en": "Objects on Canvas",
+        "zh-Hans": "画布上的对象"
+      },
+      "items": [
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.586b421b59",
+          "title": {
+            "en": "Next object",
+            "zh-Hans": "下一个 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.112e64b8c2",
+          "title": {
+            "en": "Previous object",
+            "zh-Hans": "上一个 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.e64e19abf7",
+          "title": {
+            "en": "Mask/Umnask Image",
+            "zh-Hans": "蒙版/Umnask 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.4faf7b6e89",
+          "title": {
+            "en": "Exit mask mode",
+            "zh-Hans": "Exit 蒙版 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.fac75b11e3",
+          "title": {
+            "en": "Duplicate object",
+            "zh-Hans": "创建副本 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.e1e3b334a5",
+          "title": {
+            "en": "Send object to back",
+            "zh-Hans": "Send object to back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.165a35f811",
+          "title": {
+            "en": "Bring object front",
+            "zh-Hans": "Bring 对象 front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.af9e13b587",
+          "title": {
+            "en": "Group objects",
+            "zh-Hans": "编组 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.32c1a5664e",
+          "title": {
+            "en": "Ungroup objects",
+            "zh-Hans": "取消编组 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.a37ab84bd3",
+          "title": {
+            "en": "Lock objects",
+            "zh-Hans": "锁定 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.72317ae175",
+          "title": {
+            "en": "Choose object to insert",
+            "zh-Hans": "Choose object to insert"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.objects-on-canvas.ba96c889d2",
+          "title": {
+            "en": "Unlock object",
+            "zh-Hans": "解锁 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-keynote.slideshow",
+      "title": {
+        "en": "Slideshow",
+        "zh-Hans": "幻灯片放映"
+      },
+      "items": [
+        {
+          "id": "remote.apple-keynote.slideshow.fc5ed75b8c",
+          "title": {
+            "en": "Play Slideshow",
+            "zh-Hans": "Play Slideshow"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.b9888c3fc9",
+          "title": {
+            "en": "Go to next build",
+            "zh-Hans": "转到next build"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.917c88edc8",
+          "title": {
+            "en": "Go to previous build",
+            "zh-Hans": "转到previous build"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.d29abece08",
+          "title": {
+            "en": "Go to next slide",
+            "zh-Hans": "转到next slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.2a419e2c46",
+          "title": {
+            "en": "Go to previous slide",
+            "zh-Hans": "转到previous slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.0b812b03ae",
+          "title": {
+            "en": "Go to first slide",
+            "zh-Hans": "转到first slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.4aa4190132",
+          "title": {
+            "en": "Go to last slide",
+            "zh-Hans": "转到last slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.ab5ae98def",
+          "title": {
+            "en": "Go back through visited slides",
+            "zh-Hans": "Go back through visited slides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.7a87ad595b",
+          "title": {
+            "en": "Pause and show current slide",
+            "zh-Hans": "Pause and show current slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.015c09c22a",
+          "title": {
+            "en": "Pause and show black screen",
+            "zh-Hans": "Pause and show black screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.e83b59661e",
+          "title": {
+            "en": "Pause and show white screen",
+            "zh-Hans": "Pause and show white screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.e151811afb",
+          "title": {
+            "en": "Show/hide pointers",
+            "zh-Hans": "显示/隐藏 pointers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.94ba6ecc19",
+          "title": {
+            "en": "Go to previous slide(Slide Switcher)",
+            "zh-Hans": "Go to previous slide(Slide Switcher)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.bcc903bc2a",
+          "title": {
+            "en": "Close slide switcher",
+            "zh-Hans": "关闭 slide switcher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.0287bf879c",
+          "title": {
+            "en": "Reset the timer",
+            "zh-Hans": "重置the timer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.37a7e22d90",
+          "title": {
+            "en": "Scroll notes up in presenter display",
+            "zh-Hans": "Scroll notes up in presenter display"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.94f2847f04",
+          "title": {
+            "en": "Scroll notes down in presenter display",
+            "zh-Hans": "Scroll notes down in presenter display"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.slideshow.da2f2aa746",
+          "title": {
+            "en": "Quit Presentation",
+            "zh-Hans": "退出 Presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-keynote.playing-movies",
+      "title": {
+        "en": "Playing Movies",
+        "zh-Hans": "播放影片"
+      },
+      "items": [
+        {
+          "id": "remote.apple-keynote.playing-movies.9da54cc24b",
+          "title": {
+            "en": "Play/Pause movie",
+            "zh-Hans": "Play/Pause movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.playing-movies.17698313f0",
+          "title": {
+            "en": "Rewind movie",
+            "zh-Hans": "Rewind movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.playing-movies.8c8b5a95b0",
+          "title": {
+            "en": "Fast forward",
+            "zh-Hans": "Fast 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.playing-movies.0e1c30353f",
+          "title": {
+            "en": "Jump to beginnig of movie",
+            "zh-Hans": "Jump to beginnig of movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-keynote.playing-movies.c2f67cde75",
+          "title": {
+            "en": "Jump to end of movie",
+            "zh-Hans": "Jump to end of movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        }
+      ]
+    }
+  ]
+}

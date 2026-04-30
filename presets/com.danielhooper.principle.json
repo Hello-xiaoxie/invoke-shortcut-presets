@@ -19,7 +19,7 @@
           "id": "remote.principle.layers.f8fa9a3b1a",
           "title": {
             "en": "Add rectangle",
-            "zh-Hans": "Add rectangle"
+            "zh-Hans": "添加rectangle"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -43,7 +43,7 @@
           "id": "remote.principle.layers.0408772e33",
           "title": {
             "en": "Add Text",
-            "zh-Hans": "Add Text"
+            "zh-Hans": "添加Text"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -67,7 +67,7 @@
           "id": "remote.principle.layers.79bc7608fa",
           "title": {
             "en": "Add Artboard",
-            "zh-Hans": "Add Artboard"
+            "zh-Hans": "添加Artboard"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -115,7 +115,7 @@
           "id": "remote.principle.layers.488e995448",
           "title": {
             "en": "Bring forward",
-            "zh-Hans": "Bring forward"
+            "zh-Hans": "Bring 向前"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -172,7 +172,7 @@
           "id": "remote.principle.editing.20b322211a",
           "title": {
             "en": "Rename Layer",
-            "zh-Hans": "Rename Layer"
+            "zh-Hans": "重命名Layer"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -217,7 +217,7 @@
           "id": "remote.principle.canvas-navigation.7593413d30",
           "title": {
             "en": "Zoom All",
-            "zh-Hans": "Zoom All"
+            "zh-Hans": "Zoom 全部"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -229,7 +229,7 @@
           "id": "remote.principle.canvas-navigation.ca4616fc71",
           "title": {
             "en": "Zoom Selection",
-            "zh-Hans": "Zoom Selection"
+            "zh-Hans": "Zoom 选择"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -241,7 +241,7 @@
           "id": "remote.principle.canvas-navigation.c7b915ef92",
           "title": {
             "en": "Center Selection",
-            "zh-Hans": "Center Selection"
+            "zh-Hans": "中心 选择"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -286,7 +286,7 @@
           "id": "remote.principle.selection.6f3749251f",
           "title": {
             "en": "Select Child",
-            "zh-Hans": "Select Child"
+            "zh-Hans": "选择Child"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -298,7 +298,7 @@
           "id": "remote.principle.selection.009e96c166",
           "title": {
             "en": "Select Next Sibling",
-            "zh-Hans": "Select Next Sibling"
+            "zh-Hans": "选择Next Sibling"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -310,7 +310,7 @@
           "id": "remote.principle.selection.16dcb2fc9f",
           "title": {
             "en": "Select Previous Sibling",
-            "zh-Hans": "Select Previous Sibling"
+            "zh-Hans": "选择Previous Sibling"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -343,7 +343,7 @@
           "id": "remote.principle.preview.8b45c101fd",
           "title": {
             "en": "Rewind Prototype",
-            "zh-Hans": "Rewind Prototype"
+            "zh-Hans": "Rewind 原型"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -355,7 +355,7 @@
           "id": "remote.principle.preview.56196e8cd0",
           "title": {
             "en": "Start recording video",
-            "zh-Hans": "Start recording video"
+            "zh-Hans": "开始 recording 视频"
           },
           "shortcutConfiguration": {
             "keyCode": 9,

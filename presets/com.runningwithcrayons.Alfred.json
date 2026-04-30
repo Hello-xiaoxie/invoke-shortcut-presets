@@ -1,0 +1,492 @@
+{
+  "bundleIdentifier": "com.runningwithcrayons.Alfred",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.alfred.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.alfred.general.15f2406513",
+          "title": {
+            "en": "Activate Alfred",
+            "zh-Hans": "Activate Alfred"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.alfred.general.919dbef065",
+          "title": {
+            "en": "Open Preferences",
+            "zh-Hans": "打开 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.alfred.general.5b431b17e6",
+          "title": {
+            "en": "Hide Alfred",
+            "zh-Hans": "隐藏 Alfred"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.alfred.navigating-results",
+      "title": {
+        "en": "Navigating Results",
+        "zh-Hans": "结果导航"
+      },
+      "items": [
+        {
+          "id": "remote.alfred.navigating-results.66be6dfa56",
+          "title": {
+            "en": "Select previous result",
+            "zh-Hans": "选择previous result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.alfred.navigating-results.787a7737bc",
+          "title": {
+            "en": "Select next result",
+            "zh-Hans": "选择next result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.alfred.navigating-results.db7b8cd246",
+          "title": {
+            "en": "Open selected result",
+            "zh-Hans": "打开 所选 result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.alfred.navigating-results.a9cbd22dfe",
+          "title": {
+            "en": "Quick select result 1-9",
+            "zh-Hans": "Quick select result 1-9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.alfred.navigating-results.ede7e201ca",
+          "title": {
+            "en": "Toggle result height",
+            "zh-Hans": "切换result height"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.alfred.navigating-results.17b237d99f",
+          "title": {
+            "en": "Autocomplete",
+            "zh-Hans": "Autocomplete"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.alfred.actions-previews",
+      "title": {
+        "en": "Actions & Previews",
+        "zh-Hans": "操作与预览"
+      },
+      "items": [
+        {
+          "id": "remote.alfred.actions-previews.7bc6b99349",
+          "title": {
+            "en": "Show actions",
+            "zh-Hans": "显示 actions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.alfred.actions-previews.fa7e26598b",
+          "title": {
+            "en": "Universal Actions",
+            "zh-Hans": "Universal Actions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.alfred.actions-previews.46843ff27b",
+          "title": {
+            "en": "Quick Look preview",
+            "zh-Hans": "Quick Look 预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.alfred.actions-previews.c7b4b6fade",
+          "title": {
+            "en": "Quick Look (toggle)",
+            "zh-Hans": "Quick Look (toggle)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.alfred.actions-previews.b23393cba0",
+          "title": {
+            "en": "Open selected item",
+            "zh-Hans": "打开 所选 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.alfred.actions-previews.fc8dda1364",
+          "title": {
+            "en": "Reveal in Finder",
+            "zh-Hans": "Reveal in Finder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.alfred.actions-previews.654ccb4366",
+          "title": {
+            "en": "Search in Finder",
+            "zh-Hans": "Search in Finder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.alfred.actions-previews.c348179c18",
+          "title": {
+            "en": "Search via default web search",
+            "zh-Hans": "Search via default web search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 4096,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.alfred.file-search-navigation",
+      "title": {
+        "en": "File Search & Navigation",
+        "zh-Hans": "File 搜索 & Navigation"
+      },
+      "items": [
+        {
+          "id": "remote.alfred.file-search-navigation.a310c73438",
+          "title": {
+            "en": "Navigate into folder",
+            "zh-Hans": "Navigate into 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.alfred.file-search-navigation.0828e17fc6",
+          "title": {
+            "en": "Navigate up a folder",
+            "zh-Hans": "Navigate up a folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.alfred.file-search-navigation.ddc29788db",
+          "title": {
+            "en": "Toggle hidden files",
+            "zh-Hans": "切换hidden 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.alfred.file-search-navigation.8c87372fb6",
+          "title": {
+            "en": "Toggle preview panel",
+            "zh-Hans": "切换preview 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.alfred.file-buffer",
+      "title": {
+        "en": "File Buffer",
+        "zh-Hans": "文件缓冲区"
+      },
+      "items": [
+        {
+          "id": "remote.alfred.file-buffer.8ec603a537",
+          "title": {
+            "en": "Add file to buffer",
+            "zh-Hans": "Add file to buffer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.alfred.file-buffer.072a90d39c",
+          "title": {
+            "en": "Remove file from buffer",
+            "zh-Hans": "Remove file from buffer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.alfred.file-buffer.3e6660d13d",
+          "title": {
+            "en": "Action all buffer items",
+            "zh-Hans": "Action all buffer items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.alfred.file-buffer.6495ed72a6",
+          "title": {
+            "en": "Remove last buffer item",
+            "zh-Hans": "移除last buffer 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.alfred.clipboard-history",
+      "title": {
+        "en": "Clipboard History",
+        "zh-Hans": "剪贴板历史"
+      },
+      "items": [
+        {
+          "id": "remote.alfred.clipboard-history.c22f496c40",
+          "title": {
+            "en": "Open Clipboard History",
+            "zh-Hans": "打开 剪贴板 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.alfred.clipboard-history.ac8a8c9e63",
+          "title": {
+            "en": "Copy selected clip",
+            "zh-Hans": "复制 所选 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.alfred.clipboard-history.d056704d50",
+          "title": {
+            "en": "Save as snippet",
+            "zh-Hans": "存储 as 代码片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.alfred.clipboard-history.635c123393",
+          "title": {
+            "en": "Delete clip entry",
+            "zh-Hans": "删除 片段 entry"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.alfred.snippets",
+      "title": {
+        "en": "Snippets",
+        "zh-Hans": "代码片段"
+      },
+      "items": [
+        {
+          "id": "remote.alfred.snippets.b307bd028d",
+          "title": {
+            "en": "Open Snippets viewer",
+            "zh-Hans": "打开 代码片段 viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.alfred.music-mini-player",
+      "title": {
+        "en": "Music Mini Player",
+        "zh-Hans": "音乐迷你播放器"
+      },
+      "items": [
+        {
+          "id": "remote.alfred.music-mini-player.e42093f5fe",
+          "title": {
+            "en": "Show Mini Player",
+            "zh-Hans": "显示 Mini Player"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 4352,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.alfred.music-mini-player.69477a96ad",
+          "title": {
+            "en": "Play / Pause",
+            "zh-Hans": "Play / Pause"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.alfred.music-mini-player.99ea8dcfeb",
+          "title": {
+            "en": "Next track",
+            "zh-Hans": "下一个 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.alfred.music-mini-player.b4379368a5",
+          "title": {
+            "en": "Previous track",
+            "zh-Hans": "上一个 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    }
+  ]
+}

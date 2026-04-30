@@ -1,0 +1,453 @@
+{
+  "bundleIdentifier": "ru.keepcoder.Telegram",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.telegram.telegram",
+      "title": {
+        "en": "Telegram",
+        "zh-Hans": "Telegram"
+      },
+      "items": [
+        {
+          "id": "remote.telegram.telegram.43a8d6126c",
+          "title": {
+            "en": "edit last message sent / in-chat navigation / navigate / suggested stickers navigation",
+            "zh-Hans": "edit last message sent / in-chat navigation / navigate / suggested stickers navigation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.1eb556d883",
+          "title": {
+            "en": "in-chat navigation / navigate / suggested stickers navigation",
+            "zh-Hans": "in-chat navigation / navigate / suggested stickers navigation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.f0e49ce209",
+          "title": {
+            "en": "suggested stickers navigation / suggested emojis navigation",
+            "zh-Hans": "suggested stickers navigation / suggested emojis navigation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.47c3114fd2",
+          "title": {
+            "en": "suggested stickers navigation / suggested emojis navigation",
+            "zh-Hans": "suggested stickers navigation / suggested emojis navigation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.b5e8bd7be6",
+          "title": {
+            "en": "move to the chat below",
+            "zh-Hans": "move to the chat below"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.b0e0e8b892",
+          "title": {
+            "en": "move to the chat above",
+            "zh-Hans": "move to the chat above"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 768,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.42116084a7",
+          "title": {
+            "en": "exit/go back/cancel current action / exit search",
+            "zh-Hans": "exit/go back/cancel current action / exit search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.3e9a852130",
+          "title": {
+            "en": "send file",
+            "zh-Hans": "send 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.40d6f8b71e",
+          "title": {
+            "en": "reply to a message",
+            "zh-Hans": "reply to a message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.183fdcbad1",
+          "title": {
+            "en": "reply to a message / cancel reply",
+            "zh-Hans": "reply to a message / cancel reply"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.43ce384bfc",
+          "title": {
+            "en": "delete currently selected message",
+            "zh-Hans": "delete currently selected message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.61a240bb2f",
+          "title": {
+            "en": "edit media",
+            "zh-Hans": "编辑 媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.8069b64314",
+          "title": {
+            "en": "search selected chat",
+            "zh-Hans": "搜索 所选 chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.75277d54f5",
+          "title": {
+            "en": "select chat",
+            "zh-Hans": "select chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.9849bb917e",
+          "title": {
+            "en": "remove chat",
+            "zh-Hans": "remove chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.90962e123a",
+          "title": {
+            "en": "send message",
+            "zh-Hans": "send message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.b028ecc90e",
+          "title": {
+            "en": "jump to the bottom of the chat/scroll the chat list to the top",
+            "zh-Hans": "jump to the bottom of the chat/scroll the chat list to the top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.a97174993b",
+          "title": {
+            "en": "jump to your saved messages",
+            "zh-Hans": "jump to your saved messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.0aef8b6efd",
+          "title": {
+            "en": "jump between folders",
+            "zh-Hans": "jump between 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.b60ab5902e",
+          "title": {
+            "en": "jump between folders",
+            "zh-Hans": "jump between 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.ff8c1b820c",
+          "title": {
+            "en": "jump between folders",
+            "zh-Hans": "jump between 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.f3b38c368f",
+          "title": {
+            "en": "jump between folders",
+            "zh-Hans": "jump between 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.a18ba5c438",
+          "title": {
+            "en": "jump between folders",
+            "zh-Hans": "jump between 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.f060b2e47e",
+          "title": {
+            "en": "jump to the next folder",
+            "zh-Hans": "jump to the next folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.13bb60772b",
+          "title": {
+            "en": "jump to the previous folder",
+            "zh-Hans": "jump to the previous folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.330b4cfdb4",
+          "title": {
+            "en": "minimize to system tray",
+            "zh-Hans": "minimize to system tray"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.419b08f92d",
+          "title": {
+            "en": "quit telegram",
+            "zh-Hans": "退出 telegram"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.5a60b4887d",
+          "title": {
+            "en": "lock telegram",
+            "zh-Hans": "锁定 telegram"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.6800c180ab",
+          "title": {
+            "en": "minimize telegram",
+            "zh-Hans": "最小化 telegram"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.61671aa66b",
+          "title": {
+            "en": "bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.30f67635b2",
+          "title": {
+            "en": "italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.adb74f8471",
+          "title": {
+            "en": "create link",
+            "zh-Hans": "create 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.940521d2d5",
+          "title": {
+            "en": "underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.e8370c6c76",
+          "title": {
+            "en": "monospace",
+            "zh-Hans": "monospace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.5757474627",
+          "title": {
+            "en": "null/plain text",
+            "zh-Hans": "null/plain 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.telegram.telegram.f346337ad9",
+          "title": {
+            "en": "strikethrough",
+            "zh-Hans": "strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        }
+      ]
+    }
+  ]
+}

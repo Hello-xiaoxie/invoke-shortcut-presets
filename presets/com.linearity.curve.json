@@ -1,0 +1,534 @@
+{
+  "bundleIdentifier": "com.linearity.curve",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.linearity-curve.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.linearity-curve.general.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.general.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.general.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.general.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.general.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.general.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.general.468a78162d",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.general.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linearity-curve.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.linearity-curve.tools.07d0ec5ba4",
+          "title": {
+            "en": "Select Tool",
+            "zh-Hans": "选择Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.tools.df8fe706c6",
+          "title": {
+            "en": "Pen Tool",
+            "zh-Hans": "Pen Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.tools.560705a57d",
+          "title": {
+            "en": "Pencil Tool",
+            "zh-Hans": "Pencil Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.tools.25cded9b2b",
+          "title": {
+            "en": "Text Tool",
+            "zh-Hans": "文本 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.tools.6b5ab1041f",
+          "title": {
+            "en": "Rectangle Tool",
+            "zh-Hans": "Rectangle Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.tools.d14c45445d",
+          "title": {
+            "en": "Ellipse Tool",
+            "zh-Hans": "Ellipse Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.tools.b9b8debac0",
+          "title": {
+            "en": "Line Tool",
+            "zh-Hans": "行 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.tools.69f4279374",
+          "title": {
+            "en": "Zoom Tool",
+            "zh-Hans": "Zoom Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.tools.31532d19a0",
+          "title": {
+            "en": "Hand Tool",
+            "zh-Hans": "Hand Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linearity-curve.layers-objects",
+      "title": {
+        "en": "Layers & Objects",
+        "zh-Hans": "图层与对象"
+      },
+      "items": [
+        {
+          "id": "remote.linearity-curve.layers-objects.f35ce4f81c",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.b0fb87819e",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.fcfb48217e",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.940b4b5305",
+          "title": {
+            "en": "Bring Forward",
+            "zh-Hans": "前移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.0419efbbaf",
+          "title": {
+            "en": "Send Backward",
+            "zh-Hans": "后移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.e05123eb27",
+          "title": {
+            "en": "Bring to Front",
+            "zh-Hans": "置于顶层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.7972d461f2",
+          "title": {
+            "en": "Send to Back",
+            "zh-Hans": "置于底层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.653620b863",
+          "title": {
+            "en": "Lock",
+            "zh-Hans": "锁定"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.0e50509e6e",
+          "title": {
+            "en": "Unlock",
+            "zh-Hans": "解锁"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.f21a17e066",
+          "title": {
+            "en": "Hide",
+            "zh-Hans": "隐藏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.layers-objects.e63e4fdaa2",
+          "title": {
+            "en": "Show All",
+            "zh-Hans": "显示 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linearity-curve.alignment",
+      "title": {
+        "en": "Alignment",
+        "zh-Hans": "对齐"
+      },
+      "items": [
+        {
+          "id": "remote.linearity-curve.alignment.d9642cd7f4",
+          "title": {
+            "en": "Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.alignment.63068fe19f",
+          "title": {
+            "en": "Align Center",
+            "zh-Hans": "居中对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4608,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.alignment.f25b9685f4",
+          "title": {
+            "en": "Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 6144,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.alignment.7b55c5b85a",
+          "title": {
+            "en": "Align Top",
+            "zh-Hans": "顶对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4352,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.alignment.c7db127d20",
+          "title": {
+            "en": "Align Bottom",
+            "zh-Hans": "底对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 6400,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linearity-curve.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.linearity-curve.view.bc48e2b51d",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.view.e5bf4df57b",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.view.6edf98885c",
+          "title": {
+            "en": "Fit to Screen",
+            "zh-Hans": "Fit to Screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.view.8a72ddc4a3",
+          "title": {
+            "en": "100% Zoom",
+            "zh-Hans": "100% Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.linearity-curve.export",
+      "title": {
+        "en": "Export",
+        "zh-Hans": "导出"
+      },
+      "items": [
+        {
+          "id": "remote.linearity-curve.export.b59d332d1b",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.linearity-curve.export.fcdbf8b3d4",
+          "title": {
+            "en": "Export Selection",
+            "zh-Hans": "导出 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        }
+      ]
+    }
+  ]
+}

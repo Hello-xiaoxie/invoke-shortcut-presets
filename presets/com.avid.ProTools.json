@@ -1,0 +1,1542 @@
+{
+  "bundleIdentifier": "com.avid.ProTools",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.pro-tools.file-menu",
+      "title": {
+        "en": "File Menu",
+        "zh-Hans": "文件菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.file-menu.e85060c965",
+          "title": {
+            "en": "New session...",
+            "zh-Hans": "新建session..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.d8019ad546",
+          "title": {
+            "en": "Open session...",
+            "zh-Hans": "打开 session..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.d9672d89a4",
+          "title": {
+            "en": "Open recent",
+            "zh-Hans": "打开 recent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.2b0821d18d",
+          "title": {
+            "en": "Close session",
+            "zh-Hans": "关闭 session"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.44c153b716",
+          "title": {
+            "en": "Bounce to - Disk...",
+            "zh-Hans": "Bounce to - Disk..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.f180627df8",
+          "title": {
+            "en": "Import - Session data...",
+            "zh-Hans": "导入 - Session data..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.a5f2c8190c",
+          "title": {
+            "en": "Import - Audio...",
+            "zh-Hans": "导入 - 音频..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.3c9cd6cb3c",
+          "title": {
+            "en": "Import - MIDI...",
+            "zh-Hans": "导入 - MIDI..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.bf6d0b854e",
+          "title": {
+            "en": "Import - Video...",
+            "zh-Hans": "导入 - 视频..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2816,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.e7871cc7b1",
+          "title": {
+            "en": "Print score...",
+            "zh-Hans": "打印 score..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pro-tools.file-menu.e36c4e07e3",
+          "title": {
+            "en": "Exit",
+            "zh-Hans": "Exit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.edit-menu",
+      "title": {
+        "en": "Edit Menu",
+        "zh-Hans": "编辑菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.edit-menu.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.502f7b7a8d",
+          "title": {
+            "en": "Restore last selection",
+            "zh-Hans": "Restore 最后一个 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.1bc42b995b",
+          "title": {
+            "en": "Clear",
+            "zh-Hans": "Clear"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.71691e0b0e",
+          "title": {
+            "en": "Cut special - Cut clip gain",
+            "zh-Hans": "Cut special - Cut clip gain"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 4608,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.1bb64cf86b",
+          "title": {
+            "en": "Copy special - Copy clip gain",
+            "zh-Hans": "Copy special - Copy clip gain"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4608,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.c6aa58ee9d",
+          "title": {
+            "en": "Paste special - Merge",
+            "zh-Hans": "粘贴 special - Merge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2048,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.31375bd7c7",
+          "title": {
+            "en": "Paste special - Repeat to fill selection",
+            "zh-Hans": "Paste special - Repeat to fill selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.0911493e75",
+          "title": {
+            "en": "Paste special - To current automation type",
+            "zh-Hans": "Paste special - To current automation type"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.f93517062b",
+          "title": {
+            "en": "Clear special - Clear clip gain",
+            "zh-Hans": "Clear special - Clear clip gain"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4608,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.3ddceae26c",
+          "title": {
+            "en": "Selection - Change timeline to match edit",
+            "zh-Hans": "Selection - Change timeline to match edit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2560,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.d7b47cf8be",
+          "title": {
+            "en": "Selection - Change edit to match timeline",
+            "zh-Hans": "Selection - Change edit to match timeline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2560,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.5742d786d1",
+          "title": {
+            "en": "Selection - Play edit",
+            "zh-Hans": "选择 - Play 编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2048,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.95edc88e22",
+          "title": {
+            "en": "Selection - Play timeline",
+            "zh-Hans": "选择 - Play 时间线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2048,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.3c1839e74a",
+          "title": {
+            "en": "Repeat...",
+            "zh-Hans": "Repeat..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.6194483971",
+          "title": {
+            "en": "Shift...",
+            "zh-Hans": "Shift..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2048,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.ee1ea18343",
+          "title": {
+            "en": "Insert silence",
+            "zh-Hans": "插入 silence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.7fd1696fdc",
+          "title": {
+            "en": "Trim clip - To selection",
+            "zh-Hans": "Trim clip - To selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.4c58500d18",
+          "title": {
+            "en": "Trim clip - Start to selection",
+            "zh-Hans": "Trim clip - Start to selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 2560,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.9885533ca2",
+          "title": {
+            "en": "Trim clip - End to selection",
+            "zh-Hans": "Trim clip - End to selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2560,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.42ff7cc8ca",
+          "title": {
+            "en": "Separate clip - At selection",
+            "zh-Hans": "Separate clip - At selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.d74d260bc4",
+          "title": {
+            "en": "Heal separation",
+            "zh-Hans": "Heal separation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.345b2afa53",
+          "title": {
+            "en": "Consolidate clip",
+            "zh-Hans": "Consolidate 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2560,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.fe67c8315a",
+          "title": {
+            "en": "Mute clips",
+            "zh-Hans": "Mute 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.75589b98a3",
+          "title": {
+            "en": "Strip silence",
+            "zh-Hans": "Strip silence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.169ae1ca71",
+          "title": {
+            "en": "TCE edit to timeline selection",
+            "zh-Hans": "TCE edit to timeline selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2560,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.b92b893303",
+          "title": {
+            "en": "Automation - Copy to send...",
+            "zh-Hans": "Automation - Copy to send..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.0a22820a74",
+          "title": {
+            "en": "Automation - Thin",
+            "zh-Hans": "Automation - Thin"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.78a10b5203",
+          "title": {
+            "en": "Automation - Write to current",
+            "zh-Hans": "Automation - Write to current"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.2faf3b24af",
+          "title": {
+            "en": "Automation - Write to all enabled",
+            "zh-Hans": "Automation - Write to all enabled"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.b58a09d308",
+          "title": {
+            "en": "Automation - Trim to current",
+            "zh-Hans": "Automation - Trim to current"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.0892e69e59",
+          "title": {
+            "en": "Automation - Trim to all enabled",
+            "zh-Hans": "Automation - Trim to all enabled"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2816,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.fe8d76bfd3",
+          "title": {
+            "en": "Automation - Glide to current",
+            "zh-Hans": "Automation - Glide to current"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.8c2b22ac55",
+          "title": {
+            "en": "Automation - Glide to all enabled",
+            "zh-Hans": "Automation - Glide to all enabled"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2560,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.6af36b723c",
+          "title": {
+            "en": "Fades - Create...",
+            "zh-Hans": "Fades - Create..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.3d5c18fea6",
+          "title": {
+            "en": "Fades - Fade to start",
+            "zh-Hans": "Fades - Fade to start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2048,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.pro-tools.edit-menu.a1d285974c",
+          "title": {
+            "en": "Fades - Fade to end",
+            "zh-Hans": "Fades - Fade to end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2048,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.view-menu",
+      "title": {
+        "en": "View Menu",
+        "zh-Hans": "视图菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.view-menu.0960db2efd",
+          "title": {
+            "en": "Narrow mix",
+            "zh-Hans": "Narrow mix"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.track-menu",
+      "title": {
+        "en": "Track Menu",
+        "zh-Hans": "轨道菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.track-menu.fa9b449417",
+          "title": {
+            "en": "New...",
+            "zh-Hans": "New..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pro-tools.track-menu.a681765bf1",
+          "title": {
+            "en": "Group...",
+            "zh-Hans": "编组..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.pro-tools.track-menu.e741000314",
+          "title": {
+            "en": "Duplicate...",
+            "zh-Hans": "创建副本..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2560,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.pro-tools.track-menu.469d29a011",
+          "title": {
+            "en": "Set record tracks to input only",
+            "zh-Hans": "Set record tracks to input only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2048,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.pro-tools.track-menu.c8b6832c8a",
+          "title": {
+            "en": "Scroll to track...",
+            "zh-Hans": "滚动to 轨道..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pro-tools.track-menu.0120ba0cab",
+          "title": {
+            "en": "Clear all clip indicators",
+            "zh-Hans": "Clear all clip indicators"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2048,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.clip-menu",
+      "title": {
+        "en": "Clip Menu",
+        "zh-Hans": "片段菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.clip-menu.ff72cccd30",
+          "title": {
+            "en": "Edit lock/unlock",
+            "zh-Hans": "编辑 锁定/解锁"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.bc6011f5c9",
+          "title": {
+            "en": "Time lock/unlock",
+            "zh-Hans": "Time 锁定/解锁"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 6144,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.d150c1cc61",
+          "title": {
+            "en": "Send to back",
+            "zh-Hans": "Send to back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2560,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.24656898b0",
+          "title": {
+            "en": "Bring to front",
+            "zh-Hans": "Bring to front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.bf02a3da97",
+          "title": {
+            "en": "Rating - None",
+            "zh-Hans": "Rating - None"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6400,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.a4cce92c5b",
+          "title": {
+            "en": "Rating - 1..5",
+            "zh-Hans": "Rating - 1..5"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6400,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.ea2d7dea57",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.2ec644d64a",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.185e56f307",
+          "title": {
+            "en": "Regroup",
+            "zh-Hans": "Regroup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.a14e1c5f0b",
+          "title": {
+            "en": "Loop...",
+            "zh-Hans": "循环..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.5c6d9bfe09",
+          "title": {
+            "en": "Capture...",
+            "zh-Hans": "Capture..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.b97f01688e",
+          "title": {
+            "en": "Rename...",
+            "zh-Hans": "重命名..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2816,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.659d9481e5",
+          "title": {
+            "en": "Identify/Remove sync point",
+            "zh-Hans": "Identify/Remove sync point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.pro-tools.clip-menu.6b0ce8fcca",
+          "title": {
+            "en": "Quantize to grid",
+            "zh-Hans": "Quantize to grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.event-menu",
+      "title": {
+        "en": "Event Menu",
+        "zh-Hans": "Event菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.event-menu.3ab98cb8d2",
+          "title": {
+            "en": "Time operations - Time operations window",
+            "zh-Hans": "Time operations - Time operations window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 83,
+            "carbonModifiers": 2048,
+            "displayKey": "83"
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.153d838d02",
+          "title": {
+            "en": "Tempo operations - Tempo operations window",
+            "zh-Hans": "Tempo operations - Tempo operations window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 84,
+            "carbonModifiers": 2048,
+            "displayKey": "84"
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.4199ec4ede",
+          "title": {
+            "en": "Event operations - Event operations window",
+            "zh-Hans": "Event operations - Event operations window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 85,
+            "carbonModifiers": 2048,
+            "displayKey": "85"
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.734ca0f10e",
+          "title": {
+            "en": "Event operations - Quantize...",
+            "zh-Hans": "Event operations - Quantize..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 82,
+            "carbonModifiers": 2048,
+            "displayKey": "82"
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.a8ab47cdc9",
+          "title": {
+            "en": "Event operations - Change duration...",
+            "zh-Hans": "Event operations - Change duration..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2048,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.26c18aa37f",
+          "title": {
+            "en": "Event operations - Transpose...",
+            "zh-Hans": "Event operations - Transpose..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.ff2846966b",
+          "title": {
+            "en": "Event operations - Select/split notes...",
+            "zh-Hans": "Event operations - Select/split notes..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2048,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.91f63c1097",
+          "title": {
+            "en": "MIDI real-time properties",
+            "zh-Hans": "MIDI real-time properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.f0e886c891",
+          "title": {
+            "en": "Beat detective",
+            "zh-Hans": "Beat detective"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.da204f4569",
+          "title": {
+            "en": "Identify beat...",
+            "zh-Hans": "Identify beat..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pro-tools.event-menu.41521e2214",
+          "title": {
+            "en": "All MIDI notes off",
+            "zh-Hans": "All MIDI notes off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.options-menu",
+      "title": {
+        "en": "Options Menu",
+        "zh-Hans": "Options菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.options-menu.2de2dc4107",
+          "title": {
+            "en": "Loop record",
+            "zh-Hans": "循环 record"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2048,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.a8a7360f34",
+          "title": {
+            "en": "QuickPunch",
+            "zh-Hans": "QuickPunch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.8f2ec36a2f",
+          "title": {
+            "en": "TrackPunch",
+            "zh-Hans": "TrackPunch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.7b6f79570a",
+          "title": {
+            "en": "Transport online",
+            "zh-Hans": "Transport online"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.9c2df5c251",
+          "title": {
+            "en": "Video track online",
+            "zh-Hans": "视频 轨道 online"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 512,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.b3f1d68255",
+          "title": {
+            "en": "Pre/post-roll",
+            "zh-Hans": "Pre/post-roll"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.77bad5a53e",
+          "title": {
+            "en": "Loop playback",
+            "zh-Hans": "循环 playback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.7bc42ece44",
+          "title": {
+            "en": "Dynamic transport",
+            "zh-Hans": "Dynamic transport"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4352,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.048f3bbf3e",
+          "title": {
+            "en": "Link timeline and edit selection",
+            "zh-Hans": "Link timeline and edit selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.cfa55de388",
+          "title": {
+            "en": "Auto-spot clips",
+            "zh-Hans": "Auto-spot 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pro-tools.options-menu.170edfaa50",
+          "title": {
+            "en": "Edit/Tool mode keyboard lock",
+            "zh-Hans": "Edit/Tool mode keyboard lock"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4608,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.setup-menu",
+      "title": {
+        "en": "Setup Menu",
+        "zh-Hans": "Setup菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.setup-menu.13340ebe3a",
+          "title": {
+            "en": "Session",
+            "zh-Hans": "Session"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 84,
+            "carbonModifiers": 256,
+            "displayKey": "84"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.window-menu",
+      "title": {
+        "en": "Window Menu",
+        "zh-Hans": "窗口菜单"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.window-menu.d95294c344",
+          "title": {
+            "en": "Configurations - Window configuration list",
+            "zh-Hans": "Configurations - Window configuration list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.b4de65fd03",
+          "title": {
+            "en": "Hide all floating windows",
+            "zh-Hans": "隐藏 全部 floating windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 6400,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.728263049d",
+          "title": {
+            "en": "Mix",
+            "zh-Hans": "Mix"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.103339a8d3",
+          "title": {
+            "en": "MIDI editor",
+            "zh-Hans": "MIDI 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 4096,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.163b4cb65b",
+          "title": {
+            "en": "Score editor",
+            "zh-Hans": "Score 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 6144,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.8fecf08b8d",
+          "title": {
+            "en": "MIDI event list",
+            "zh-Hans": "MIDI event list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2048,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.0c85ce8f72",
+          "title": {
+            "en": "MIDI editors - Bring to front",
+            "zh-Hans": "MIDI editors - Bring to front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2048,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.02d2db4ad3",
+          "title": {
+            "en": "MIDI editors - Send to back",
+            "zh-Hans": "MIDI editors - Send to back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2560,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.499cb602c3",
+          "title": {
+            "en": "Task manager",
+            "zh-Hans": "任务 manager"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 2048,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.a88146904f",
+          "title": {
+            "en": "Workspace",
+            "zh-Hans": "工作区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 2048,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.f2810666c3",
+          "title": {
+            "en": "Project",
+            "zh-Hans": "项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2048,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.f37402f2f5",
+          "title": {
+            "en": "Browsers - Bring to front",
+            "zh-Hans": "Browsers - Bring to front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2048,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.3da9bcf6fd",
+          "title": {
+            "en": "Browsers - Send to back",
+            "zh-Hans": "Browsers - Send to back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2560,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.54bd7868d4",
+          "title": {
+            "en": "Transport",
+            "zh-Hans": "Transport"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 83,
+            "carbonModifiers": 256,
+            "displayKey": "83"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.9027e9671b",
+          "title": {
+            "en": "Big counter",
+            "zh-Hans": "Big counter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 85,
+            "carbonModifiers": 256,
+            "displayKey": "85"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.4d7740e9ec",
+          "title": {
+            "en": "Automation",
+            "zh-Hans": "自动化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 86,
+            "carbonModifiers": 256,
+            "displayKey": "86"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.c10904efed",
+          "title": {
+            "en": "Memory locations",
+            "zh-Hans": "Memory locations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 87,
+            "carbonModifiers": 256,
+            "displayKey": "87"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.db5d9b8537",
+          "title": {
+            "en": "Video universe",
+            "zh-Hans": "视频 universe"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 89,
+            "carbonModifiers": 256,
+            "displayKey": "89"
+          }
+        },
+        {
+          "id": "remote.pro-tools.window-menu.e412158c19",
+          "title": {
+            "en": "Video",
+            "zh-Hans": "视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 92,
+            "carbonModifiers": 256,
+            "displayKey": "92"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pro-tools.misc",
+      "title": {
+        "en": "Misc.",
+        "zh-Hans": "其他"
+      },
+      "items": [
+        {
+          "id": "remote.pro-tools.misc.2914069f23",
+          "title": {
+            "en": "Half-speed playback",
+            "zh-Hans": "Half-speed playback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 512,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.pro-tools.misc.8f0b069e6c",
+          "title": {
+            "en": "Half-speed record",
+            "zh-Hans": "Half-speed record"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 768,
+            "displayKey": "F12"
+          }
+        }
+      ]
+    }
+  ]
+}

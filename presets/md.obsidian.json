@@ -1,0 +1,312 @@
+{
+  "bundleIdentifier": "md.obsidian",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.obsidian.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.obsidian.editing.4e353083e3",
+          "title": {
+            "en": "Editor: save file",
+            "zh-Hans": "编辑器：保存文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.obsidian.editing.57a4eb046c",
+          "title": {
+            "en": "Toggle edit/preview mode",
+            "zh-Hans": "切换编辑/预览模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.obsidian.editing.b7046447ab",
+          "title": {
+            "en": "Delete paragraph",
+            "zh-Hans": "删除段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.obsidian.editing.64e8405e5e",
+          "title": {
+            "en": "Insert link",
+            "zh-Hans": "插入链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.obsidian.editing.45357e0ac1",
+          "title": {
+            "en": "Toggle italics for selection",
+            "zh-Hans": "切换所选内容斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.obsidian.editing.8d17185a56",
+          "title": {
+            "en": "Toggle bold for selection",
+            "zh-Hans": "切换所选内容粗体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.obsidian.search",
+      "title": {
+        "en": "Search",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.obsidian.search.fdb5e631c2",
+          "title": {
+            "en": "Search in all files",
+            "zh-Hans": "在所有文件中搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.obsidian.search.825682daca",
+          "title": {
+            "en": "Search ",
+            "zh-Hans": "搜索 "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.obsidian.search.e756253550",
+          "title": {
+            "en": "Search current file",
+            "zh-Hans": "搜索 当前 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.obsidian.pane-handling",
+      "title": {
+        "en": "Pane Handling",
+        "zh-Hans": "窗格处理"
+      },
+      "items": [
+        {
+          "id": "remote.obsidian.pane-handling.df3777fd04",
+          "title": {
+            "en": "Close active pane",
+            "zh-Hans": "关闭 活动 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.obsidian.pane-handling.99c83773da",
+          "title": {
+            "en": "Create new note",
+            "zh-Hans": "新建笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.obsidian.pane-handling.2042633a6c",
+          "title": {
+            "en": "Add file to active folder",
+            "zh-Hans": "Add file to active folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.obsidian.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.obsidian.navigation.7f9c4e4036",
+          "title": {
+            "en": "Open settings",
+            "zh-Hans": "打开设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.c237d12503",
+          "title": {
+            "en": "Open link under cursor in new pane",
+            "zh-Hans": "Open link under cursor in new pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2304,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.908cffe836",
+          "title": {
+            "en": "Follow link under cursor",
+            "zh-Hans": "Follow 链接 under 光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.07aa31a90b",
+          "title": {
+            "en": "Open help",
+            "zh-Hans": "打开 help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.ce64474ae6",
+          "title": {
+            "en": "Navigate forward",
+            "zh-Hans": "向前导航"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.637d0b5f89",
+          "title": {
+            "en": "Navigate back",
+            "zh-Hans": "向后导航"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.541a90068b",
+          "title": {
+            "en": "Open command palette",
+            "zh-Hans": "打开命令面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.f295e621d4",
+          "title": {
+            "en": "Open graph view",
+            "zh-Hans": "打开关系图谱"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.77a14e61b8",
+          "title": {
+            "en": "Open quick switcher",
+            "zh-Hans": "打开快速切换器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.obsidian.navigation.2042633a6c",
+          "title": {
+            "en": "Add file to active folder",
+            "zh-Hans": "Add file to active folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        }
+      ]
+    }
+  ]
+}

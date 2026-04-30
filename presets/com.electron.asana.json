@@ -1,0 +1,534 @@
+{
+  "bundleIdentifier": "com.electron.asana",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.asana.application",
+      "title": {
+        "en": "Application",
+        "zh-Hans": "应用"
+      },
+      "items": [
+        {
+          "id": "remote.asana.application.08e9ca47cc",
+          "title": {
+            "en": "What it sounds like",
+            "zh-Hans": "What it sounds like"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.asana.application.f36c4798f6",
+          "title": {
+            "en": "Post Comment (From comment field)",
+            "zh-Hans": "Post Comment (From comment field)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.asana.application.9d097ce42a",
+          "title": {
+            "en": "Quick Add",
+            "zh-Hans": "快速添加"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.asana.application.0fd8a0668a",
+          "title": {
+            "en": "Enter Focus Mode",
+            "zh-Hans": "Enter Focus 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.asana.application.771bb16823",
+          "title": {
+            "en": "Collapse the right pane",
+            "zh-Hans": "折叠the 右 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.asana.application.492c2e5368",
+          "title": {
+            "en": "Show Keyboard Shortcuts",
+            "zh-Hans": "显示 Keyboard Shortcuts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.asana.selection",
+      "title": {
+        "en": "Selection",
+        "zh-Hans": "选择"
+      },
+      "items": [
+        {
+          "id": "remote.asana.selection.690e80659e",
+          "title": {
+            "en": "Select Range",
+            "zh-Hans": "选择Range"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.asana.selection.2d9ec56886",
+          "title": {
+            "en": "Change Selection",
+            "zh-Hans": "Change 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.asana.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.asana.navigation.1be90cce46",
+          "title": {
+            "en": "Search for a project, tag, person, or task",
+            "zh-Hans": "Search for a project, tag, person, or task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.1975e0aed5",
+          "title": {
+            "en": "Focus Subtasks",
+            "zh-Hans": "聚焦Subtasks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.5cc1fb613f",
+          "title": {
+            "en": "Add a tag to the task",
+            "zh-Hans": "Add a tag to the task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.9d6bf90544",
+          "title": {
+            "en": "Add Follower",
+            "zh-Hans": "添加Follower"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.b668e4d483",
+          "title": {
+            "en": "Set Due Date",
+            "zh-Hans": "Set Due Date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.734f7c7cfb",
+          "title": {
+            "en": "Assign Selected Task",
+            "zh-Hans": "Assign 所选 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.22c44d84fc",
+          "title": {
+            "en": "Comment on Selected Task",
+            "zh-Hans": "Comment on Selected Task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.0e5e2c72f0",
+          "title": {
+            "en": "Collapse Sidebar",
+            "zh-Hans": "折叠Sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.6e4009c9b6",
+          "title": {
+            "en": "Navigate to Inbox",
+            "zh-Hans": "导航到Inbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.asana.navigation.0304d483bf",
+          "title": {
+            "en": "Navigate to My Tasks",
+            "zh-Hans": "导航到My Tasks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.asana.task-actions",
+      "title": {
+        "en": "Task Actions",
+        "zh-Hans": "Task操作"
+      },
+      "items": [
+        {
+          "id": "remote.asana.task-actions.d9cf138065",
+          "title": {
+            "en": "Add to a project",
+            "zh-Hans": "Add to a project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.022943383a",
+          "title": {
+            "en": "Create a Section",
+            "zh-Hans": "Create a Section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.849743197d",
+          "title": {
+            "en": "Access Home",
+            "zh-Hans": "Access Home"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.e6a9c9b372",
+          "title": {
+            "en": "Assign to Me",
+            "zh-Hans": "Assign to Me"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.16ced87809",
+          "title": {
+            "en": "Paste Tasks (One per line)",
+            "zh-Hans": "Paste Tasks (One per line)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.3ed1f8cbe7",
+          "title": {
+            "en": "Copy Selected Tasks",
+            "zh-Hans": "复制 所选 Tasks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.fb7398e4d3",
+          "title": {
+            "en": "Jump Up/Down to the next Section",
+            "zh-Hans": "Jump Up/Down to the next Section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.a26fbea6c9",
+          "title": {
+            "en": "Move Up/Down",
+            "zh-Hans": "移动Up/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.5884da2e8d",
+          "title": {
+            "en": "Complete Selected Task(s)",
+            "zh-Hans": "Complete 所选 任务(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.c0915752e7",
+          "title": {
+            "en": "Delete current task (when task name is empty)",
+            "zh-Hans": "Delete current task (when task name is empty)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.fb01594b45",
+          "title": {
+            "en": "Delete Selected Task(s)",
+            "zh-Hans": "删除 所选 任务(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.asana.task-actions.e6517dcd48",
+          "title": {
+            "en": "New Task",
+            "zh-Hans": "新建Task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.asana.inbox",
+      "title": {
+        "en": "Inbox",
+        "zh-Hans": "收件箱"
+      },
+      "items": [
+        {
+          "id": "remote.asana.inbox.d7c2a904ae",
+          "title": {
+            "en": "Move to Inbox",
+            "zh-Hans": "移动到收件箱"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.asana.inbox.f557c68ced",
+          "title": {
+            "en": "Archive",
+            "zh-Hans": "归档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.asana.inbox.bfa61b2577",
+          "title": {
+            "en": "Follow or Unfollow",
+            "zh-Hans": "Follow or Unfollow"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.asana.inbox.4e96cbf336",
+          "title": {
+            "en": "Jump to Archive tab",
+            "zh-Hans": "跳转到Archive 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.asana.inbox.7ba0aab836",
+          "title": {
+            "en": "Jump to Inbox tab",
+            "zh-Hans": "跳转到Inbox 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.asana.inbox.7b76db1dd9",
+          "title": {
+            "en": "Move Up/Down",
+            "zh-Hans": "移动Up/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.asana.my-tasks",
+      "title": {
+        "en": "My Tasks",
+        "zh-Hans": "我的任务"
+      },
+      "items": [
+        {
+          "id": "remote.asana.my-tasks.ce869d59f3",
+          "title": {
+            "en": "Mark as Later in your My Tasks",
+            "zh-Hans": "Mark as Later in your My Tasks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.asana.my-tasks.271f475439",
+          "title": {
+            "en": "Mark as Upcoming in your My Tasks",
+            "zh-Hans": "Mark as Upcoming in your My Tasks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.asana.my-tasks.8fe745b8e3",
+          "title": {
+            "en": "Mark as Today in your My Tasks",
+            "zh-Hans": "Mark as Today in your My Tasks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        }
+      ]
+    }
+  ]
+}

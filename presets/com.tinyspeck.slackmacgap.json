@@ -268,7 +268,7 @@
           "id": "remote.slack.call-actions.231bd0d5b4",
           "title": {
             "en": "Show invite list",
-            "zh-Hans": "Show invite list"
+            "zh-Hans": "显示invite list"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -547,7 +547,7 @@
           "id": "remote.slack.take-an-action-on-a-message.9465a445d5",
           "title": {
             "en": "Delete your message",
-            "zh-Hans": "Delete your message"
+            "zh-Hans": "删除your message"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -571,7 +571,7 @@
           "id": "remote.slack.take-an-action-on-a-message.f1dd881604",
           "title": {
             "en": "Save a message or remove from Saved items",
-            "zh-Hans": "存储 a message or remove from Saved items"
+            "zh-Hans": "Save a message or remove from Saved items"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -607,7 +607,7 @@
           "id": "remote.slack.take-an-action-on-a-message.88cc54581e",
           "title": {
             "en": "Open or reply to a thread",
-            "zh-Hans": "打开 or reply to a thread"
+            "zh-Hans": "Open or reply to a thread"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -631,7 +631,7 @@
           "id": "remote.slack.take-an-action-on-a-message.8c01a81a4e",
           "title": {
             "en": "Edit your message",
-            "zh-Hans": "Edit your message"
+            "zh-Hans": "编辑 your message"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -697,7 +697,7 @@
           "id": "remote.slack.switch-workspaces.fd269b3755",
           "title": {
             "en": "Switch to next workspace",
-            "zh-Hans": "Switch to next workspace"
+            "zh-Hans": "切换到next 工作区"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -709,7 +709,7 @@
           "id": "remote.slack.switch-workspaces.e2cd312ccd",
           "title": {
             "en": "Switch to previous workspace",
-            "zh-Hans": "Switch to previous workspace"
+            "zh-Hans": "切换到previous 工作区"
           },
           "shortcutConfiguration": {
             "keyCode": 33,

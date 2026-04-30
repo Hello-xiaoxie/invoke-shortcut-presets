@@ -1,0 +1,426 @@
+{
+  "bundleIdentifier": "us.zoom.xos",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.zoom.most-useful",
+      "title": {
+        "en": "Most useful",
+        "zh-Hans": "最实用"
+      },
+      "items": [
+        {
+          "id": "remote.zoom.most-useful.ea7f2d6e02",
+          "title": {
+            "en": "Start/stop video",
+            "zh-Hans": "开始/stop 视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.15578a28f6",
+          "title": {
+            "en": "Mute/unmute audio",
+            "zh-Hans": "Mute/unmute 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.78508af4b0",
+          "title": {
+            "en": "Toggle full scren",
+            "zh-Hans": "切换full scren"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.20e621b779",
+          "title": {
+            "en": "Screen share start/stop",
+            "zh-Hans": "Screen share start/stop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.e2929e05fa",
+          "title": {
+            "en": "Screen share via direct share",
+            "zh-Hans": "Screen share via direct share"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4352,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.99067d95f9",
+          "title": {
+            "en": "Pause or resume screen share",
+            "zh-Hans": "Pause or resume screen share"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.397ccc808c",
+          "title": {
+            "en": "Display/hide Participants panel",
+            "zh-Hans": "Display/隐藏 Participants 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.b0ff6362a1",
+          "title": {
+            "en": "Raise hand/lower hand",
+            "zh-Hans": "Raise hand/lower hand"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2048,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.3935fabeb6",
+          "title": {
+            "en": "Push to talk",
+            "zh-Hans": "Push to talk"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.3b1bcdac4c",
+          "title": {
+            "en": "Mute audio for everyone except the host (host only)",
+            "zh-Hans": "Mute audio for everyone except the host (host only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4352,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.986de18f54",
+          "title": {
+            "en": "Unmute audio for everyone except host (host only)",
+            "zh-Hans": "Unmute audio for everyone except host (host only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4352,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.zoom.most-useful.a2cdaca089",
+          "title": {
+            "en": "Start local recording",
+            "zh-Hans": "开始 local recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zoom.the-rest",
+      "title": {
+        "en": "The Rest",
+        "zh-Hans": "其他"
+      },
+      "items": [
+        {
+          "id": "remote.zoom.the-rest.f91e5d0ce0",
+          "title": {
+            "en": "Join Meeting",
+            "zh-Hans": "Join Meeting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.1cf9127df4",
+          "title": {
+            "en": "Start Meeting",
+            "zh-Hans": "开始 Meeting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.d0607efced",
+          "title": {
+            "en": "Schedule Meeting",
+            "zh-Hans": "Schedule Meeting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.5de1b1facc",
+          "title": {
+            "en": "Switch camera",
+            "zh-Hans": "Switch camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.65e0d20764",
+          "title": {
+            "en": "Start cloud recording",
+            "zh-Hans": "开始 cloud recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.ead6aaa204",
+          "title": {
+            "en": "Pause or resume recording",
+            "zh-Hans": "Pause or resume recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.97651b377a",
+          "title": {
+            "en": "Switch to active speaker view or gallery view, depending on current view",
+            "zh-Hans": "Switch to active speaker view or gallery view, depending on current view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.2c155013bc",
+          "title": {
+            "en": "View previous/ next 25 participants in gallery view",
+            "zh-Hans": "View previous/ next 25 participants in gallery view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.6bd28d5a20",
+          "title": {
+            "en": "Show/hide In-Meeting Chat Panel",
+            "zh-Hans": "Show/hide In-Meeting Chat Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.81543406a6",
+          "title": {
+            "en": "Open invite window",
+            "zh-Hans": "打开 invite 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.020e393c2d",
+          "title": {
+            "en": "Gain remote control",
+            "zh-Hans": "Gain remote control"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4608,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.92115b049a",
+          "title": {
+            "en": "Stop remote control",
+            "zh-Hans": "Stop remote control"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4608,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.1ba6e52dba",
+          "title": {
+            "en": "Switch to minimal window",
+            "zh-Hans": "切换到minimal 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.74a7992309",
+          "title": {
+            "en": "Show/hide meeting controls",
+            "zh-Hans": "显示/隐藏 meeting controls"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 6400,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.27eb02c434",
+          "title": {
+            "en": "Toggle the \"Always Show meeting controls\" options in Settings/Accessibility",
+            "zh-Hans": "Toggle the \"Always Show meeting controls\" options in Settings/Accessibility"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 4096,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.b79b95a88d",
+          "title": {
+            "en": "Prompt to End or Leave Meeting",
+            "zh-Hans": "Prompt to End or Leave Meeting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.cf3019ab8e",
+          "title": {
+            "en": "Jump to chat with someone",
+            "zh-Hans": "Jump to chat with someone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.c23d1300cd",
+          "title": {
+            "en": "Screenshot",
+            "zh-Hans": "Screenshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.53b753fcd9",
+          "title": {
+            "en": "Close the current window",
+            "zh-Hans": "Close the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.543add965b",
+          "title": {
+            "en": "Switch to Portrait or Landscape View, depending on current view",
+            "zh-Hans": "Switch to Portrait or Landscape View, depending on current view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.zoom.the-rest.6a4eaf66b1",
+          "title": {
+            "en": "Switch from one tab to the next",
+            "zh-Hans": "Switch from one tab to the next"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        }
+      ]
+    }
+  ]
+}

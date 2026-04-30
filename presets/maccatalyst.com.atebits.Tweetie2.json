@@ -1,0 +1,222 @@
+{
+  "bundleIdentifier": "maccatalyst.com.atebits.Tweetie2",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.twitter.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.twitter.navigation.70b0ccd8f8",
+          "title": {
+            "en": "Load new Tweets",
+            "zh-Hans": "Load new Tweets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.twitter.navigation.34face8f6c",
+          "title": {
+            "en": "Page down",
+            "zh-Hans": "页面 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.twitter.navigation.e4fa1479fc",
+          "title": {
+            "en": "Previous Tweet",
+            "zh-Hans": "上一个 Tweet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.twitter.navigation.d53891b580",
+          "title": {
+            "en": "Next Tweet",
+            "zh-Hans": "下一个 Tweet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.twitter.navigation.f1b375cb51",
+          "title": {
+            "en": "Full keyboard menu",
+            "zh-Hans": "Full keyboard 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.twitter.actions",
+      "title": {
+        "en": "Actions",
+        "zh-Hans": "操作"
+      },
+      "items": [
+        {
+          "id": "remote.twitter.actions.b12e5087ba",
+          "title": {
+            "en": "Send Tweet",
+            "zh-Hans": "Send Tweet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.60f9f1d158",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.71c8492666",
+          "title": {
+            "en": "Expand photo",
+            "zh-Hans": "展开photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.1bec2e66a8",
+          "title": {
+            "en": "open Tweet details",
+            "zh-Hans": "打开 Tweet details"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.d071e7ba39",
+          "title": {
+            "en": "Block account",
+            "zh-Hans": "Block account"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.ca7a181520",
+          "title": {
+            "en": "Mute account",
+            "zh-Hans": "Mute account"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.59708ab0e7",
+          "title": {
+            "en": "Direct Message",
+            "zh-Hans": "Direct Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.fe8a0a7a7d",
+          "title": {
+            "en": "Retweet",
+            "zh-Hans": "Retweet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.f07481bc85",
+          "title": {
+            "en": "Reply",
+            "zh-Hans": "回复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.41d2f39bb7",
+          "title": {
+            "en": "Like",
+            "zh-Hans": "Like"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.twitter.actions.a820574c03",
+          "title": {
+            "en": "New Tweet",
+            "zh-Hans": "新建Tweet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        }
+      ]
+    }
+  ]
+}

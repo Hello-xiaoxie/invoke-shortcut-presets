@@ -1,0 +1,1407 @@
+{
+  "bundleIdentifier": "com.apple.iWork.Pages",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-pages.moving-around-within-a-document",
+      "title": {
+        "en": "Moving around within a document",
+        "zh-Hans": "在文档中移动"
+      },
+      "items": [
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.ff211528d2",
+          "title": {
+            "en": "Move one character to the left",
+            "zh-Hans": "Move one character to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.54a83b22af",
+          "title": {
+            "en": "Move one character to the right",
+            "zh-Hans": "Move one character to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.d526549f4a",
+          "title": {
+            "en": "Move to the line above",
+            "zh-Hans": "Move to the line above"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.90ea273228",
+          "title": {
+            "en": "Move to the line below",
+            "zh-Hans": "Move to the line below"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.e342609832",
+          "title": {
+            "en": "Move to the beginning of current or previous word",
+            "zh-Hans": "Move to the beginning of current or previous word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.d34becf55b",
+          "title": {
+            "en": "Move to the end of current or next word",
+            "zh-Hans": "Move to the end of current or next word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.193a7c2918",
+          "title": {
+            "en": "Move to the beginning of the current line",
+            "zh-Hans": "Move to the beginning of the current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.587f3b2434",
+          "title": {
+            "en": "Move to the end of the current line",
+            "zh-Hans": "Move to the end of the current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.c7ab1d65ab",
+          "title": {
+            "en": "Move to the beginning of the current paragraph",
+            "zh-Hans": "Move to the beginning of the current paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-pages.moving-around-within-a-document.18a7516448",
+          "title": {
+            "en": "Move to the end of the current paragraph",
+            "zh-Hans": "Move to the end of the current paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-pages.formatting-text",
+      "title": {
+        "en": "Formatting text",
+        "zh-Hans": "格式化文本"
+      },
+      "items": [
+        {
+          "id": "remote.apple-pages.formatting-text.5af181712e",
+          "title": {
+            "en": "Show fonts",
+            "zh-Hans": "显示 fonts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.5239212f9a",
+          "title": {
+            "en": "Show styles",
+            "zh-Hans": "显示 styles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.c0b6f3c690",
+          "title": {
+            "en": "Delete previous character or selection",
+            "zh-Hans": "Delete previous character or selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.1bcc626fad",
+          "title": {
+            "en": "Delete the next character or selection",
+            "zh-Hans": "Delete the next character or selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.8b987269a4",
+          "title": {
+            "en": "Make font size bigger",
+            "zh-Hans": "Make font size bigger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.7303275619",
+          "title": {
+            "en": "Make font size smaller",
+            "zh-Hans": "Make font size smaller"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.1e81dd1da1",
+          "title": {
+            "en": "Make text superscript",
+            "zh-Hans": "Make 文本 superscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.d3d10d7006",
+          "title": {
+            "en": "Make text subscript",
+            "zh-Hans": "Make 文本 subscript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.5606ca9fcc",
+          "title": {
+            "en": "Align text flush left",
+            "zh-Hans": "对齐 文本 flush 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.fe30d1c7cf",
+          "title": {
+            "en": "Center text",
+            "zh-Hans": "中心 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.c71db620bd",
+          "title": {
+            "en": "Align text flush right",
+            "zh-Hans": "对齐 文本 flush 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.99151acf4a",
+          "title": {
+            "en": "Align text flush left and flush right (justify)",
+            "zh-Hans": "Align text flush left and flush right (justify)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.95ecd1234a",
+          "title": {
+            "en": "Decrease list indent level",
+            "zh-Hans": "Decrease list indent level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.cc3cab96e2",
+          "title": {
+            "en": "Increase list indent level",
+            "zh-Hans": "Increase list indent level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.387b6601bc",
+          "title": {
+            "en": "Copy paragraph style",
+            "zh-Hans": "复制 段落 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.093c9b8758",
+          "title": {
+            "en": "Copy character style",
+            "zh-Hans": "复制 字符 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.aaa3357db3",
+          "title": {
+            "en": "Paste character or paragraph style",
+            "zh-Hans": "Paste character or paragraph style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.c5582fddd8",
+          "title": {
+            "en": "Paste and match style of destination text",
+            "zh-Hans": "Paste and match style of destination text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.23685d314b",
+          "title": {
+            "en": "Insert non-breaking space",
+            "zh-Hans": "Insert non-breaking space"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.60b809871a",
+          "title": {
+            "en": "Insert line break (soft return)",
+            "zh-Hans": "Insert line break (soft return)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.22c53b792a",
+          "title": {
+            "en": "Insert page break",
+            "zh-Hans": "插入 页面 break"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.apple-pages.formatting-text.1f3acc1d57",
+          "title": {
+            "en": "Insert paragraph break",
+            "zh-Hans": "插入 段落 break"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-pages.selecting-text",
+      "title": {
+        "en": "Selecting text",
+        "zh-Hans": "选择文本"
+      },
+      "items": [
+        {
+          "id": "remote.apple-pages.selecting-text.84d99c6bed",
+          "title": {
+            "en": "Select all inline text and objects",
+            "zh-Hans": "Select all inline text and objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.e480150c3c",
+          "title": {
+            "en": "Deselect all all inline text and objects",
+            "zh-Hans": "Deselect all all inline text and objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.a277fbe17b",
+          "title": {
+            "en": "Extend selection one character to the right",
+            "zh-Hans": "Extend selection one character to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.0760dcfe7e",
+          "title": {
+            "en": "Extend selection one character to the left",
+            "zh-Hans": "Extend selection one character to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.5f0608ab4b",
+          "title": {
+            "en": "Extend selection to end of current word",
+            "zh-Hans": "Extend selection to end of current word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.49bc83431a",
+          "title": {
+            "en": "Extend selection to beginning of current word",
+            "zh-Hans": "Extend selection to beginning of current word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.806a7a0bea",
+          "title": {
+            "en": "Extend selection to end of current line",
+            "zh-Hans": "Extend selection to end of current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.52229e4235",
+          "title": {
+            "en": "Extend selection to beginning of current line",
+            "zh-Hans": "Extend selection to beginning of current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.78c3284167",
+          "title": {
+            "en": "Extend selection to the line above",
+            "zh-Hans": "Extend selection to the line above"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.6c9903d0b6",
+          "title": {
+            "en": "Extend selection to the line below",
+            "zh-Hans": "Extend selection to the line below"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.41f193bdd7",
+          "title": {
+            "en": "Extend selection to beginning of the current paragraph",
+            "zh-Hans": "Extend selection to beginning of the current paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.3eb48f884c",
+          "title": {
+            "en": "Extend selection to end of the current paragraph",
+            "zh-Hans": "Extend selection to end of the current paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.00221f1ed0",
+          "title": {
+            "en": "Extend selection to end of text",
+            "zh-Hans": "Extend selection to end of text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-pages.selecting-text.a6e9ce27a0",
+          "title": {
+            "en": "Extend selection to beginning of text",
+            "zh-Hans": "Extend selection to beginning of text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-pages.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.apple-pages.general.50086adec1",
+          "title": {
+            "en": "Open new document (You can choose the type of document you want to open in Pages Preferences.)",
+            "zh-Hans": "Open new document (You can choose the type of document you want to open in Pages Preferences.)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.0c21d1115f",
+          "title": {
+            "en": "Open existing document",
+            "zh-Hans": "打开 existing 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.02e854c5f9",
+          "title": {
+            "en": "Save as",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.9e71ddf56d",
+          "title": {
+            "en": "Page setup",
+            "zh-Hans": "页面 setup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.311842e8cb",
+          "title": {
+            "en": "Find next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.eccb3fa2a7",
+          "title": {
+            "en": "Find previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.54c15cc6bc",
+          "title": {
+            "en": "Use selection for find",
+            "zh-Hans": "Use selection for find"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.d8235fa699",
+          "title": {
+            "en": "Scroll to found selection",
+            "zh-Hans": "滚动to found 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.473b77c350",
+          "title": {
+            "en": "Check spelling",
+            "zh-Hans": "Check spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.745659ca32",
+          "title": {
+            "en": "Show Spelling window",
+            "zh-Hans": "显示 Spelling 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.72cde39089",
+          "title": {
+            "en": "Zoom in/Out",
+            "zh-Hans": "放大/Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.d94258f711",
+          "title": {
+            "en": "Minimize window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.f08ae53cb7",
+          "title": {
+            "en": "Show preferences",
+            "zh-Hans": "显示 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.f060013be8",
+          "title": {
+            "en": "Show Inspector window",
+            "zh-Hans": "显示 Inspector 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.6288bfb56e",
+          "title": {
+            "en": "Show document rulers",
+            "zh-Hans": "显示 文档 rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.e0ac078300",
+          "title": {
+            "en": "Show layout",
+            "zh-Hans": "显示 layout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.40e121370f",
+          "title": {
+            "en": "Show formatting characters (invisibles)",
+            "zh-Hans": "Show formatting characters (invisibles)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.3dbbc245a8",
+          "title": {
+            "en": "Show Colors window",
+            "zh-Hans": "显示 Colors 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.a3f0c6f82f",
+          "title": {
+            "en": "Pages Help",
+            "zh-Hans": "页面 Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.6486767bd3",
+          "title": {
+            "en": "Hide Pages",
+            "zh-Hans": "隐藏 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.e53076de5b",
+          "title": {
+            "en": "Hide other windows",
+            "zh-Hans": "隐藏 other windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.apple-pages.general.6cb2937936",
+          "title": {
+            "en": "Quit Pages",
+            "zh-Hans": "退出 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-pages.working-with-tables",
+      "title": {
+        "en": "Working with tables",
+        "zh-Hans": "tables操作"
+      },
+      "items": [
+        {
+          "id": "remote.apple-pages.working-with-tables.ea7eb7292e",
+          "title": {
+            "en": "Select all table borders or cell content, depending on initial selection",
+            "zh-Hans": "Select all table borders or cell content, depending on initial selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-pages.working-with-tables.a0f0e3f033",
+          "title": {
+            "en": "Copy contents of selected cells or whole table, if table is selected",
+            "zh-Hans": "Copy contents of selected cells or whole table, if table is selected"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-pages.working-with-tables.96596eba2a",
+          "title": {
+            "en": "Cut contents of selected cells or whole table, if table is selected",
+            "zh-Hans": "Cut contents of selected cells or whole table, if table is selected"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.apple-pages.working-with-tables.51a3abc6e8",
+          "title": {
+            "en": "Paste the selection that was last copied",
+            "zh-Hans": "Paste the selection that was last copied"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-pages.working-with-tables.5fb1989a06",
+          "title": {
+            "en": "Delete selection (whole table, border or border segment, or contents of selected cells)",
+            "zh-Hans": "Delete selection (whole table, border or border segment, or contents of selected cells)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-pages.manipulating-fixed-objects",
+      "title": {
+        "en": "Manipulating fixed objects",
+        "zh-Hans": "操作固定对象"
+      },
+      "items": [
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.caa3a8fabf",
+          "title": {
+            "en": "Select all fixed objects",
+            "zh-Hans": "全选 fixed objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.9eb924dd4f",
+          "title": {
+            "en": "Deselect all fixed objects",
+            "zh-Hans": "Deselect all fixed objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.ba7f7a30ce",
+          "title": {
+            "en": "Send object to the back",
+            "zh-Hans": "Send object to the back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.9bdcf68326",
+          "title": {
+            "en": "Send object one layer back",
+            "zh-Hans": "Send object one layer back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.df0cb8d889",
+          "title": {
+            "en": "Bring object to the front",
+            "zh-Hans": "Bring object to the front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.6aa7c41062",
+          "title": {
+            "en": "Bring object one layer forward",
+            "zh-Hans": "Bring object one layer forward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2816,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.7bd8e2d358",
+          "title": {
+            "en": "Move object to section master",
+            "zh-Hans": "Move object to section master"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.af9e13b587",
+          "title": {
+            "en": "Group objects",
+            "zh-Hans": "编组 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.32c1a5664e",
+          "title": {
+            "en": "Ungroup objects",
+            "zh-Hans": "取消编组 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.a37ab84bd3",
+          "title": {
+            "en": "Lock objects",
+            "zh-Hans": "锁定 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.10a7f27f24",
+          "title": {
+            "en": "Unlock objects",
+            "zh-Hans": "解锁 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.79388e9e2b",
+          "title": {
+            "en": "Mask or unmask object",
+            "zh-Hans": "Mask or unmask object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.4faf7b6e89",
+          "title": {
+            "en": "Exit mask mode",
+            "zh-Hans": "Exit 蒙版 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.b3c5440b33",
+          "title": {
+            "en": "Exit text edit mode and select object",
+            "zh-Hans": "Exit text edit mode and select object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.2e595a2c5e",
+          "title": {
+            "en": "Copy selected object",
+            "zh-Hans": "复制 所选 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.697d299e85",
+          "title": {
+            "en": "Paste selected object",
+            "zh-Hans": "粘贴 所选 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-pages.manipulating-fixed-objects.99be520336",
+          "title": {
+            "en": "Cut selected object",
+            "zh-Hans": "剪切 所选 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-pages.editing-chart-data",
+      "title": {
+        "en": "Editing chart data",
+        "zh-Hans": "编辑图表数据"
+      },
+      "items": [
+        {
+          "id": "remote.apple-pages.editing-chart-data.41d6b8816e",
+          "title": {
+            "en": "Show or hide Chart Data Editor",
+            "zh-Hans": "Show or hide Chart Data Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.bd89dc5ec3",
+          "title": {
+            "en": "Complete a cell entry and move the selection down",
+            "zh-Hans": "Complete a cell entry and move the selection down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.81cd12b2fe",
+          "title": {
+            "en": "Complete a cell entry and move the selection up",
+            "zh-Hans": "Complete a cell entry and move the selection up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.02101749c0",
+          "title": {
+            "en": "Complete a cell entry and move the selection to the right",
+            "zh-Hans": "Complete a cell entry and move the selection to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.6a5be8d116",
+          "title": {
+            "en": "Complete a cell entry and move the selection to the left",
+            "zh-Hans": "Complete a cell entry and move the selection to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.7e8088fe3b",
+          "title": {
+            "en": "Delete the character to the left of the insertion point, or delete the selection",
+            "zh-Hans": "Delete the character to the left of the insertion point, or delete the selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.0a5c8497d5",
+          "title": {
+            "en": "Complete a cell entry and select the cell",
+            "zh-Hans": "Complete a cell entry and select the cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.95d932d463",
+          "title": {
+            "en": "Move to the beginning of the row",
+            "zh-Hans": "Move to the beginning of the row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.74a44f20a0",
+          "title": {
+            "en": "Move to the last filled cell to the right in the current row",
+            "zh-Hans": "Move to the last filled cell to the right in the current row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.304cdc96a1",
+          "title": {
+            "en": "Extend the selection to the beginning of the row",
+            "zh-Hans": "Extend the selection to the beginning of the row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.apple-pages.editing-chart-data.98e6e301a2",
+          "title": {
+            "en": "Extend the selection to the end of the row",
+            "zh-Hans": "Extend the selection to the end of the row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 512,
+            "displayKey": "End"
+          }
+        }
+      ]
+    }
+  ]
+}

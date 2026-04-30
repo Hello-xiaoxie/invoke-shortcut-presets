@@ -1,0 +1,1071 @@
+{
+  "bundleIdentifier": "com.adobe.xd",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-xd.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.general-shortcuts.f21a17e066",
+          "title": {
+            "en": "Hide",
+            "zh-Hans": "隐藏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.general-shortcuts.fb31782777",
+          "title": {
+            "en": "Hide Others",
+            "zh-Hans": "隐藏 Others"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.general-shortcuts.c58871b0c7",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.edit-menu",
+      "title": {
+        "en": "Edit Menu",
+        "zh-Hans": "编辑菜单"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.edit-menu.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.d6afae999e",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.9cd0b6e6bf",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.edit-menu.558777c44b",
+          "title": {
+            "en": "Start Dictation...",
+            "zh-Hans": "开始 Dictation..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.path-pen",
+      "title": {
+        "en": "Path/Pen",
+        "zh-Hans": "路径/钢笔"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.path-pen.7e809e968a",
+          "title": {
+            "en": "Open Path/Pen panel",
+            "zh-Hans": "打开 路径/Pen 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.path-pen.27fc641d9d",
+          "title": {
+            "en": "Asymmetric Control Point",
+            "zh-Hans": "Asymmetric Control Point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.path-pen.8e0178f6a9",
+          "title": {
+            "en": "Snap Control Point Angle",
+            "zh-Hans": "Snap Control Point Angle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.path-pen.b6712a8841",
+          "title": {
+            "en": "Snap Anchor Point Angle",
+            "zh-Hans": "Snap Anchor Point Angle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.object",
+      "title": {
+        "en": "Object",
+        "zh-Hans": "对象"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.object.b0fb87819e",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.object.fcfb48217e",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.object.5a9e8c4f55",
+          "title": {
+            "en": "Make Symbol",
+            "zh-Hans": "Make 符号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.object.653620b863",
+          "title": {
+            "en": "Lock",
+            "zh-Hans": "锁定"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.object.105a5cd5b7",
+          "title": {
+            "en": "Hide",
+            "zh-Hans": "隐藏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.object.197aa39b86",
+          "title": {
+            "en": "Mask with Shape",
+            "zh-Hans": "Mask with Shape"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.object.0a8d4c5f05",
+          "title": {
+            "en": "Make Repeat Grid",
+            "zh-Hans": "Make Repeat 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.align",
+      "title": {
+        "en": "Align",
+        "zh-Hans": "对齐"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.align.a0312fa6e2",
+          "title": {
+            "en": "Left",
+            "zh-Hans": "左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.align.ab935c07d6",
+          "title": {
+            "en": "Center(Horizontally)",
+            "zh-Hans": "中心(Horizontally)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4352,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.align.064aeb4c88",
+          "title": {
+            "en": "Right",
+            "zh-Hans": "右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.align.43738709f9",
+          "title": {
+            "en": "Top",
+            "zh-Hans": "顶部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.align.61d860af8c",
+          "title": {
+            "en": "Middle(Vertically)",
+            "zh-Hans": "Middle(Vertically)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4352,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.align.d66c1b2fab",
+          "title": {
+            "en": "Bottom",
+            "zh-Hans": "底部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.arrange",
+      "title": {
+        "en": "Arrange",
+        "zh-Hans": "排列"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.arrange.e05123eb27",
+          "title": {
+            "en": "Bring to Front",
+            "zh-Hans": "置于顶层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.arrange.940b4b5305",
+          "title": {
+            "en": "Bring Forward",
+            "zh-Hans": "前移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.arrange.0419efbbaf",
+          "title": {
+            "en": "Send Backward",
+            "zh-Hans": "后移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-xd.arrange.7972d461f2",
+          "title": {
+            "en": "Send to Back",
+            "zh-Hans": "置于底层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.distribute",
+      "title": {
+        "en": "Distribute",
+        "zh-Hans": "分布"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.distribute.3132d0dfcd",
+          "title": {
+            "en": "Horizontal",
+            "zh-Hans": "水平"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4352,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.distribute.4ec080d037",
+          "title": {
+            "en": "Vertical",
+            "zh-Hans": "垂直"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.path",
+      "title": {
+        "en": "Path",
+        "zh-Hans": "路径"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.path.e9420161be",
+          "title": {
+            "en": "Add",
+            "zh-Hans": "Add"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.path.1ffc3918d9",
+          "title": {
+            "en": "Subtract",
+            "zh-Hans": "Subtract"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.path.0b505063d7",
+          "title": {
+            "en": "Intersect",
+            "zh-Hans": "Intersect"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.path.be70b52e8d",
+          "title": {
+            "en": "Exclude Overlap",
+            "zh-Hans": "Exclude Overlap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2304,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.path.e2ceba8027",
+          "title": {
+            "en": "Convert to Path",
+            "zh-Hans": "Convert to Path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.text",
+      "title": {
+        "en": "Text",
+        "zh-Hans": "文本"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.text.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.text.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.operations-menu",
+      "title": {
+        "en": "Operations Menu",
+        "zh-Hans": "Operations菜单"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.operations-menu.e363d36013",
+          "title": {
+            "en": "From Center",
+            "zh-Hans": "From Center"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operations-menu.39c242c5f7",
+          "title": {
+            "en": "Constrain",
+            "zh-Hans": "Constrain"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operations-menu.f2225d721a",
+          "title": {
+            "en": "Edit Text",
+            "zh-Hans": "编辑 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operations-menu.ea4dda19a5",
+          "title": {
+            "en": "Constrain Rotate",
+            "zh-Hans": "Constrain Rotate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operations-menu.d1cb638837",
+          "title": {
+            "en": "Line Constrain Rotate",
+            "zh-Hans": "行 Constrain Rotate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operations-menu.f5f5c42703",
+          "title": {
+            "en": "Constrain From Center",
+            "zh-Hans": "Constrain From Center"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 2560,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operations-menu.ced9fa64bb",
+          "title": {
+            "en": "Direct Select",
+            "zh-Hans": "Direct Select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operations-menu.1691dfdfa7",
+          "title": {
+            "en": "Design mode",
+            "zh-Hans": "Design 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operations-menu.55fa55366f",
+          "title": {
+            "en": "Prototype mode",
+            "zh-Hans": "原型 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.tools-menu",
+      "title": {
+        "en": "Tools Menu",
+        "zh-Hans": "工具菜单"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.tools-menu.2846479240",
+          "title": {
+            "en": "Select",
+            "zh-Hans": "Select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.tools-menu.aa54a8dbef",
+          "title": {
+            "en": "Rectangle",
+            "zh-Hans": "Rectangle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.tools-menu.8713c9ed8e",
+          "title": {
+            "en": "Ellipse",
+            "zh-Hans": "Ellipse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.tools-menu.5bb7381136",
+          "title": {
+            "en": "Line",
+            "zh-Hans": "行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.tools-menu.e2a9a70183",
+          "title": {
+            "en": "Pen",
+            "zh-Hans": "Pen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.tools-menu.703d441f0a",
+          "title": {
+            "en": "Text",
+            "zh-Hans": "文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.tools-menu.e753625351",
+          "title": {
+            "en": "Artboard",
+            "zh-Hans": "画板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.tools-menu.65c3a78dd7",
+          "title": {
+            "en": "Zoom Mode",
+            "zh-Hans": "Zoom 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.tools-menu.1c01d294e1",
+          "title": {
+            "en": "Zoom to Selection",
+            "zh-Hans": "Zoom to Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.view-menu",
+      "title": {
+        "en": "View Menu",
+        "zh-Hans": "视图菜单"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.view-menu.080f1d99ce",
+          "title": {
+            "en": "Zoom in/Zoom out",
+            "zh-Hans": "放大/缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.a8ae1e07b4",
+          "title": {
+            "en": "Zoom to Fit",
+            "zh-Hans": "缩放以适合"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.df9726ff3d",
+          "title": {
+            "en": "100%",
+            "zh-Hans": "100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.7611fe85d3",
+          "title": {
+            "en": "200%",
+            "zh-Hans": "200%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.0d8db790fd",
+          "title": {
+            "en": "Enter Full Screen",
+            "zh-Hans": "Enter 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.204f50dad6",
+          "title": {
+            "en": "Pan",
+            "zh-Hans": "Pan"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.af75ebac91",
+          "title": {
+            "en": "Symbol Library",
+            "zh-Hans": "符号 Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.43f63c7e0c",
+          "title": {
+            "en": "Layers",
+            "zh-Hans": "图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.5038deeaca",
+          "title": {
+            "en": "Switch Workspace",
+            "zh-Hans": "Switch 工作区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.view-menu.12349f030c",
+          "title": {
+            "en": "Show Artboard Grid",
+            "zh-Hans": "显示 画板 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.window-menu",
+      "title": {
+        "en": "Window Menu",
+        "zh-Hans": "窗口菜单"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.window-menu.a73346595e",
+          "title": {
+            "en": "Minimize",
+            "zh-Hans": "最小化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-xd.window-menu.c218152380",
+          "title": {
+            "en": "Preview",
+            "zh-Hans": "预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.operation-modifiers",
+      "title": {
+        "en": "Operation Modifiers",
+        "zh-Hans": "操作修饰键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.operation-modifiers.22c1d6eecd",
+          "title": {
+            "en": "Zoom in/Out",
+            "zh-Hans": "放大/Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operation-modifiers.9d9269b7b4",
+          "title": {
+            "en": "Horizontal Plan",
+            "zh-Hans": "水平 Plan"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-xd.operation-modifiers.57f56728b5",
+          "title": {
+            "en": "Vertical Plan",
+            "zh-Hans": "垂直 Plan"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-xd.selection-command",
+      "title": {
+        "en": "Selection Command",
+        "zh-Hans": "选区命令"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-xd.selection-command.7377064352",
+          "title": {
+            "en": "Enable Measurements",
+            "zh-Hans": "启用Measurements"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    }
+  ]
+}

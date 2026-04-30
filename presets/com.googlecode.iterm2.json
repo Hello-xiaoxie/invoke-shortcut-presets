@@ -1,0 +1,384 @@
+{
+  "bundleIdentifier": "com.googlecode.iterm2",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.iterm2.tab-management",
+      "title": {
+        "en": "Tab Management",
+        "zh-Hans": "标签页管理"
+      },
+      "items": [
+        {
+          "id": "remote.iterm2.tab-management.1f1bf783ed",
+          "title": {
+            "en": "new tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.iterm2.tab-management.6d8581b94d",
+          "title": {
+            "en": "close tab or window",
+            "zh-Hans": "close tab or window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.iterm2.tab-management.4b0c5a4760",
+          "title": {
+            "en": "previous/next tab",
+            "zh-Hans": "上一个/下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.iterm2.tab-management.e62a9d5c66",
+          "title": {
+            "en": "previous/next tab",
+            "zh-Hans": "上一个/下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.iterm2.split-panes",
+      "title": {
+        "en": "Split Panes",
+        "zh-Hans": "分割窗格"
+      },
+      "items": [
+        {
+          "id": "remote.iterm2.split-panes.338e1aba16",
+          "title": {
+            "en": "go to split pane by direction",
+            "zh-Hans": "go to split pane by direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.6eba3a5195",
+          "title": {
+            "en": "go to split pane by direction",
+            "zh-Hans": "go to split pane by direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.8974913d64",
+          "title": {
+            "en": "go to split pane by direction",
+            "zh-Hans": "go to split pane by direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.5bf7767d14",
+          "title": {
+            "en": "go to split pane by direction",
+            "zh-Hans": "go to split pane by direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.8567e5548c",
+          "title": {
+            "en": "split window vertically (same profile)",
+            "zh-Hans": "split window vertically (same profile)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.95b6a95892",
+          "title": {
+            "en": "split window horizontally (same profile)",
+            "zh-Hans": "split window horizontally (same profile)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.8d6a919fd5",
+          "title": {
+            "en": "split window horizontally (new profile)",
+            "zh-Hans": "split window horizontally (new profile)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.5da9464872",
+          "title": {
+            "en": "split window vertically (new profile)",
+            "zh-Hans": "split window vertically (new profile)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.939528f964",
+          "title": {
+            "en": "go to split pane by order of use",
+            "zh-Hans": "go to split pane by order of use"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 93,
+            "carbonModifiers": 256,
+            "displayKey": "93"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.5b2d242069",
+          "title": {
+            "en": "maximize a pane",
+            "zh-Hans": "maximize a 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.0b97774e46",
+          "title": {
+            "en": "resize pane",
+            "zh-Hans": "resize 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.51aaeb85d8",
+          "title": {
+            "en": "resize pane",
+            "zh-Hans": "resize 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.4fef062c98",
+          "title": {
+            "en": "resize pane",
+            "zh-Hans": "resize 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.355c9d3879",
+          "title": {
+            "en": "resize pane",
+            "zh-Hans": "resize 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.iterm2.split-panes.cd328bbceb",
+          "title": {
+            "en": "broadcast command to all panes in window",
+            "zh-Hans": "broadcast command to all panes in window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.iterm2.window-management",
+      "title": {
+        "en": "Window Management",
+        "zh-Hans": "窗口管理"
+      },
+      "items": [
+        {
+          "id": "remote.iterm2.window-management.b2b458c3f4",
+          "title": {
+            "en": "cycle iterm windows",
+            "zh-Hans": "cycle iterm windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.iterm2.window-management.f91ed55c63",
+          "title": {
+            "en": "fullscreen",
+            "zh-Hans": "全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.iterm2.window-management.afd0c8cb07",
+          "title": {
+            "en": "find cursor",
+            "zh-Hans": "查找 光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.iterm2.text-management",
+      "title": {
+        "en": "Text Management",
+        "zh-Hans": "文本管理"
+      },
+      "items": [
+        {
+          "id": "remote.iterm2.text-management.3a3e0d1dc0",
+          "title": {
+            "en": "enter copy mode",
+            "zh-Hans": "enter 复制 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.iterm2.text-management.a4eea9d69a",
+          "title": {
+            "en": "enter character selection mode in copy mode",
+            "zh-Hans": "enter character selection mode in copy mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.iterm2.text-management.791f2d38cc",
+          "title": {
+            "en": "copy text in copy mode",
+            "zh-Hans": "copy text in copy mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4096,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.iterm2.text-management.f930f4c1c3",
+          "title": {
+            "en": "search as you type",
+            "zh-Hans": "search as you type"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.iterm2.text-management.3d5fded62a",
+          "title": {
+            "en": "cancel the search and restore original line",
+            "zh-Hans": "cancel the search and restore original line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.iterm2.text-management.bf996e5536",
+          "title": {
+            "en": "clear the screen/pane",
+            "zh-Hans": "clear the screen/pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    }
+  ]
+}

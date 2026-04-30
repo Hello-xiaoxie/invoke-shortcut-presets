@@ -1,0 +1,396 @@
+{
+  "bundleIdentifier": "com.apple.tv",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-tv.playback-shortcuts",
+      "title": {
+        "en": "Playback Shortcuts",
+        "zh-Hans": "播放快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-tv.playback-shortcuts.9cd0cc19a4",
+          "title": {
+            "en": "Play or pause",
+            "zh-Hans": "Play or pause"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.2e6e9156df",
+          "title": {
+            "en": "Play the next episode or song",
+            "zh-Hans": "Play the next episode or song"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.6ee2c3251c",
+          "title": {
+            "en": "Play the previous episode or song",
+            "zh-Hans": "Play the previous episode or song"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.4d0f94fd40",
+          "title": {
+            "en": "Restart current episode",
+            "zh-Hans": "Restart 当前 episode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.60f3e2252c",
+          "title": {
+            "en": "Fast-forward",
+            "zh-Hans": "Fast-向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.6649ae70ce",
+          "title": {
+            "en": "Rewind",
+            "zh-Hans": "快退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.d8967fe431",
+          "title": {
+            "en": "Increase volume",
+            "zh-Hans": "Increase volume"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.8622da1208",
+          "title": {
+            "en": "Decrease volume",
+            "zh-Hans": "Decrease volume"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.5660959180",
+          "title": {
+            "en": "Toggle full screen",
+            "zh-Hans": "Toggle 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.db3df3b616",
+          "title": {
+            "en": "Toggle theater mode",
+            "zh-Hans": "切换theater 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-tv.playback-shortcuts.7892b181ed",
+          "title": {
+            "en": "Toggle subtitles or captions",
+            "zh-Hans": "Toggle subtitles or captions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-tv.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-tv.general-shortcuts.92f9392499",
+          "title": {
+            "en": "Search for content",
+            "zh-Hans": "Search for content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-tv.general-shortcuts.48e1c9d1ad",
+          "title": {
+            "en": "Get info on selected item",
+            "zh-Hans": "Get info on selected item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-tv.general-shortcuts.11eddedb00",
+          "title": {
+            "en": "Show window",
+            "zh-Hans": "显示 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.apple-tv.general-shortcuts.d94258f711",
+          "title": {
+            "en": "Minimize window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.apple-tv.general-shortcuts.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-tv.edit-shortcuts",
+      "title": {
+        "en": "Edit Shortcuts",
+        "zh-Hans": "编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-tv.edit-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-tv.edit-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-tv.edit-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.apple-tv.edit-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-tv.edit-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-tv.edit-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-tv.edit-shortcuts.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-tv.navigation-shortcuts",
+      "title": {
+        "en": "Navigation Shortcuts",
+        "zh-Hans": "导航快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-tv.navigation-shortcuts.85f3dbdea1",
+          "title": {
+            "en": "Go to library",
+            "zh-Hans": "转到library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.apple-tv.navigation-shortcuts.0867876e03",
+          "title": {
+            "en": "Go to browse",
+            "zh-Hans": "转到browse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.apple-tv.navigation-shortcuts.55fd6fd537",
+          "title": {
+            "en": "Go to search",
+            "zh-Hans": "Go to search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.apple-tv.navigation-shortcuts.c3fb4de122",
+          "title": {
+            "en": "Go to watch now",
+            "zh-Hans": "转到watch now"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.apple-tv.navigation-shortcuts.b9dae6111b",
+          "title": {
+            "en": "Go to top of list",
+            "zh-Hans": "Go to top of list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.apple-tv.navigation-shortcuts.978b7f8ad5",
+          "title": {
+            "en": "Go to bottom of list",
+            "zh-Hans": "Go to bottom of list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        }
+      ]
+    }
+  ]
+}

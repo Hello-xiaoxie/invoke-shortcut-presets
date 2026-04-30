@@ -43,7 +43,7 @@
           "id": "remote.teams.meetings-and-calls.9bd49b2a5e",
           "title": {
             "en": "Toggle video",
-            "zh-Hans": "开关视频"
+            "zh-Hans": "切换视频"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -55,7 +55,7 @@
           "id": "remote.teams.meetings-and-calls.282bd069e7",
           "title": {
             "en": "Toggle mute",
-            "zh-Hans": "开关静音"
+            "zh-Hans": "切换静音"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

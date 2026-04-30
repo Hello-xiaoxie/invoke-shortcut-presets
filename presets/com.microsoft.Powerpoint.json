@@ -1,0 +1,1296 @@
+{
+  "bundleIdentifier": "com.microsoft.Powerpoint",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.microsoft-powerpoint.editing-text-and-objects",
+      "title": {
+        "en": "Editing text and objects",
+        "zh-Hans": "编辑文本与对象"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.28a2bb543a",
+          "title": {
+            "en": "Delete one character to the left",
+            "zh-Hans": "Delete one character to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.ad37a63c23",
+          "title": {
+            "en": "Delete one character to the right",
+            "zh-Hans": "Delete one character to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.31f67df7e3",
+          "title": {
+            "en": "Cut selected text or object",
+            "zh-Hans": "Cut selected text or object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.d85fedcc7d",
+          "title": {
+            "en": "Copy selected text or object",
+            "zh-Hans": "Copy selected text or object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.71ab402528",
+          "title": {
+            "en": "Paste cut or copied text or object",
+            "zh-Hans": "Paste cut or copied text or object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.80ee854f1b",
+          "title": {
+            "en": "Paste special",
+            "zh-Hans": "粘贴 special"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 6144,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.46ecaeaae6",
+          "title": {
+            "en": "Increase the font size",
+            "zh-Hans": "Increase the font size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2560,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.b26ef45423",
+          "title": {
+            "en": "Decrease the font size",
+            "zh-Hans": "Decrease the font size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2560,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.c8a259757d",
+          "title": {
+            "en": "Apply bold formatting",
+            "zh-Hans": "Apply 加粗 formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.fbf581cf79",
+          "title": {
+            "en": "Apply an underline",
+            "zh-Hans": "Apply an 下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.61bee5b906",
+          "title": {
+            "en": "Apply italic formatting",
+            "zh-Hans": "Apply 斜体 formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.f8c321f9ae",
+          "title": {
+            "en": "Center a paragraph",
+            "zh-Hans": "Center a paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.a818c203cf",
+          "title": {
+            "en": "Justify a paragraph",
+            "zh-Hans": "Justify a 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.9bd66920eb",
+          "title": {
+            "en": "Left align a paragraph",
+            "zh-Hans": "Left align a paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.5beec726ba",
+          "title": {
+            "en": "Right align a paragraph",
+            "zh-Hans": "Right align a paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.f68b4d9e0c",
+          "title": {
+            "en": "Redo the last action",
+            "zh-Hans": "恢复上一操作"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.a4c9f4c258",
+          "title": {
+            "en": "Undo the last action",
+            "zh-Hans": "撤消上一操作"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.544a3aa531",
+          "title": {
+            "en": "Open the Format Text dialog box, Font options",
+            "zh-Hans": "Open the Format Text dialog box, Font options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.1289e57e35",
+          "title": {
+            "en": "Open the Format Text dialog box, Paragraph options",
+            "zh-Hans": "Open the Format Text dialog box, Paragraph options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.c8e2998044",
+          "title": {
+            "en": "To Move To the beginning of a word or one word to the left",
+            "zh-Hans": "To Move To the beginning of a word or one word to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.df75b7edf6",
+          "title": {
+            "en": "To Move One word to the right",
+            "zh-Hans": "To Move One word to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.831242e437",
+          "title": {
+            "en": "To Move To the end of a line",
+            "zh-Hans": "To Move To the end of a line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.71ef5846b9",
+          "title": {
+            "en": "To Move To the beginning of a line",
+            "zh-Hans": "To Move To the beginning of a line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.0bc0914798",
+          "title": {
+            "en": "To Move To the beginning of a paragraph or up one paragraph",
+            "zh-Hans": "To Move To the beginning of a paragraph or up one paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.9dbee73a21",
+          "title": {
+            "en": "To Move Down one paragraph",
+            "zh-Hans": "To Move Down one paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.editing-text-and-objects.e60b4de7b7",
+          "title": {
+            "en": "To Move To the start or end of all the text in the object you are editing",
+            "zh-Hans": "To Move To the start or end of all the text in the object you are editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-powerpoint.working-with-objects",
+      "title": {
+        "en": "Working with objects",
+        "zh-Hans": "objects操作"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.ed6e2e3ce8",
+          "title": {
+            "en": "Select the next object",
+            "zh-Hans": "选择the 下一个 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.cf6f7a9139",
+          "title": {
+            "en": "Select the previous object",
+            "zh-Hans": "选择the 上一个 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.8968eedaff",
+          "title": {
+            "en": "Select all objects and all text",
+            "zh-Hans": "Select all objects and all text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.96653d8934",
+          "title": {
+            "en": "Move the selected object in the direction of the arrow",
+            "zh-Hans": "Move the selected object in the direction of the arrow"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.bbf553e9f0",
+          "title": {
+            "en": "Group the selected objects",
+            "zh-Hans": "Group the selected objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.8ca46e88e3",
+          "title": {
+            "en": "Ungroup the selected objects",
+            "zh-Hans": "Ungroup the selected objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.1574c582bb",
+          "title": {
+            "en": "Regroup the selected objects",
+            "zh-Hans": "Regroup the selected objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.06285fda22",
+          "title": {
+            "en": "Rotate the selected object clockwise",
+            "zh-Hans": "Rotate the selected object clockwise"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.bb85aa6fa5",
+          "title": {
+            "en": "Rotate the selected object counterclockwise",
+            "zh-Hans": "Rotate the selected object counterclockwise"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.299f6d45e8",
+          "title": {
+            "en": "Format the selected object",
+            "zh-Hans": "Format the selected object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2560,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.315068e56b",
+          "title": {
+            "en": "Duplicate selected objects",
+            "zh-Hans": "创建副本 所选 objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-with-objects.3b2c706ba9",
+          "title": {
+            "en": "Resize selected objects",
+            "zh-Hans": "调整大小selected objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-powerpoint.presentations",
+      "title": {
+        "en": "Presentations",
+        "zh-Hans": "演示文稿"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-powerpoint.presentations.aaaa17ac27",
+          "title": {
+            "en": "Create a new presentation",
+            "zh-Hans": "Create a new presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.341bca60fe",
+          "title": {
+            "en": "Create a new presentation with a template from the PowerPoint Presentation gallery",
+            "zh-Hans": "Create a new presentation with a template from the PowerPoint Presentation gallery"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2560,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.774c64c3a1",
+          "title": {
+            "en": "Insert a new slide",
+            "zh-Hans": "插入 a new slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4608,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.a8d3d68193",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.92eac59dfc",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.cacd1e3663",
+          "title": {
+            "en": "Make a copy of the selected slide",
+            "zh-Hans": "Make a copy of the selected slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2560,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.cffbf33e0e",
+          "title": {
+            "en": "Open a presentation",
+            "zh-Hans": "打开 a presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.400cf967e8",
+          "title": {
+            "en": "Close a presentation",
+            "zh-Hans": "关闭 a presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.45104b8dd8",
+          "title": {
+            "en": "Print a presentation",
+            "zh-Hans": "打印 a presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.40f3b094b2",
+          "title": {
+            "en": "Save a presentation",
+            "zh-Hans": "存储 a presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.b6e1f8d356",
+          "title": {
+            "en": "Save a presentation with a different name, location, or file format.",
+            "zh-Hans": "Save a presentation with a different name, location, or file format."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2560,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.70ce39452f",
+          "title": {
+            "en": "Quit PowerPoint",
+            "zh-Hans": "退出 PowerPoint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.e06154a4eb",
+          "title": {
+            "en": "Find text and formatting",
+            "zh-Hans": "Find text and formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.70c59a1b7a",
+          "title": {
+            "en": "Add a hyperlink to selected text, an image, or an object",
+            "zh-Hans": "Add a hyperlink to selected text, an image, or an object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.938baa986f",
+          "title": {
+            "en": "Cancel a command, such as Save As",
+            "zh-Hans": "Cancel a command, such as Save As"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.11d2cfa83e",
+          "title": {
+            "en": "Undo an action",
+            "zh-Hans": "Undo an action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.7049333a7a",
+          "title": {
+            "en": "Redo or repeat an action",
+            "zh-Hans": "Redo or repeat an action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.319579d035",
+          "title": {
+            "en": "Move through multiple open presentations.",
+            "zh-Hans": "Move through multiple open presentations."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.presentations.bcaeb30d6c",
+          "title": {
+            "en": "Open a recent file",
+            "zh-Hans": "Open a recent file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2560,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-powerpoint.changing-views",
+      "title": {
+        "en": "Changing views",
+        "zh-Hans": "切换视图"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.04243d1483",
+          "title": {
+            "en": "Switch to normal view",
+            "zh-Hans": "切换到normal 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.13f94d72e6",
+          "title": {
+            "en": "Switch to slide sorter view",
+            "zh-Hans": "切换到slide sorter 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.76553c2c59",
+          "title": {
+            "en": "Switch to notes page view",
+            "zh-Hans": "切换到notes 页面 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.ac47695dd2",
+          "title": {
+            "en": "Switch to outline view",
+            "zh-Hans": "切换到outline 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.871e55dc9f",
+          "title": {
+            "en": "Switch to slide show",
+            "zh-Hans": "Switch to slide show"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2560,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.7b5ac0d2ee",
+          "title": {
+            "en": "Switch to full screen (hide menus)",
+            "zh-Hans": "Switch to full screen (hide menus)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6144,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.2cd77fe191",
+          "title": {
+            "en": "Switch to presenter view",
+            "zh-Hans": "切换到presenter 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.7bd8dcef4b",
+          "title": {
+            "en": "Show or hide guides",
+            "zh-Hans": "Show or hide guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 6400,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.changing-views.56429d1335",
+          "title": {
+            "en": "Switch to notes master view",
+            "zh-Hans": "切换到notes master 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-powerpoint.selecting-text",
+      "title": {
+        "en": "Selecting text",
+        "zh-Hans": "选择文本"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-powerpoint.selecting-text.f1bf0bf209",
+          "title": {
+            "en": "To Select One character to the right",
+            "zh-Hans": "To Select One character to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.selecting-text.56e2d03d00",
+          "title": {
+            "en": "To Select One character to the left",
+            "zh-Hans": "To Select One character to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.selecting-text.11f0fbac0e",
+          "title": {
+            "en": "To Select From the insertion point to the same point one line up",
+            "zh-Hans": "To Select From the insertion point to the same point one line up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.selecting-text.80d2b81780",
+          "title": {
+            "en": "To Select From the insertion point to the same point one line down",
+            "zh-Hans": "To Select From the insertion point to the same point one line down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.selecting-text.113571e65b",
+          "title": {
+            "en": "To Select All text to the start of the line",
+            "zh-Hans": "To Select All text to the start of the line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.selecting-text.01710bbbdd",
+          "title": {
+            "en": "To Select All text to the end of the line",
+            "zh-Hans": "To Select All text to the end of the line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.selecting-text.4d9c26eef7",
+          "title": {
+            "en": "To Select From the insertion point to the end of the paragraph",
+            "zh-Hans": "To Select From the insertion point to the end of the paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.selecting-text.885454b9b0",
+          "title": {
+            "en": "To Select From the insertion point to the beginning of the paragraph",
+            "zh-Hans": "To Select From the insertion point to the beginning of the paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-powerpoint.slide-shows",
+      "title": {
+        "en": "Slide shows",
+        "zh-Hans": "幻灯片放映"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.7bf6fbfe38",
+          "title": {
+            "en": "Perform the next animation or advance to the next slide",
+            "zh-Hans": "Perform the next animation or advance to the next slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.4b69960a64",
+          "title": {
+            "en": "Return to the previous animation or return to the previous slide",
+            "zh-Hans": "Return to the previous animation or return to the previous slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.804cc84db6",
+          "title": {
+            "en": "Go to slide number",
+            "zh-Hans": "转到slide number"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.0beb6c864d",
+          "title": {
+            "en": "Display a black screen, or return to the slide show from a black screen",
+            "zh-Hans": "Display a black screen, or return to the slide show from a black screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.f2e790d7c4",
+          "title": {
+            "en": "Display a white screen, or return to the slide show from a white screen",
+            "zh-Hans": "Display a white screen, or return to the slide show from a white screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.3974732c0d",
+          "title": {
+            "en": "Play slide show from the first slide",
+            "zh-Hans": "Play slide show from the first slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2560,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.8e56f9e8b1",
+          "title": {
+            "en": "Play slide show from the current slide",
+            "zh-Hans": "Play slide show from the current slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.5826568784",
+          "title": {
+            "en": "End a slide show",
+            "zh-Hans": "End a slide show"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.5cc7534dd8",
+          "title": {
+            "en": "Erase on-screen annotations",
+            "zh-Hans": "Erase on-screen annotations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.974f937759",
+          "title": {
+            "en": "Go to next hidden slide if the next slide is hidden",
+            "zh-Hans": "Go to next hidden slide if the next slide is hidden"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.f81062e3c3",
+          "title": {
+            "en": "Redisplay hidden pointer and/or change the pointer to a pen",
+            "zh-Hans": "Redisplay hidden pointer and/or change the pointer to a pen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.2ebe9e9c23",
+          "title": {
+            "en": "Redisplay hidden pointer and/or change the pointer to an arrow",
+            "zh-Hans": "Redisplay hidden pointer and/or change the pointer to an arrow"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.7c8f9c6402",
+          "title": {
+            "en": "Hide the pointer on mouse move",
+            "zh-Hans": "Hide the pointer on mouse move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.bcd93411bd",
+          "title": {
+            "en": "Show Thesaurus entry for a selected word",
+            "zh-Hans": "Show Thesaurus entry for a selected word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6400,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.1f7b39157e",
+          "title": {
+            "en": "Show Smart Lookup entry for a selected word or phrase",
+            "zh-Hans": "Show Smart Lookup entry for a selected word or phrase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 6400,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.slide-shows.2cd77fe191",
+          "title": {
+            "en": "Switch to presenter view",
+            "zh-Hans": "切换到presenter 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-powerpoint.working-in-tables",
+      "title": {
+        "en": "Working in tables",
+        "zh-Hans": "表格操作"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-powerpoint.working-in-tables.0298518135",
+          "title": {
+            "en": "Move to the next cell",
+            "zh-Hans": "Move to the next cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-in-tables.998e9fbbd0",
+          "title": {
+            "en": "Move to the preceding cell",
+            "zh-Hans": "Move to the preceding cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-in-tables.62910f054e",
+          "title": {
+            "en": "Move to the next line or row",
+            "zh-Hans": "Move to the next line or row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-in-tables.67ae5ca461",
+          "title": {
+            "en": "Move to the preceding line or row",
+            "zh-Hans": "Move to the preceding line or row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-in-tables.aa91517e04",
+          "title": {
+            "en": "Start a new paragraph in a cell",
+            "zh-Hans": "Start a new paragraph in a cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.working-in-tables.56e577fedb",
+          "title": {
+            "en": "Add a new row at the bottom of the table",
+            "zh-Hans": "Add a new row at the bottom of the table"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes",
+      "title": {
+        "en": "Windows and dialog boxes",
+        "zh-Hans": "窗口与对话框"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.9bef7623fb",
+          "title": {
+            "en": "Close the active window",
+            "zh-Hans": "Close the active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.e9a60d06f8",
+          "title": {
+            "en": "Perform the action assigned to a default button in a dialog box",
+            "zh-Hans": "Perform the action assigned to a default button in a dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.62abfbc86b",
+          "title": {
+            "en": "Cancel a command and close the dialog box",
+            "zh-Hans": "Cancel a command and close the dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.548847a827",
+          "title": {
+            "en": "Hide the current window",
+            "zh-Hans": "Hide the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.57d929eca6",
+          "title": {
+            "en": "Minimize the current window",
+            "zh-Hans": "Minimize the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        }
+      ]
+    }
+  ]
+}

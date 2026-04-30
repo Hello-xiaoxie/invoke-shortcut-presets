@@ -1,0 +1,333 @@
+{
+  "bundleIdentifier": "net.whatsapp.WhatsApp",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.whatsapp.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.whatsapp.navigation.4791928bbc",
+          "title": {
+            "en": "Create new chat",
+            "zh-Hans": "Create new chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.whatsapp.navigation.7557a01088",
+          "title": {
+            "en": "Create new group",
+            "zh-Hans": "Create new 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.whatsapp.navigation.9169d3e81a",
+          "title": {
+            "en": "Search chats",
+            "zh-Hans": "搜索 chats"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.whatsapp.navigation.2393bf2160",
+          "title": {
+            "en": "Go to starred messages",
+            "zh-Hans": "转到starred messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.whatsapp.navigation.f6093fe481",
+          "title": {
+            "en": "Open preferences",
+            "zh-Hans": "打开 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.whatsapp.navigation.df31a102ac",
+          "title": {
+            "en": "Open keyboard shortcuts help",
+            "zh-Hans": "Open keyboard shortcuts help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.whatsapp.navigation.428a91448a",
+          "title": {
+            "en": "Open help center",
+            "zh-Hans": "打开 help 中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.whatsapp.messaging",
+      "title": {
+        "en": "Messaging",
+        "zh-Hans": "消息"
+      },
+      "items": [
+        {
+          "id": "remote.whatsapp.messaging.70832fda3a",
+          "title": {
+            "en": "Attach file",
+            "zh-Hans": "Attach 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4352,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.whatsapp.messaging.3856210c49",
+          "title": {
+            "en": "Send message",
+            "zh-Hans": "发送消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.whatsapp.messaging.999a6bde2e",
+          "title": {
+            "en": "New line in message",
+            "zh-Hans": "New line in message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.whatsapp.messaging.89b29811a8",
+          "title": {
+            "en": "Edit last message",
+            "zh-Hans": "编辑 最后一个 message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.whatsapp.messaging.24350e0903",
+          "title": {
+            "en": "Delete message",
+            "zh-Hans": "删除 message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.whatsapp.formatting",
+      "title": {
+        "en": "Formatting",
+        "zh-Hans": "格式化"
+      },
+      "items": [
+        {
+          "id": "remote.whatsapp.formatting.08e4c1b5e7",
+          "title": {
+            "en": "Bold text",
+            "zh-Hans": "加粗 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.whatsapp.formatting.9366223126",
+          "title": {
+            "en": "Italic text",
+            "zh-Hans": "斜体 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.whatsapp.formatting.8f363799ed",
+          "title": {
+            "en": "Strikethrough text",
+            "zh-Hans": "Strikethrough 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.whatsapp.formatting.c55d58aa0e",
+          "title": {
+            "en": "Monospace text",
+            "zh-Hans": "Monospace 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.whatsapp.media",
+      "title": {
+        "en": "Media",
+        "zh-Hans": "媒体"
+      },
+      "items": [
+        {
+          "id": "remote.whatsapp.media.48cf0bd00e",
+          "title": {
+            "en": "Toggle emoji picker",
+            "zh-Hans": "切换emoji picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.whatsapp.media.f387c8e9cb",
+          "title": {
+            "en": "Toggle GIF picker",
+            "zh-Hans": "切换GIF picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.whatsapp.chat-management",
+      "title": {
+        "en": "Chat Management",
+        "zh-Hans": "聊天管理"
+      },
+      "items": [
+        {
+          "id": "remote.whatsapp.chat-management.94f70429f3",
+          "title": {
+            "en": "Pin chat",
+            "zh-Hans": "Pin chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.whatsapp.chat-management.d07330748d",
+          "title": {
+            "en": "Mute chat",
+            "zh-Hans": "Mute chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.whatsapp.chat-management.d444524e77",
+          "title": {
+            "en": "Delete chat",
+            "zh-Hans": "删除 chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.whatsapp.chat-management.f66e77884a",
+          "title": {
+            "en": "Archive chat",
+            "zh-Hans": "Archive chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.whatsapp.chat-management.0bb9b4a44d",
+          "title": {
+            "en": "Mark chat as unread",
+            "zh-Hans": "Mark chat as unread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        }
+      ]
+    }
+  ]
+}

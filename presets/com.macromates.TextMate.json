@@ -1,0 +1,1488 @@
+{
+  "bundleIdentifier": "com.macromates.TextMate",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.textmate.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.textmate.general-shortcuts.946a0c7221",
+          "title": {
+            "en": "New",
+            "zh-Hans": "新建"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.2b70de3324",
+          "title": {
+            "en": "New Project",
+            "zh-Hans": "新建项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.faf81553ec",
+          "title": {
+            "en": "Open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.36812c54fd",
+          "title": {
+            "en": "Save All",
+            "zh-Hans": "存储 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.3f0ca867cb",
+          "title": {
+            "en": "Save Project",
+            "zh-Hans": "存储 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4352,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.8785b88cfc",
+          "title": {
+            "en": "Save Project As",
+            "zh-Hans": "存储 项目 As"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4864,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.1ec2f9ca4c",
+          "title": {
+            "en": "Reveal in Project",
+            "zh-Hans": "Reveal in Project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4352,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.3fb278d20f",
+          "title": {
+            "en": "Help",
+            "zh-Hans": "Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.1e2ba72a77",
+          "title": {
+            "en": "Paste Previous",
+            "zh-Hans": "粘贴 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.a8acbfef06",
+          "title": {
+            "en": "Paste from Clipboard",
+            "zh-Hans": "Paste from Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 6400,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.49331903eb",
+          "title": {
+            "en": "Paste without Re-indent",
+            "zh-Hans": "Paste without Re-indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.7e9540d2c7",
+          "title": {
+            "en": "Completion",
+            "zh-Hans": "Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.b348324f88",
+          "title": {
+            "en": "Overwrite Mode",
+            "zh-Hans": "Overwrite 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.3cea3211d0",
+          "title": {
+            "en": "Freehand Editing",
+            "zh-Hans": "Freehand Editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.837a8f282b",
+          "title": {
+            "en": "Select Word",
+            "zh-Hans": "选择Word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4096,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.9def25dcc7",
+          "title": {
+            "en": "Select Line",
+            "zh-Hans": "选择Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.9eac0c9112",
+          "title": {
+            "en": "Select Current Scope",
+            "zh-Hans": "选择Current Scope"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 6144,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.32754e65c9",
+          "title": {
+            "en": "Select Enclosing Brackets",
+            "zh-Hans": "选择Enclosing Brackets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.51dfda5644",
+          "title": {
+            "en": "Find in Project",
+            "zh-Hans": "Find in Project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.fa168e8c6e",
+          "title": {
+            "en": "Replace All",
+            "zh-Hans": "替换 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.fe7b441f47",
+          "title": {
+            "en": "Find and Replace",
+            "zh-Hans": "查找和替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.db68323f4a",
+          "title": {
+            "en": "Replace All in Selection",
+            "zh-Hans": "Replace All in Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4864,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.43803b067d",
+          "title": {
+            "en": "Use Selection for Find",
+            "zh-Hans": "Use Selection for Find"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.4d458aacd1",
+          "title": {
+            "en": "Use Selection for Replace",
+            "zh-Hans": "Use Selection for Replace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.9d135fc5b0",
+          "title": {
+            "en": "Jump to Selection",
+            "zh-Hans": "跳转到Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.9f4a52aaef",
+          "title": {
+            "en": "Spelling",
+            "zh-Hans": "Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.217a08bd9d",
+          "title": {
+            "en": "Check Spelling",
+            "zh-Hans": "Check Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.e77d92f9bc",
+          "title": {
+            "en": "Check Spelling as you type",
+            "zh-Hans": "Check Spelling as you type"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.94397a2f1b",
+          "title": {
+            "en": "Special Characters",
+            "zh-Hans": "Special Characters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.e348eec692",
+          "title": {
+            "en": "Zoom Font",
+            "zh-Hans": "Zoom 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.bb56254bbb",
+          "title": {
+            "en": "Zoom out Font",
+            "zh-Hans": "缩小 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.c8a84e5c4f",
+          "title": {
+            "en": "Display/Hide Bookmarks",
+            "zh-Hans": "Display/隐藏 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.0320cf9e4a",
+          "title": {
+            "en": "Display/Hide Line numbers",
+            "zh-Hans": "Display/隐藏 行 numbers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.40e6fa2720",
+          "title": {
+            "en": "Display/Hide Project Drawer",
+            "zh-Hans": "Display/隐藏 项目 抽屉"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6400,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.337390b353",
+          "title": {
+            "en": "Soft Wrap",
+            "zh-Hans": "Soft Wrap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.b2a1b091ee",
+          "title": {
+            "en": "Display/Hide Invisibles",
+            "zh-Hans": "Display/隐藏 Invisibles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.759368aa16",
+          "title": {
+            "en": "Fold Current Block",
+            "zh-Hans": "Fold 当前 Block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.034baa823e",
+          "title": {
+            "en": "Uppercase",
+            "zh-Hans": "Uppercase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4096,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.b43aa27ba4",
+          "title": {
+            "en": "Lowercase",
+            "zh-Hans": "Lowercase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4608,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.4255a17023",
+          "title": {
+            "en": "Titlecase",
+            "zh-Hans": "Titlecase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 6144,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.f37befaa4a",
+          "title": {
+            "en": "Opposite Case",
+            "zh-Hans": "Opposite Case"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.2253960cf3",
+          "title": {
+            "en": "Move line Up/Down",
+            "zh-Hans": "移动line 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.249a9e157d",
+          "title": {
+            "en": "Move Column Up/Down",
+            "zh-Hans": "移动Column 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.70780a2f9f",
+          "title": {
+            "en": "Left Shift",
+            "zh-Hans": "左 Shift"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.fc447fe329",
+          "title": {
+            "en": "Right Shift",
+            "zh-Hans": "右 Shift"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.704c06960a",
+          "title": {
+            "en": "Indent Line",
+            "zh-Hans": "Indent 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.549114c671",
+          "title": {
+            "en": "Edit each line in selection",
+            "zh-Hans": "Edit each line in selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.cbaa0947d4",
+          "title": {
+            "en": "Reformat Paragraph",
+            "zh-Hans": "Reformat 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4096,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.001dea9f57",
+          "title": {
+            "en": "Reformat and Justify",
+            "zh-Hans": "Reformat and Justify"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4096,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.321092270c",
+          "title": {
+            "en": "Unwrap Paragraph",
+            "zh-Hans": "Unwrap 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 6144,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.88e5fec0a7",
+          "title": {
+            "en": "Execute line inserting result",
+            "zh-Hans": "Execute line inserting result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.5c793bec7d",
+          "title": {
+            "en": "Filter through Command",
+            "zh-Hans": "滤镜 through Command"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.0b75c25e63",
+          "title": {
+            "en": "Add/Remove Bookmark",
+            "zh-Hans": "Add/Remove 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 256,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.2134e9344e",
+          "title": {
+            "en": "Jump to Next/Previous Bookmark",
+            "zh-Hans": "跳转到Next/上一个 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.4993500e8d",
+          "title": {
+            "en": "Navigate Tabs",
+            "zh-Hans": "Navigate 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.adb8ce6711",
+          "title": {
+            "en": "Go to Header/Source",
+            "zh-Hans": "转到Header/源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.80f51449a5",
+          "title": {
+            "en": "Go to File",
+            "zh-Hans": "转到文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.4ff2c5d7f7",
+          "title": {
+            "en": "Go to Symbol",
+            "zh-Hans": "转到Symbol"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.fa932e35c8",
+          "title": {
+            "en": "Scroll line Up/Down",
+            "zh-Hans": "滚动line 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6400,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.103a36241e",
+          "title": {
+            "en": "Scroll Column Up/Down",
+            "zh-Hans": "滚动Column 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 6400,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.b83572be38",
+          "title": {
+            "en": "Go to Line",
+            "zh-Hans": "转到行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.b5fac72a4e",
+          "title": {
+            "en": "Go to Middle Visible Line",
+            "zh-Hans": "转到Middle 可见 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.5f0cf6228b",
+          "title": {
+            "en": "Sort Lines",
+            "zh-Hans": "Sort Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.5e902aa689",
+          "title": {
+            "en": "Show Web preview",
+            "zh-Hans": "显示 Web 预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6400,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.f285232cef",
+          "title": {
+            "en": "Open Bundle Menu",
+            "zh-Hans": "打开 Bundle 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 4096,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.aafb98ae9c",
+          "title": {
+            "en": "Select Bundle Item",
+            "zh-Hans": "选择Bundle 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4352,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.textmate.general-shortcuts.6258237fe5",
+          "title": {
+            "en": "Statistics for Document/Selection",
+            "zh-Hans": "Statistics for Document/Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4608,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.textmate.source-shortcut",
+      "title": {
+        "en": "Source Shortcut",
+        "zh-Hans": "源代码快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.textmate.source-shortcut.4ad4a7eddd",
+          "title": {
+            "en": "Comment Line/Selection",
+            "zh-Hans": "评论 行/选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.3035f00ef9",
+          "title": {
+            "en": "Lookup definition",
+            "zh-Hans": "Lookup 定义"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 4096,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.396d202493",
+          "title": {
+            "en": "Toggle Single/Double Quotes",
+            "zh-Hans": "Toggle Single/Double Quotes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.cbda19638a",
+          "title": {
+            "en": "Escaped Double Quotes",
+            "zh-Hans": "Escaped Double Quotes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.1b03493547",
+          "title": {
+            "en": "Escaped Single Quotes",
+            "zh-Hans": "Escaped Single Quotes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.d6a597734c",
+          "title": {
+            "en": "Insert Comment Banner",
+            "zh-Hans": "插入 评论 Banner"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4608,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.6c3fc9de98",
+          "title": {
+            "en": "Continue Line Comment",
+            "zh-Hans": "Continue 行 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.290abaa84b",
+          "title": {
+            "en": "Move to EOL and Insert LF",
+            "zh-Hans": "Move to EOL and Insert LF"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.54c653e205",
+          "title": {
+            "en": "Move to EOL and Insert ;",
+            "zh-Hans": "Move to EOL and Insert ;"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2304,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.f3bb1238dd",
+          "title": {
+            "en": "Move to Eol and Insert ; LF",
+            "zh-Hans": "Move to Eol and Insert ; LF"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.73e4c41d02",
+          "title": {
+            "en": "NewLine",
+            "zh-Hans": "NewLine"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 4096,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.947a581812",
+          "title": {
+            "en": "Convert Space to Tabs",
+            "zh-Hans": "Convert Space to Tabs"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4864,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.4b097eee4a",
+          "title": {
+            "en": "Convert Source to HTML",
+            "zh-Hans": "Convert Source to HTML"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4608,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.textmate.source-shortcut.6aaf15ae43",
+          "title": {
+            "en": "View Source as HTML",
+            "zh-Hans": "视图 源 as HTML"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6400,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.textmate.apache-shortcut",
+      "title": {
+        "en": "Apache Shortcut",
+        "zh-Hans": "Apache 快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.textmate.apache-shortcut.313304c5ae",
+          "title": {
+            "en": "Search on Apache.org",
+            "zh-Hans": "Search on Apache.org"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.textmate.html-shortcuts",
+      "title": {
+        "en": "HTML Shortcuts",
+        "zh-Hans": "HTML快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.textmate.html-shortcuts.3de7322eb9",
+          "title": {
+            "en": "Validate",
+            "zh-Hans": "Validate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 6144,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.62e3b458e6",
+          "title": {
+            "en": "Documentation",
+            "zh-Hans": "Documentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.33ac81c30e",
+          "title": {
+            "en": "Tidy",
+            "zh-Hans": "Tidy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4608,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.8827baf85f",
+          "title": {
+            "en": "Refresh Browser",
+            "zh-Hans": "Refresh Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.7d68460206",
+          "title": {
+            "en": "Convert to Entities/URL Escapes",
+            "zh-Hans": "Convert to Entities/URL Escapes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.7163b25889",
+          "title": {
+            "en": "Insert Open/Close Tag",
+            "zh-Hans": "插入 打开/关闭 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 4096,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.750dde2ce8",
+          "title": {
+            "en": "Insert Close Tag",
+            "zh-Hans": "插入 关闭 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2304,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.fedcea4cdf",
+          "title": {
+            "en": "Wrap selection in Open/Close Tag",
+            "zh-Hans": "Wrap selection in Open/Close Tag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4608,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.2b5e15ef31",
+          "title": {
+            "en": "Wrap Each Selected line as Tag",
+            "zh-Hans": "Wrap Each Selected line as Tag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4864,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.2b2771a837",
+          "title": {
+            "en": "Wrap Selection as Link",
+            "zh-Hans": "Wrap 选择 as 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4608,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.9d3ef749eb",
+          "title": {
+            "en": "Br",
+            "zh-Hans": "Br"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 4096,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.91ae355cc9",
+          "title": {
+            "en": "Strong",
+            "zh-Hans": "Strong"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.textmate.html-shortcuts.c66e2f6098",
+          "title": {
+            "en": "Emphasize",
+            "zh-Hans": "Emphasize"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.textmate.xml-shortcuts",
+      "title": {
+        "en": "XML Shortcuts",
+        "zh-Hans": "XML快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.textmate.xml-shortcuts.18b947d391",
+          "title": {
+            "en": "Validate",
+            "zh-Hans": "Validate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4608,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.textmate.xml-shortcuts.33ac81c30e",
+          "title": {
+            "en": "Tidy",
+            "zh-Hans": "Tidy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4608,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.textmate.javascript-shortcuts",
+      "title": {
+        "en": "JavaScript Shortcuts",
+        "zh-Hans": "JavaScript快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.textmate.javascript-shortcuts.62e3b458e6",
+          "title": {
+            "en": "Documentation",
+            "zh-Hans": "Documentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.textmate.css-shortcuts",
+      "title": {
+        "en": "CSS Shortcuts",
+        "zh-Hans": "CSS快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.textmate.css-shortcuts.62e3b458e6",
+          "title": {
+            "en": "Documentation",
+            "zh-Hans": "Documentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.textmate.css-shortcuts.18b947d391",
+          "title": {
+            "en": "Validate",
+            "zh-Hans": "Validate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4608,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.textmate.css-shortcuts.e299fe8979",
+          "title": {
+            "en": "Preview",
+            "zh-Hans": "预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6400,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.textmate.php-shortcuts",
+      "title": {
+        "en": "PHP Shortcuts",
+        "zh-Hans": "PHP快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.textmate.php-shortcuts.62e3b458e6",
+          "title": {
+            "en": "Documentation",
+            "zh-Hans": "Documentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.textmate.php-shortcuts.18b947d391",
+          "title": {
+            "en": "Validate",
+            "zh-Hans": "Validate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4608,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.textmate.php-shortcuts.8a0c14001c",
+          "title": {
+            "en": "Continue Block Comment",
+            "zh-Hans": "Continue Block 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.textmate.php-shortcuts.a5f8ef472c",
+          "title": {
+            "en": "Run",
+            "zh-Hans": "Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        }
+      ]
+    }
+  ]
+}

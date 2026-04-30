@@ -1,0 +1,804 @@
+{
+  "bundleIdentifier": "com.adobe.audition",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-audition.audio-general-operations",
+      "title": {
+        "en": "Audio General Operations",
+        "zh-Hans": "音频通用操作"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-audition.audio-general-operations.d965c69aae",
+          "title": {
+            "en": "Start/stop playback",
+            "zh-Hans": "开始/stop playback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.0b7547341b",
+          "title": {
+            "en": "Set time indicator to beginning",
+            "zh-Hans": "Set time indicator to beginning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.b0f900cff6",
+          "title": {
+            "en": "Set time indicator to end",
+            "zh-Hans": "Set time indicator to end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.19de81f7c4",
+          "title": {
+            "en": "Switch Waveform/Multitrack editor",
+            "zh-Hans": "Switch Waveform/Multitrack editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 0,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.8aafa6b598",
+          "title": {
+            "en": "Set time indicator to previous marker/clip",
+            "zh-Hans": "Set time indicator to previous marker/clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.8e6712576b",
+          "title": {
+            "en": "Set time indicator to next marker/clip",
+            "zh-Hans": "Set time indicator to next marker/clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.330a8cf230",
+          "title": {
+            "en": "Toggle Preference for return cti to start position",
+            "zh-Hans": "Toggle Preference for return cti to start position"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 512,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.36f9a1ba51",
+          "title": {
+            "en": "Zoom in horizontally",
+            "zh-Hans": "放大 horizontally"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.3e8ff1c688",
+          "title": {
+            "en": "Zoom in vertically",
+            "zh-Hans": "放大 vertically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2048,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.7604455adc",
+          "title": {
+            "en": "Zoom out horizontally",
+            "zh-Hans": "缩小 horizontally"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.02c3f762f0",
+          "title": {
+            "en": "Zoom out vertically",
+            "zh-Hans": "缩小 vertically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 2048,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.16d5dfcafa",
+          "title": {
+            "en": "Zoom in on selection",
+            "zh-Hans": "Zoom in on selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-general-operations.c85c038869",
+          "title": {
+            "en": "Zoom out to entire wavevorm",
+            "zh-Hans": "Zoom out to entire wavevorm"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-audition.audio-editing-operations",
+      "title": {
+        "en": "Audio Editing Operations",
+        "zh-Hans": "音频编辑操作"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.d59b70b834",
+          "title": {
+            "en": "Repeat previous command with clicking OK",
+            "zh-Hans": "Repeat previous command with clicking OK"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.9aedf04b29",
+          "title": {
+            "en": "Repeat previous command with not clicking OK",
+            "zh-Hans": "Repeat previous command with not clicking OK"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.fd592206c4",
+          "title": {
+            "en": "Open Convert sample type dialog box",
+            "zh-Hans": "Open Convert sample type dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 512,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.19df998a4e",
+          "title": {
+            "en": "Capture noise reduction profile",
+            "zh-Hans": "Capture noise reduction profile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.37b9eff85d",
+          "title": {
+            "en": "Activate left channel for editing",
+            "zh-Hans": "Activate left channel for editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.64dba7b77e",
+          "title": {
+            "en": "Activate right channel for editing",
+            "zh-Hans": "Activate right channel for editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.ec0521a77d",
+          "title": {
+            "en": "Make display more logarithmic",
+            "zh-Hans": "Make display more logarithmic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.ac1e37b5ad",
+          "title": {
+            "en": "Make display more linear",
+            "zh-Hans": "Make display more linear"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.33c5412c44",
+          "title": {
+            "en": "Make display full logarithmic",
+            "zh-Hans": "Make display full logarithmic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 2304,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.fe6cf81a83",
+          "title": {
+            "en": "Make display full linear",
+            "zh-Hans": "Make display full linear"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 2304,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.f3ff294db8",
+          "title": {
+            "en": "Increse/Decrese spectral resolution",
+            "zh-Hans": "Increse/Decrese spectral resolution"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.audio-editing-operations.14c3ede721",
+          "title": {
+            "en": "Repeat last command",
+            "zh-Hans": "Repeat 最后一个 command"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-audition.mixing-tracks",
+      "title": {
+        "en": "Mixing Tracks",
+        "zh-Hans": "混音轨道"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-audition.mixing-tracks.64de45c160",
+          "title": {
+            "en": "Nudge Selected clip to left",
+            "zh-Hans": "Nudge Selected clip to left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2048,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-audition.mixing-tracks.262d6369e4",
+          "title": {
+            "en": "Nudge Selected clip to right",
+            "zh-Hans": "Nudge Selected clip to right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2048,
+            "displayKey": "."
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-audition.marker-tool-clip-shortcuts",
+      "title": {
+        "en": "Marker/Tool/Clip Shortcuts",
+        "zh-Hans": "Marker/Tool/Clip快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.e880ea3d34",
+          "title": {
+            "en": "Add marker",
+            "zh-Hans": "添加marker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.94f84f4f99",
+          "title": {
+            "en": "Move to next marker",
+            "zh-Hans": "移动to 下一个 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.d43af7cc30",
+          "title": {
+            "en": "Move to previous marker",
+            "zh-Hans": "移动to 上一个 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.dd8b0a1b22",
+          "title": {
+            "en": "Clip gain",
+            "zh-Hans": "片段 gain"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.ed3714b3d6",
+          "title": {
+            "en": "Split",
+            "zh-Hans": "分割"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.cba730cea9",
+          "title": {
+            "en": "Delete Selected marker",
+            "zh-Hans": "删除 所选 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.ea41b1d3b0",
+          "title": {
+            "en": "Delete All Marker",
+            "zh-Hans": "删除 全部 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.0e36347d10",
+          "title": {
+            "en": "Rename selected marker",
+            "zh-Hans": "重命名 所选 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.9cd0b6e6bf",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.1038115be7",
+          "title": {
+            "en": "Spot Healing Brush",
+            "zh-Hans": "Spot Healing Brush"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.17ad34feca",
+          "title": {
+            "en": "Ripple delete selected clip",
+            "zh-Hans": "Ripple 删除 所选 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.8f070bae80",
+          "title": {
+            "en": "Time selection in selected clip",
+            "zh-Hans": "Time selection in selected clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.c9cb5c2021",
+          "title": {
+            "en": "Time selection in all track",
+            "zh-Hans": "Time selection in all track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2304,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.ff80e5b8e5",
+          "title": {
+            "en": "Copy to new",
+            "zh-Hans": "Copy to new"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.5634f01383",
+          "title": {
+            "en": "Lasso selection tool",
+            "zh-Hans": "Lasso 选择 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.c3fabc3ca0",
+          "title": {
+            "en": "Mark selection tool",
+            "zh-Hans": "Mark 选择 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.45247c67aa",
+          "title": {
+            "en": "Edit original",
+            "zh-Hans": "编辑 original"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.cb5ecb3aff",
+          "title": {
+            "en": "Clear time selection",
+            "zh-Hans": "清除time 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.b52d5e571b",
+          "title": {
+            "en": "Zero crossing adjust left side to left",
+            "zh-Hans": "Zero crossing adjust left side to left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 512,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.71f0b6123d",
+          "title": {
+            "en": "Zero crossing adjust selection inward",
+            "zh-Hans": "Zero crossing adjust selection inward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 512,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.16000af306",
+          "title": {
+            "en": "Zero crossing adjust left side to right",
+            "zh-Hans": "Zero crossing adjust left side to right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 512,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.dc8ed07795",
+          "title": {
+            "en": "Copy/Cut/Paste",
+            "zh-Hans": "复制/剪切/粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.d92e4b39f4",
+          "title": {
+            "en": "Mix Paste",
+            "zh-Hans": "Mix 粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.c6c4f9502c",
+          "title": {
+            "en": "Select frequency selection tool",
+            "zh-Hans": "Select frequency selection tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.5d82145b86",
+          "title": {
+            "en": "Select rectangular marquee tool",
+            "zh-Hans": "Select rectangular marquee tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.a315920a76",
+          "title": {
+            "en": "Snapping enabled",
+            "zh-Hans": "Snapping 已启用"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.d985e5fd26",
+          "title": {
+            "en": "Crop",
+            "zh-Hans": "裁剪"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.e628b5296e",
+          "title": {
+            "en": "Razor tool",
+            "zh-Hans": "剃刀工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.ccf9c15100",
+          "title": {
+            "en": "Move tool",
+            "zh-Hans": "移动工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.69f2bb6a34",
+          "title": {
+            "en": "Slip tool",
+            "zh-Hans": "滑动工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-audition.marker-tool-clip-shortcuts.e08eba4732",
+          "title": {
+            "en": "Paintbrush selection tool",
+            "zh-Hans": "Paintbrush 选择 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        }
+      ]
+    }
+  ]
+}

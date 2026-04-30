@@ -1,0 +1,363 @@
+{
+  "bundleIdentifier": "com.flexibits.fantastical2.mac",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.fantastical.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.fantastical.general.cbf8b1c55f",
+          "title": {
+            "en": "Open or close Fantastical",
+            "zh-Hans": "Open or close Fantastical"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 6144,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.f064aa4339",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.de41fa262a",
+          "title": {
+            "en": "Enter a new event",
+            "zh-Hans": "Enter a new event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.63792f02ae",
+          "title": {
+            "en": "Go to Today",
+            "zh-Hans": "转到Today"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.ea7034d526",
+          "title": {
+            "en": "Show or hide the task list",
+            "zh-Hans": "Show or hide the task list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.7e1f438f55",
+          "title": {
+            "en": "Quit Fantastical",
+            "zh-Hans": "退出 Fantastical"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.3b4b6c9bec",
+          "title": {
+            "en": "Open Settings",
+            "zh-Hans": "打开 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.fantastical.general.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.2bbf6590fc",
+          "title": {
+            "en": "Get info",
+            "zh-Hans": "Get info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.99c7a6ffb6",
+          "title": {
+            "en": "Toggle between event and task mode",
+            "zh-Hans": "Toggle between event and task mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.7dcfe1cc04",
+          "title": {
+            "en": "Toggle keep Mini Window on top",
+            "zh-Hans": "Toggle keep Mini Window on top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4352,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.315d8f6d49",
+          "title": {
+            "en": "Show or hide details",
+            "zh-Hans": "Show or hide details"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.d169eace25",
+          "title": {
+            "en": "Delete item",
+            "zh-Hans": "删除 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.fantastical.general.d6d9ac2806",
+          "title": {
+            "en": "Show detected invitees",
+            "zh-Hans": "显示 detected invitees"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.fantastical.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.fantastical.navigation.c229305070",
+          "title": {
+            "en": "Jump to next month",
+            "zh-Hans": "跳转到next month"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.fantastical.navigation.d94cc49d50",
+          "title": {
+            "en": "Jump to previous month",
+            "zh-Hans": "跳转到previous month"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.fantastical.navigation.cdf45c690e",
+          "title": {
+            "en": "Jump to next day",
+            "zh-Hans": "跳转到next day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.fantastical.navigation.520fd756e2",
+          "title": {
+            "en": "Jump to previous day",
+            "zh-Hans": "跳转到previous day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.fantastical.navigation.ecbf907f08",
+          "title": {
+            "en": "Jump to next week",
+            "zh-Hans": "跳转到next week"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.fantastical.navigation.cf9f862b36",
+          "title": {
+            "en": "Jump to previous week",
+            "zh-Hans": "跳转到previous week"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.fantastical.navigation.ed1b94613a",
+          "title": {
+            "en": "Jump from search to first result",
+            "zh-Hans": "Jump from search to first result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.fantastical.event-editing",
+      "title": {
+        "en": "Event Editing",
+        "zh-Hans": "事件编辑"
+      },
+      "items": [
+        {
+          "id": "remote.fantastical.event-editing.d3e9a2dc60",
+          "title": {
+            "en": "Move item to next day",
+            "zh-Hans": "Move item to next day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.fantastical.event-editing.6b1904832c",
+          "title": {
+            "en": "Move item to previous day",
+            "zh-Hans": "Move item to previous day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.fantastical.event-editing.38749ac030",
+          "title": {
+            "en": "Move item forward 15 minutes",
+            "zh-Hans": "Move item forward 15 minutes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.fantastical.event-editing.486d713eb3",
+          "title": {
+            "en": "Move item backward 15 minutes",
+            "zh-Hans": "Move item backward 15 minutes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.fantastical.event-editing.a3aa800409",
+          "title": {
+            "en": "Move end of event forward 15 minutes",
+            "zh-Hans": "Move end of event forward 15 minutes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4608,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.fantastical.event-editing.27f46ca263",
+          "title": {
+            "en": "Move end of event backward 15 minutes",
+            "zh-Hans": "Move end of event backward 15 minutes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4608,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    }
+  ]
+}

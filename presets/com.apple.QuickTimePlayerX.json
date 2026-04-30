@@ -1,0 +1,612 @@
+{
+  "bundleIdentifier": "com.apple.QuickTimePlayerX",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.quicktime-player.quicktime-player-basic-tasks",
+      "title": {
+        "en": "QuickTime Player basic tasks",
+        "zh-Hans": "QuickTime Player 基本任务"
+      },
+      "items": [
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.b3a1e64104",
+          "title": {
+            "en": "New movie recording",
+            "zh-Hans": "新建movie recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.84cd89796c",
+          "title": {
+            "en": "New audio recording",
+            "zh-Hans": "新建audio recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 6400,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.be992e7987",
+          "title": {
+            "en": "New screen recording",
+            "zh-Hans": "新建screen recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.2de243e436",
+          "title": {
+            "en": "Open file",
+            "zh-Hans": "打开文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.1449bec475",
+          "title": {
+            "en": "Open location using a URL",
+            "zh-Hans": "Open location using a URL"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.eba237a36f",
+          "title": {
+            "en": "Save/ Export",
+            "zh-Hans": "存储/ 导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.6f7de316c8",
+          "title": {
+            "en": "Export for the web",
+            "zh-Hans": "Export for the web"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.d94258f711",
+          "title": {
+            "en": "Minimize window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.66123a0ae4",
+          "title": {
+            "en": "Show Movie Inspector",
+            "zh-Hans": "显示 Movie Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.quicktime-player-basic-tasks.4dda977db6",
+          "title": {
+            "en": "Show export Progress",
+            "zh-Hans": "显示 导出 Progress"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.quicktime-player.movie-playback-shortcuts",
+      "title": {
+        "en": "Movie playback shortcuts",
+        "zh-Hans": "影片播放快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.9cd0cc19a4",
+          "title": {
+            "en": "Play or pause",
+            "zh-Hans": "Play or pause"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.05a8c02872",
+          "title": {
+            "en": "Play or pause all movies",
+            "zh-Hans": "Play or pause all movies"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.1495833ca7",
+          "title": {
+            "en": "Stop playback and go back one frame",
+            "zh-Hans": "Stop playback and go back one frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.a5130b2831",
+          "title": {
+            "en": "Stop playback and go forward one frame",
+            "zh-Hans": "Stop playback and go forward one frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.39b3501404",
+          "title": {
+            "en": "Go to the beginning of a movie",
+            "zh-Hans": "Go to the beginning of a movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.8da5ec61cd",
+          "title": {
+            "en": "Go to the end of a movie",
+            "zh-Hans": "Go to the end of a movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.d74a7a441f",
+          "title": {
+            "en": "Cycle through rewind speeds",
+            "zh-Hans": "Cycle through rewind speeds"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.3e54748f84",
+          "title": {
+            "en": "Cycle through fast forward speeds",
+            "zh-Hans": "Cycle through fast forward speeds"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.e1dd66fa51",
+          "title": {
+            "en": "Turn volume up",
+            "zh-Hans": "Turn volume 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.20cb3e0e27",
+          "title": {
+            "en": "Turn volume down",
+            "zh-Hans": "Turn volume 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.db31ef4bed",
+          "title": {
+            "en": "Turn the volume up to the maximum level",
+            "zh-Hans": "Turn the volume up to the maximum level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.49596dc5bb",
+          "title": {
+            "en": "Turn the volume down to the minimum level",
+            "zh-Hans": "Turn the volume down to the minimum level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.6cdf0fd64b",
+          "title": {
+            "en": "Show closed captioning",
+            "zh-Hans": "显示 closed captioning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.c6266a1bee",
+          "title": {
+            "en": "Show chapters",
+            "zh-Hans": "显示 chapters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-playback-shortcuts.47b6cb0e7c",
+          "title": {
+            "en": "Loop the movie",
+            "zh-Hans": "Loop the movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.quicktime-player.movie-size-shortcuts",
+      "title": {
+        "en": "Movie size shortcuts",
+        "zh-Hans": "影片大小快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.quicktime-player.movie-size-shortcuts.303064deb9",
+          "title": {
+            "en": "Enter Full screen mode",
+            "zh-Hans": "Enter 全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-size-shortcuts.2660b754d8",
+          "title": {
+            "en": "Exit Full screen mode",
+            "zh-Hans": "Exit 全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-size-shortcuts.7e4b2689e1",
+          "title": {
+            "en": "Display movie at actual size",
+            "zh-Hans": "Display movie at actual size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-size-shortcuts.c1ba98d67a",
+          "title": {
+            "en": "Fit the movie to the screen",
+            "zh-Hans": "Fit the movie to the screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-size-shortcuts.891208b506",
+          "title": {
+            "en": "Fill the screen with the movie",
+            "zh-Hans": "Fill the screen with the movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-size-shortcuts.01eab44e78",
+          "title": {
+            "en": "Display the movie in panoramic mode",
+            "zh-Hans": "Display the movie in panoramic mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-size-shortcuts.9fc13597d1",
+          "title": {
+            "en": "Increase the movie size",
+            "zh-Hans": "Increase the movie size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-size-shortcuts.6a0cdca776",
+          "title": {
+            "en": "Decrease the movie size",
+            "zh-Hans": "Decrease the movie size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.quicktime-player.movie-editing-shortcuts",
+      "title": {
+        "en": "Movie editing shortcuts",
+        "zh-Hans": "影片编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.a7ebba99cd",
+          "title": {
+            "en": "Select all excluding silent portions",
+            "zh-Hans": "Select all excluding silent portions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.075f9be57b",
+          "title": {
+            "en": "Rotate left",
+            "zh-Hans": "Rotate 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.2532625049",
+          "title": {
+            "en": "Rotate right",
+            "zh-Hans": "Rotate 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.a871068fe8",
+          "title": {
+            "en": "Flip horizontal",
+            "zh-Hans": "Flip 水平"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.41a81ee11a",
+          "title": {
+            "en": "Flip vertical",
+            "zh-Hans": "Flip 垂直"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.afc27481c2",
+          "title": {
+            "en": "Split clip",
+            "zh-Hans": "Split 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.quicktime-player.movie-editing-shortcuts.2e48346ff1",
+          "title": {
+            "en": "Trim",
+            "zh-Hans": "修剪"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        }
+      ]
+    }
+  ]
+}

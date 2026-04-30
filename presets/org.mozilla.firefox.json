@@ -1,0 +1,1260 @@
+{
+  "bundleIdentifier": "org.mozilla.firefox",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.firefox.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.firefox.tools.442b159e98",
+          "title": {
+            "en": "Page Info",
+            "zh-Hans": "页面 Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.a2ed835e6b",
+          "title": {
+            "en": "Browser Console",
+            "zh-Hans": "Browser 控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.c4d960437d",
+          "title": {
+            "en": "Page Source",
+            "zh-Hans": "页面 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.111e86dc67",
+          "title": {
+            "en": "Scratchpad",
+            "zh-Hans": "Scratchpad"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.41fd8ec6a4",
+          "title": {
+            "en": "Responsive Design View",
+            "zh-Hans": "Responsive Design 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.0538da3989",
+          "title": {
+            "en": "Developer Toolbar",
+            "zh-Hans": "Developer 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.b46a414b71",
+          "title": {
+            "en": "Network",
+            "zh-Hans": "Network"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.0cc35ca47e",
+          "title": {
+            "en": "Profiler",
+            "zh-Hans": "Profiler"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.655bc61709",
+          "title": {
+            "en": "Style Editor",
+            "zh-Hans": "样式 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.1109dc59b7",
+          "title": {
+            "en": "Debugger",
+            "zh-Hans": "Debugger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.ffe1ddb300",
+          "title": {
+            "en": "Inspector",
+            "zh-Hans": "Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.445ff0ae8e",
+          "title": {
+            "en": "Web Console",
+            "zh-Hans": "Web 控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.99a8fece07",
+          "title": {
+            "en": "Toggle Developer Tools",
+            "zh-Hans": "Toggle 开发者工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 2304,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.92d3ce99b1",
+          "title": {
+            "en": "Add-ons",
+            "zh-Hans": "Add-ons"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.firefox.tools.c35b7a3d23",
+          "title": {
+            "en": "Downloads",
+            "zh-Hans": "下载"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.firefox.bookmarks",
+      "title": {
+        "en": "Bookmarks",
+        "zh-Hans": "书签"
+      },
+      "items": [
+        {
+          "id": "remote.firefox.bookmarks.c009ab045d",
+          "title": {
+            "en": "Show List of All Bookmarks (in empty search field)",
+            "zh-Hans": "Show List of All Bookmarks (in empty search field)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.firefox.bookmarks.0588d379e8",
+          "title": {
+            "en": "Library window (Bookmarks)",
+            "zh-Hans": "Library 窗口 (书签)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.firefox.bookmarks.d2206428a6",
+          "title": {
+            "en": "Bookmarks sidebar",
+            "zh-Hans": "书签 侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.firefox.bookmarks.ea6eec3d7f",
+          "title": {
+            "en": "Bookmark This Page",
+            "zh-Hans": "Bookmark This Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.firefox.history",
+      "title": {
+        "en": "History",
+        "zh-Hans": "历史"
+      },
+      "items": [
+        {
+          "id": "remote.firefox.history.ec87bf410c",
+          "title": {
+            "en": "Clear Recent History",
+            "zh-Hans": "清除Recent 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.firefox.history.826b914c68",
+          "title": {
+            "en": "History sidebar",
+            "zh-Hans": "历史记录 侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.firefox.windows-tabs",
+      "title": {
+        "en": "Windows & Tabs",
+        "zh-Hans": "窗口与标签页"
+      },
+      "items": [
+        {
+          "id": "remote.firefox.windows-tabs.2dfc859ab1",
+          "title": {
+            "en": "Moves the URL left or right (if cursor is in the address bar)",
+            "zh-Hans": "Moves the URL left or right (if cursor is in the address bar)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.e851db45fc",
+          "title": {
+            "en": "Undo Close Window",
+            "zh-Hans": "Undo 关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.1fd88b8335",
+          "title": {
+            "en": "Undo Close Tab",
+            "zh-Hans": "Undo 关闭 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.dde480c288",
+          "title": {
+            "en": "Open Focused Bookmark or Link in New Window",
+            "zh-Hans": "Open Focused Bookmark or Link in New Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.3799a9f00b",
+          "title": {
+            "en": "Open Focused Link in New Foreground Tab",
+            "zh-Hans": "Open Focused Link in New Foreground Tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.0fc9a999d7",
+          "title": {
+            "en": "Open Focused Link in New Background Tab",
+            "zh-Hans": "Open Focused Link in New Background Tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.4ca9ea3cb4",
+          "title": {
+            "en": "Open Focused Bookmark in New Background Tab",
+            "zh-Hans": "Open Focused Bookmark in New Background Tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.d23723feaa",
+          "title": {
+            "en": "Open Focused Bookmark in New Foreground Tab",
+            "zh-Hans": "Open Focused Bookmark in New Foreground Tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.af1a94ebf4",
+          "title": {
+            "en": "Open Focused Bookmark or Link in Current Tab",
+            "zh-Hans": "Open Focused Bookmark or Link in Current Tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.82ec0f66c6",
+          "title": {
+            "en": "Open Search in New Foreground Tab",
+            "zh-Hans": "Open Search in New Foreground Tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.5b704df4b9",
+          "title": {
+            "en": "Open Search in New Background Tab (from new tab page search field)",
+            "zh-Hans": "Open Search in New Background Tab (from new tab page search field)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.e3460e2bf4",
+          "title": {
+            "en": "Open Address or Search in New Window (from address bar)",
+            "zh-Hans": "Open Address or Search in New Window (from address bar)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.e8ce4c374d",
+          "title": {
+            "en": "Open Address or Search in New Foreground Tab (from address/search bar)",
+            "zh-Hans": "Open Address or Search in New Foreground Tab (from address/search bar)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.3e732f59da",
+          "title": {
+            "en": "Open Address or Search in New Background Tab (from address bar)",
+            "zh-Hans": "Open Address or Search in New Background Tab (from address bar)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2560,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.03c2fe5c87",
+          "title": {
+            "en": "New Private Window",
+            "zh-Hans": "新建Private 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.646f9292ec",
+          "title": {
+            "en": "New Window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.26ef4c66c1",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.6b050ffe3a",
+          "title": {
+            "en": "Mute/Unmute Audio",
+            "zh-Hans": "Mute/Unmute 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4096,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.6694426cd1",
+          "title": {
+            "en": "Move Tab to end (tab element must be focused)",
+            "zh-Hans": "Move Tab to end (tab element must be focused)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 768,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.338708e15a",
+          "title": {
+            "en": "Move Tab to start (tab element must be focused)",
+            "zh-Hans": "Move Tab to start (tab element must be focused)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 768,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.146489c64c",
+          "title": {
+            "en": "Move Tab Right",
+            "zh-Hans": "移动Tab 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 4608,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.f91053e30a",
+          "title": {
+            "en": "Move Tab Left",
+            "zh-Hans": "移动Tab 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4608,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.6689f1fec7",
+          "title": {
+            "en": "Go to Last Tab",
+            "zh-Hans": "转到Last 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.0aa53d6874",
+          "title": {
+            "en": "Go to Tab 1 to 9",
+            "zh-Hans": "Go to Tab 1 to 9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.0c54f3982f",
+          "title": {
+            "en": "Go one Tab to the Right",
+            "zh-Hans": "Go one Tab to the Right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 6400,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.b30c4493b3",
+          "title": {
+            "en": "Go one Tab to the Left",
+            "zh-Hans": "Go one Tab to the Left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 6912,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.c58871b0c7",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.b9c4cb55be",
+          "title": {
+            "en": "Cycle through Tabs in Recently Used Order (if enabled in Preferences)",
+            "zh-Hans": "Cycle through Tabs in Recently Used Order (if enabled in Preferences)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.0f4e51c3f5",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.firefox.windows-tabs.c7885432cf",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.firefox.search",
+      "title": {
+        "en": "Search",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.firefox.search.69abce2fdc",
+          "title": {
+            "en": "View search engine menu (when Search bar is focused)",
+            "zh-Hans": "View search engine menu (when Search bar is focused)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.firefox.search.30fe1a55a8",
+          "title": {
+            "en": "Change the Default Search Engine (in the Search bar or new tab page)",
+            "zh-Hans": "Change the Default Search Engine (in the Search bar or new tab page)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4096,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.firefox.search.9701877df0",
+          "title": {
+            "en": "Focus Search bar (if search bar is shown)",
+            "zh-Hans": "Focus Search bar (if search bar is shown)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4096,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.firefox.search.e0a1118be1",
+          "title": {
+            "en": "Focus Address bar for Web Search (writes \"? \" there)",
+            "zh-Hans": "Focus Address bar for Web Search (writes \"? \" there)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4096,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.firefox.search.3a05180341",
+          "title": {
+            "en": "Switch Search Engine",
+            "zh-Hans": "Switch 搜索 Engine"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.firefox.search.b44d83cc0b",
+          "title": {
+            "en": "Close the Find or Quick Find bar",
+            "zh-Hans": "Close the Find or Quick Find bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.firefox.search.362ab5472f",
+          "title": {
+            "en": "Quick Find",
+            "zh-Hans": "快速查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.firefox.search.58e7d2cf9c",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 4608,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.firefox.search.e96907b6ef",
+          "title": {
+            "en": "Find Again",
+            "zh-Hans": "查找 Again"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 4096,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.firefox.search.d6a5a507fb",
+          "title": {
+            "en": "Find in This Page",
+            "zh-Hans": "Find in This Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.firefox.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.firefox.editing.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.8d8b26adc4",
+          "title": {
+            "en": "Paste (as plain text)",
+            "zh-Hans": "粘贴 (as plain 文本)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.1fba3bb28f",
+          "title": {
+            "en": "Go to End of Text",
+            "zh-Hans": "Go to End of Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 4096,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.74ba92c65e",
+          "title": {
+            "en": "Go to Beginning of Text",
+            "zh-Hans": "Go to Beginning of Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 4096,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.85824d7a10",
+          "title": {
+            "en": "Go to End of Line",
+            "zh-Hans": "Go to End of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.c07a605735",
+          "title": {
+            "en": "Go to Beginning of Line",
+            "zh-Hans": "Go to Beginning of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.a34c638565",
+          "title": {
+            "en": "Go one Word to the Right",
+            "zh-Hans": "Go one Word to the Right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4096,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.5f74b640af",
+          "title": {
+            "en": "Go one Word to the Left",
+            "zh-Hans": "Go one Word to the Left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4096,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.b36cb89110",
+          "title": {
+            "en": "Delete Word to the Right",
+            "zh-Hans": "Delete Word to the Right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 4096,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.73534c178a",
+          "title": {
+            "en": "Delete Word to the Left",
+            "zh-Hans": "Delete Word to the Left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 4096,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.firefox.editing.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.firefox.current-page",
+      "title": {
+        "en": "Current Page",
+        "zh-Hans": "当前页面"
+      },
+      "items": [
+        {
+          "id": "remote.firefox.current-page.824b8c3816",
+          "title": {
+            "en": "Zoom Reset",
+            "zh-Hans": "Zoom Reset"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.e5bf4df57b",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.e99189524f",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.1a27cff809",
+          "title": {
+            "en": "Save Page As",
+            "zh-Hans": "存储 页面 As"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.8027a41246",
+          "title": {
+            "en": "Save Focused Link (requires non-default browser.altClickSave setting)",
+            "zh-Hans": "Save Focused Link (requires non-default browser.altClickSave setting)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.20f1f64818",
+          "title": {
+            "en": "Move to Previous Frame",
+            "zh-Hans": "移动to 上一个 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.76a40553d9",
+          "title": {
+            "en": "Move to Next Frame",
+            "zh-Hans": "移动to 下一个 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.384d176ade",
+          "title": {
+            "en": "Go to Top of Page",
+            "zh-Hans": "Go to Top of Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.f8f35ed15b",
+          "title": {
+            "en": "Go to Bottom of Page",
+            "zh-Hans": "Go to Bottom of Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 256,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.b976ee753b",
+          "title": {
+            "en": "Go Up a Screen",
+            "zh-Hans": "Go 上 a Screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.bb5d0924e1",
+          "title": {
+            "en": "Go Down a Screen",
+            "zh-Hans": "Go 下 a Screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.157fc1ef49",
+          "title": {
+            "en": "Focus Previous Link or Input Field",
+            "zh-Hans": "Focus Previous Link or Input Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.firefox.current-page.270faabdfc",
+          "title": {
+            "en": "Focus Next Link or Input Field",
+            "zh-Hans": "Focus Next Link or Input Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.firefox.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.firefox.navigation.08e5c1b377",
+          "title": {
+            "en": "Stop",
+            "zh-Hans": "停止"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 256,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.firefox.navigation.b0b30c9891",
+          "title": {
+            "en": "Reload (override cache)",
+            "zh-Hans": "Reload (override cache)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.firefox.navigation.4ea43f408a",
+          "title": {
+            "en": "Reload",
+            "zh-Hans": "重新加载"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 256,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.firefox.navigation.c7879f2087",
+          "title": {
+            "en": "Open File",
+            "zh-Hans": "打开 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.firefox.navigation.2ae1f87654",
+          "title": {
+            "en": "Home",
+            "zh-Hans": "主页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 2048,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.firefox.navigation.2b735696a9",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.firefox.navigation.92536faed2",
+          "title": {
+            "en": "Back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        }
+      ]
+    }
+  ]
+}

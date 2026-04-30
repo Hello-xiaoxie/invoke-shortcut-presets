@@ -1,0 +1,1869 @@
+{
+  "bundleIdentifier": "org.spyder-ide.Spyder",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.spyder.explorer",
+      "title": {
+        "en": "Explorer",
+        "zh-Hans": "资源管理器"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.explorer.c69da91e84",
+          "title": {
+            "en": "Copy relative path",
+            "zh-Hans": "复制 relative 路径"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6656,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.spyder.explorer.9f8787c35b",
+          "title": {
+            "en": "Copy absolute path",
+            "zh-Hans": "复制 absolute 路径"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6144,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.spyder.explorer.9a46961736",
+          "title": {
+            "en": "Paste file",
+            "zh-Hans": "粘贴 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.spyder.explorer.8c50d939fc",
+          "title": {
+            "en": "Copy file",
+            "zh-Hans": "复制 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.plots",
+      "title": {
+        "en": "Plots",
+        "zh-Hans": "绘图"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.plots.c579729412",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4096,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.spyder.plots.99e3cfa758",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 4096,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.spyder.plots.ad7d858a93",
+          "title": {
+            "en": "Close all",
+            "zh-Hans": "全部关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4608,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.spyder.plots.64e834662b",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4096,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.spyder.plots.48fc88a3f2",
+          "title": {
+            "en": "Save all",
+            "zh-Hans": "全部保存"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 6144,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spyder.plots.f26d830a37",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4096,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spyder.plots.d675fa23e6",
+          "title": {
+            "en": "Next figure",
+            "zh-Hans": "下一个 figure"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.spyder.plots.2fb0e5d227",
+          "title": {
+            "en": "Previous figure",
+            "zh-Hans": "上一个 figure"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.spyder.plots.b49cb6d84f",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.ipython-console",
+      "title": {
+        "en": "IPython Console",
+        "zh-Hans": "IPython 控制台"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.ipython-console.c33a05906e",
+          "title": {
+            "en": "Restart kernel",
+            "zh-Hans": "Restart kernel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 4096,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.spyder.ipython-console.5f010601b3",
+          "title": {
+            "en": "Reset namespace",
+            "zh-Hans": "重置namespace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6144,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spyder.ipython-console.c178ee4b7e",
+          "title": {
+            "en": "New tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.variable-explorer",
+      "title": {
+        "en": "Variable Explorer",
+        "zh-Hans": "变量浏览器"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.variable-explorer.cc5240a129",
+          "title": {
+            "en": "Refresh",
+            "zh-Hans": "刷新"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spyder.variable-explorer.6581ca3185",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.spyder.variable-explorer.b49cb6d84f",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.array-builder",
+      "title": {
+        "en": "Array Builder",
+        "zh-Hans": "数组构建器"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.array-builder.5aef5085d9",
+          "title": {
+            "en": "Enter array table",
+            "zh-Hans": "Enter array 表格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4096,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.spyder.array-builder.fc60bf9440",
+          "title": {
+            "en": "Enter array inline",
+            "zh-Hans": "Enter array inline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 6144,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.profiler",
+      "title": {
+        "en": "Profiler",
+        "zh-Hans": "性能分析器"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.profiler.7493d114b0",
+          "title": {
+            "en": "Run profiler",
+            "zh-Hans": "Run profiler"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.pylint",
+      "title": {
+        "en": "Pylint",
+        "zh-Hans": "Pylint"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.pylint.b2718fd2e5",
+          "title": {
+            "en": "Run analysis",
+            "zh-Hans": "Run analysis"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.console",
+      "title": {
+        "en": "Console",
+        "zh-Hans": "控制台"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.console.bdc27f16ac",
+          "title": {
+            "en": "Clear line",
+            "zh-Hans": "清除line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.spyder.console.1f957b691c",
+          "title": {
+            "en": "Clear shell",
+            "zh-Hans": "清除shell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.spyder.console.56d6136025",
+          "title": {
+            "en": "Inspect current object",
+            "zh-Hans": "Inspect 当前 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.find-replace",
+      "title": {
+        "en": "Find & Replace",
+        "zh-Hans": "查找 & 替换"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.find-replace.0a66d287a1",
+          "title": {
+            "en": "Find in files",
+            "zh-Hans": "在文件中查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6144,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.spyder.find-replace.efd802624b",
+          "title": {
+            "en": "Hide find and replace",
+            "zh-Hans": "Hide find and replace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.spyder.find-replace.be4cef4ace",
+          "title": {
+            "en": "Replace text",
+            "zh-Hans": "替换 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spyder.find-replace.f4ace1dcb9",
+          "title": {
+            "en": "Find previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.spyder.find-replace.3f91f6d26b",
+          "title": {
+            "en": "Find next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.spyder.find-replace.c4aa76246b",
+          "title": {
+            "en": "Find text",
+            "zh-Hans": "查找 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.switch-to",
+      "title": {
+        "en": "Switch to",
+        "zh-Hans": "切换到"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.switch-to.2da2fabb87",
+          "title": {
+            "en": "Switch to breakpoints",
+            "zh-Hans": "切换到breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4608,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.cf294017e4",
+          "title": {
+            "en": "Switch to profiler",
+            "zh-Hans": "切换到profiler"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4608,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.9cd366c0f8",
+          "title": {
+            "en": "Switch to pylint",
+            "zh-Hans": "切换到pylint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4608,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.d491c61f5d",
+          "title": {
+            "en": "Switch to plots",
+            "zh-Hans": "切换到plots"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4608,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.9085a46284",
+          "title": {
+            "en": "Switch to explorer",
+            "zh-Hans": "切换到explorer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 4608,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.e6ecaea3ec",
+          "title": {
+            "en": "Switch to find_in_files",
+            "zh-Hans": "Switch to find_in_files"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4608,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.c2a204d383",
+          "title": {
+            "en": "Switch to variable_explorer",
+            "zh-Hans": "切换到variable_explorer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4608,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.42f7244589",
+          "title": {
+            "en": "Switch to ipython_console",
+            "zh-Hans": "切换到ipython_console"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4608,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.e3b1426632",
+          "title": {
+            "en": "Switch to project_explorer",
+            "zh-Hans": "切换到project_explorer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4608,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.f1a83d534f",
+          "title": {
+            "en": "Switch to onlinehelp",
+            "zh-Hans": "切换到onlinehelp"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4608,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.acc866ef06",
+          "title": {
+            "en": "Switch to historylog",
+            "zh-Hans": "切换到historylog"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4608,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.afc075db41",
+          "title": {
+            "en": "Switch to editor",
+            "zh-Hans": "切换到editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4608,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.b3396be5fe",
+          "title": {
+            "en": "Switch to outline_explorer",
+            "zh-Hans": "切换到outline_explorer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4608,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.spyder.switch-to.17e1751ddb",
+          "title": {
+            "en": "Switch to help",
+            "zh-Hans": "切换到help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4608,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.debug-and-run",
+      "title": {
+        "en": "Debug and Run",
+        "zh-Hans": "调试与运行"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.debug-and-run.b56a5031b5",
+          "title": {
+            "en": "Re-run last script",
+            "zh-Hans": "Re-run last script"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.spyder.debug-and-run.91cfa5549d",
+          "title": {
+            "en": "Configure",
+            "zh-Hans": "Configure"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 4096,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.spyder.debug-and-run.a8f67d29ff",
+          "title": {
+            "en": "Run",
+            "zh-Hans": "Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.spyder.debug-and-run.6a58fef610",
+          "title": {
+            "en": "Debug exit",
+            "zh-Hans": "调试 exit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 4608,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.spyder.debug-and-run.93467d0a33",
+          "title": {
+            "en": "Debug step return",
+            "zh-Hans": "调试 step return"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 4608,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.spyder.debug-and-run.d280e41d18",
+          "title": {
+            "en": "Debug step into",
+            "zh-Hans": "调试 step into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 4096,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.spyder.debug-and-run.ebaadccbc3",
+          "title": {
+            "en": "Debug continue",
+            "zh-Hans": "调试 continue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 4096,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.spyder.debug-and-run.efdf7b3035",
+          "title": {
+            "en": "Debug step over",
+            "zh-Hans": "调试 step over"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 4096,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.spyder.debug-and-run.a05e82cd1e",
+          "title": {
+            "en": "Debug",
+            "zh-Hans": "调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 4096,
+            "displayKey": "F5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.editor.ee37dd5ed7",
+          "title": {
+            "en": "Symbol finder",
+            "zh-Hans": "符号 finder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6144,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.c4c50d89bb",
+          "title": {
+            "en": "File switcher",
+            "zh-Hans": "文件 switcher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.4a758f71dd",
+          "title": {
+            "en": "Show in external file explorer",
+            "zh-Hans": "Show in external file explorer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.spyder.editor.08dc4f9b0a",
+          "title": {
+            "en": "Autoformatting",
+            "zh-Hans": "Autoformatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.5362ea105e",
+          "title": {
+            "en": "Docstring",
+            "zh-Hans": "Docstring"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6144,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.ea83a468c5",
+          "title": {
+            "en": "Close split panel",
+            "zh-Hans": "关闭 split 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2560,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.6645b9096c",
+          "title": {
+            "en": "Split horizontally",
+            "zh-Hans": "Split horizontally"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4096,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.bd727f63e6",
+          "title": {
+            "en": "Split vertically",
+            "zh-Hans": "Split vertically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 4096,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.spyder.editor.9b81fbfee1",
+          "title": {
+            "en": "Re-run last cell",
+            "zh-Hans": "Re-run 最后一个 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.854b774127",
+          "title": {
+            "en": "Go to previous cell",
+            "zh-Hans": "转到previous 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.e9974de0a5",
+          "title": {
+            "en": "Go to next cell",
+            "zh-Hans": "转到next 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4096,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.730558489c",
+          "title": {
+            "en": "Debug cell",
+            "zh-Hans": "调试 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2560,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.e69607b09f",
+          "title": {
+            "en": "Run cell and advance",
+            "zh-Hans": "Run cell and advance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.0331dfb7fc",
+          "title": {
+            "en": "Run cell",
+            "zh-Hans": "Run 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 4096,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.d86a685457",
+          "title": {
+            "en": "Close file",
+            "zh-Hans": "关闭文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4096,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.2624da26f7",
+          "title": {
+            "en": "Zoom reset",
+            "zh-Hans": "Zoom reset"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4096,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.c579729412",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4096,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.99e3cfa758",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 4096,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.d289ce46a9",
+          "title": {
+            "en": "Next warning",
+            "zh-Hans": "下一个 警告"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 6656,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.spyder.editor.542624e276",
+          "title": {
+            "en": "Previous warning",
+            "zh-Hans": "上一个 警告"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 6656,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.spyder.editor.116ba68e76",
+          "title": {
+            "en": "Next cursor position",
+            "zh-Hans": "下一个 光标 position"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.05301d0b11",
+          "title": {
+            "en": "Previous cursor position",
+            "zh-Hans": "上一个 光标 position"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.bc158f59b0",
+          "title": {
+            "en": "Last edit location",
+            "zh-Hans": "最后一个 编辑 location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 6656,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.ad7d858a93",
+          "title": {
+            "en": "Close all",
+            "zh-Hans": "全部关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4608,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.a08bdc9003",
+          "title": {
+            "en": "Save as",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4608,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.48fc88a3f2",
+          "title": {
+            "en": "Save all",
+            "zh-Hans": "全部保存"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 6144,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.df3a786d22",
+          "title": {
+            "en": "Save file",
+            "zh-Hans": "保存文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4096,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.8752de10db",
+          "title": {
+            "en": "Open file",
+            "zh-Hans": "打开文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.68763c03bd",
+          "title": {
+            "en": "Open last closed",
+            "zh-Hans": "打开 最后一个 closed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4608,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.8e339df7bd",
+          "title": {
+            "en": "New file",
+            "zh-Hans": "新建文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4096,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.f76533e6e7",
+          "title": {
+            "en": "Cycle to next file",
+            "zh-Hans": "Cycle to next file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.2155cd8f94",
+          "title": {
+            "en": "Cycle to previous file",
+            "zh-Hans": "Cycle to previous file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.7cc3e3b2cf",
+          "title": {
+            "en": "Go to next file",
+            "zh-Hans": "转到next 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.3e852dda26",
+          "title": {
+            "en": "Go to previous file",
+            "zh-Hans": "转到previous 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.e68750efe5",
+          "title": {
+            "en": "Go to line",
+            "zh-Hans": "转到line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.a62bc4a530",
+          "title": {
+            "en": "Run selection",
+            "zh-Hans": "Run 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.6e45b88f46",
+          "title": {
+            "en": "Conditional breakpoint",
+            "zh-Hans": "Conditional 断点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 512,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.0ea3003208",
+          "title": {
+            "en": "Breakpoint",
+            "zh-Hans": "断点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.56d6136025",
+          "title": {
+            "en": "Inspect current object",
+            "zh-Hans": "Inspect 当前 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.d23a5cf314",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.e9d3461edd",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.b49cb6d84f",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.c67605018d",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 4096,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.a0a72c3245",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 4608,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.b34f97a6f3",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 4096,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.c136bd655b",
+          "title": {
+            "en": "End of document",
+            "zh-Hans": "End of document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 4096,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.e98cf58079",
+          "title": {
+            "en": "Start of document",
+            "zh-Hans": "Start of document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 4096,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.af49ce156d",
+          "title": {
+            "en": "Kill next word",
+            "zh-Hans": "Kill 下一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.bc32e57fe5",
+          "title": {
+            "en": "Kill previous word",
+            "zh-Hans": "Kill 上一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.37b529f11e",
+          "title": {
+            "en": "Rotate kill ring",
+            "zh-Hans": "Rotate kill ring"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.5dca545b6f",
+          "title": {
+            "en": "Yank",
+            "zh-Hans": "Yank"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.cc04933794",
+          "title": {
+            "en": "Kill to line start",
+            "zh-Hans": "Kill to line start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.6fe9138140",
+          "title": {
+            "en": "Kill to line end",
+            "zh-Hans": "Kill to line end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.0357b3427e",
+          "title": {
+            "en": "Next word",
+            "zh-Hans": "下一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4096,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.897e46b017",
+          "title": {
+            "en": "Previous word",
+            "zh-Hans": "上一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4096,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.32ae957bf5",
+          "title": {
+            "en": "Next char",
+            "zh-Hans": "下一个 char"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.74f0a2afa1",
+          "title": {
+            "en": "Previous char",
+            "zh-Hans": "上一个 char"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.0cbf7f7cda",
+          "title": {
+            "en": "Next line",
+            "zh-Hans": "下一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.accf5e379c",
+          "title": {
+            "en": "Previous line",
+            "zh-Hans": "上一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.086d5df2b3",
+          "title": {
+            "en": "End of line",
+            "zh-Hans": "End of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.d238ba273a",
+          "title": {
+            "en": "Start of line",
+            "zh-Hans": "Start of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.29fa716f92",
+          "title": {
+            "en": "Unblockcomment",
+            "zh-Hans": "Unblockcomment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4096,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.fceb420b83",
+          "title": {
+            "en": "Blockcomment",
+            "zh-Hans": "Blockcomment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 4096,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.648044c68c",
+          "title": {
+            "en": "Toggle comment",
+            "zh-Hans": "切换comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.66bbdf4b65",
+          "title": {
+            "en": "Go to definition",
+            "zh-Hans": "转到定义"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.46154c7b96",
+          "title": {
+            "en": "Go to new line",
+            "zh-Hans": "转到new 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 4608,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.738b519e95",
+          "title": {
+            "en": "Move line down",
+            "zh-Hans": "向下移动行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.7026095e08",
+          "title": {
+            "en": "Move line up",
+            "zh-Hans": "向上移动行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.dc5b3719bf",
+          "title": {
+            "en": "Unindent",
+            "zh-Hans": "Unindent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 4096,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.spyder.editor.a831517e5a",
+          "title": {
+            "en": "Indent",
+            "zh-Hans": "缩进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 4096,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.b6bf6034c0",
+          "title": {
+            "en": "Transform to lowercase",
+            "zh-Hans": "Transform to lowercase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4096,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.21bd5960e6",
+          "title": {
+            "en": "Transform to uppercase",
+            "zh-Hans": "Transform to uppercase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4608,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.d05861678f",
+          "title": {
+            "en": "Delete line",
+            "zh-Hans": "删除行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.9af9e687e5",
+          "title": {
+            "en": "Duplicate line down",
+            "zh-Hans": "创建副本 行 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.f1829d49c0",
+          "title": {
+            "en": "Duplicate line up",
+            "zh-Hans": "创建副本 行 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.spyder.editor.39ddf50f3f",
+          "title": {
+            "en": "Code completion",
+            "zh-Hans": "Code completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spyder.global",
+      "title": {
+        "en": "Global",
+        "zh-Hans": "全局"
+      },
+      "items": [
+        {
+          "id": "remote.spyder.global.159c700ab8",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4096,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.spyder.global.64bfa9fdd3",
+          "title": {
+            "en": "Restart",
+            "zh-Hans": "Restart"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2560,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spyder.global.2957b80d4a",
+          "title": {
+            "en": "Spyder documentation",
+            "zh-Hans": "Spyder documentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.spyder.global.c2738932c2",
+          "title": {
+            "en": "Show toolbars",
+            "zh-Hans": "显示 toolbars"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2560,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.spyder.global.8303dce229",
+          "title": {
+            "en": "Layout preferences",
+            "zh-Hans": "Layout 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2560,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.spyder.global.670be1429a",
+          "title": {
+            "en": "Save current layout",
+            "zh-Hans": "存储 当前 layout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2560,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.spyder.global.13571958a8",
+          "title": {
+            "en": "Fullscreen mode",
+            "zh-Hans": "全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.spyder.global.0708ff03c0",
+          "title": {
+            "en": "Maximize pane",
+            "zh-Hans": "Maximize 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 6656,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.spyder.global.0ea7624b0f",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6656,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.spyder.global.b10da1873a",
+          "title": {
+            "en": "Use previous layout",
+            "zh-Hans": "Use 上一个 layout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 2560,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.spyder.global.53739e5aaa",
+          "title": {
+            "en": "Use next layout",
+            "zh-Hans": "Use 下一个 layout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 2560,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.spyder.global.f4f4b091c0",
+          "title": {
+            "en": "Lock unlock panes",
+            "zh-Hans": "锁定 解锁 panes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 4608,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.spyder.global.be9e987c13",
+          "title": {
+            "en": "Close pane",
+            "zh-Hans": "关闭 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 4608,
+            "displayKey": "F4"
+          }
+        }
+      ]
+    }
+  ]
+}

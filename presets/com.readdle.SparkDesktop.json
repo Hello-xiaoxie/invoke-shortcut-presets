@@ -1,0 +1,630 @@
+{
+  "bundleIdentifier": "com.readdle.SparkDesktop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.spark.message",
+      "title": {
+        "en": "Message",
+        "zh-Hans": "消息"
+      },
+      "items": [
+        {
+          "id": "remote.spark.message.0db33ce530",
+          "title": {
+            "en": "Get new mail",
+            "zh-Hans": "Get new mail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.spark.message.d6c335660c",
+          "title": {
+            "en": "Send",
+            "zh-Hans": "Send"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.spark.message.bb5be01f3d",
+          "title": {
+            "en": "Send and archive",
+            "zh-Hans": "Send and archive"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.spark.message.2761b93350",
+          "title": {
+            "en": "Reply all",
+            "zh-Hans": "Reply 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spark.message.4dd2d34ca9",
+          "title": {
+            "en": "Reply",
+            "zh-Hans": "回复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.spark.message.5c5207bfaa",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.spark.message.b2853eae6c",
+          "title": {
+            "en": "Mark as read",
+            "zh-Hans": "标记为已读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.spark.message.d6a53d6d62",
+          "title": {
+            "en": "Pin",
+            "zh-Hans": "Pin"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.spark.message.431777485c",
+          "title": {
+            "en": "Snooze",
+            "zh-Hans": "稍后提醒"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.spark.message.1fb9893d10",
+          "title": {
+            "en": "Mark as spam",
+            "zh-Hans": "Mark as spam"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.spark.message.0b0ae84b79",
+          "title": {
+            "en": "Archive",
+            "zh-Hans": "归档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4352,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.spark.message.ba8a80103f",
+          "title": {
+            "en": "Edit",
+            "zh-Hans": "编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.spark.message.7bc3cd379a",
+          "title": {
+            "en": "Move to inbox",
+            "zh-Hans": "移动to inbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.spark.message.f784ca08ab",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.spark.message.0a4061cdce",
+          "title": {
+            "en": "Create link",
+            "zh-Hans": "Create 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.spark.message.4d0e883763",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spark.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.spark.file.c366726bcc",
+          "title": {
+            "en": "New mail",
+            "zh-Hans": "新建mail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.spark.file.bcdda5eff5",
+          "title": {
+            "en": "New event",
+            "zh-Hans": "新建event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.spark.file.5989f1e8f3",
+          "title": {
+            "en": "Attach files",
+            "zh-Hans": "Attach 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spark.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.spark.edit.87a74870c9",
+          "title": {
+            "en": "Paste and match style",
+            "zh-Hans": "Paste and match style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.spark.edit.11ce0244f1",
+          "title": {
+            "en": "Search mailbox",
+            "zh-Hans": "搜索 mailbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spark.composer",
+      "title": {
+        "en": "Composer",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.spark.composer.99b79f2949",
+          "title": {
+            "en": "Cc",
+            "zh-Hans": "Cc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.spark.composer.371d0ee718",
+          "title": {
+            "en": "Bcc",
+            "zh-Hans": "Bcc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.spark.composer.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.spark.composer.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.spark.composer.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.spark.composer.d11b624cae",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "Strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.spark.composer.12233d511b",
+          "title": {
+            "en": "Bullet list",
+            "zh-Hans": "Bullet list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 768,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.spark.composer.36e24df354",
+          "title": {
+            "en": "Numbered list",
+            "zh-Hans": "Numbered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 768,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.spark.composer.bdddbd1686",
+          "title": {
+            "en": "Add link",
+            "zh-Hans": "添加link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.spark.composer.5de3998eca",
+          "title": {
+            "en": "Pick template",
+            "zh-Hans": "Pick 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.spark.composer.ab1039abb0",
+          "title": {
+            "en": "Increase indentation level",
+            "zh-Hans": "Increase indentation level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 93,
+            "carbonModifiers": 256,
+            "displayKey": "93"
+          }
+        },
+        {
+          "id": "remote.spark.composer.3d90e984ed",
+          "title": {
+            "en": "Decrease indentation level",
+            "zh-Hans": "Decrease indentation level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 91,
+            "carbonModifiers": 256,
+            "displayKey": "91"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spark.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.spark.view.98d8ef4171",
+          "title": {
+            "en": "Previous message",
+            "zh-Hans": "上一个 message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.spark.view.7bed715a95",
+          "title": {
+            "en": "Next message",
+            "zh-Hans": "下一个 message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.spark.view.6c710f2d6c",
+          "title": {
+            "en": "1 day",
+            "zh-Hans": "1 day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.spark.view.8403c13ea3",
+          "title": {
+            "en": "3 days",
+            "zh-Hans": "3 days"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.spark.view.0976a9bedb",
+          "title": {
+            "en": "Week",
+            "zh-Hans": "Week"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.spark.view.0803e78619",
+          "title": {
+            "en": "Month",
+            "zh-Hans": "Month"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.spark.view.c6c45574b0",
+          "title": {
+            "en": "Next date",
+            "zh-Hans": "下一个 date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.spark.view.b9dc09dc86",
+          "title": {
+            "en": "Previous date",
+            "zh-Hans": "上一个 date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.spark.view.2f4d0f2c28",
+          "title": {
+            "en": "Go to today",
+            "zh-Hans": "转到today"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.spark.view.96e9d2bbd4",
+          "title": {
+            "en": "Toggle fullscreen",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.spark.window",
+      "title": {
+        "en": "Window",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.spark.window.a73346595e",
+          "title": {
+            "en": "Minimize",
+            "zh-Hans": "最小化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.spark.window.9b4a844fb7",
+          "title": {
+            "en": "Inbox",
+            "zh-Hans": "Inbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.spark.window.758bc36ce0",
+          "title": {
+            "en": "Calendar",
+            "zh-Hans": "Calendar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.spark.window.0d34f7d88b",
+          "title": {
+            "en": "Message viewer",
+            "zh-Hans": "Message viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    }
+  ]
+}

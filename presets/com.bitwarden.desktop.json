@@ -1,0 +1,360 @@
+{
+  "bundleIdentifier": "com.bitwarden.desktop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.bitwarden.browser-extension-shortcuts",
+      "title": {
+        "en": "Browser Extension Shortcuts",
+        "zh-Hans": "浏览器扩展快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.bitwarden.browser-extension-shortcuts.76ff3eba45",
+          "title": {
+            "en": "Activate the Bitwarden extension",
+            "zh-Hans": "Activate the Bitwarden extension"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.bitwarden.browser-extension-shortcuts.55e49bbd4f",
+          "title": {
+            "en": "Generate a password and copy to clipboard",
+            "zh-Hans": "Generate a password and copy to clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.browser-extension-shortcuts.435efbd511",
+          "title": {
+            "en": "Lock the vault",
+            "zh-Hans": "Lock the vault"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.browser-extension-shortcuts.52ba89663e",
+          "title": {
+            "en": "Autofill the last used login",
+            "zh-Hans": "Autofill the last used login"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bitwarden.desktop-app-shortcuts",
+      "title": {
+        "en": "Desktop App Shortcuts",
+        "zh-Hans": "桌面应用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.bitwarden.desktop-app-shortcuts.a9fa11e19d",
+          "title": {
+            "en": "Lock the vault",
+            "zh-Hans": "Lock the vault"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.desktop-app-shortcuts.84c1167797",
+          "title": {
+            "en": "Open preferences",
+            "zh-Hans": "打开 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.desktop-app-shortcuts.092ff83181",
+          "title": {
+            "en": "Reload the app",
+            "zh-Hans": "Reload the app"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.desktop-app-shortcuts.f8b1697149",
+          "title": {
+            "en": "Quit Bitwarden",
+            "zh-Hans": "退出 Bitwarden"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.desktop-app-shortcuts.471df73288",
+          "title": {
+            "en": "Search the vault",
+            "zh-Hans": "Search the vault"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.desktop-app-shortcuts.2c10809e3a",
+          "title": {
+            "en": "Open password generator",
+            "zh-Hans": "打开 password generator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bitwarden.item-editing-shortcuts",
+      "title": {
+        "en": "Item Editing Shortcuts",
+        "zh-Hans": "Item Editing快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.bitwarden.item-editing-shortcuts.c896e39fb0",
+          "title": {
+            "en": "Add a new login",
+            "zh-Hans": "添加a new login"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.item-editing-shortcuts.b404ebe3af",
+          "title": {
+            "en": "Select all text",
+            "zh-Hans": "全选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.item-editing-shortcuts.e05318d0a4",
+          "title": {
+            "en": "Cut selected text",
+            "zh-Hans": "剪切 所选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.item-editing-shortcuts.dca3264acc",
+          "title": {
+            "en": "Copy selected text",
+            "zh-Hans": "复制 所选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.item-editing-shortcuts.4e595fb637",
+          "title": {
+            "en": "Paste from clipboard",
+            "zh-Hans": "Paste from clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.item-editing-shortcuts.9eb98485f3",
+          "title": {
+            "en": "Copy username",
+            "zh-Hans": "复制 username"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.item-editing-shortcuts.58cacb061a",
+          "title": {
+            "en": "Copy password",
+            "zh-Hans": "复制 password"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.item-editing-shortcuts.549ec3f377",
+          "title": {
+            "en": "Copy TOTP code",
+            "zh-Hans": "复制 TOTP code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bitwarden.view-shortcuts",
+      "title": {
+        "en": "View Shortcuts",
+        "zh-Hans": "视图快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.bitwarden.view-shortcuts.92eac59dfc",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.view-shortcuts.a8d3d68193",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.view-shortcuts.d4e7dbc6b0",
+          "title": {
+            "en": "Reset zoom",
+            "zh-Hans": "重置zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.view-shortcuts.c955215de1",
+          "title": {
+            "en": "Enter full screen",
+            "zh-Hans": "Enter 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.view-shortcuts.400263b81d",
+          "title": {
+            "en": "Minimize the app",
+            "zh-Hans": "Minimize the app"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.view-shortcuts.158b995144",
+          "title": {
+            "en": "Hide Bitwarden",
+            "zh-Hans": "隐藏 Bitwarden"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.view-shortcuts.b152fa92fe",
+          "title": {
+            "en": "Keep app on top",
+            "zh-Hans": "Keep app on top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.bitwarden.view-shortcuts.2c40cde443",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    }
+  ]
+}

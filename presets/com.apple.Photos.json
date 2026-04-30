@@ -1,0 +1,654 @@
+{
+  "bundleIdentifier": "com.apple.Photos",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-photos.organize",
+      "title": {
+        "en": "Organize",
+        "zh-Hans": "整理"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.organize.5af19d4d17",
+          "title": {
+            "en": "Move to the top of the photo library",
+            "zh-Hans": "Move to the top of the photo library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.a1cc762bd9",
+          "title": {
+            "en": "Move to the bottom of the photo library",
+            "zh-Hans": "Move to the bottom of the photo library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.0b8d8a5541",
+          "title": {
+            "en": "Create new album",
+            "zh-Hans": "Create new album"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.ea4b325a5c",
+          "title": {
+            "en": "Create new album from selection",
+            "zh-Hans": "Create new album from selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.c69db84759",
+          "title": {
+            "en": "Create new Smart Album",
+            "zh-Hans": "Create new Smart Album"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.1a1ad885b4",
+          "title": {
+            "en": "Show or hide titles",
+            "zh-Hans": "Show or hide titles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.57f188b7d6",
+          "title": {
+            "en": "Show or hide keywords",
+            "zh-Hans": "Show or hide keywords"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.00554546d9",
+          "title": {
+            "en": "Show or hide film rolls",
+            "zh-Hans": "Show or hide film rolls"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.9d1436e558",
+          "title": {
+            "en": "Show or hide ratings",
+            "zh-Hans": "Show or hide ratings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.ef9b0bb846",
+          "title": {
+            "en": "Set the title, date, or comments of multiple photos",
+            "zh-Hans": "Set the title, date, or comments of multiple photos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.d43c23a0ec",
+          "title": {
+            "en": "Assign, edit, or search by keywords",
+            "zh-Hans": "Assign, edit, or search by keywords"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.fa9e4e8554",
+          "title": {
+            "en": "Show a photo’s image and camera information",
+            "zh-Hans": "Show a photo’s image and camera information"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.f4dfe80ee8",
+          "title": {
+            "en": "Duplicate a photo",
+            "zh-Hans": "Duplicate a photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.b477e0db80",
+          "title": {
+            "en": "Cut photo",
+            "zh-Hans": "剪切 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.d466f79821",
+          "title": {
+            "en": "Copy photo",
+            "zh-Hans": "复制 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.05cdc6df0a",
+          "title": {
+            "en": "Paste photo",
+            "zh-Hans": "粘贴 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.692f534509",
+          "title": {
+            "en": "Move photo to Trash from the photo library, or remove photo from album",
+            "zh-Hans": "Move photo to Trash from the photo library, or remove photo from album"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.apple-photos.organize.c97734bf06",
+          "title": {
+            "en": "Move photo to Trash from album",
+            "zh-Hans": "Move photo to Trash from album"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2304,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.rating-photos",
+      "title": {
+        "en": "Rating photos",
+        "zh-Hans": "评分照片"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.rating-photos.1cdadb539f",
+          "title": {
+            "en": "Assign zero stars to a photo",
+            "zh-Hans": "Assign zero stars to a photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.apple-photos.rating-photos.834e000148",
+          "title": {
+            "en": "Assign 1 stars to a photo",
+            "zh-Hans": "Assign 1 stars to a photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.apple-photos.rating-photos.6af7f2f5dc",
+          "title": {
+            "en": "Assign 2 stars to a photo",
+            "zh-Hans": "Assign 2 stars to a photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.apple-photos.rating-photos.819ac08cea",
+          "title": {
+            "en": "Assign 3 stars to a photo",
+            "zh-Hans": "Assign 3 stars to a photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.apple-photos.rating-photos.8a761f6573",
+          "title": {
+            "en": "Assign 4 stars to a photo",
+            "zh-Hans": "Assign 4 stars to a photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.apple-photos.rating-photos.62e9563aa4",
+          "title": {
+            "en": "Assign 5 stars to a photo",
+            "zh-Hans": "Assign 5 stars to a photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.import",
+      "title": {
+        "en": "Import",
+        "zh-Hans": "导入"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.import.4eb29ccbb8",
+          "title": {
+            "en": "Import photos",
+            "zh-Hans": "导入 photos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.edit.015498ef7d",
+          "title": {
+            "en": "Rotate photo clockwise",
+            "zh-Hans": "Rotate 照片 clockwise"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-photos.edit.5a21675ddf",
+          "title": {
+            "en": "Rotate photo counter clockwise",
+            "zh-Hans": "Rotate photo counter clockwise"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-photos.edit.02e0a88f8b",
+          "title": {
+            "en": "Go to next photo",
+            "zh-Hans": "转到next 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-photos.edit.1dcaca199d",
+          "title": {
+            "en": "Go to previous photo",
+            "zh-Hans": "转到previous 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-photos.edit.e7ac9c90c7",
+          "title": {
+            "en": "Undo last action",
+            "zh-Hans": "撤消上一操作"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-photos.edit.280edf736c",
+          "title": {
+            "en": "Redo last action",
+            "zh-Hans": "恢复上一操作"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.selecting-and-deselecting-photos",
+      "title": {
+        "en": "Selecting and deselecting photos",
+        "zh-Hans": "选择与取消选择照片"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.selecting-and-deselecting-photos.ed4ccf7ff6",
+          "title": {
+            "en": "Select all photos",
+            "zh-Hans": "全选 photos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.slideshow",
+      "title": {
+        "en": "Slideshow",
+        "zh-Hans": "幻灯片放映"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.slideshow.69568da148",
+          "title": {
+            "en": "Pause and resume playing",
+            "zh-Hans": "Pause and resume playing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.share",
+      "title": {
+        "en": "Share",
+        "zh-Hans": "共享"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.share.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.apple-photos.share.9e71ddf56d",
+          "title": {
+            "en": "Page setup",
+            "zh-Hans": "页面 setup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.book",
+      "title": {
+        "en": "Book",
+        "zh-Hans": "书籍"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.book.5af181712e",
+          "title": {
+            "en": "Show fonts",
+            "zh-Hans": "显示 fonts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-photos.book.1e83fc9d3c",
+          "title": {
+            "en": "Copy font",
+            "zh-Hans": "复制 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.apple-photos.book.ee6bab0cec",
+          "title": {
+            "en": "Paste font",
+            "zh-Hans": "粘贴 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.apple-photos.book.fea069f2c9",
+          "title": {
+            "en": "Spelling",
+            "zh-Hans": "Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.book-preview",
+      "title": {
+        "en": "Book preview",
+        "zh-Hans": "书籍预览"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.book-preview.0d4849fe66",
+          "title": {
+            "en": "Move forward/Back one page",
+            "zh-Hans": "Move forward/Back one page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-photos.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.apple-photos.general.a8274444ba",
+          "title": {
+            "en": "Show preferences",
+            "zh-Hans": "显示 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.apple-photos.general.7f2956c3a8",
+          "title": {
+            "en": "iPhoto Help",
+            "zh-Hans": "iPhoto Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.apple-photos.general.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.apple-photos.general.d94258f711",
+          "title": {
+            "en": "Minimize window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.apple-photos.general.2563e7058e",
+          "title": {
+            "en": "Hide iPhoto",
+            "zh-Hans": "隐藏 iPhoto"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.apple-photos.general.eb49f4584f",
+          "title": {
+            "en": "Quit iPhoto",
+            "zh-Hans": "退出 iPhoto"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    }
+  ]
+}

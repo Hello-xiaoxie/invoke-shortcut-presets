@@ -1,0 +1,1782 @@
+{
+  "bundleIdentifier": "com.microsoft.Outlook",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc",
+      "title": {
+        "en": "The following table shows frequently used shortcuts in Outlook 2016 for Mac.",
+        "zh-Hans": "Outlook 2016 for Mac 常用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.31bac364c9",
+          "title": {
+            "en": "Save an item",
+            "zh-Hans": "Save an item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.ff00fbd8cb",
+          "title": {
+            "en": "Print an item",
+            "zh-Hans": "Print an item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.a4c9f4c258",
+          "title": {
+            "en": "Undo the last action",
+            "zh-Hans": "撤消上一操作"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.f68b4d9e0c",
+          "title": {
+            "en": "Redo the last action",
+            "zh-Hans": "恢复上一操作"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.96723292ec",
+          "title": {
+            "en": "Minimize the active window",
+            "zh-Hans": "Minimize the active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.b3393d1967",
+          "title": {
+            "en": "Create a new folder in the navigation pane",
+            "zh-Hans": "Create a new folder in the navigation pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2560,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.a80aed3b54",
+          "title": {
+            "en": "Create new email (in Mail view)",
+            "zh-Hans": "Create new email (in Mail view)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.f72a1c213f",
+          "title": {
+            "en": "Hide the reading pane or show it on the right",
+            "zh-Hans": "Hide the reading pane or show it on the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.08ac6b56ba",
+          "title": {
+            "en": "Hide the reading pane or show it below",
+            "zh-Hans": "Hide the reading pane or show it below"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2560,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.5bdb77a40e",
+          "title": {
+            "en": "Move the selected item to a different folder",
+            "zh-Hans": "Move the selected item to a different folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2560,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.00870c1c74",
+          "title": {
+            "en": "Copy the selected item to a different folder",
+            "zh-Hans": "Copy the selected item to a different folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.0301e56b6d",
+          "title": {
+            "en": "Select all items in the item list, if the item list is the active pane",
+            "zh-Hans": "Select all items in the item list, if the item list is the active pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.8ffd985f5f",
+          "title": {
+            "en": "Minimize or expand the ribbon",
+            "zh-Hans": "Minimize or expand the ribbon"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.58d9a6925d",
+          "title": {
+            "en": "Hide Outlook",
+            "zh-Hans": "隐藏 Outlook"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.0d44486b84",
+          "title": {
+            "en": "Quit Outlook",
+            "zh-Hans": "退出 Outlook"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.e89c4275cd",
+          "title": {
+            "en": "Start dictation",
+            "zh-Hans": "开始 dictation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.84d112565d",
+          "title": {
+            "en": "Insert emoji",
+            "zh-Hans": "插入 emoji"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6144,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.work-in-windows-and-dialogs",
+      "title": {
+        "en": "Work in windows and dialogs",
+        "zh-Hans": "在窗口和对话框中操作"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.afa57a7fc7",
+          "title": {
+            "en": "Go to Mail view",
+            "zh-Hans": "转到Mail 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.5476c3ff41",
+          "title": {
+            "en": "Go to Calendar view",
+            "zh-Hans": "转到Calendar 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.6d082fd505",
+          "title": {
+            "en": "Go to Contacts view",
+            "zh-Hans": "转到Contacts 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.4e6ee9fc1f",
+          "title": {
+            "en": "Go to Tasks view",
+            "zh-Hans": "转到Tasks 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.062ed4560c",
+          "title": {
+            "en": "Go to Notes view",
+            "zh-Hans": "转到Notes 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.8d44f4b265",
+          "title": {
+            "en": "Open the Sync Status window or make it the active window",
+            "zh-Hans": "Open the Sync Status window or make it the active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.342788dc81",
+          "title": {
+            "en": "Open the Sync Errors or make it the active window",
+            "zh-Hans": "Open the Sync Errors or make it the active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.03433a2825",
+          "title": {
+            "en": "Open the Contacts Search window",
+            "zh-Hans": "Open the Contacts Search window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.28dbb9ed15",
+          "title": {
+            "en": "Open the Outlook Preferences dialog box",
+            "zh-Hans": "Open the Outlook Preferences dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.6fc0a57f7d",
+          "title": {
+            "en": "Cycle forward through open windows",
+            "zh-Hans": "Cycle forward through open windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.63b947badd",
+          "title": {
+            "en": "Cycle back through open windows",
+            "zh-Hans": "Cycle back through open windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2560,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.9bef7623fb",
+          "title": {
+            "en": "Close the active window",
+            "zh-Hans": "Close the active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.0aff4ef23b",
+          "title": {
+            "en": "Open the selected item",
+            "zh-Hans": "Open the selected item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.15ef532261",
+          "title": {
+            "en": "Move forward through controls in a window",
+            "zh-Hans": "Move forward through controls in a window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-in-windows-and-dialogs.d1453c3261",
+          "title": {
+            "en": "Move back through controls in a window",
+            "zh-Hans": "Move back through controls in a window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.send-and-receive-mail",
+      "title": {
+        "en": "Send and receive mail",
+        "zh-Hans": "发送与接收邮件"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.80e3b6bfb7",
+          "title": {
+            "en": "Create a new message",
+            "zh-Hans": "Create a new message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.0606e923d0",
+          "title": {
+            "en": "Send the open message",
+            "zh-Hans": "Send the open message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.eec7016087",
+          "title": {
+            "en": "Send all messages in the Outbox and receive all incoming messages",
+            "zh-Hans": "Send all messages in the Outbox and receive all incoming messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.8223851bf8",
+          "title": {
+            "en": "Send all the messages in the Outbox",
+            "zh-Hans": "Send all the messages in the Outbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2560,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.5fe1af80d5",
+          "title": {
+            "en": "Save the open message and store it in the Drafts folder",
+            "zh-Hans": "Save the open message and store it in the Drafts folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.bf2aa64209",
+          "title": {
+            "en": "Add an attachment to the open message",
+            "zh-Hans": "Add an attachment to the open message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.da1524e24b",
+          "title": {
+            "en": "Open the Spelling and Grammar dialog box",
+            "zh-Hans": "Open the Spelling and Grammar dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.03e0231e94",
+          "title": {
+            "en": "Check recipient names in the open messages",
+            "zh-Hans": "Check recipient names in the open messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6144,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.da5103706e",
+          "title": {
+            "en": "Reply to the sender of the message or, if the message is from a mailing list, reply to the mailing list",
+            "zh-Hans": "Reply to the sender of the message or, if the message is from a mailing list, reply to the mailing list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.d6975649fb",
+          "title": {
+            "en": "Reply to all",
+            "zh-Hans": "Reply to all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2560,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.91489995bb",
+          "title": {
+            "en": "Forward the message",
+            "zh-Hans": "Forward the message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.c6959b33a8",
+          "title": {
+            "en": "Open the selected message in a separate window",
+            "zh-Hans": "Open the selected message in a separate window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.a0d7b9950d",
+          "title": {
+            "en": "Clear the flag for the selected message",
+            "zh-Hans": "Clear the flag for the selected message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.bc1914f8aa",
+          "title": {
+            "en": "Mark the selected message as junk mail",
+            "zh-Hans": "Mark the selected message as junk mail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2560,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.da4330adf3",
+          "title": {
+            "en": "Mark the selected message as not junk mail",
+            "zh-Hans": "Mark the selected message as not junk mail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2560,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.402643f6cf",
+          "title": {
+            "en": "Display the previous message",
+            "zh-Hans": "Display the previous message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.2a93fa0bf8",
+          "title": {
+            "en": "Display the next message",
+            "zh-Hans": "Display the next message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.8e98793e0c",
+          "title": {
+            "en": "Navigate to the previous pane in the Mail view",
+            "zh-Hans": "Navigate to the previous pane in the Mail view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.f79b27caf6",
+          "title": {
+            "en": "Navigate to the next pane in the Mail view",
+            "zh-Hans": "Navigate to the next pane in the Mail view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.11ad2e3c16",
+          "title": {
+            "en": "Move the selected message to a folder",
+            "zh-Hans": "Move the selected message to a folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2560,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.dbc23cfc6d",
+          "title": {
+            "en": "Decrease the display size of text in an open message or in the reading pane",
+            "zh-Hans": "Decrease the display size of text in an open message or in the reading pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.15f4ed51fd",
+          "title": {
+            "en": "Increase the display size of text in an open message or in the reading pane",
+            "zh-Hans": "Increase the display size of text in an open message or in the reading pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.edba8aac28",
+          "title": {
+            "en": "Scroll down to the next screen of text or, if you are at the end of a message, display the next message",
+            "zh-Hans": "Scroll down to the next screen of text or, if you are at the end of a message, display the next message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.59335fd034",
+          "title": {
+            "en": "Scroll up to the previous screen of text or, if you are at the beginning of a message, display the previous message",
+            "zh-Hans": "Scroll up to the previous screen of text or, if you are at the beginning of a message, display the previous message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.d12f74c00c",
+          "title": {
+            "en": "Delete the selected message",
+            "zh-Hans": "Delete the selected message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.8e615d5b60",
+          "title": {
+            "en": "Permanently delete the selected message",
+            "zh-Hans": "Permanently delete the selected message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.9e7759b01a",
+          "title": {
+            "en": "Delete the current message, and, if the message window is open, close it",
+            "zh-Hans": "Delete the current message, and, if the message window is open, close it"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.baa4da06f9",
+          "title": {
+            "en": "Mark selected messages as read",
+            "zh-Hans": "Mark selected messages as read"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.ff52c347c7",
+          "title": {
+            "en": "Mark selected messages as unread",
+            "zh-Hans": "Mark selected messages as unread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2560,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.send-and-receive-mail.b8aa10b0cd",
+          "title": {
+            "en": "Mark all messages in a folder as read",
+            "zh-Hans": "Mark all messages in a folder as read"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.use-search",
+      "title": {
+        "en": "Use Search",
+        "zh-Hans": "Use 搜索"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.use-search.1ee29220b5",
+          "title": {
+            "en": "Search current folder",
+            "zh-Hans": "搜索 当前 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-search.c54d5346ef",
+          "title": {
+            "en": "Do an advanced search in Outlook (add Item Contains filter for searching)",
+            "zh-Hans": "Do an advanced search in Outlook (add Item Contains filter for searching)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-search.7d52814ffb",
+          "title": {
+            "en": "Find text within an item",
+            "zh-Hans": "Find text within an item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-search.7eef382497",
+          "title": {
+            "en": "Find the next instance of the text you searched for in an item",
+            "zh-Hans": "Find the next instance of the text you searched for in an item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-search.981b3adaf9",
+          "title": {
+            "en": "Find the previous instance of the text you searched for in an item",
+            "zh-Hans": "Find the previous instance of the text you searched for in an item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2560,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.use-the-calendar",
+      "title": {
+        "en": "Use the Calendar",
+        "zh-Hans": "使用日历"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.918ebdf731",
+          "title": {
+            "en": "Open the Calendar window",
+            "zh-Hans": "Open the Calendar window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.6e81d70584",
+          "title": {
+            "en": "Create a new appointment",
+            "zh-Hans": "Create a new appointment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.70d9e57d4b",
+          "title": {
+            "en": "Open the selected calendar event",
+            "zh-Hans": "Open the selected calendar event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.ed5988d75f",
+          "title": {
+            "en": "Delete the calendar event",
+            "zh-Hans": "Delete the calendar event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.ca2f0ca474",
+          "title": {
+            "en": "Switch the view to include today",
+            "zh-Hans": "Switch the view to include today"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.6556a94a9b",
+          "title": {
+            "en": "In Day view, move to the previous day. In Week and Work Week views, move to the previous week. In Month view, move to the previous month.",
+            "zh-Hans": "In Day view, move to the previous day. In Week and Work Week views, move to the previous week. In Month view, move to the previous month."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.4284f82a6a",
+          "title": {
+            "en": "In Day view, move to the next day. In Week and Work Week views, move to the next week. In Month view, move to the next month.",
+            "zh-Hans": "In Day view, move to the next day. In Week and Work Week views, move to the next week. In Month view, move to the next month."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.c6edb55250",
+          "title": {
+            "en": "Navigate to the previous pane in the Calendar view",
+            "zh-Hans": "Navigate to the previous pane in the Calendar view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-the-calendar.209ff63594",
+          "title": {
+            "en": "Navigate to the next pane in the Calendar view",
+            "zh-Hans": "Navigate to the next pane in the Calendar view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.work-with-people-and-contacts",
+      "title": {
+        "en": "Work with people and contacts",
+        "zh-Hans": "联系人管理"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.work-with-people-and-contacts.35f5b75dbd",
+          "title": {
+            "en": "Create a new contact",
+            "zh-Hans": "Create a new contact"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-with-people-and-contacts.978e3e0695",
+          "title": {
+            "en": "Open the selected contact",
+            "zh-Hans": "Open the selected contact"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-with-people-and-contacts.9fa2a5423e",
+          "title": {
+            "en": "Delete the contact",
+            "zh-Hans": "Delete the contact"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-with-people-and-contacts.37ab0f5c71",
+          "title": {
+            "en": "Close the current open contact and open the previous contact",
+            "zh-Hans": "Close the current open contact and open the previous contact"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-with-people-and-contacts.efd348b51b",
+          "title": {
+            "en": "Close the current open contact and open the next contact",
+            "zh-Hans": "Close the current open contact and open the next contact"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-with-people-and-contacts.5ce269f158",
+          "title": {
+            "en": "Navigate to the previous pane in the People view",
+            "zh-Hans": "Navigate to the previous pane in the People view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.work-with-people-and-contacts.a85258c7c4",
+          "title": {
+            "en": "Navigate to the next pane in the People view",
+            "zh-Hans": "Navigate to the next pane in the People view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.manage-tasks",
+      "title": {
+        "en": "Manage tasks",
+        "zh-Hans": "管理任务"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.manage-tasks.ffa2b1de78",
+          "title": {
+            "en": "Move to the Task window",
+            "zh-Hans": "Move to the Task window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.manage-tasks.7d19604bdd",
+          "title": {
+            "en": "Create a new task",
+            "zh-Hans": "Create a new 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.manage-tasks.c6b2e1911a",
+          "title": {
+            "en": "Open the selected task",
+            "zh-Hans": "Open the selected task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.manage-tasks.3eca31a18b",
+          "title": {
+            "en": "Delete the task",
+            "zh-Hans": "Delete the task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.manage-tasks.f7c3312d4e",
+          "title": {
+            "en": "Close the current open task and open the previous task in the Tasks list",
+            "zh-Hans": "Close the current open task and open the previous task in the Tasks list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.manage-tasks.6fa29f501d",
+          "title": {
+            "en": "Close the current open task and open the next task in the Tasks list",
+            "zh-Hans": "Close the current open task and open the next task in the Tasks list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.manage-tasks.719292cb1c",
+          "title": {
+            "en": "Navigate to the previous pane in the Tasks view",
+            "zh-Hans": "Navigate to the previous pane in the Tasks view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.manage-tasks.072db2c0d2",
+          "title": {
+            "en": "Navigate to the next pane in the Tasks view",
+            "zh-Hans": "Navigate to the next pane in the Tasks view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.use-notes",
+      "title": {
+        "en": "Use notes",
+        "zh-Hans": "使用备忘录"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.use-notes.44758b6d89",
+          "title": {
+            "en": "Move to the Notes window",
+            "zh-Hans": "Move to the Notes window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.ebc1995a28",
+          "title": {
+            "en": "Create a new note",
+            "zh-Hans": "Create a new 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.801e180cf3",
+          "title": {
+            "en": "Open the selected note",
+            "zh-Hans": "Open the selected note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.7846fcf782",
+          "title": {
+            "en": "Delete the note",
+            "zh-Hans": "Delete the note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.f089868467",
+          "title": {
+            "en": "Close the current open note and open the previous note in the Notes list",
+            "zh-Hans": "Close the current open note and open the previous note in the Notes list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.95f1dfa30f",
+          "title": {
+            "en": "Close the current open note and open the next note in the Notes list",
+            "zh-Hans": "Close the current open note and open the next note in the Notes list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.1817439f4f",
+          "title": {
+            "en": "Navigate to the previous pane in the Notes view",
+            "zh-Hans": "Navigate to the previous pane in the Notes view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.1b50ae0d5d",
+          "title": {
+            "en": "Navigate to the next pane in the Notes view",
+            "zh-Hans": "Navigate to the next pane in the Notes view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.f1c5506fb7",
+          "title": {
+            "en": "Send a note as an email",
+            "zh-Hans": "Send a note as an email"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.use-notes.18b250ab53",
+          "title": {
+            "en": "Send a note as an HTML attachment to an email. First place the focus on the note in the list of notes.",
+            "zh-Hans": "Send a note as an HTML attachment to an email. First place the focus on the note in the list of notes."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 6144,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.edit-and-format-text",
+      "title": {
+        "en": "Edit and format text",
+        "zh-Hans": "编辑与格式化文本"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.71df28aee1",
+          "title": {
+            "en": "Cut the selected text to the clipboard",
+            "zh-Hans": "Cut the selected text to the clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.dd82aee972",
+          "title": {
+            "en": "Copy a selection to the clipboard",
+            "zh-Hans": "Copy a selection to the clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.df283aac61",
+          "title": {
+            "en": "Paste a selection from the clipboard",
+            "zh-Hans": "Paste a selection from the clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.0bc453d4e5",
+          "title": {
+            "en": "Paste a selection from the clipboard and match the destination style",
+            "zh-Hans": "Paste a selection from the clipboard and match the destination style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2560,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.2a48abcb57",
+          "title": {
+            "en": "Make the selected text bold",
+            "zh-Hans": "Make the selected text bold"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.e849924938",
+          "title": {
+            "en": "Make the selected text italic",
+            "zh-Hans": "Make the selected text italic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.e61cde0eaa",
+          "title": {
+            "en": "Underline the selected text",
+            "zh-Hans": "Underline the selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.950690a8a8",
+          "title": {
+            "en": "Strike through the selected text",
+            "zh-Hans": "Strike through the selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2560,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.ad98358a1c",
+          "title": {
+            "en": "Insert a hyperlink",
+            "zh-Hans": "插入 a hyperlink"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 6144,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.6828bdcd9d",
+          "title": {
+            "en": "Move the cursor left one character",
+            "zh-Hans": "Move the cursor left one character"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.f98a88adff",
+          "title": {
+            "en": "Move the cursor right one character",
+            "zh-Hans": "Move the cursor right one character"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.fae137fd09",
+          "title": {
+            "en": "Move the cursor up one line",
+            "zh-Hans": "Move the cursor up one line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.6c19e594a0",
+          "title": {
+            "en": "Move the cursor down one line",
+            "zh-Hans": "Move the cursor down one line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.b7292dcc85",
+          "title": {
+            "en": "Move the cursor to the beginning of the current paragraph",
+            "zh-Hans": "Move the cursor to the beginning of the current paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.15d8a578da",
+          "title": {
+            "en": "Move the cursor to the end of the current paragraph",
+            "zh-Hans": "Move the cursor to the end of the current paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.e15bb51376",
+          "title": {
+            "en": "Move the cursor to the beginning of the current word",
+            "zh-Hans": "Move the cursor to the beginning of the current word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.0cdec3db1b",
+          "title": {
+            "en": "Move the cursor to the end of the current word",
+            "zh-Hans": "Move the cursor to the end of the current word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.f227844d67",
+          "title": {
+            "en": "Decrease indent",
+            "zh-Hans": "Decrease indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.937cab2aa7",
+          "title": {
+            "en": "Increase indent",
+            "zh-Hans": "Increase indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.31131901d5",
+          "title": {
+            "en": "Delete the character to the left of the cursor, or delete the selected text",
+            "zh-Hans": "Delete the character to the left of the cursor, or delete the selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.abe7eca213",
+          "title": {
+            "en": "Delete the character to the right side of the cursor, or delete the selected text",
+            "zh-Hans": "Delete the character to the right side of the cursor, or delete the selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.62bd5f5cb0",
+          "title": {
+            "en": "Insert a tab stop",
+            "zh-Hans": "Insert a tab stop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.5263a0be5e",
+          "title": {
+            "en": "Move the cursor to the beginning of the line",
+            "zh-Hans": "Move the cursor to the beginning of the line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.48d95eb2f7",
+          "title": {
+            "en": "Move the cursor to the end of the line",
+            "zh-Hans": "Move the cursor to the end of the line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.5db4bda498",
+          "title": {
+            "en": "Move the cursor to the top of the message body",
+            "zh-Hans": "Move the cursor to the top of the message body"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.7758432c66",
+          "title": {
+            "en": "Move the cursor to the bottom of the message body",
+            "zh-Hans": "Move the cursor to the bottom of the message body"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.f8a884cb78",
+          "title": {
+            "en": "Move the cursor to the beginning of the selected text",
+            "zh-Hans": "Move the cursor to the beginning of the selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.a4c6496d9b",
+          "title": {
+            "en": "Move the cursor to the end of the selected text",
+            "zh-Hans": "Move the cursor to the end of the selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 256,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.c6f0665b74",
+          "title": {
+            "en": "Scroll up",
+            "zh-Hans": "滚动up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.edit-and-format-text.2c3d541593",
+          "title": {
+            "en": "Scroll down",
+            "zh-Hans": "滚动down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up",
+      "title": {
+        "en": "Flag messages, contacts, and tasks for follow up",
+        "zh-Hans": "标记消息、联系人和任务以便跟进"
+      },
+      "items": [
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.4015ad41f5",
+          "title": {
+            "en": "Flag the selected item for follow up, with Today as Due Date",
+            "zh-Hans": "Flag the selected item for follow up, with Today as Due Date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.c04d38c34d",
+          "title": {
+            "en": "Flag the selected item for follow up, with Tomorrow as Due Date",
+            "zh-Hans": "Flag the selected item for follow up, with Tomorrow as Due Date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4096,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.71b66ae87b",
+          "title": {
+            "en": "Flag the selected item for follow up, with This Week as Due Date",
+            "zh-Hans": "Flag the selected item for follow up, with This Week as Due Date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 4096,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.88cb609851",
+          "title": {
+            "en": "Flag the selected item for follow up, with Next Week as Due Date",
+            "zh-Hans": "Flag the selected item for follow up, with Next Week as Due Date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 4096,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.8097cd824a",
+          "title": {
+            "en": "Flag the selected item for follow up, with No Due Date",
+            "zh-Hans": "Flag the selected item for follow up, with No Due Date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4096,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.adf01b7394",
+          "title": {
+            "en": "Flag the selected item for follow up, and add a custom Due Date",
+            "zh-Hans": "Flag the selected item for follow up, and add a custom Due Date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 4096,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.750664c5db",
+          "title": {
+            "en": "Flag the selected item for follow up, and add a reminder",
+            "zh-Hans": "Flag the selected item for follow up, and add a reminder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.b44db2e39c",
+          "title": {
+            "en": "Mark the selected item as Complete",
+            "zh-Hans": "Mark the selected item as Complete"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.microsoft-outlook.flag-messages-contacts-and-tasks-for-follow-up.84db81f906",
+          "title": {
+            "en": "Clear the selected item's follow-up flag",
+            "zh-Hans": "Clear the selected item's follow-up flag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 2304,
+            "displayKey": "39"
+          }
+        }
+      ]
+    }
+  ]
+}

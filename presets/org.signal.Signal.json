@@ -1,0 +1,345 @@
+{
+  "bundleIdentifier": "org.signal.Signal",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.signal.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.signal.navigation.18c8d047e8",
+          "title": {
+            "en": "New message",
+            "zh-Hans": "新消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.signal.navigation.0938368db5",
+          "title": {
+            "en": "New group",
+            "zh-Hans": "New 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.signal.navigation.e4dfecf9c1",
+          "title": {
+            "en": "Search conversations",
+            "zh-Hans": "搜索 conversations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.signal.navigation.2c2343cc7a",
+          "title": {
+            "en": "Next conversation",
+            "zh-Hans": "下一个 conversation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.signal.navigation.1df1d51199",
+          "title": {
+            "en": "Previous conversation",
+            "zh-Hans": "上一个 conversation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.signal.navigation.f6093fe481",
+          "title": {
+            "en": "Open preferences",
+            "zh-Hans": "打开 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.signal.navigation.192ac24ee6",
+          "title": {
+            "en": "Toggle left sidebar",
+            "zh-Hans": "切换左侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.signal.navigation.b2d685c61c",
+          "title": {
+            "en": "Open profile",
+            "zh-Hans": "打开 profile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.signal.messaging",
+      "title": {
+        "en": "Messaging",
+        "zh-Hans": "消息"
+      },
+      "items": [
+        {
+          "id": "remote.signal.messaging.3856210c49",
+          "title": {
+            "en": "Send message",
+            "zh-Hans": "发送消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.signal.messaging.999a6bde2e",
+          "title": {
+            "en": "New line in message",
+            "zh-Hans": "New line in message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.signal.messaging.70832fda3a",
+          "title": {
+            "en": "Attach file",
+            "zh-Hans": "Attach 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4352,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.signal.messaging.21cb6d1484",
+          "title": {
+            "en": "Attach image",
+            "zh-Hans": "Attach 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.signal.actions",
+      "title": {
+        "en": "Actions",
+        "zh-Hans": "操作"
+      },
+      "items": [
+        {
+          "id": "remote.signal.actions.b4e0b01092",
+          "title": {
+            "en": "Mark all as read",
+            "zh-Hans": "Mark 全部 as 已读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.signal.actions.44c5e7a160",
+          "title": {
+            "en": "Start voice call",
+            "zh-Hans": "开始 voice call"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.signal.actions.0d4f2d7912",
+          "title": {
+            "en": "Start video call",
+            "zh-Hans": "开始 视频 call"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.signal.actions.fce55ab305",
+          "title": {
+            "en": "Focus text input",
+            "zh-Hans": "聚焦text input"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.signal.window-management",
+      "title": {
+        "en": "Window Management",
+        "zh-Hans": "窗口管理"
+      },
+      "items": [
+        {
+          "id": "remote.signal.window-management.d94258f711",
+          "title": {
+            "en": "Minimize window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.signal.window-management.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.signal.window-management.f94936a41c",
+          "title": {
+            "en": "Quit Signal",
+            "zh-Hans": "退出 Signal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.signal.formatting",
+      "title": {
+        "en": "Formatting",
+        "zh-Hans": "格式化"
+      },
+      "items": [
+        {
+          "id": "remote.signal.formatting.08e4c1b5e7",
+          "title": {
+            "en": "Bold text",
+            "zh-Hans": "加粗 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.signal.formatting.9366223126",
+          "title": {
+            "en": "Italic text",
+            "zh-Hans": "斜体 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.signal.formatting.8f363799ed",
+          "title": {
+            "en": "Strikethrough text",
+            "zh-Hans": "Strikethrough 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.signal.formatting.c55d58aa0e",
+          "title": {
+            "en": "Monospace text",
+            "zh-Hans": "Monospace 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.signal.formatting.d8dc5974de",
+          "title": {
+            "en": "Spoiler text",
+            "zh-Hans": "Spoiler 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        }
+      ]
+    }
+  ]
+}

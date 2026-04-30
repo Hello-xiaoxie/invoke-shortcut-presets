@@ -1,0 +1,642 @@
+{
+  "bundleIdentifier": "org.zotero.zotero",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.zotero.notes",
+      "title": {
+        "en": "Notes",
+        "zh-Hans": "备忘录"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.notes.28307e3e93",
+          "title": {
+            "en": "Focus/jump to toolbar",
+            "zh-Hans": "Focus/jump to toolbar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 2048,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.e43cdeeff3",
+          "title": {
+            "en": "Insert Link",
+            "zh-Hans": "插入 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.e4752cd078",
+          "title": {
+            "en": "Find and Replace",
+            "zh-Hans": "查找和替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.7fa06d7415",
+          "title": {
+            "en": "Format as Address",
+            "zh-Hans": "Format as Address"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 6144,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.d3ab70f980",
+          "title": {
+            "en": "Format as Div",
+            "zh-Hans": "Format as Div"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 6144,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.12dfd18d95",
+          "title": {
+            "en": "Format as Paragraph",
+            "zh-Hans": "Format as 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 6144,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.77849db62a",
+          "title": {
+            "en": "Format Heading 1 to 6",
+            "zh-Hans": "Format Heading 1 to 6"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6144,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.zotero.notes.2d4a3af536",
+          "title": {
+            "en": "Paste without formatting",
+            "zh-Hans": "粘贴 without formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.465b424d30",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.zotero.notes.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.other",
+      "title": {
+        "en": "Other",
+        "zh-Hans": "其他"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.other.118dd15064",
+          "title": {
+            "en": "Count Items (Result Appears in Right-Hand Pane)",
+            "zh-Hans": "Count Items (Result Appears in Right-Hand Pane)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.zotero.other.3c0e86e21d",
+          "title": {
+            "en": "Highlight All Collections an Item is in",
+            "zh-Hans": "Highlight All Collections an Item is in"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 58,
+            "carbonModifiers": 2048,
+            "displayKey": "58"
+          }
+        },
+        {
+          "id": "remote.zotero.other.cb1232a758",
+          "title": {
+            "en": "Expand/Collapse Collections or Items List",
+            "zh-Hans": "Expand/Collapse Collections or Items List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 0,
+            "displayKey": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.feeds",
+      "title": {
+        "en": "Feeds",
+        "zh-Hans": "动态"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.feeds.0572456544",
+          "title": {
+            "en": "Mark Feed as Read/Unread",
+            "zh-Hans": "Mark Feed as Read/Unread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 768,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.zotero.feeds.0f75580289",
+          "title": {
+            "en": "Mark All Feed Items as Read/Unread",
+            "zh-Hans": "Mark All Feed Items as Read/Unread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.tags",
+      "title": {
+        "en": "Tags",
+        "zh-Hans": "标签"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.tags.0404ca4713",
+          "title": {
+            "en": "Assign Colored Tag to an Item",
+            "zh-Hans": "Assign Colored Tag to an Item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.zotero.tags.b3b1bcec9c",
+          "title": {
+            "en": "Toggle Tag Selector",
+            "zh-Hans": "切换Tag Selector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.searching",
+      "title": {
+        "en": "Searching",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.searching.6e41dfe0e7",
+          "title": {
+            "en": "Find/Highlight Collection(s) an Item belongs to",
+            "zh-Hans": "Find/Highlight Collection(s) an Item belongs to"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.zotero.searching.8bae7b0cca",
+          "title": {
+            "en": "Quick Search",
+            "zh-Hans": "Quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.zotero.searching.f7b03b66b6",
+          "title": {
+            "en": "Quick Search",
+            "zh-Hans": "Quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.navigation.8bae7b0cca",
+          "title": {
+            "en": "Quick Search",
+            "zh-Hans": "Quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.zotero.navigation.f7b03b66b6",
+          "title": {
+            "en": "Quick Search",
+            "zh-Hans": "Quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.zotero.navigation.b9f8c147c8",
+          "title": {
+            "en": "Move through Info/Notes/Tags/Related Tabs",
+            "zh-Hans": "Move through Info/Notes/Tags/Related Tabs"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.zotero.navigation.c40034c224",
+          "title": {
+            "en": "Move through Panes and Fields",
+            "zh-Hans": "Move through Panes and Fields"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.zotero.navigation.c7d09923e9",
+          "title": {
+            "en": "Focus Libraries (Left) Pane",
+            "zh-Hans": "聚焦Libraries (左) 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.quick-copy",
+      "title": {
+        "en": "Quick Copy",
+        "zh-Hans": "Quick 复制"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.quick-copy.4667f6b15b",
+          "title": {
+            "en": "Copy Selected Items to Clipboard",
+            "zh-Hans": "Copy Selected Items to Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.zotero.quick-copy.f6ef06d23e",
+          "title": {
+            "en": "Copy Selected Item Citations to Clipboard",
+            "zh-Hans": "Copy Selected Item Citations to Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.deleting",
+      "title": {
+        "en": "Deleting",
+        "zh-Hans": "删除"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.deleting.807e428df3",
+          "title": {
+            "en": "Delete Collection and Move Items to Trash",
+            "zh-Hans": "Delete Collection and Move Items to Trash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.zotero.deleting.d9edf389f3",
+          "title": {
+            "en": "Delete Collection (Keep Items in Library and Others Collections)",
+            "zh-Hans": "Delete Collection (Keep Items in Library and Others Collections)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.zotero.deleting.7b1d4dba39",
+          "title": {
+            "en": "Remove from Collection (top-level items)",
+            "zh-Hans": "Remove from Collection (top-level items)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.zotero.deleting.590f632a20",
+          "title": {
+            "en": "Move to Trash",
+            "zh-Hans": "移到废纸篓"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.editing.11a9c44062",
+          "title": {
+            "en": "Save Abstract or Extra field",
+            "zh-Hans": "Save Abstract or Extra field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.zotero.editing.982610c927",
+          "title": {
+            "en": "Add Another Author/Creator when Editing Creator",
+            "zh-Hans": "Add Another Author/Creator when Editing Creator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.zotero.adding",
+      "title": {
+        "en": "Adding",
+        "zh-Hans": "添加"
+      },
+      "items": [
+        {
+          "id": "remote.zotero.adding.f065bc5927",
+          "title": {
+            "en": "Import from Clipboard",
+            "zh-Hans": "Import from Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2816,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.zotero.adding.1d7c70fbb4",
+          "title": {
+            "en": "Import",
+            "zh-Hans": "导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.zotero.adding.a3f2650070",
+          "title": {
+            "en": "Create a New Note",
+            "zh-Hans": "Create a New 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.zotero.adding.1b12dcef76",
+          "title": {
+            "en": "Create a New Item by Hand",
+            "zh-Hans": "Create a New Item by Hand"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.zotero.adding.553ff8c19e",
+          "title": {
+            "en": "Save to Zotero",
+            "zh-Hans": "Save to Zotero"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        }
+      ]
+    }
+  ]
+}

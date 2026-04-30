@@ -1,0 +1,420 @@
+{
+  "bundleIdentifier": "com.apple.freeform",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-freeform.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-freeform.general-shortcuts.8046bc6c63",
+          "title": {
+            "en": "Create a new board",
+            "zh-Hans": "Create a new board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.general-shortcuts.c97b101f45",
+          "title": {
+            "en": "Open a board",
+            "zh-Hans": "打开 a board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.general-shortcuts.daafc8b4d8",
+          "title": {
+            "en": "Close the board",
+            "zh-Hans": "Close the board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.general-shortcuts.0f649143bb",
+          "title": {
+            "en": "Save the board",
+            "zh-Hans": "Save the board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.general-shortcuts.e2b645d114",
+          "title": {
+            "en": "Duplicate the board",
+            "zh-Hans": "Duplicate the board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.general-shortcuts.79d85b67c8",
+          "title": {
+            "en": "Export as PDF",
+            "zh-Hans": "导出 as PDF"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.general-shortcuts.01c3328790",
+          "title": {
+            "en": "Print the board",
+            "zh-Hans": "Print the board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-freeform.edit-shortcuts",
+      "title": {
+        "en": "Edit Shortcuts",
+        "zh-Hans": "编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.16369f08a3",
+          "title": {
+            "en": "Paste as link",
+            "zh-Hans": "粘贴 as 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.74c8dafe69",
+          "title": {
+            "en": "Deselect all",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.edit-shortcuts.05128769a4",
+          "title": {
+            "en": "Duplicate selected item",
+            "zh-Hans": "创建副本 所选 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-freeform.view-shortcuts",
+      "title": {
+        "en": "View Shortcuts",
+        "zh-Hans": "视图快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-freeform.view-shortcuts.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.apple-freeform.view-shortcuts.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.view-shortcuts.9c8da1d825",
+          "title": {
+            "en": "Actual size",
+            "zh-Hans": "Actual size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.view-shortcuts.6a3540fd8a",
+          "title": {
+            "en": "Fit to screen",
+            "zh-Hans": "Fit to screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.view-shortcuts.943b1a519d",
+          "title": {
+            "en": "Show or hide the sidebar",
+            "zh-Hans": "Show or hide the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.view-shortcuts.e7c249fd57",
+          "title": {
+            "en": "Show or hide the format bar",
+            "zh-Hans": "Show or hide the format bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-freeform.canvas-shortcuts",
+      "title": {
+        "en": "Canvas Shortcuts",
+        "zh-Hans": "画布快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-freeform.canvas-shortcuts.8f1929a387",
+          "title": {
+            "en": "Scroll to center",
+            "zh-Hans": "滚动to 中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.canvas-shortcuts.6c3addf059",
+          "title": {
+            "en": "Scroll to selected item",
+            "zh-Hans": "滚动to 所选 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.canvas-shortcuts.e39f8046f7",
+          "title": {
+            "en": "Group selected items",
+            "zh-Hans": "编组 所选 items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.canvas-shortcuts.4462f207eb",
+          "title": {
+            "en": "Ungroup selected group",
+            "zh-Hans": "取消编组 所选 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.canvas-shortcuts.91e9654632",
+          "title": {
+            "en": "Bring selected item forward",
+            "zh-Hans": "Bring 所选 项目 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.canvas-shortcuts.bd1f7a9933",
+          "title": {
+            "en": "Send selected item backward",
+            "zh-Hans": "Send 所选 项目 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.apple-freeform.canvas-shortcuts.de56a683b4",
+          "title": {
+            "en": "Bring to front",
+            "zh-Hans": "Bring to front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2816,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.apple-freeform.canvas-shortcuts.66a7ad1fa1",
+          "title": {
+            "en": "Send to back",
+            "zh-Hans": "Send to back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2816,
+            "displayKey": "["
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "bundleIdentifier": "pl.maketheweb.cleanshotx",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.cleanshot-x.annotate-tools",
+      "title": {
+        "en": "Annotate tools",
+        "zh-Hans": "批注工具"
+      },
+      "items": [
+        {
+          "id": "remote.cleanshot-x.annotate-tools.524c401ef1",
+          "title": {
+            "en": "Background Tool",
+            "zh-Hans": "Background Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.ca100e0d19",
+          "title": {
+            "en": "Move Tool",
+            "zh-Hans": "移动Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.c9484d7ea5",
+          "title": {
+            "en": "Crop Tool",
+            "zh-Hans": "Crop Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.44f447cbf1",
+          "title": {
+            "en": "Draw Tool",
+            "zh-Hans": "Draw Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.3ab2abf49a",
+          "title": {
+            "en": "Highlighter Tool",
+            "zh-Hans": "Highlighter Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.b9b8debac0",
+          "title": {
+            "en": "Line Tool",
+            "zh-Hans": "行 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.25cded9b2b",
+          "title": {
+            "en": "Text Tool",
+            "zh-Hans": "文本 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.421f368aee",
+          "title": {
+            "en": "Arrow Tool",
+            "zh-Hans": "Arrow Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.eabb22f43e",
+          "title": {
+            "en": "Counter Tool",
+            "zh-Hans": "Counter Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.98a1ef55c3",
+          "title": {
+            "en": "Ellipse Tool",
+            "zh-Hans": "Ellipse Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.17dec81c55",
+          "title": {
+            "en": "Redaction Tool",
+            "zh-Hans": "Redaction Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.9704114e62",
+          "title": {
+            "en": "Spotlight Tool",
+            "zh-Hans": "Spotlight Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.6b5ab1041f",
+          "title": {
+            "en": "Rectangle Tool",
+            "zh-Hans": "Rectangle Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate-tools.5e1388bf69",
+          "title": {
+            "en": "Filled Rectangle Tool",
+            "zh-Hans": "Filled Rectangle Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.cleanshot-x.annotate",
+      "title": {
+        "en": "Annotate",
+        "zh-Hans": "批注"
+      },
+      "items": [
+        {
+          "id": "remote.cleanshot-x.annotate.a2ca79e95c",
+          "title": {
+            "en": "Copy Object to Clipboard",
+            "zh-Hans": "Copy Object to Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.dc86b2f9d5",
+          "title": {
+            "en": "Duplicate Object",
+            "zh-Hans": "创建副本 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.02e854c5f9",
+          "title": {
+            "en": "Save as",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.a9cd63d6cb",
+          "title": {
+            "en": "Copy Screenshot to Clipboard",
+            "zh-Hans": "Copy Screenshot to Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.17a54af03f",
+          "title": {
+            "en": "Upload to Cloud",
+            "zh-Hans": "Upload to Cloud"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.b3b78894d7",
+          "title": {
+            "en": "Add New Screenshot",
+            "zh-Hans": "添加New Screenshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.007eb91aea",
+          "title": {
+            "en": "Add Screenshot From File",
+            "zh-Hans": "Add Screenshot From File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.cc0d4ebfd3",
+          "title": {
+            "en": "Increase Tool Size",
+            "zh-Hans": "Increase Tool Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 0,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.cleanshot-x.annotate.dd245459a7",
+          "title": {
+            "en": "Decrease Tool Size",
+            "zh-Hans": "Decrease Tool Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        }
+      ]
+    }
+  ]
+}

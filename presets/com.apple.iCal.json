@@ -1,0 +1,366 @@
+{
+  "bundleIdentifier": "com.apple.iCal",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-calendar.calender-shortcuts",
+      "title": {
+        "en": "Calender Shortcuts",
+        "zh-Hans": "Calender快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.be7667c23d",
+          "title": {
+            "en": "Go to the next day, week, month, or year.",
+            "zh-Hans": "Go to the next day, week, month, or year."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.1c483d1246",
+          "title": {
+            "en": "Go to the previous day, week, month, or year.",
+            "zh-Hans": "Go to the previous day, week, month, or year."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.2c89afb2b4",
+          "title": {
+            "en": "Go to today’s date.",
+            "zh-Hans": "转到today’s date."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.7a4e1decba",
+          "title": {
+            "en": "Go to a specific date.",
+            "zh-Hans": "转到a specific date."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.df34b4ab49",
+          "title": {
+            "en": "Switch to Day view.",
+            "zh-Hans": "切换到Day 视图."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.093b7482c4",
+          "title": {
+            "en": "Switch to Week view.",
+            "zh-Hans": "切换到Week 视图."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.53018320b0",
+          "title": {
+            "en": "Switch to Month view.",
+            "zh-Hans": "切换到Month 视图."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.24cb789983",
+          "title": {
+            "en": "Switch to Year view.",
+            "zh-Hans": "切换到Year 视图."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.ebad5c5398",
+          "title": {
+            "en": "Switch to full screen view. To exit full screen view, press Escape.",
+            "zh-Hans": "Switch to full screen view. To exit full screen view, press Escape."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.d565a8ca47",
+          "title": {
+            "en": "Refresh all calendars.",
+            "zh-Hans": "Refresh 全部 calendars."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.24505fcecb",
+          "title": {
+            "en": "Select or deselect the checkbox next to the selected calendar.",
+            "zh-Hans": "Select or deselect the checkbox next to the selected calendar."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.f7db0fd5b6",
+          "title": {
+            "en": "Add a new calendar group.",
+            "zh-Hans": "Add a new calendar group."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.calender-shortcuts.b6d3093142",
+          "title": {
+            "en": "Add a new subscribed calendar.",
+            "zh-Hans": "Add a new subscribed calendar."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-calendar.event-shortcuts",
+      "title": {
+        "en": "Event Shortcuts",
+        "zh-Hans": "Event快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-calendar.event-shortcuts.4caac45ab4",
+          "title": {
+            "en": "Add a new event.",
+            "zh-Hans": "添加a new event."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.e29d27b988",
+          "title": {
+            "en": "Edit the selected event.",
+            "zh-Hans": "Edit the selected event."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.02c33d5e7f",
+          "title": {
+            "en": "Edit the selected event in a new window.",
+            "zh-Hans": "Edit the selected event in a new window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.53b5408deb",
+          "title": {
+            "en": "Go to the next field.",
+            "zh-Hans": "Go to the next field."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.51782fc489",
+          "title": {
+            "en": "Go to the previous field.",
+            "zh-Hans": "Go to the previous field."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.cdb3a4bae0",
+          "title": {
+            "en": "Close the event editor.",
+            "zh-Hans": "Close the event editor."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.373b93e93c",
+          "title": {
+            "en": "Select the next event.",
+            "zh-Hans": "Select the next event."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.2667862680",
+          "title": {
+            "en": "Select the previous event.",
+            "zh-Hans": "Select the previous event."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.e8bcc779a9",
+          "title": {
+            "en": "Select the next or previous event.",
+            "zh-Hans": "Select the next or previous event."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.1b49f3d8fd",
+          "title": {
+            "en": "Move the selected event 15 minutes earlier (in Day or Week view); move the selected event one week earlier (in Month view).",
+            "zh-Hans": "Move the selected event 15 minutes earlier (in Day or Week view); move the selected event one week earlier (in Month view)."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6144,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.5b99c21e27",
+          "title": {
+            "en": "Move the selected event 15 minutes later (in Day or Week view); move the selected event one week later (in Month view).",
+            "zh-Hans": "Move the selected event 15 minutes later (in Day or Week view); move the selected event one week later (in Month view)."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6144,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.9a696b7284",
+          "title": {
+            "en": "Open Calendar preferences.",
+            "zh-Hans": "打开 Calendar 偏好设置."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.d4633c54a6",
+          "title": {
+            "en": "Show information for a calendar or event.",
+            "zh-Hans": "Show information for a calendar or event."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.903b755047",
+          "title": {
+            "en": "Show or hide the Address panel.",
+            "zh-Hans": "Show or hide the Address panel."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-calendar.event-shortcuts.b719f94807",
+          "title": {
+            "en": "Show or hide the Availability panel.",
+            "zh-Hans": "Show or hide the Availability panel."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    }
+  ]
+}

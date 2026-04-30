@@ -1,0 +1,1797 @@
+{
+  "bundleIdentifier": "com.adobe.dreamweaver-16.1",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-dreamweaver.coding-shortcuts",
+      "title": {
+        "en": "Coding Shortcuts",
+        "zh-Hans": "Coding快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.9014a6f2e7",
+          "title": {
+            "en": "Quick Edit",
+            "zh-Hans": "Quick 编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.ea1d523b0b",
+          "title": {
+            "en": "Quick Doc",
+            "zh-Hans": "Quick Doc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.29478866f0",
+          "title": {
+            "en": "Open/Add Line Above",
+            "zh-Hans": "打开/Add 行 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.de74b6494f",
+          "title": {
+            "en": "Show Parameter Hint",
+            "zh-Hans": "显示 Parameter Hint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 768,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.96aa68815c",
+          "title": {
+            "en": "Show code hints",
+            "zh-Hans": "显示 code hints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.079e6d2431",
+          "title": {
+            "en": "Select Child",
+            "zh-Hans": "选择Child"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.8ee5f35b54",
+          "title": {
+            "en": "Go to Line",
+            "zh-Hans": "转到行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.2e37dad211",
+          "title": {
+            "en": "Select Parent Tag",
+            "zh-Hans": "选择Parent 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.f445143c78",
+          "title": {
+            "en": "Collapse Selection",
+            "zh-Hans": "折叠Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.6dc6bcf2fd",
+          "title": {
+            "en": "Collapse Outside Selection",
+            "zh-Hans": "折叠Outside 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.9e96538d33",
+          "title": {
+            "en": "Expand Selection",
+            "zh-Hans": "展开Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.8e23b6d06b",
+          "title": {
+            "en": "Collapse Full Tag",
+            "zh-Hans": "折叠Full 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.a4d5c0045f",
+          "title": {
+            "en": "Collapse Outside Full Tag",
+            "zh-Hans": "折叠Outside Full 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.01852613e4",
+          "title": {
+            "en": "Expand All",
+            "zh-Hans": "展开All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.4e15338ea1",
+          "title": {
+            "en": "Indent Code",
+            "zh-Hans": "Indent Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.c118318565",
+          "title": {
+            "en": "Outdent Code",
+            "zh-Hans": "Outdent Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.17ef584d10",
+          "title": {
+            "en": "Balance Braces",
+            "zh-Hans": "Balance Braces"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.f0cce55eba",
+          "title": {
+            "en": "Code Navigator",
+            "zh-Hans": "Code Navigator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.53e38a7e4d",
+          "title": {
+            "en": "Delete word left",
+            "zh-Hans": "删除 单词 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.d7e6fcc05b",
+          "title": {
+            "en": "Delete word right",
+            "zh-Hans": "删除 单词 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.60be4ad85c",
+          "title": {
+            "en": "Select line up",
+            "zh-Hans": "选择line 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.af143a4af1",
+          "title": {
+            "en": "Select line down",
+            "zh-Hans": "选择line 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.67420266c0",
+          "title": {
+            "en": "Character select left",
+            "zh-Hans": "字符 select 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.55a01604d0",
+          "title": {
+            "en": "Character select right",
+            "zh-Hans": "字符 select 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.05af3fcbde",
+          "title": {
+            "en": "Select to page up",
+            "zh-Hans": "选择to 页面 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.f34b1aaff1",
+          "title": {
+            "en": "Select to page down",
+            "zh-Hans": "选择to 页面 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.d616e72626",
+          "title": {
+            "en": "Move word left",
+            "zh-Hans": "移动word 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.442721e76c",
+          "title": {
+            "en": "Move word right",
+            "zh-Hans": "移动word 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.8882fe537e",
+          "title": {
+            "en": "Move to start of current line",
+            "zh-Hans": "Move to start of current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.2fec09f04f",
+          "title": {
+            "en": "Move to end of current line",
+            "zh-Hans": "Move to end of current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.99b23b46b4",
+          "title": {
+            "en": "Toggle line comment",
+            "zh-Hans": "切换行注释"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.498fb6ec79",
+          "title": {
+            "en": "Toggle block comment (for PHP and JS files)",
+            "zh-Hans": "Toggle block comment (for PHP and JS files)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.544d2af96b",
+          "title": {
+            "en": "Duplicate line selection",
+            "zh-Hans": "创建副本 行 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.e4c24b4dbc",
+          "title": {
+            "en": "Delete line (s)",
+            "zh-Hans": "删除 行 (s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.6bb92677b7",
+          "title": {
+            "en": "Jump to definition (JS files)",
+            "zh-Hans": "跳转到definition (JS 文件)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.5d067cec97",
+          "title": {
+            "en": "Select word right",
+            "zh-Hans": "选择word 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4608,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.bc07cb6dff",
+          "title": {
+            "en": "Select word left",
+            "zh-Hans": "选择word 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.b58f1277e8",
+          "title": {
+            "en": "Move to top of file",
+            "zh-Hans": "Move to top of file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.4a4e6ce5c7",
+          "title": {
+            "en": "Move to end of file",
+            "zh-Hans": "Move to end of file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.633699de53",
+          "title": {
+            "en": "Select to start of file",
+            "zh-Hans": "Select to start of file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.87ae457b40",
+          "title": {
+            "en": "Select to end of file",
+            "zh-Hans": "Select to end of file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.7e79fb4760",
+          "title": {
+            "en": "Go to Source Code",
+            "zh-Hans": "转到Source Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 2304,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.4f44d241ad",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.99495611bd",
+          "title": {
+            "en": "Quit Application",
+            "zh-Hans": "退出 Application"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.43f6fd2850",
+          "title": {
+            "en": "Quick Tag Editor",
+            "zh-Hans": "Quick 标签 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.6fbfac877e",
+          "title": {
+            "en": "Go to Next Word",
+            "zh-Hans": "转到Next 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.2fc58d9bd5",
+          "title": {
+            "en": "Go to Previous Word",
+            "zh-Hans": "转到Previous 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.31c5835235",
+          "title": {
+            "en": "Go to Previous Paragraph (Design View)",
+            "zh-Hans": "Go to Previous Paragraph (Design View)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.d5be8ca114",
+          "title": {
+            "en": "Go to Next Paragraph (Design View)",
+            "zh-Hans": "Go to Next Paragraph (Design View)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.fe9a5ce4f8",
+          "title": {
+            "en": "Select Until Next Word",
+            "zh-Hans": "选择Until 下一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.fe68867087",
+          "title": {
+            "en": "Select from Previous Word",
+            "zh-Hans": "选择from 上一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.510798ba16",
+          "title": {
+            "en": "Select from Previous Paragraph",
+            "zh-Hans": "选择from 上一个 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.40911ea4c3",
+          "title": {
+            "en": "Select Until Next Paragraph",
+            "zh-Hans": "选择Until 下一个 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.4d7198afde",
+          "title": {
+            "en": "Move to next property pane",
+            "zh-Hans": "Move to next property pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.4bb724c0c7",
+          "title": {
+            "en": "Move to previous property pane",
+            "zh-Hans": "Move to previous property pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.bc1d56356e",
+          "title": {
+            "en": "New in same window",
+            "zh-Hans": "新建in same 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.3b697484f5",
+          "title": {
+            "en": "Exit Paragraph",
+            "zh-Hans": "Exit 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.c8570919c5",
+          "title": {
+            "en": "Next Document",
+            "zh-Hans": "下一个 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.37a4b521f6",
+          "title": {
+            "en": "Previous Document",
+            "zh-Hans": "上一个 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 768,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.coding-shortcuts.3d5cbdb972",
+          "title": {
+            "en": "Surround with #",
+            "zh-Hans": "Surround with #"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 768,
+            "displayKey": "3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.files-panel",
+      "title": {
+        "en": "Files Panel",
+        "zh-Hans": "Files面板"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.files-panel.6fee86e755",
+          "title": {
+            "en": "New File",
+            "zh-Hans": "新建File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.files-panel.74be9e7d83",
+          "title": {
+            "en": "New Folder",
+            "zh-Hans": "新建文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2816,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.find-and-replace",
+      "title": {
+        "en": "Find and Replace",
+        "zh-Hans": "查找和替换"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.find-and-replace.f84b74cda0",
+          "title": {
+            "en": "Find in Current Document",
+            "zh-Hans": "Find in Current Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.find-and-replace.984a48cfe4",
+          "title": {
+            "en": "Find and Replace in Files",
+            "zh-Hans": "Find and Replace in Files"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.find-and-replace.487e42b608",
+          "title": {
+            "en": "Replace in Current Document",
+            "zh-Hans": "Replace in Current Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.find-and-replace.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.find-and-replace.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.find-and-replace.215d77a113",
+          "title": {
+            "en": "Find All and Select",
+            "zh-Hans": "Find All and Select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4352,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.find-and-replace.4b50f67bc1",
+          "title": {
+            "en": "Add Next Match to Selection",
+            "zh-Hans": "Add Next Match to Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4352,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.find-and-replace.86c7222c69",
+          "title": {
+            "en": "Skip and Add Next Match to Selection",
+            "zh-Hans": "Skip and Add Next Match to Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6400,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.insert",
+      "title": {
+        "en": "Insert",
+        "zh-Hans": "插入"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.insert.03da56d559",
+          "title": {
+            "en": "Insert Image",
+            "zh-Hans": "插入 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.insert.8bba58be02",
+          "title": {
+            "en": "Insert HTML5 Video",
+            "zh-Hans": "插入 HTML5 视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.insert.844dae7f68",
+          "title": {
+            "en": "Insert Animated Composition",
+            "zh-Hans": "插入 Animated Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2816,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.insert.df270b7c94",
+          "title": {
+            "en": "Insert Flash SWF",
+            "zh-Hans": "插入 Flash SWF"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.insert.8cef16c0f8",
+          "title": {
+            "en": "Insert Line Break",
+            "zh-Hans": "插入 行 Break"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.css",
+      "title": {
+        "en": "CSS",
+        "zh-Hans": "CSS"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.css.a9506a2e86",
+          "title": {
+            "en": "Compile CSS Preprocessors",
+            "zh-Hans": "Compile CSS Preprocessors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.css.61a3f3eb88",
+          "title": {
+            "en": "Add CSS selector or property which ever panel is in focus",
+            "zh-Hans": "Add CSS selector or property which ever panel is in focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2816,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.css.9f6b2f333e",
+          "title": {
+            "en": "Add CSS selector",
+            "zh-Hans": "添加CSS selector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.css.3601853fb2",
+          "title": {
+            "en": "Add CSS property",
+            "zh-Hans": "添加CSS property"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.guides-grids-and-rulers-design-view",
+      "title": {
+        "en": "Guides,Grids and Rulers(Design View)",
+        "zh-Hans": "参考线、网格和标尺（设计视图）"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.guides-grids-and-rulers-design-view.011ef335ec",
+          "title": {
+            "en": "Show Guides",
+            "zh-Hans": "显示 Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.guides-grids-and-rulers-design-view.0cdfd3c998",
+          "title": {
+            "en": "Lock Guides",
+            "zh-Hans": "锁定 Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.guides-grids-and-rulers-design-view.87deb7ad08",
+          "title": {
+            "en": "Snap to Guides",
+            "zh-Hans": "Snap to Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.guides-grids-and-rulers-design-view.214ac74131",
+          "title": {
+            "en": "Guides Snap to Elements",
+            "zh-Hans": "Guides Snap to Elements"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.guides-grids-and-rulers-design-view.6d990cca94",
+          "title": {
+            "en": "Show Grid",
+            "zh-Hans": "显示网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.guides-grids-and-rulers-design-view.c21616018f",
+          "title": {
+            "en": "Snap to Grid",
+            "zh-Hans": "吸附到网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.guides-grids-and-rulers-design-view.a43d98fcde",
+          "title": {
+            "en": "Show Rulers",
+            "zh-Hans": "显示标尺"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.preview",
+      "title": {
+        "en": "Preview",
+        "zh-Hans": "预览"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.preview.72d4a25000",
+          "title": {
+            "en": "Real-time Preview in Primary Browser",
+            "zh-Hans": "Real-time Preview in Primary Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 2048,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.preview.15045cc20b",
+          "title": {
+            "en": "Preview in Secondary Browser",
+            "zh-Hans": "Preview in Secondary Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 512,
+            "displayKey": "F12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.view-specific",
+      "title": {
+        "en": "View Specific",
+        "zh-Hans": "特定视图"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.view-specific.1950604508",
+          "title": {
+            "en": "Freeze JavaScript (Live View)",
+            "zh-Hans": "Freeze JavaScript (Live View)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.view-specific.f414f73ae5",
+          "title": {
+            "en": "Hide Live View Displays",
+            "zh-Hans": "Hide Live View Displays"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4352,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.view-specific.f93aec12d4",
+          "title": {
+            "en": "Switch Views",
+            "zh-Hans": "Switch Views"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.view-specific.8a03a5d8dd",
+          "title": {
+            "en": "Inspect (Live View)",
+            "zh-Hans": "Inspect (Live 视图)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 2560,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.view-specific.91761230b5",
+          "title": {
+            "en": "Hide all visual aids (Design View)",
+            "zh-Hans": "Hide all visual aids (Design View)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.view-specific.2e7f0de9ad",
+          "title": {
+            "en": "Toggle between Design and Live View",
+            "zh-Hans": "Toggle between Design and Live View"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 768,
+            "displayKey": "F11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.windows",
+      "title": {
+        "en": "Windows",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.windows.381b941189",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.917722dbf2",
+          "title": {
+            "en": "Show Panels",
+            "zh-Hans": "显示 Panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.7835ef9e6d",
+          "title": {
+            "en": "Behaviors",
+            "zh-Hans": "Behaviors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.de703fbc81",
+          "title": {
+            "en": "Code Inspector",
+            "zh-Hans": "Code Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 2048,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.67bc9eefad",
+          "title": {
+            "en": "CSS Designer",
+            "zh-Hans": "CSS Designer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.e5b8879a24",
+          "title": {
+            "en": "DOM",
+            "zh-Hans": "DOM"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.88c6f81e83",
+          "title": {
+            "en": "Files",
+            "zh-Hans": "文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.1f5945061f",
+          "title": {
+            "en": "Insert",
+            "zh-Hans": "插入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 256,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.82887f342c",
+          "title": {
+            "en": "Properties",
+            "zh-Hans": "Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.c8e2d51b16",
+          "title": {
+            "en": "Output",
+            "zh-Hans": "输出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.74ba74f647",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.windows.3352f6ca7b",
+          "title": {
+            "en": "Dreamweaver Online Help",
+            "zh-Hans": "Dreamweaver Online Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.text",
+      "title": {
+        "en": "Text",
+        "zh-Hans": "文本"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.text.7e9faafaf0",
+          "title": {
+            "en": "Indent",
+            "zh-Hans": "缩进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.text.617e5824fe",
+          "title": {
+            "en": "Outdent",
+            "zh-Hans": "减少缩进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.text.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.text.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.text.8319c8f579",
+          "title": {
+            "en": "Spell Check",
+            "zh-Hans": "Spell Check"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.text.d29b54c79f",
+          "title": {
+            "en": "Remove Link",
+            "zh-Hans": "移除Link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.magnification",
+      "title": {
+        "en": "Magnification",
+        "zh-Hans": "放大"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.magnification.0ef62638c6",
+          "title": {
+            "en": "Zoom in (Design and Live View)",
+            "zh-Hans": "Zoom in (Design and Live View)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.1ad95cfdad",
+          "title": {
+            "en": "Zoom Out (Design and Live View)",
+            "zh-Hans": "Zoom Out (Design and Live View)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.a50ced05ac",
+          "title": {
+            "en": "100%",
+            "zh-Hans": "100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.b74a831d36",
+          "title": {
+            "en": "50%",
+            "zh-Hans": "50%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.1b4cb32ed5",
+          "title": {
+            "en": "200%",
+            "zh-Hans": "200%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.326561f324",
+          "title": {
+            "en": "300%",
+            "zh-Hans": "300%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.93bfe30cdc",
+          "title": {
+            "en": "Fit Selection",
+            "zh-Hans": "Fit 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.30d377cc96",
+          "title": {
+            "en": "Fit All",
+            "zh-Hans": "Fit 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 768,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.31bb59a70b",
+          "title": {
+            "en": "Fit Width",
+            "zh-Hans": "Fit Width"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2816,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.2bd9b47cf3",
+          "title": {
+            "en": "Increase Font Size",
+            "zh-Hans": "Increase 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.93c306d59e",
+          "title": {
+            "en": "Decrease Font Size",
+            "zh-Hans": "Decrease 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.magnification.158505bfa9",
+          "title": {
+            "en": "Restore Font Size",
+            "zh-Hans": "Restore 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.table",
+      "title": {
+        "en": "Table",
+        "zh-Hans": "表格"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.table.b379c5bfca",
+          "title": {
+            "en": "Insert Table",
+            "zh-Hans": "插入 表格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.table.5088e85756",
+          "title": {
+            "en": "Merge Cells",
+            "zh-Hans": "Merge 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.table.d418d1b58c",
+          "title": {
+            "en": "Split Cell",
+            "zh-Hans": "Split 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2816,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.table.8d7187927e",
+          "title": {
+            "en": "Insert Row",
+            "zh-Hans": "插入 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.table.d2a05c89d1",
+          "title": {
+            "en": "Insert Column",
+            "zh-Hans": "插入 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.table.919f0663b5",
+          "title": {
+            "en": "Delete Row",
+            "zh-Hans": "删除 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.table.f0a089dbef",
+          "title": {
+            "en": "Delete Column",
+            "zh-Hans": "删除 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.table.b471730323",
+          "title": {
+            "en": "Increase Column Span",
+            "zh-Hans": "Increase 列 Span"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.table.5002327ddb",
+          "title": {
+            "en": "Decrease Column Span",
+            "zh-Hans": "Decrease 列 Span"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-dreamweaver.site-management",
+      "title": {
+        "en": "Site Management",
+        "zh-Hans": "站点管理"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-dreamweaver.site-management.4132ced3ae",
+          "title": {
+            "en": "Get File",
+            "zh-Hans": "Get 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2304,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.site-management.557651a21f",
+          "title": {
+            "en": "Check out File",
+            "zh-Hans": "Check out 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.site-management.b4d97b033f",
+          "title": {
+            "en": "Put File",
+            "zh-Hans": "Put 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.site-management.7192a9b598",
+          "title": {
+            "en": "Check in File",
+            "zh-Hans": "Check in File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2816,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.site-management.6c18701e43",
+          "title": {
+            "en": "Check Links Sitewide",
+            "zh-Hans": "Check Links Sitewide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-dreamweaver.site-management.d36893b034",
+          "title": {
+            "en": "Show Page Titles",
+            "zh-Hans": "显示 页面 Titles"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        }
+      ]
+    }
+  ]
+}

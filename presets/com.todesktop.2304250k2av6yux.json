@@ -1,0 +1,255 @@
+{
+  "bundleIdentifier": "com.todesktop.2304250k2av6yux",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.typefully.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.typefully.editor.122a689365",
+          "title": {
+            "en": "Review and Publish",
+            "zh-Hans": "Review and Publish"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.typefully.editor.fbc7718b30",
+          "title": {
+            "en": "Schedule to next slot",
+            "zh-Hans": "Schedule to next slot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2304,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.typefully.editor.c0998a8246",
+          "title": {
+            "en": "Share draft",
+            "zh-Hans": "Share draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.typefully.editor.208fbbb0ee",
+          "title": {
+            "en": "Focus Mode",
+            "zh-Hans": "聚焦Mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.typefully.editor.4d02ac4c89",
+          "title": {
+            "en": "High Fidelity Mode",
+            "zh-Hans": "High Fidelity 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.typefully.editor.2a8ca0e8cc",
+          "title": {
+            "en": "Leave a comment",
+            "zh-Hans": "Leave a 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.typefully.editor.bbdf15c17a",
+          "title": {
+            "en": "Toggle metadata sidebar",
+            "zh-Hans": "切换metadata 侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.typefully.editor.226528cd1c",
+          "title": {
+            "en": "Toggle drafts sidebar",
+            "zh-Hans": "切换drafts 侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.typefully.editor.890e365566",
+          "title": {
+            "en": "New draft",
+            "zh-Hans": "新建draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.typefully.editor.2ad97cf0b8",
+          "title": {
+            "en": "Keyboard Shortcuts",
+            "zh-Hans": "Keyboard Shortcuts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.typefully.writing",
+      "title": {
+        "en": "Writing",
+        "zh-Hans": "撰写"
+      },
+      "items": [
+        {
+          "id": "remote.typefully.writing.a59e8f4d7c",
+          "title": {
+            "en": "Split into new tweet",
+            "zh-Hans": "Split into new tweet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.typefully.writing.79c12d2e9b",
+          "title": {
+            "en": "Upload (image, GIF, or video)",
+            "zh-Hans": "Upload (image, GIF, or video)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.typefully.writing.bc191c7d99",
+          "title": {
+            "en": "Move tweet down",
+            "zh-Hans": "移动tweet 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.typefully.writing.0a40cfc524",
+          "title": {
+            "en": "Insert mention",
+            "zh-Hans": "插入 mention"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 0,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.typefully.writing.0620ab735c",
+          "title": {
+            "en": "Emoji Picker",
+            "zh-Hans": "表情选择器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.typefully.mac-app",
+      "title": {
+        "en": "Mac App",
+        "zh-Hans": "Mac 应用"
+      },
+      "items": [
+        {
+          "id": "remote.typefully.mac-app.f4ad6bd80c",
+          "title": {
+            "en": "Create new draft",
+            "zh-Hans": "Create new draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.typefully.mac-app.4c470b4be9",
+          "title": {
+            "en": "Switch draft",
+            "zh-Hans": "Switch draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.typefully.mac-app.d45d43cb57",
+          "title": {
+            "en": "Switch account",
+            "zh-Hans": "Switch account"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        }
+      ]
+    }
+  ]
+}

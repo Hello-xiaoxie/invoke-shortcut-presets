@@ -1,0 +1,225 @@
+{
+  "bundleIdentifier": "com.apple.AddressBook",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-contacts.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.apple-contacts.general.235e87bdeb",
+          "title": {
+            "en": "Open Contacts Preferences",
+            "zh-Hans": "打开 Contacts 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.b13a126224",
+          "title": {
+            "en": "Create A Card for New Contact",
+            "zh-Hans": "Create A Card for New Contact"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.ab4b1d2cea",
+          "title": {
+            "en": "Create a New Group/Folder",
+            "zh-Hans": "Create a New 编组/文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.51405ae256",
+          "title": {
+            "en": "Create a  New Smart Group",
+            "zh-Hans": "Create a  New Smart Group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.627a1d7221",
+          "title": {
+            "en": "Import Contacts",
+            "zh-Hans": "导入 Contacts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.3e36631d30",
+          "title": {
+            "en": "Print Contacts",
+            "zh-Hans": "打印 Contacts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.d9b36cd526",
+          "title": {
+            "en": "Edit Current Contacts",
+            "zh-Hans": "编辑 当前 Contacts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.5eadf2cff1",
+          "title": {
+            "en": "Save Changes in Contacts",
+            "zh-Hans": "Save Changes in Contacts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.7d3319ea82",
+          "title": {
+            "en": "Show/Hide Contacts",
+            "zh-Hans": "显示/隐藏 Contacts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.4d0ce77e66",
+          "title": {
+            "en": "View a list and a card",
+            "zh-Hans": "View a list and a card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.c2d21b7db0",
+          "title": {
+            "en": "Go to Next Card",
+            "zh-Hans": "转到Next Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.03de948874",
+          "title": {
+            "en": "Go to Previous Card",
+            "zh-Hans": "转到Previous Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.8814873daa",
+          "title": {
+            "en": "Show/Hide Last Import",
+            "zh-Hans": "显示/隐藏 最后一个 导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.1abbdd1214",
+          "title": {
+            "en": "Merge/Link Selected Cards",
+            "zh-Hans": "Merge/链接 所选 Cards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.18f97b0c5b",
+          "title": {
+            "en": "Open A Card in New Window",
+            "zh-Hans": "Open A Card in New Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.3d786da970",
+          "title": {
+            "en": "Choose A Custom Image for A Contact",
+            "zh-Hans": "Choose A Custom Image for A Contact"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-contacts.general.000c3ff307",
+          "title": {
+            "en": "Make A Card as A Company or A Person",
+            "zh-Hans": "Make A Card as A Company or A Person"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        }
+      ]
+    }
+  ]
+}

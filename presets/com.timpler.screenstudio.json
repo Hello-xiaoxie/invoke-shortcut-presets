@@ -1,0 +1,45 @@
+{
+  "bundleIdentifier": "com.timpler.screenstudio",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.screen-studio.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.screen-studio.general.826dd4f572",
+          "title": {
+            "en": "Open picker / Finish recording",
+            "zh-Hans": "Open picker / Finish recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6400,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.screen-studio.general.0204d8330c",
+          "title": {
+            "en": "Show speaker notes",
+            "zh-Hans": "显示 speaker 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 2304,
+            "displayKey": "/"
+          }
+        }
+      ]
+    }
+  ]
+}

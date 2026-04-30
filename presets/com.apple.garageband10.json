@@ -1,0 +1,1089 @@
+{
+  "bundleIdentifier": "com.apple.garageband10",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.garageband.track-operations",
+      "title": {
+        "en": "Track Operations",
+        "zh-Hans": "轨道操作"
+      },
+      "items": [
+        {
+          "id": "remote.garageband.track-operations.6b4341d7bf",
+          "title": {
+            "en": "Create a new track",
+            "zh-Hans": "Create a new 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.9edfebddf2",
+          "title": {
+            "en": "Create a new audio track",
+            "zh-Hans": "Create a new 音频 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.ccdc84a046",
+          "title": {
+            "en": "Create a new software instrument track",
+            "zh-Hans": "Create a new software instrument track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.986ccc54a6",
+          "title": {
+            "en": "Duplicate the selected track",
+            "zh-Hans": "Duplicate the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.c94a51d093",
+          "title": {
+            "en": "Delete the selected track",
+            "zh-Hans": "Delete the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.d83c51ea9f",
+          "title": {
+            "en": "Rename the selected track",
+            "zh-Hans": "Rename the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.2979e92118",
+          "title": {
+            "en": "Select the next higher track",
+            "zh-Hans": "Select the next higher track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.1f7741edae",
+          "title": {
+            "en": "Select the next lower track",
+            "zh-Hans": "Select the next lower track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.f7f639582e",
+          "title": {
+            "en": "Mute/Unmute the selected track",
+            "zh-Hans": "Mute/Unmute the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.76085cbe59",
+          "title": {
+            "en": "Solo/Unsolo the selected track",
+            "zh-Hans": "Solo/Unsolo the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.56902f17fe",
+          "title": {
+            "en": "Turn monitoring for the selected track on/off",
+            "zh-Hans": "Turn monitoring for the selected track on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.f053122ad6",
+          "title": {
+            "en": "Show/Hide automation for the selected track",
+            "zh-Hans": "Show/Hide automation for the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.25aabd46e6",
+          "title": {
+            "en": "Delete all automation on the selected track",
+            "zh-Hans": "Delete all automation on the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 4864,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.684341fcca",
+          "title": {
+            "en": "Unmute all tracks",
+            "zh-Hans": "Unmute 全部 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 6400,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.garageband.track-operations.d25b372c5d",
+          "title": {
+            "en": "Unsolo all tracks",
+            "zh-Hans": "Unsolo 全部 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 6400,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.garageband.edit-track",
+      "title": {
+        "en": "Edit Track",
+        "zh-Hans": "编辑轨道"
+      },
+      "items": [
+        {
+          "id": "remote.garageband.edit-track.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.ef1d3a0771",
+          "title": {
+            "en": "Cut an arrangement marker together with its regions",
+            "zh-Hans": "Cut an arrangement marker together with its regions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2304,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.da0170a983",
+          "title": {
+            "en": "Cut selection",
+            "zh-Hans": "剪切 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.f614d338fa",
+          "title": {
+            "en": "Split region at playhead",
+            "zh-Hans": "Split region at playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.garageband.edit-track.82a08c76aa",
+          "title": {
+            "en": "Join selected regions",
+            "zh-Hans": "Join 所选 regions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.garageband.misellaneous-shortcuts",
+      "title": {
+        "en": "MIsellaneous Shortcuts",
+        "zh-Hans": "MIsellaneous快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.bddf90ed11",
+          "title": {
+            "en": "Select previous region on the selected track",
+            "zh-Hans": "Select previous region on the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.1f0c7cd3fb",
+          "title": {
+            "en": "Select next region on the selected track",
+            "zh-Hans": "Select next region on the selected track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.6fabd189ca",
+          "title": {
+            "en": "Split selected region or event at the playhead",
+            "zh-Hans": "Split selected region or event at the playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.def9fa60ce",
+          "title": {
+            "en": "Join selected regions or notes",
+            "zh-Hans": "Join selected regions or notes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.3f33f6c0db",
+          "title": {
+            "en": "Loop selected region continuously",
+            "zh-Hans": "循环 所选 区域 continuously"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.fba226ac87",
+          "title": {
+            "en": "Add selected region to the Apple Loops Library",
+            "zh-Hans": "Add selected region to the Apple Loops Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4608,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.23d48418c7",
+          "title": {
+            "en": "Rename the selected region",
+            "zh-Hans": "Rename the selected region"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 512,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.cfdc002282",
+          "title": {
+            "en": "Turn Snap to Grid on/off",
+            "zh-Hans": "Turn Snap to Grid on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.a27dced945",
+          "title": {
+            "en": "Show/Hide alignment guides",
+            "zh-Hans": "显示/隐藏 对齐 guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.58d5666db6",
+          "title": {
+            "en": "Start recording",
+            "zh-Hans": "开始 recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.cd85374555",
+          "title": {
+            "en": "Turn the Record Enable button for the selected track on/off",
+            "zh-Hans": "Turn the Record Enable button for the selected track on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.f8200be66a",
+          "title": {
+            "en": "Turn the cycle area on/off",
+            "zh-Hans": "Turn the cycle area on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.e21e888100",
+          "title": {
+            "en": "Turn the metronome on/off",
+            "zh-Hans": "Turn the metronome on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.bcedaf8c34",
+          "title": {
+            "en": "Turn count in on/off",
+            "zh-Hans": "Turn count in on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 512,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.66072c576d",
+          "title": {
+            "en": "Transpose selected notes up one semitone",
+            "zh-Hans": "Transpose selected notes up one semitone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.700d04febe",
+          "title": {
+            "en": "Transpose selected notes down one semitone",
+            "zh-Hans": "Transpose selected notes down one semitone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.eb887c8579",
+          "title": {
+            "en": "Transpose selected notes up one octave",
+            "zh-Hans": "Transpose selected notes up one octave"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.4e03eda63a",
+          "title": {
+            "en": "Transpose selected notes down one octave",
+            "zh-Hans": "Transpose selected notes down one octave"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.a9d68b655e",
+          "title": {
+            "en": "Select the next score event",
+            "zh-Hans": "Select the next score event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.c955a754f7",
+          "title": {
+            "en": "Select the previous score event",
+            "zh-Hans": "Select the previous score event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.776236562d",
+          "title": {
+            "en": "Select the next staff event",
+            "zh-Hans": "Select the next staff event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.997d137d60",
+          "title": {
+            "en": "Select the previous staff event",
+            "zh-Hans": "Select the previous staff event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.garageband.misellaneous-shortcuts.f94050ce5a",
+          "title": {
+            "en": "Print score notation",
+            "zh-Hans": "打印 score notation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.garageband.display-objects",
+      "title": {
+        "en": "Display Objects",
+        "zh-Hans": "显示对象"
+      },
+      "items": [
+        {
+          "id": "remote.garageband.display-objects.08b20917c2",
+          "title": {
+            "en": "Show/Hide the Musical Typing window",
+            "zh-Hans": "Show/Hide the Musical Typing window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.6b39f518c5",
+          "title": {
+            "en": "Show/Hide Smart Controls",
+            "zh-Hans": "显示/隐藏 Smart Controls"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.b5bbfc23f2",
+          "title": {
+            "en": "Show/Hide the Score Editor",
+            "zh-Hans": "Show/Hide the Score Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.6f87ee49ad",
+          "title": {
+            "en": "Show/Hide the Piano Roll Editor",
+            "zh-Hans": "Show/Hide the Piano Roll Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.36f39c39df",
+          "title": {
+            "en": "Show/Hide the Loop Browser",
+            "zh-Hans": "Show/Hide the Loop Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.40bed7abec",
+          "title": {
+            "en": "Show/Hide the Library",
+            "zh-Hans": "Show/Hide the Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.4e0a63c8af",
+          "title": {
+            "en": "Show/Hide the Editor",
+            "zh-Hans": "Show/Hide the Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.8f25cc48eb",
+          "title": {
+            "en": "Show/Hide the NotePad",
+            "zh-Hans": "Show/Hide the NotePad"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.478b6b7342",
+          "title": {
+            "en": "Show/Hide the Media Browser",
+            "zh-Hans": "Show/Hide the Media Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.403bddea6e",
+          "title": {
+            "en": "Show/Hide the Arrangement track",
+            "zh-Hans": "Show/Hide the Arrangement track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.cda5067adc",
+          "title": {
+            "en": "Show/Hide the Movie track",
+            "zh-Hans": "Show/Hide the Movie track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.716bfd21ab",
+          "title": {
+            "en": "Show/Hide theTransposition track",
+            "zh-Hans": "显示/隐藏 theTransposition 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.0b2527eb4e",
+          "title": {
+            "en": "Show/Hide the Tempo track",
+            "zh-Hans": "Show/Hide the Tempo track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.garageband.display-objects.4b773dcb9a",
+          "title": {
+            "en": "Show/Hide the Master track",
+            "zh-Hans": "Show/Hide the Master track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.garageband.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.garageband.general-shortcuts.b54fdea957",
+          "title": {
+            "en": "Open a Movie",
+            "zh-Hans": "打开 a Movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.f0c81d3246",
+          "title": {
+            "en": "Create a new project",
+            "zh-Hans": "Create a new 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.340f68fc1b",
+          "title": {
+            "en": "Open an existing project",
+            "zh-Hans": "Open an existing project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.23f1eb4e04",
+          "title": {
+            "en": "Close the current window or project",
+            "zh-Hans": "Close the current window or project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.8092ac7bc7",
+          "title": {
+            "en": "Minimize the GarageBand window",
+            "zh-Hans": "Minimize the GarageBand window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.f261d627dc",
+          "title": {
+            "en": "Save the current project",
+            "zh-Hans": "Save the current project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.8bcb019931",
+          "title": {
+            "en": "Show GarageBand preferences",
+            "zh-Hans": "显示 GarageBand 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.7fbf41c4e2",
+          "title": {
+            "en": "Hide GarageBand",
+            "zh-Hans": "隐藏 GarageBand"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.b01df1073c",
+          "title": {
+            "en": "Quit GarageBand",
+            "zh-Hans": "退出 GarageBand"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.28f7dae765",
+          "title": {
+            "en": "Open detailed Help (move the pointer over an interface item)",
+            "zh-Hans": "Open detailed Help (move the pointer over an interface item)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.4af740e966",
+          "title": {
+            "en": "Start or stop playback",
+            "zh-Hans": "Start or stop playback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.de3c22621e",
+          "title": {
+            "en": "Go to beginning",
+            "zh-Hans": "转到beginning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.47d6855082",
+          "title": {
+            "en": "Go to end of last region",
+            "zh-Hans": "Go to end of last region"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.7bad5d76f5",
+          "title": {
+            "en": "Move forward",
+            "zh-Hans": "移动forward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.981b0c35fb",
+          "title": {
+            "en": "Move back",
+            "zh-Hans": "移动back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.cbbb62704e",
+          "title": {
+            "en": "Move cycle area forward",
+            "zh-Hans": "移动cycle area 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.b39c340dab",
+          "title": {
+            "en": "Move cycle area back",
+            "zh-Hans": "Move cycle area back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.4c7042db7b",
+          "title": {
+            "en": "Move forward by visible width of the timeline",
+            "zh-Hans": "Move forward by visible width of the timeline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.30effd577b",
+          "title": {
+            "en": "Move back by visible width of the timeline",
+            "zh-Hans": "Move back by visible width of the timeline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.0ab4db6fe0",
+          "title": {
+            "en": "Turn Catch mode on/off",
+            "zh-Hans": "Turn Catch mode on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.8d16a810b7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.garageband.general-shortcuts.3aee13c200",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        }
+      ]
+    }
+  ]
+}

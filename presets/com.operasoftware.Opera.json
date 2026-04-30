@@ -1,0 +1,1605 @@
+{
+  "bundleIdentifier": "com.operasoftware.Opera",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.opera.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.opera.navigation.c261656deb",
+          "title": {
+            "en": "Move one line up",
+            "zh-Hans": "移动one 行 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.opera.navigation.13ebd8e94a",
+          "title": {
+            "en": "Move one line down",
+            "zh-Hans": "移动one 行 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.opera.navigation.54a83b22af",
+          "title": {
+            "en": "Move one character to the right",
+            "zh-Hans": "Move one character to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.opera.navigation.ff211528d2",
+          "title": {
+            "en": "Move one character to the left",
+            "zh-Hans": "Move one character to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.opera.navigation.c7eb67f00f",
+          "title": {
+            "en": "Move one screen Up",
+            "zh-Hans": "移动one screen 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.opera.navigation.adddc3bff7",
+          "title": {
+            "en": "Move one screen Down",
+            "zh-Hans": "移动one screen 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.opera.navigation.4241bd945b",
+          "title": {
+            "en": "Move one screen to the left",
+            "zh-Hans": "Move one screen to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.opera.navigation.594c0dbaea",
+          "title": {
+            "en": "Move one screen to the right",
+            "zh-Hans": "Move one screen to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.opera.navigation.3650584315",
+          "title": {
+            "en": "Go to top",
+            "zh-Hans": "转到top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.opera.navigation.670218c4e8",
+          "title": {
+            "en": "Go to bottom",
+            "zh-Hans": "转到bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.focus",
+      "title": {
+        "en": "Focus",
+        "zh-Hans": "焦点"
+      },
+      "items": [
+        {
+          "id": "remote.opera.focus.87c093bfcf",
+          "title": {
+            "en": "Cycle focus within active context",
+            "zh-Hans": "Cycle focus within active context"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.opera.focus.d26ebf0f4e",
+          "title": {
+            "en": "Activate",
+            "zh-Hans": "Activate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.focus.75d197cef5",
+          "title": {
+            "en": "Edit Item properties",
+            "zh-Hans": "编辑 项目 properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.focus.95461d3d73",
+          "title": {
+            "en": "Exit Context or Cancel",
+            "zh-Hans": "Exit Context or Cancel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.opera.focus.8ec36ab5ad",
+          "title": {
+            "en": "Display Context menu",
+            "zh-Hans": "Display Context 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.system",
+      "title": {
+        "en": "System",
+        "zh-Hans": "系统"
+      },
+      "items": [
+        {
+          "id": "remote.opera.system.2de243e436",
+          "title": {
+            "en": "Open file",
+            "zh-Hans": "打开文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.opera.system.a5e117fc23",
+          "title": {
+            "en": "Save copy of page",
+            "zh-Hans": "Save copy of page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.opera.system.1390479200",
+          "title": {
+            "en": "Save copy of page with all images and elements",
+            "zh-Hans": "Save copy of page with all images and elements"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.opera.system.71f3c81f1e",
+          "title": {
+            "en": "Print page",
+            "zh-Hans": "打印页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.opera.system.ce3f131475",
+          "title": {
+            "en": "Close Opera",
+            "zh-Hans": "关闭 Opera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.opera.system.677be11650",
+          "title": {
+            "en": "Hide Opera",
+            "zh-Hans": "隐藏 Opera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.text-editing",
+      "title": {
+        "en": "Text Editing",
+        "zh-Hans": "文本编辑"
+      },
+      "items": [
+        {
+          "id": "remote.opera.text-editing.752dd7c4e1",
+          "title": {
+            "en": "Undo recent changes",
+            "zh-Hans": "Undo recent changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.268de14818",
+          "title": {
+            "en": "Redo recent changes",
+            "zh-Hans": "Redo recent changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.1b98cda323",
+          "title": {
+            "en": "Copy selection to clipboard",
+            "zh-Hans": "Copy selection to clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.464f2b60ca",
+          "title": {
+            "en": "Move selection to clipboard",
+            "zh-Hans": "Move selection to clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.c41205ae3c",
+          "title": {
+            "en": "Paste from clipboard",
+            "zh-Hans": "Paste from clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.57227cc68a",
+          "title": {
+            "en": "Copy selected text to \"Notes\" panel",
+            "zh-Hans": "Copy selected text to \"Notes\" panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.2c09b1b5bb",
+          "title": {
+            "en": "Copy text in clipboard to \"Notes\" panel",
+            "zh-Hans": "Copy text in clipboard to \"Notes\" panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.356d37260e",
+          "title": {
+            "en": "Clear all",
+            "zh-Hans": "清除all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.562d1be349",
+          "title": {
+            "en": "Delete selection (or character right of cursor)",
+            "zh-Hans": "Delete selection (or character right of cursor)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.e81547c2de",
+          "title": {
+            "en": "Delete selection (or character left of cursor)",
+            "zh-Hans": "Delete selection (or character left of cursor)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.b0fdc0eb95",
+          "title": {
+            "en": "Toggle text-style bold",
+            "zh-Hans": "Toggle 文本-样式 加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.7c9bfc27de",
+          "title": {
+            "en": "Toggle text-style italic",
+            "zh-Hans": "Toggle 文本-样式 斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.opera.text-editing.6938e5979d",
+          "title": {
+            "en": "Toggle text-style underline",
+            "zh-Hans": "Toggle 文本-样式 下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.find",
+      "title": {
+        "en": "Find",
+        "zh-Hans": "查找"
+      },
+      "items": [
+        {
+          "id": "remote.opera.find.c350cd17c5",
+          "title": {
+            "en": "Find text",
+            "zh-Hans": "查找 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.opera.find.11790f6017",
+          "title": {
+            "en": "Find next instance of text",
+            "zh-Hans": "Find next instance of text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.opera.find.aa8f0dc111",
+          "title": {
+            "en": "Find previous instance of text",
+            "zh-Hans": "Find previous instance of text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.opera.find.a3dc0f0573",
+          "title": {
+            "en": "Search for text in links in page (press F9 first to set focus on page)",
+            "zh-Hans": "Search for text in links in page (press F9 first to set focus on page)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.opera.find.6b0128677b",
+          "title": {
+            "en": "Search for text in page (press F9 first to set focus on page)",
+            "zh-Hans": "Search for text in page (press F9 first to set focus on page)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.access-loading",
+      "title": {
+        "en": "Access Loading",
+        "zh-Hans": "访问加载"
+      },
+      "items": [
+        {
+          "id": "remote.opera.access-loading.8c43e15917",
+          "title": {
+            "en": "Go to your Homepage",
+            "zh-Hans": "转到your Homepage"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.opera.access-loading.a2d713be05",
+          "title": {
+            "en": "Enter a Web address",
+            "zh-Hans": "Enter a Web address"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.opera.access-loading.524bcc0d52",
+          "title": {
+            "en": "Paste and go in current or new tab",
+            "zh-Hans": "Paste and go in current or new tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.opera.access-loading.cdb5409c3d",
+          "title": {
+            "en": "Paste and go in background tab",
+            "zh-Hans": "Paste and go in background tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.opera.access-loading.17ccd18396",
+          "title": {
+            "en": "Enter nickname for fast bookmark access",
+            "zh-Hans": "Enter nickname for fast bookmark access"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.opera.access-loading.658d9988d1",
+          "title": {
+            "en": "Save page address as new bookmark",
+            "zh-Hans": "Save page address as new bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.opera.access-loading.27528e49c0",
+          "title": {
+            "en": "Save as new bookmark in active bookmark folder",
+            "zh-Hans": "Save as new bookmark in active bookmark folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.transmission-loading",
+      "title": {
+        "en": "Transmission Loading",
+        "zh-Hans": "传输加载"
+      },
+      "items": [
+        {
+          "id": "remote.opera.transmission-loading.2fc5895936",
+          "title": {
+            "en": "Reload (get latest version of) page",
+            "zh-Hans": "Reload (get latest version of) page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.opera.transmission-loading.42f409ccbf",
+          "title": {
+            "en": "Reload selected frame",
+            "zh-Hans": "Reload 所选 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 2048,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.opera.transmission-loading.005c915a7b",
+          "title": {
+            "en": "Reload all open pages",
+            "zh-Hans": "Reload 全部 打开 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 256,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.opera.transmission-loading.733fe4c6db",
+          "title": {
+            "en": "Stop page loading",
+            "zh-Hans": "Stop 页面 loading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.opera.transmission-loading.672f4d6bd2",
+          "title": {
+            "en": "Read selected text using voice function",
+            "zh-Hans": "已读 所选 文本 using voice 函数"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.opera.transmission-loading.2a07650516",
+          "title": {
+            "en": "Cancel current voice prompt",
+            "zh-Hans": "Cancel current voice prompt"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.history",
+      "title": {
+        "en": "History",
+        "zh-Hans": "历史"
+      },
+      "items": [
+        {
+          "id": "remote.opera.history.115c023f0e",
+          "title": {
+            "en": "Go to next page in history",
+            "zh-Hans": "Go to next page in history"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.opera.history.4b84227b5d",
+          "title": {
+            "en": "Go to previous page in history",
+            "zh-Hans": "Go to previous page in history"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.opera.history.d3e3ef3871",
+          "title": {
+            "en": "Rewind",
+            "zh-Hans": "快退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 512,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.opera.history.214be1b0c1",
+          "title": {
+            "en": "Fast Forward",
+            "zh-Hans": "快进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.opera.history.af0619f56c",
+          "title": {
+            "en": "Show entire forward history",
+            "zh-Hans": "显示 entire 向前 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2048,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.opera.history.f2a9766915",
+          "title": {
+            "en": "Show entire backward history",
+            "zh-Hans": "显示 entire 向后 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2048,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.sitemap-navigation",
+      "title": {
+        "en": "Sitemap Navigation",
+        "zh-Hans": "站点地图导航"
+      },
+      "items": [
+        {
+          "id": "remote.opera.sitemap-navigation.53c6fe1bb0",
+          "title": {
+            "en": "Home",
+            "zh-Hans": "主页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 768,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.opera.sitemap-navigation.44a0713861",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.opera.sitemap-navigation.65f998bce7",
+          "title": {
+            "en": "Previous",
+            "zh-Hans": "上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.opera.sitemap-navigation.8471568b4d",
+          "title": {
+            "en": "Next",
+            "zh-Hans": "下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.opera.sitemap-navigation.c63803a09f",
+          "title": {
+            "en": "Up",
+            "zh-Hans": "上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 768,
+            "displayKey": "117"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.display",
+      "title": {
+        "en": "Display",
+        "zh-Hans": "显示"
+      },
+      "items": [
+        {
+          "id": "remote.opera.display.3ff0f31370",
+          "title": {
+            "en": "Load and display all images",
+            "zh-Hans": "Load and display all images"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.opera.display.66d4ee0900",
+          "title": {
+            "en": "Toggle loading of images",
+            "zh-Hans": "Toggle loading of images"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 512,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.opera.display.0aa37d5c87",
+          "title": {
+            "en": "Toggle between \"Author mode\" and \"User mode\"",
+            "zh-Hans": "Toggle between \"Author mode\" and \"User mode\""
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 512,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.opera.display.e29b7db103",
+          "title": {
+            "en": "Preview page as if printed",
+            "zh-Hans": "Preview page as if printed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.opera.display.047d8a75cb",
+          "title": {
+            "en": "Use entire screen for browsing",
+            "zh-Hans": "Use entire screen for browsing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.opera.display.346892df97",
+          "title": {
+            "en": "Toggle \"Fit to width\"",
+            "zh-Hans": "Toggle \"Fit to width\""
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.opera.display.44a196d42c",
+          "title": {
+            "en": "Pretend to be small-screen device",
+            "zh-Hans": "Pretend to be small-screen device"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 512,
+            "displayKey": "F11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.source",
+      "title": {
+        "en": "Source",
+        "zh-Hans": "源代码"
+      },
+      "items": [
+        {
+          "id": "remote.opera.source.d58ef7bd7a",
+          "title": {
+            "en": "View page source",
+            "zh-Hans": "视图 页面 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.opera.source.12a6df2d6d",
+          "title": {
+            "en": "View source of active frame",
+            "zh-Hans": "View source of active frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.opera.source.116435daf4",
+          "title": {
+            "en": "Validate source of active page or frame",
+            "zh-Hans": "Validate source of active page or frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.opera.source.f66a9da1e6",
+          "title": {
+            "en": "Validate source of active page or frame in the background",
+            "zh-Hans": "Validate source of active page or frame in the background"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.link",
+      "title": {
+        "en": "Link",
+        "zh-Hans": "链接"
+      },
+      "items": [
+        {
+          "id": "remote.opera.link.1d46b69953",
+          "title": {
+            "en": "Select next link in page",
+            "zh-Hans": "Select next link in page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.opera.link.7816672e9a",
+          "title": {
+            "en": "Select previous link in page",
+            "zh-Hans": "Select previous link in page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.opera.link.71eb8c6584",
+          "title": {
+            "en": "Follow selected link",
+            "zh-Hans": "Follow 所选 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.link.498c96366a",
+          "title": {
+            "en": "Open selected link in new tab",
+            "zh-Hans": "Open selected link in new tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.link.9fc56646a7",
+          "title": {
+            "en": "Open selected link in background tab",
+            "zh-Hans": "Open selected link in background tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.link.3fe9ebe094",
+          "title": {
+            "en": "Save selected link as new bookmark",
+            "zh-Hans": "存储 所选 链接 as new 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.opera.link.f8d30de867",
+          "title": {
+            "en": "Copy selected link address",
+            "zh-Hans": "复制 所选 链接 address"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.opera.link.e2e13c7f10",
+          "title": {
+            "en": "Save link target (such as document or image)",
+            "zh-Hans": "Save link target (such as document or image)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.form",
+      "title": {
+        "en": "Form",
+        "zh-Hans": "表单"
+      },
+      "items": [
+        {
+          "id": "remote.opera.form.19e3e1f3c9",
+          "title": {
+            "en": "Log in/autofill form using the Wand",
+            "zh-Hans": "Log in/autofill form using the Wand"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.form.52dac4a9c3",
+          "title": {
+            "en": "Go to next element in form",
+            "zh-Hans": "Go to next element in form"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.opera.form.3269298530",
+          "title": {
+            "en": "Go to previous element in form",
+            "zh-Hans": "Go to previous element in form"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.opera.form.6712077489",
+          "title": {
+            "en": "Select form element",
+            "zh-Hans": "选择form 元素"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.opera.form.62ab802227",
+          "title": {
+            "en": "Left adjust text in form",
+            "zh-Hans": "Left adjust text in form"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.opera.form.af9101e222",
+          "title": {
+            "en": "Right adjust text in form",
+            "zh-Hans": "Right adjust text in form"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.panel",
+      "title": {
+        "en": "Panel",
+        "zh-Hans": "面板"
+      },
+      "items": [
+        {
+          "id": "remote.opera.panel.819e056ebb",
+          "title": {
+            "en": "Toggle last active panel with panel selector",
+            "zh-Hans": "Toggle last active panel with panel selector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.opera.panel.3ef96f9c9c",
+          "title": {
+            "en": "Toggle last active panel",
+            "zh-Hans": "切换last 活动 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.opera.panel.342211120c",
+          "title": {
+            "en": "Activate panels for keyboard navigation",
+            "zh-Hans": "Activate panels for keyboard navigation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.opera.panel.12dc1ada9b",
+          "title": {
+            "en": "Expand all folders/views in panel",
+            "zh-Hans": "Expand all folders/views in panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.opera.panel.adf8a162f4",
+          "title": {
+            "en": "Collapse all folders/views in panel",
+            "zh-Hans": "Collapse all folders/views in panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.opera.panel.9bc41bd4a3",
+          "title": {
+            "en": "Open \"Search\" panel",
+            "zh-Hans": "打开 \"搜索\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.opera.panel.2f1cdc18af",
+          "title": {
+            "en": "Open \"Bookmarks\" panel",
+            "zh-Hans": "打开 \"书签\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4096,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.opera.panel.6cb9beb3a7",
+          "title": {
+            "en": "Open \"Mail\" panel",
+            "zh-Hans": "打开 \"Mail\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 4096,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.opera.panel.e807bffc2d",
+          "title": {
+            "en": "Open \"Contacts\" panel",
+            "zh-Hans": "打开 \"Contacts\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 4096,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.opera.panel.54c954247e",
+          "title": {
+            "en": "Open \"Chat\" panel",
+            "zh-Hans": "打开 \"Chat\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4096,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.opera.panel.0670ae1413",
+          "title": {
+            "en": "Open \"Notes\" panel",
+            "zh-Hans": "打开 \"笔记\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 4096,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.opera.panel.9c6b846cfd",
+          "title": {
+            "en": "Open \"Transfers\" panel",
+            "zh-Hans": "打开 \"Transfers\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 4096,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.opera.panel.03708d0e36",
+          "title": {
+            "en": "Open \"History\" panel",
+            "zh-Hans": "打开 \"历史记录\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 4096,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.opera.panel.c33c87fc6f",
+          "title": {
+            "en": "Open \"Links\" panel",
+            "zh-Hans": "打开 \"Links\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 4096,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.opera.panel.813b885067",
+          "title": {
+            "en": "Open \"Windows\" panel",
+            "zh-Hans": "打开 \"Windows\" 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4096,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.bookmarks",
+      "title": {
+        "en": "Bookmarks",
+        "zh-Hans": "书签"
+      },
+      "items": [
+        {
+          "id": "remote.opera.bookmarks.ac4197c28e",
+          "title": {
+            "en": "Open bookmark",
+            "zh-Hans": "打开 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.bookmarks.84fbd6772a",
+          "title": {
+            "en": "Open bookmark in new tab",
+            "zh-Hans": "Open bookmark in new tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.bookmarks.4985f1aa9d",
+          "title": {
+            "en": "Open bookmark in background tab",
+            "zh-Hans": "Open bookmark in background tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.email",
+      "title": {
+        "en": "Email",
+        "zh-Hans": "邮件"
+      },
+      "items": [
+        {
+          "id": "remote.opera.email.6aa5661397",
+          "title": {
+            "en": "Check e-mail",
+            "zh-Hans": "Check e-mail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.opera.email.0679fe604b",
+          "title": {
+            "en": "Write new message",
+            "zh-Hans": "Write new message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.opera.email.3585277e59",
+          "title": {
+            "en": "Save message draft (continue later)",
+            "zh-Hans": "Save message draft (continue later)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.opera.email.c3a1050818",
+          "title": {
+            "en": "Upload queued messages to mail server",
+            "zh-Hans": "Upload queued messages to mail server"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.opera.email.4e44ddeacf",
+          "title": {
+            "en": "Send composed message",
+            "zh-Hans": "Send composed message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.opera.email.9d0ff9585b",
+          "title": {
+            "en": "Reply to message",
+            "zh-Hans": "回复消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.opera.email.fec9e27bf7",
+          "title": {
+            "en": "Reply to all recipients of message, including sender",
+            "zh-Hans": "Reply to all recipients of message, including sender"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.opera.email.4cbdc20bab",
+          "title": {
+            "en": "Forward message",
+            "zh-Hans": "转发消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.opera.email.5f02660731",
+          "title": {
+            "en": "Redirect message",
+            "zh-Hans": "Redirect message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.opera.email.0ac7290ee5",
+          "title": {
+            "en": "Continue editing message (Drafts, Outbox, and Sent views)",
+            "zh-Hans": "Continue editing message (Drafts, Outbox, and Sent views)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.opera.email.a933bbabea",
+          "title": {
+            "en": "Focus \"Quick reply\" field",
+            "zh-Hans": "Focus \"Quick reply\" field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.opera.help",
+      "title": {
+        "en": "Help",
+        "zh-Hans": "帮助"
+      },
+      "items": [
+        {
+          "id": "remote.opera.help.a74f18f3c0",
+          "title": {
+            "en": "Open Opera's help window",
+            "zh-Hans": "打开 Opera's help 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.opera.help.128b100697",
+          "title": {
+            "en": "Search while viewing help page",
+            "zh-Hans": "Search while viewing help page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    }
+  ]
+}

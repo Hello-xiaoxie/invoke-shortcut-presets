@@ -127,7 +127,7 @@
           "id": "remote.excel.frequently-used-shortcuts.39ce3ecd4a",
           "title": {
             "en": "Open Visual Basic",
-            "zh-Hans": "打开 Microsoft Visual Basic for Applications 编辑器。"
+            "zh-Hans": "Open Visual Basic"
           },
           "shortcutConfiguration": {
             "keyCode": 103,
@@ -343,7 +343,7 @@
           "id": "remote.excel.frequently-used-shortcuts.83dfed0611",
           "title": {
             "en": "Select All",
-            "zh-Hans": "当某个对象处于选定状态时，选择工作表上的所有对象。"
+            "zh-Hans": "全选"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -433,18 +433,6 @@
             "keyCode": 103,
             "carbonModifiers": 512,
             "displayKey": "F11"
-          }
-        },
-        {
-          "id": "remote.excel.frequently-used-shortcuts.68cb3cc6d3",
-          "title": {
-            "en": "Print",
-            "zh-Hans": "打印"
-          },
-          "shortcutConfiguration": {
-            "keyCode": 35,
-            "carbonModifiers": 256,
-            "displayKey": "P"
           }
         }
       ]
@@ -616,7 +604,7 @@
           "id": "remote.excel.work-in-windows-and-dialogs.5033a69c16",
           "title": {
             "en": "Cancel the command and close",
-            "zh-Hans": "Ctrl+F7：如果工作簿窗口未最大化，则按 Ctrl+F7 可对该窗口执行“移动”命令。 使用箭头键移动窗口，并在完成时按 Enter，或按 Esc 取消。"
+            "zh-Hans": "Cancel the command and close"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -745,7 +733,7 @@
           "id": "remote.excel.move-and-scroll-in-a-sheet-or-workbook.f064aa4339",
           "title": {
             "en": "Search",
-            "zh-Hans": "移动到功能区上的“操作说明搜索”或“搜索”字段，并键入搜索词以获取帮助或帮助内容。"
+            "zh-Hans": "搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -1801,7 +1789,7 @@
           "id": "remote.excel.work-with-a-selection.f0f6bfbffe",
           "title": {
             "en": "Move from top to bottom within the selection (down)*",
-            "zh-Hans": "按 Ctrl+Shift+End 可将单元格选定区域扩展到工作表上所使用的最后一个单元格（位于右下角）。 如果光标位于编辑栏中，按 Ctrl+Shift+End 可选择编辑栏中从光标所在位置到末尾处的所有文本，这不会影响编辑栏的高度。"
+            "zh-Hans": "Move from top to bottom within the selection (down)*"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -1813,7 +1801,7 @@
           "id": "remote.excel.work-with-a-selection.6fd9a530b0",
           "title": {
             "en": "Move from bottom to top within the selection (up)*",
-            "zh-Hans": "按 Ctrl+Shift+End 可将单元格选定区域扩展到工作表上所使用的最后一个单元格（位于右下角）。 如果光标位于编辑栏中，按 Ctrl+Shift+End 可选择编辑栏中从光标所在位置到末尾处的所有文本，这不会影响编辑栏的高度。"
+            "zh-Hans": "Move from bottom to top within the selection (up)*"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -2248,7 +2236,7 @@
           "id": "remote.excel.function-key-shortcuts-for-excel-2016.39ce3ecd4a",
           "title": {
             "en": "Open Visual Basic",
-            "zh-Hans": "打开 Microsoft Visual Basic for Applications 编辑器。"
+            "zh-Hans": "Open Visual Basic"
           },
           "shortcutConfiguration": {
             "keyCode": 103,

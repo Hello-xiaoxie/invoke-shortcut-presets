@@ -1,0 +1,153 @@
+{
+  "bundleIdentifier": "co.teamport.around",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.around.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.around.general.2ceb17878a",
+          "title": {
+            "en": "Type or Paste link",
+            "zh-Hans": "Type or Paste link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.around.general.3052f113c7",
+          "title": {
+            "en": "Raise hand",
+            "zh-Hans": "举手"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.around.general.d0bda91d66",
+          "title": {
+            "en": "Wave hello / bye 👋",
+            "zh-Hans": "Wave hello / bye 👋"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.around.general.b24d063628",
+          "title": {
+            "en": "Thumbs up",
+            "zh-Hans": "Thumbs 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.around.general.aa18d170b7",
+          "title": {
+            "en": "Change filter",
+            "zh-Hans": "Change 滤镜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.around.general.8e18466cd8",
+          "title": {
+            "en": "Mute microphone",
+            "zh-Hans": "Mute microphone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.around.general.0ee244e15f",
+          "title": {
+            "en": "Share screen",
+            "zh-Hans": "共享屏幕"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.around.general.8bf52bc420",
+          "title": {
+            "en": "Minimal mode",
+            "zh-Hans": "Minimal 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.around.general.965bfa9f0f",
+          "title": {
+            "en": "Vertical layout",
+            "zh-Hans": "垂直 layout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.around.general.efe146c399",
+          "title": {
+            "en": "Hide self view",
+            "zh-Hans": "隐藏 self 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.around.general.17bcf963f3",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    }
+  ]
+}

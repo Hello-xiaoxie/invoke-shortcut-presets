@@ -1,0 +1,294 @@
+{
+  "bundleIdentifier": "com.apple.Notes",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-notes.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.apple-notes.general.8f6dc1192e",
+          "title": {
+            "en": "Create New Note",
+            "zh-Hans": "Create New 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-notes.general.ea4d2c9a06",
+          "title": {
+            "en": "Create New Folder",
+            "zh-Hans": "Create New 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-notes.general.1f0b089214",
+          "title": {
+            "en": "Show Main Notes Window",
+            "zh-Hans": "显示 Main 笔记 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.apple-notes.general.981f8edffa",
+          "title": {
+            "en": "Show/Hide Attachments Browser",
+            "zh-Hans": "显示/隐藏 Attachments Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.apple-notes.general.e42c2522ab",
+          "title": {
+            "en": "Search All Notes",
+            "zh-Hans": "搜索 全部 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-notes.general.d5a6b96140",
+          "title": {
+            "en": "Move between Sidebars/NotesList/Search Fields(Not in EditMode)",
+            "zh-Hans": "Move between Sidebars/NotesList/Search Fields(Not in EditMode)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-notes.general.389c46081d",
+          "title": {
+            "en": "Start Typing in Note Selected in Note List",
+            "zh-Hans": "Start Typing in Note Selected in Note List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-notes.general.d0183c4fbe",
+          "title": {
+            "en": "Go back to Note List after Entering in Insertion Point",
+            "zh-Hans": "Go back to Note List after Entering in Insertion Point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-notes.general.37762dcb39",
+          "title": {
+            "en": "Print Note",
+            "zh-Hans": "打印 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-notes.editing-notes",
+      "title": {
+        "en": "Editing Notes",
+        "zh-Hans": "编辑备忘录"
+      },
+      "items": [
+        {
+          "id": "remote.apple-notes.editing-notes.374439e15e",
+          "title": {
+            "en": "Attach File",
+            "zh-Hans": "Attach 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.9883037296",
+          "title": {
+            "en": "Apply Title Format",
+            "zh-Hans": "Apply Title Format"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.c4db39a0f3",
+          "title": {
+            "en": "Apply Heading Format",
+            "zh-Hans": "Apply Heading Format"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.cdaddacc65",
+          "title": {
+            "en": "Apply Body Format",
+            "zh-Hans": "Apply Body Format"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.c955c68c52",
+          "title": {
+            "en": "Apply Checklist Format",
+            "zh-Hans": "Apply Checklist Format"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.2d94cbf8ee",
+          "title": {
+            "en": "Create Link",
+            "zh-Hans": "Create 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.f2df57e87d",
+          "title": {
+            "en": "Increase List Level",
+            "zh-Hans": "Increase List Level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.2b6dcc0809",
+          "title": {
+            "en": "Decrease List Level",
+            "zh-Hans": "Decrease List Level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.8d9754f5ab",
+          "title": {
+            "en": "Add a Line Break",
+            "zh-Hans": "Add a Line Break"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.aef4dea8bd",
+          "title": {
+            "en": "Insert a Tab Character in List Item",
+            "zh-Hans": "Insert a Tab Character in List Item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 2048,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.b76efc195a",
+          "title": {
+            "en": "Mark/Unmark Checklist Item",
+            "zh-Hans": "Mark/Unmark Checklist Item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.af2bddcc1f",
+          "title": {
+            "en": "Change Size of Note's Contents to Default",
+            "zh-Hans": "Change Size of Note's Contents to Default"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 768,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.apple-notes.editing-notes.0f73aacd0b",
+          "title": {
+            "en": "Zoom in/Zoom out on Note's Content",
+            "zh-Hans": "Zoom in/Zoom out on Note's Content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        }
+      ]
+    }
+  ]
+}

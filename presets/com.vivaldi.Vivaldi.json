@@ -1,0 +1,1080 @@
+{
+  "bundleIdentifier": "com.vivaldi.Vivaldi",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.vivaldi.page",
+      "title": {
+        "en": "Page",
+        "zh-Hans": "页面"
+      },
+      "items": [
+        {
+          "id": "remote.vivaldi.page.edc6803ddb",
+          "title": {
+            "en": "Spatial Navigation Down",
+            "zh-Hans": "Spatial Navigation 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.2585214c1d",
+          "title": {
+            "en": "Spatial Navigation Right",
+            "zh-Hans": "Spatial Navigation 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.0f5f426720",
+          "title": {
+            "en": "Spatial Navigation Up",
+            "zh-Hans": "Spatial Navigation 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.77915c9226",
+          "title": {
+            "en": "Spatial Navigation Left",
+            "zh-Hans": "Spatial Navigation 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.6198da95b0",
+          "title": {
+            "en": "Copy Selected Text to Note",
+            "zh-Hans": "Copy Selected Text to Note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.d1ef42d736",
+          "title": {
+            "en": "Home",
+            "zh-Hans": "主页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.1a27cff809",
+          "title": {
+            "en": "Save Page As",
+            "zh-Hans": "存储 页面 As"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.c7879f2087",
+          "title": {
+            "en": "Open File",
+            "zh-Hans": "打开 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.ebb43d7cbb",
+          "title": {
+            "en": "Stop Loading",
+            "zh-Hans": "Stop Loading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 256,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.63d3526092",
+          "title": {
+            "en": "History Forward",
+            "zh-Hans": "历史记录 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.721c9479bb",
+          "title": {
+            "en": "History Back",
+            "zh-Hans": "历史记录 Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.facca21d4e",
+          "title": {
+            "en": "Find Previous in Page",
+            "zh-Hans": "Find Previous in Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 768,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.f712a24764",
+          "title": {
+            "en": "Find Next in Page",
+            "zh-Hans": "Find Next in Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.0902a39732",
+          "title": {
+            "en": "Find in Page",
+            "zh-Hans": "Find in Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.50e763b6e1",
+          "title": {
+            "en": "Focus Search Field",
+            "zh-Hans": "Focus 搜索 Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.6b57051737",
+          "title": {
+            "en": "Focus Page",
+            "zh-Hans": "聚焦Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.20168a101f",
+          "title": {
+            "en": "Force Page Reload",
+            "zh-Hans": "Force 页面 Reload"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.3fd37d4ae6",
+          "title": {
+            "en": "Reload Page",
+            "zh-Hans": "Reload 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.be77314c1b",
+          "title": {
+            "en": "Focus Address Field",
+            "zh-Hans": "聚焦Address Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.vivaldi.page.2cd5b7207b",
+          "title": {
+            "en": "Create Bookmark",
+            "zh-Hans": "Create 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vivaldi.tab",
+      "title": {
+        "en": "Tab",
+        "zh-Hans": "标签页"
+      },
+      "items": [
+        {
+          "id": "remote.vivaldi.tab.66f4d4a63f",
+          "title": {
+            "en": "Load Images",
+            "zh-Hans": "Load 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.9d84c71ea0",
+          "title": {
+            "en": "Untile Tabs",
+            "zh-Hans": "Untile 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.0424ba9f07",
+          "title": {
+            "en": "Tile to Grid",
+            "zh-Hans": "Tile to Grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.e5598fa613",
+          "title": {
+            "en": "Tile Horizontally",
+            "zh-Hans": "Tile Horizontally"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.7b8996d805",
+          "title": {
+            "en": "Tile Vertically",
+            "zh-Hans": "Tile Vertically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.2ec4d2d25b",
+          "title": {
+            "en": "Reopen Closed Tab",
+            "zh-Hans": "Reopen Closed 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.b72c0dcc9b",
+          "title": {
+            "en": "Switch to the Last Tab",
+            "zh-Hans": "切换到the 最后一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.434291aa49",
+          "title": {
+            "en": "Switch to Tab 8",
+            "zh-Hans": "切换到Tab 8"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.2319facfd8",
+          "title": {
+            "en": "Switch to Tab 7",
+            "zh-Hans": "切换到Tab 7"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.c06f6ca1f8",
+          "title": {
+            "en": "Switch to Tab 6",
+            "zh-Hans": "切换到Tab 6"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.2856d09177",
+          "title": {
+            "en": "Switch to Tab 5",
+            "zh-Hans": "切换到Tab 5"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.0b48bda223",
+          "title": {
+            "en": "Switch to Tab 4",
+            "zh-Hans": "切换到Tab 4"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.efcd2a37dd",
+          "title": {
+            "en": "Switch to Tab 3",
+            "zh-Hans": "切换到Tab 3"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.88853071ca",
+          "title": {
+            "en": "Switch to Tab 2",
+            "zh-Hans": "切换到Tab 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.9a5155cc1e",
+          "title": {
+            "en": "Switch to Tab 1",
+            "zh-Hans": "切换到Tab 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.0818332f9a",
+          "title": {
+            "en": "Move Active Tab Forward",
+            "zh-Hans": "移动Active 标签页 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.e2fe836a5b",
+          "title": {
+            "en": "Move Active Tab Backward",
+            "zh-Hans": "移动Active 标签页 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.7af708e0fc",
+          "title": {
+            "en": "Next Tab (by Order)",
+            "zh-Hans": "Next Tab (by Order)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.c2e5d498f4",
+          "title": {
+            "en": "Previous Tab (by Order)",
+            "zh-Hans": "Previous Tab (by Order)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.68681c8bc0",
+          "title": {
+            "en": "Tab Cycler Forward",
+            "zh-Hans": "标签页 Cycler 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 6400,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.94c8d2d3dc",
+          "title": {
+            "en": "Tab Cycler Back",
+            "zh-Hans": "标签页 Cycler Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 6912,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.c7885432cf",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.vivaldi.tab.26ef4c66c1",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vivaldi.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.vivaldi.view.c6ad60589f",
+          "title": {
+            "en": "History Panel",
+            "zh-Hans": "历史记录 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.1e741b98e6",
+          "title": {
+            "en": "Notes Panel",
+            "zh-Hans": "笔记 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.3060979817",
+          "title": {
+            "en": "Downloads Panel",
+            "zh-Hans": "Downloads 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.180c9773d4",
+          "title": {
+            "en": "Bookmarks Panel",
+            "zh-Hans": "书签 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.2b41432a10",
+          "title": {
+            "en": "Open Previous Panel",
+            "zh-Hans": "打开 上一个 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.781bad27ed",
+          "title": {
+            "en": "Open Next Panel",
+            "zh-Hans": "打开 下一个 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.ed6d30fcc8",
+          "title": {
+            "en": "Focus Panel",
+            "zh-Hans": "聚焦Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.85fb1f3052",
+          "title": {
+            "en": "Panel",
+            "zh-Hans": "面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.6ef029f870",
+          "title": {
+            "en": "Page Zoom Reset",
+            "zh-Hans": "页面 Zoom Reset"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.801ff09a8a",
+          "title": {
+            "en": "Page Zoom Out",
+            "zh-Hans": "页面 缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.5851f40a44",
+          "title": {
+            "en": "Page Zoom In",
+            "zh-Hans": "页面 放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.045fc9dc51",
+          "title": {
+            "en": "Toggle Ul",
+            "zh-Hans": "切换Ul"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 256,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.7bbe93a035",
+          "title": {
+            "en": "Status Bar",
+            "zh-Hans": "Status Bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.55f73f97e7",
+          "title": {
+            "en": "Bookmarks Bar",
+            "zh-Hans": "书签 Bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.vivaldi.view.0295a1a950",
+          "title": {
+            "en": "Fullscreen Mode",
+            "zh-Hans": "全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vivaldi.window",
+      "title": {
+        "en": "Window",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.vivaldi.window.b34f4cf23e",
+          "title": {
+            "en": "Hide Vivaldi",
+            "zh-Hans": "隐藏 Vivaldi"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.28411dac67",
+          "title": {
+            "en": "Paste and Go",
+            "zh-Hans": "Paste and Go"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.daf53309c5",
+          "title": {
+            "en": "Developer Tools Console",
+            "zh-Hans": "开发者工具 控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4608,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.02d9c62fee",
+          "title": {
+            "en": "Developer Tools",
+            "zh-Hans": "开发者工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.90596295f8",
+          "title": {
+            "en": "View Page Source",
+            "zh-Hans": "视图 页面 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.f0125e37bb",
+          "title": {
+            "en": "focus previous pane",
+            "zh-Hans": "focus 上一个 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.a815678ba6",
+          "title": {
+            "en": "focus next pane",
+            "zh-Hans": "focus 下一个 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.8c55bc513b",
+          "title": {
+            "en": "Break Mode",
+            "zh-Hans": "Break 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 4096,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.61940730d0",
+          "title": {
+            "en": "Keyboard Cheat Sheet",
+            "zh-Hans": "Keyboard Cheat 工作表"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 256,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.5af6836907",
+          "title": {
+            "en": "Help",
+            "zh-Hans": "Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 768,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.e36c4e07e3",
+          "title": {
+            "en": "Exit",
+            "zh-Hans": "Exit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.d6175e120c",
+          "title": {
+            "en": "Delete Browsing Data",
+            "zh-Hans": "删除 Browsing Data"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.9f65a3fd4a",
+          "title": {
+            "en": "Bookmarks",
+            "zh-Hans": "书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4352,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.aba613af6b",
+          "title": {
+            "en": "History",
+            "zh-Hans": "历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.788c8d12c3",
+          "title": {
+            "en": "Extensions",
+            "zh-Hans": "扩展"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4352,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.c04694b443",
+          "title": {
+            "en": "Settings",
+            "zh-Hans": "设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.9364525e1e",
+          "title": {
+            "en": "Task Manager",
+            "zh-Hans": "任务 Manager"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.cdd1a80c31",
+          "title": {
+            "en": "Quick Commands",
+            "zh-Hans": "Quick Commands"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.0f4e51c3f5",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.55e1609ebf",
+          "title": {
+            "en": "New Private Window",
+            "zh-Hans": "新建Private 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.vivaldi.window.646f9292ec",
+          "title": {
+            "en": "New Window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    }
+  ]
+}

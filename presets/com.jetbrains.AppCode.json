@@ -1,0 +1,1602 @@
+{
+  "bundleIdentifier": "com.jetbrains.AppCode",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.appcode.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.general-shortcuts.5847c8114d",
+          "title": {
+            "en": "Open Corresponding Tool Window",
+            "zh-Hans": "打开 Corresponding Tool 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.5c4502c59a",
+          "title": {
+            "en": "Search Everywhere",
+            "zh-Hans": "搜索 Everywhere"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.69b4726738",
+          "title": {
+            "en": "Toggle Maximize Editor",
+            "zh-Hans": "切换Maximize 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 768,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.7851fbc3b3",
+          "title": {
+            "en": "Go back to Previous Tool Window",
+            "zh-Hans": "Go back to Previous Tool Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.546cf79934",
+          "title": {
+            "en": "Go to Editor",
+            "zh-Hans": "转到Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.84d3b17554",
+          "title": {
+            "en": "Hide Active or Last Active Window",
+            "zh-Hans": "Hide Active or Last Active Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.c9477a6064",
+          "title": {
+            "en": "Switch Editor Tabs and IDE Tool Windows",
+            "zh-Hans": "Switch Editor Tabs and IDE Tool Windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.e11da1528d",
+          "title": {
+            "en": "Close Current Active Tab",
+            "zh-Hans": "关闭 当前 活动 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.a9d8e4d902",
+          "title": {
+            "en": "Quick Switch Current Scheme",
+            "zh-Hans": "Quick Switch Current Scheme"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.appcode.general-shortcuts.0c04a9df78",
+          "title": {
+            "en": "Add to Favourites",
+            "zh-Hans": "添加to Favourites"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.find-and-replace",
+      "title": {
+        "en": "Find and Replace",
+        "zh-Hans": "查找和替换"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.find-and-replace.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.appcode.find-and-replace.98bc8cfea2",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.appcode.find-and-replace.5c4502c59a",
+          "title": {
+            "en": "Search Everywhere",
+            "zh-Hans": "搜索 Everywhere"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.find-and-replace.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.appcode.find-and-replace.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.appcode.find-and-replace.f3971cf25f",
+          "title": {
+            "en": "Find in Path",
+            "zh-Hans": "Find in Path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.appcode.find-and-replace.db9f5efd25",
+          "title": {
+            "en": "Replace in Path",
+            "zh-Hans": "Replace in Path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.editing-shortcuts",
+      "title": {
+        "en": "Editing Shortcuts",
+        "zh-Hans": "编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.editing-shortcuts.eb93059641",
+          "title": {
+            "en": "Basic Code Completion",
+            "zh-Hans": "Basic Code Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.a99af8fd36",
+          "title": {
+            "en": "Complete Current Statement",
+            "zh-Hans": "Complete 当前 Statement"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.6c910af960",
+          "title": {
+            "en": "Quick Documentation Lookup",
+            "zh-Hans": "Quick Documentation Lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4096,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.2feff49681",
+          "title": {
+            "en": "Brief Info",
+            "zh-Hans": "Brief Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.47c8e7abc3",
+          "title": {
+            "en": "Complete Statement",
+            "zh-Hans": "Complete Statement"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.60bb45ef36",
+          "title": {
+            "en": "Parameter Information",
+            "zh-Hans": "Parameter Information"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.662fbf66a7",
+          "title": {
+            "en": "Override Methods",
+            "zh-Hans": "Override Methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.3b1def2e19",
+          "title": {
+            "en": "Generate Code",
+            "zh-Hans": "Generate Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.70cd366666",
+          "title": {
+            "en": "Move Line(Selection) Up/Down",
+            "zh-Hans": "移动Line(选择) 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.ccbf8ba9cf",
+          "title": {
+            "en": "Surround With..(Begin..End etc.)",
+            "zh-Hans": "Surround With..(Begin..End etc.)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.2ed96b80d0",
+          "title": {
+            "en": "Comment/Uncomment with Line Comment",
+            "zh-Hans": "Comment/Uncomment with Line Comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.f6f9a5a8c6",
+          "title": {
+            "en": "Comment/Uncomment with Block Comment",
+            "zh-Hans": "Comment/Uncomment with Block Comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.402c0cb2d9",
+          "title": {
+            "en": "Show Description of Error or Warning at Caret",
+            "zh-Hans": "Show Description of Error or Warning at Caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 256,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.fd186e5991",
+          "title": {
+            "en": "Indent Selected Lines",
+            "zh-Hans": "Indent 所选 Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.d704344349",
+          "title": {
+            "en": "Unindent Selected Lines",
+            "zh-Hans": "Unindent 所选 Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.4dc9fc93e6",
+          "title": {
+            "en": "Show Intention Actions and Quick Fixes",
+            "zh-Hans": "Show Intention Actions and Quick Fixes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.bb6da74a59",
+          "title": {
+            "en": "Reformat Code",
+            "zh-Hans": "Reformat Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.53920267d4",
+          "title": {
+            "en": "Duplicate Current Line",
+            "zh-Hans": "创建副本 当前 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.e60454d935",
+          "title": {
+            "en": "Cut/Copy/Paste Current line to Clipboard",
+            "zh-Hans": "Cut/Copy/Paste Current line to Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.9094a13bf1",
+          "title": {
+            "en": "Paste from Buffer",
+            "zh-Hans": "Paste from Buffer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.91a6f5f320",
+          "title": {
+            "en": "AutoIndent Lines",
+            "zh-Hans": "AutoIndent Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.65da75225e",
+          "title": {
+            "en": "Delete line at caret",
+            "zh-Hans": "Delete line at caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.c1f7b35c54",
+          "title": {
+            "en": "Start New line",
+            "zh-Hans": "开始 New 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.6d7c9d367e",
+          "title": {
+            "en": "Show Intention Actions/Quick-Fixes",
+            "zh-Hans": "Show Intention Actions/Quick-Fixes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.dcb4ffa036",
+          "title": {
+            "en": "Decrease Current Selection to Previous State",
+            "zh-Hans": "Decrease Current Selection to Previous State"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.5d4bbaeba7",
+          "title": {
+            "en": "Select Successively Incresing Code blocks",
+            "zh-Hans": "Select Successively Incresing Code blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.1b49b22d59",
+          "title": {
+            "en": "Expand All",
+            "zh-Hans": "展开All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.93bda5bce6",
+          "title": {
+            "en": "Collapse All",
+            "zh-Hans": "折叠All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.01b94cb12e",
+          "title": {
+            "en": "Expand/Collapse Code block",
+            "zh-Hans": "Expand/Collapse Code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.b6b766319c",
+          "title": {
+            "en": "Delete to end word",
+            "zh-Hans": "Delete to end word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.8ea1cb176a",
+          "title": {
+            "en": "Delete to word start",
+            "zh-Hans": "Delete to word start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.6088f72033",
+          "title": {
+            "en": "Select till code block end",
+            "zh-Hans": "Select till code block end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2816,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.eb7e7a2662",
+          "title": {
+            "en": "Select till code block start",
+            "zh-Hans": "Select till code block start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2816,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.92c8b7e4c2",
+          "title": {
+            "en": "Toggle Carnel/Snake Case",
+            "zh-Hans": "Toggle Carnel/Snake Case"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2560,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.appcode.editing-shortcuts.c02d984752",
+          "title": {
+            "en": "Switch case for Word at Caret or Selected block",
+            "zh-Hans": "Switch case for Word at Caret or Selected block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.code-refactoring",
+      "title": {
+        "en": "Code Refactoring",
+        "zh-Hans": "代码重构"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.code-refactoring.cfc647eb63",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.1a2fcd6c38",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.caf60fc1ab",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.6e658cad46",
+          "title": {
+            "en": "Change Signature",
+            "zh-Hans": "Change Signature"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.8a58b63810",
+          "title": {
+            "en": "Safe Delete",
+            "zh-Hans": "Safe 删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.7f54b87a47",
+          "title": {
+            "en": "Inline",
+            "zh-Hans": "Inline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.79b0b44e82",
+          "title": {
+            "en": "Refactor this Quick List",
+            "zh-Hans": "Refactor this Quick List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.5de98fb942",
+          "title": {
+            "en": "Extract Method",
+            "zh-Hans": "Extract 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.041b0fa96d",
+          "title": {
+            "en": "Extract Field",
+            "zh-Hans": "Extract Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.05e879e5a3",
+          "title": {
+            "en": "Extract parameter",
+            "zh-Hans": "Extract parameter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.8c305e36ba",
+          "title": {
+            "en": "Extract Constant",
+            "zh-Hans": "Extract Constant"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.appcode.code-refactoring.bb6c9134a2",
+          "title": {
+            "en": "Extract Variable",
+            "zh-Hans": "Extract 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.navigation-controls",
+      "title": {
+        "en": "Navigation Controls",
+        "zh-Hans": "导航控制"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.navigation-controls.dd7430f511",
+          "title": {
+            "en": "Go to Class",
+            "zh-Hans": "转到Class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.d71324300a",
+          "title": {
+            "en": "Go to File",
+            "zh-Hans": "转到文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.9a53891dcf",
+          "title": {
+            "en": "Go to Symbol",
+            "zh-Hans": "转到Symbol"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2816,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.7851fbc3b3",
+          "title": {
+            "en": "Go back to Previous Tool Window",
+            "zh-Hans": "Go back to Previous Tool Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.546cf79934",
+          "title": {
+            "en": "Go to Editor",
+            "zh-Hans": "转到Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.84d3b17554",
+          "title": {
+            "en": "Hide Active or Last Active Window",
+            "zh-Hans": "Hide Active or Last Active Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.134cb9cf05",
+          "title": {
+            "en": "Next highlighted Error",
+            "zh-Hans": "下一个 highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.1df449a7bc",
+          "title": {
+            "en": "Previous highlighted Error",
+            "zh-Hans": "上一个 highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.082cc2ab08",
+          "title": {
+            "en": "Go to Top of Page",
+            "zh-Hans": "Go to Top of Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.571b5de525",
+          "title": {
+            "en": "Go to Bottom of Page",
+            "zh-Hans": "Go to Bottom of Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.b83572be38",
+          "title": {
+            "en": "Go to Line",
+            "zh-Hans": "转到行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.a3e0a7940f",
+          "title": {
+            "en": "Recent files Popup",
+            "zh-Hans": "Recent 文件 Popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.3eb7e5516a",
+          "title": {
+            "en": "Select current file/Symbol in any View",
+            "zh-Hans": "Select current file/Symbol in any View"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 2048,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.3e5a6bad06",
+          "title": {
+            "en": "Go to Next/Previous Tab",
+            "zh-Hans": "转到Next/上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4096,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.85e654345f",
+          "title": {
+            "en": "Go to Declaration",
+            "zh-Hans": "转到Declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.489cd281c1",
+          "title": {
+            "en": "Go to Type Declaration",
+            "zh-Hans": "转到Type Declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.b1c8451437",
+          "title": {
+            "en": "Navigate back/forward",
+            "zh-Hans": "Navigate back/向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.af30f17460",
+          "title": {
+            "en": "Go to last edit location",
+            "zh-Hans": "Go to last edit location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 768,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.a529e9b1a3",
+          "title": {
+            "en": "Go to super method/super class",
+            "zh-Hans": "Go to super method/super class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.3f7e5ac6b6",
+          "title": {
+            "en": "Type Hierarchy",
+            "zh-Hans": "Type Hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.8892337ca8",
+          "title": {
+            "en": "Method Hierarchy",
+            "zh-Hans": "方法 Hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.a3c281b437",
+          "title": {
+            "en": "Call Hierarchy",
+            "zh-Hans": "Call Hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 6144,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.0392d8bde6",
+          "title": {
+            "en": "Toggle Bookmark",
+            "zh-Hans": "切换Bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.6a39b8b093",
+          "title": {
+            "en": "Toggle Bookmark with Mnemonic",
+            "zh-Hans": "Toggle Bookmark with Mnemonic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.b0bb9a8959",
+          "title": {
+            "en": "Show Bookmarks",
+            "zh-Hans": "显示 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.acff8b1740",
+          "title": {
+            "en": "Go to Numbered Bookmark",
+            "zh-Hans": "转到Numbered 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.1ec462662a",
+          "title": {
+            "en": "Show Navigation bar",
+            "zh-Hans": "显示 Navigation bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.f11dd1c850",
+          "title": {
+            "en": "Close Active Run/Messages",
+            "zh-Hans": "关闭 活动 Run/Messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 4608,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.1b193c758a",
+          "title": {
+            "en": "Edit Source",
+            "zh-Hans": "编辑 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.6333e69304",
+          "title": {
+            "en": "View Source",
+            "zh-Hans": "视图 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.139f9c6164",
+          "title": {
+            "en": "Show Diagram",
+            "zh-Hans": "显示 Diagram"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2816,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.b9dcfce66d",
+          "title": {
+            "en": "Diagram Popup",
+            "zh-Hans": "Diagram Popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.96e1e9a9d6",
+          "title": {
+            "en": "File Structure Popup",
+            "zh-Hans": "文件 Structure Popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.e34425dfd3",
+          "title": {
+            "en": "Move to code block end/start",
+            "zh-Hans": "Move to code block end/start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.78af51ede7",
+          "title": {
+            "en": "Go to Previous/Next Method",
+            "zh-Hans": "转到Previous/下一个 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.appcode.navigation-controls.0acfb9a480",
+          "title": {
+            "en": "Open Quick Definition Lookup",
+            "zh-Hans": "Open Quick Definition Lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.debugging-shortcuts",
+      "title": {
+        "en": "Debugging Shortcuts",
+        "zh-Hans": "调试快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.debugging-shortcuts.7f8d6347e5",
+          "title": {
+            "en": "Run to Cursor",
+            "zh-Hans": "Run to Cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2048,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.appcode.debugging-shortcuts.87655abe7b",
+          "title": {
+            "en": "Step Out",
+            "zh-Hans": "Step Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.appcode.debugging-shortcuts.d8c311358f",
+          "title": {
+            "en": "Step Over",
+            "zh-Hans": "Step Over"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.appcode.debugging-shortcuts.d0b12895eb",
+          "title": {
+            "en": "Step Into",
+            "zh-Hans": "Step Into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.appcode.debugging-shortcuts.fd5c03a90e",
+          "title": {
+            "en": "Evaluate Expression",
+            "zh-Hans": "Evaluate Expression"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2048,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.appcode.debugging-shortcuts.5b5448dbf6",
+          "title": {
+            "en": "Toggle Breakpoint",
+            "zh-Hans": "切换Breakpoint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.appcode.debugging-shortcuts.b07e8939c3",
+          "title": {
+            "en": "View Breakpoints",
+            "zh-Hans": "视图 Breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 768,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.appcode.debugging-shortcuts.8ff62277f9",
+          "title": {
+            "en": "Resume Program",
+            "zh-Hans": "Resume Program"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.compile-and-run",
+      "title": {
+        "en": "Compile and Run",
+        "zh-Hans": "编译与运行"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.compile-and-run.54d59723ca",
+          "title": {
+            "en": "Build Project",
+            "zh-Hans": "Build 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.appcode.compile-and-run.323392fd84",
+          "title": {
+            "en": "Run",
+            "zh-Hans": "Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.appcode.compile-and-run.25505811bd",
+          "title": {
+            "en": "Debug",
+            "zh-Hans": "调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.appcode.compile-and-run.198ea0af03",
+          "title": {
+            "en": "Select Configuration and Run",
+            "zh-Hans": "Select Configuration and Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6144,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.appcode.compile-and-run.13d7f92c2b",
+          "title": {
+            "en": "Select Configuration and Debug",
+            "zh-Hans": "Select Configuration and Debug"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6144,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.appcode.compile-and-run.5f9d4e3d2d",
+          "title": {
+            "en": "Run Context Configuration from Editor",
+            "zh-Hans": "Run Context Configuration from Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4608,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.appcode.compile-and-run.f2b04170ad",
+          "title": {
+            "en": "Debug Context Configuration from Editor",
+            "zh-Hans": "Debug Context Configuration from Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4608,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.usage-search",
+      "title": {
+        "en": "Usage Search",
+        "zh-Hans": "Usage 搜索"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.usage-search.8d6fed6904",
+          "title": {
+            "en": "Find Usage in File",
+            "zh-Hans": "Find Usage in File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.appcode.usage-search.e2b901f2f2",
+          "title": {
+            "en": "Find Usage",
+            "zh-Hans": "查找 Usage"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2048,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.appcode.usage-search.7006636d21",
+          "title": {
+            "en": "Highlight Usage in File",
+            "zh-Hans": "Highlight Usage in File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 768,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.appcode.usage-search.9889099428",
+          "title": {
+            "en": "Show Usage",
+            "zh-Hans": "显示 Usage"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2304,
+            "displayKey": "F7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.vcs-local-history",
+      "title": {
+        "en": "VCS/Local History",
+        "zh-Hans": "版本控制/本地历史"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.vcs-local-history.529a4e56c2",
+          "title": {
+            "en": "Commit Project to VCS",
+            "zh-Hans": "Commit Project to VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.appcode.vcs-local-history.3cf8621ea4",
+          "title": {
+            "en": "Update Project from VCS",
+            "zh-Hans": "Update Project from VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.appcode.vcs-local-history.839c541e4f",
+          "title": {
+            "en": "View Recent Changes",
+            "zh-Hans": "视图 Recent Changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.appcode.vcs-local-history.2c6fb8aa1e",
+          "title": {
+            "en": "VCS Operations Popup",
+            "zh-Hans": "VCS Operations Popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.appcode.live-templates",
+      "title": {
+        "en": "Live Templates",
+        "zh-Hans": "动态模板"
+      },
+      "items": [
+        {
+          "id": "remote.appcode.live-templates.3376bffb6e",
+          "title": {
+            "en": "Insert Live Template",
+            "zh-Hans": "插入 Live 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.appcode.live-templates.15d907a430",
+          "title": {
+            "en": "Surround with Live Template",
+            "zh-Hans": "Surround with Live Template"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        }
+      ]
+    }
+  ]
+}

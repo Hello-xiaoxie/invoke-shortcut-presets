@@ -1,0 +1,768 @@
+{
+  "bundleIdentifier": "com.panic.Transmit",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.transmit.application-management",
+      "title": {
+        "en": "Application management",
+        "zh-Hans": "应用管理"
+      },
+      "items": [
+        {
+          "id": "remote.transmit.application-management.17bcf963f3",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.transmit.application-management.fa2395280c",
+          "title": {
+            "en": "Hide Transmit",
+            "zh-Hans": "隐藏 Transmit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.transmit.application-management.da4869ec1d",
+          "title": {
+            "en": "Hide Others",
+            "zh-Hans": "隐藏 Others"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.transmit.application-management.5b349094c9",
+          "title": {
+            "en": "Quit Transmit",
+            "zh-Hans": "退出 Transmit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.transmit.application-management.38ab927a77",
+          "title": {
+            "en": "Quit and Close All Windows",
+            "zh-Hans": "Quit and Close All Windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2304,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.transmit.window-and-file-management",
+      "title": {
+        "en": "Window and file management",
+        "zh-Hans": "窗口与文件管理"
+      },
+      "items": [
+        {
+          "id": "remote.transmit.window-and-file-management.646f9292ec",
+          "title": {
+            "en": "New Window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.26ef4c66c1",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.3280cc2d63",
+          "title": {
+            "en": "New Folder",
+            "zh-Hans": "新建文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.4fa4c3d108",
+          "title": {
+            "en": "New File",
+            "zh-Hans": "新建File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.c7885432cf",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.0f4e51c3f5",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.e360e4574d",
+          "title": {
+            "en": "Close All",
+            "zh-Hans": "关闭 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.0a24275aff",
+          "title": {
+            "en": "Disconnect",
+            "zh-Hans": "Disconnect"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.faf81553ec",
+          "title": {
+            "en": "Open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.d17a04f38b",
+          "title": {
+            "en": "Preview in Browser",
+            "zh-Hans": "Preview in Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.da89481cc3",
+          "title": {
+            "en": "Get Info",
+            "zh-Hans": "显示简介"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.c8fcafbd53",
+          "title": {
+            "en": "Quick Look at Selected-File",
+            "zh-Hans": "Quick Look at Selected-File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.transmit.window-and-file-management.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.transmit.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.transmit.editing.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.transmit.editing.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.transmit.editing.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.transmit.editing.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.transmit.editing.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.transmit.editing.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.transmit.editing.9d135fc5b0",
+          "title": {
+            "en": "Jump to Selection",
+            "zh-Hans": "跳转到Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.transmit.editing.2f83419c50",
+          "title": {
+            "en": "Show Spelling and Grammar",
+            "zh-Hans": "Show Spelling and Grammar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.transmit.editing.60ff363de9",
+          "title": {
+            "en": "Check Spelling",
+            "zh-Hans": "Check Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.transmit.navigation-and-view",
+      "title": {
+        "en": "Navigation and view",
+        "zh-Hans": "导航与视图"
+      },
+      "items": [
+        {
+          "id": "remote.transmit.navigation-and-view.37c59f9587",
+          "title": {
+            "en": "Show Transfers",
+            "zh-Hans": "显示 Transfers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.e8fcf3fc17",
+          "title": {
+            "en": "Show Transfers Window",
+            "zh-Hans": "显示 Transfers 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.0bee86a69b",
+          "title": {
+            "en": "View as Thumbnails",
+            "zh-Hans": "视图 as Thumbnails"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.e3ce05bbaa",
+          "title": {
+            "en": "View as List",
+            "zh-Hans": "视图 as List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.5a8a7185d2",
+          "title": {
+            "en": "View as Columns",
+            "zh-Hans": "视图 as 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.0335c8948e",
+          "title": {
+            "en": "View as Cover Flow",
+            "zh-Hans": "View as Cover Flow"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.75aab72d27",
+          "title": {
+            "en": "Refresh",
+            "zh-Hans": "刷新"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.12dbd50edc",
+          "title": {
+            "en": "Show Invisible Files",
+            "zh-Hans": "显示 Invisible 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.bb074ee985",
+          "title": {
+            "en": "Hide Places Bar",
+            "zh-Hans": "隐藏 Places Bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.ddadaea4c4",
+          "title": {
+            "en": "Show View Options",
+            "zh-Hans": "显示视图选项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.0d8db790fd",
+          "title": {
+            "en": "Enter Full Screen",
+            "zh-Hans": "Enter 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.8b9ead6bc2",
+          "title": {
+            "en": "Focus on Local",
+            "zh-Hans": "聚焦on Local"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.2b404c6967",
+          "title": {
+            "en": "Focus on Remote",
+            "zh-Hans": "聚焦on Remote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.aa9816892f",
+          "title": {
+            "en": "Back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.f815d08615",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.f6698a974b",
+          "title": {
+            "en": "Enclosing Folder",
+            "zh-Hans": "Enclosing 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.306d029afe",
+          "title": {
+            "en": "Go to Folder",
+            "zh-Hans": "前往文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.4c732c8af3",
+          "title": {
+            "en": "Open in Terminal",
+            "zh-Hans": "Open in Terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.24c9ec41e8",
+          "title": {
+            "en": "Link Folder Navigation",
+            "zh-Hans": "链接 文件夹 Navigation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.3ea10c9934",
+          "title": {
+            "en": "Connect to Last Used Protocol",
+            "zh-Hans": "Connect to Last Used Protocol"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.4fb2ea56fb",
+          "title": {
+            "en": "Transfer Selected Items",
+            "zh-Hans": "Transfer 所选 Items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.348b3f3c18",
+          "title": {
+            "en": "Transfer Selected Items Without Rules",
+            "zh-Hans": "Transfer Selected Items Without Rules"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2816,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.8174062816",
+          "title": {
+            "en": "Cancel",
+            "zh-Hans": "取消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.7e222a6e27",
+          "title": {
+            "en": "Add New Server",
+            "zh-Hans": "添加New Server"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.cdcb100731",
+          "title": {
+            "en": "Show Quick Connect",
+            "zh-Hans": "显示 Quick Connect"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.ca59f082f9",
+          "title": {
+            "en": "Edit Server",
+            "zh-Hans": "编辑 Server"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.a73346595e",
+          "title": {
+            "en": "Minimize",
+            "zh-Hans": "最小化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.f8d0d874f2",
+          "title": {
+            "en": "Minimize All",
+            "zh-Hans": "最小化 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.fa1025c204",
+          "title": {
+            "en": "Select Next Tab",
+            "zh-Hans": "选择Next 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.e7a835a200",
+          "title": {
+            "en": "Select Previous Tab",
+            "zh-Hans": "选择Previous 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.transmit.navigation-and-view.46e3a846e6",
+          "title": {
+            "en": "Transcript",
+            "zh-Hans": "Transcript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4352,
+            "displayKey": "T"
+          }
+        }
+      ]
+    }
+  ]
+}

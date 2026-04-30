@@ -1,0 +1,300 @@
+{
+  "bundleIdentifier": "com.apple.Reminders",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-reminders.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-reminders.general-shortcuts.7285d6c154",
+          "title": {
+            "en": "Create a new reminder",
+            "zh-Hans": "Create a new reminder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.general-shortcuts.4988dea6ba",
+          "title": {
+            "en": "Create a new list",
+            "zh-Hans": "Create a new list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.general-shortcuts.0ca9db090f",
+          "title": {
+            "en": "Close the reminders window",
+            "zh-Hans": "Close the reminders window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.general-shortcuts.bd24f06f38",
+          "title": {
+            "en": "Print reminders",
+            "zh-Hans": "打印 reminders"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.general-shortcuts.51b3b04d1a",
+          "title": {
+            "en": "Show Reminders preferences",
+            "zh-Hans": "显示 Reminders 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-reminders.edit-shortcuts",
+      "title": {
+        "en": "Edit Shortcuts",
+        "zh-Hans": "编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-reminders.edit-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.edit-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.edit-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.edit-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.edit-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.edit-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.edit-shortcuts.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-reminders.navigation-shortcuts",
+      "title": {
+        "en": "Navigation Shortcuts",
+        "zh-Hans": "导航快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-reminders.navigation-shortcuts.753cd1676d",
+          "title": {
+            "en": "Go to the search field",
+            "zh-Hans": "Go to the search field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.navigation-shortcuts.fe96af6512",
+          "title": {
+            "en": "Go to the next reminder in the list",
+            "zh-Hans": "Go to the next reminder in the list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.navigation-shortcuts.9bcc9a1276",
+          "title": {
+            "en": "Go to the previous reminder in the list",
+            "zh-Hans": "Go to the previous reminder in the list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.navigation-shortcuts.943b1a519d",
+          "title": {
+            "en": "Show or hide the sidebar",
+            "zh-Hans": "Show or hide the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-reminders.reminder-shortcuts",
+      "title": {
+        "en": "Reminder Shortcuts",
+        "zh-Hans": "Reminder快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-reminders.reminder-shortcuts.c5a73c2fec",
+          "title": {
+            "en": "Show info for selected reminder",
+            "zh-Hans": "Show info for selected reminder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.reminder-shortcuts.ab9d630c49",
+          "title": {
+            "en": "Mark reminder as completed",
+            "zh-Hans": "Mark reminder as completed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4352,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.reminder-shortcuts.e0365aa459",
+          "title": {
+            "en": "Mark reminder as incomplete",
+            "zh-Hans": "Mark reminder as incomplete"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4352,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.reminder-shortcuts.5c7f14d603",
+          "title": {
+            "en": "Flag reminder",
+            "zh-Hans": "Flag reminder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-reminders.reminder-shortcuts.304abfe8c9",
+          "title": {
+            "en": "Show all reminders",
+            "zh-Hans": "显示 全部 reminders"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        }
+      ]
+    }
+  ]
+}

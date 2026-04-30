@@ -1,0 +1,252 @@
+{
+  "bundleIdentifier": "com.tableplus.TablePlus",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.tableplus.connection",
+      "title": {
+        "en": "Connection",
+        "zh-Hans": "连接"
+      },
+      "items": [
+        {
+          "id": "remote.tableplus.connection.7b40b6ace3",
+          "title": {
+            "en": "New Connection",
+            "zh-Hans": "新建Connection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.tableplus.connection.fb7f4a425c",
+          "title": {
+            "en": "Switch Database",
+            "zh-Hans": "Switch Database"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.tableplus.connection.e560b3d47c",
+          "title": {
+            "en": "Switch Connection",
+            "zh-Hans": "Switch Connection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.tableplus.connection.26ef4c66c1",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.tableplus.connection.c7885432cf",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.tableplus.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.tableplus.editor.4cd4368e27",
+          "title": {
+            "en": "Open SQL Query",
+            "zh-Hans": "打开 SQL Query"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.tableplus.editor.4af77ec61b",
+          "title": {
+            "en": "Execute Query",
+            "zh-Hans": "Execute Query"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.tableplus.editor.6e42b911a5",
+          "title": {
+            "en": "Comment/Uncomment SQL",
+            "zh-Hans": "评论/Uncomment SQL"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.tableplus.editor.a6d45176a4",
+          "title": {
+            "en": "Beautify SQL",
+            "zh-Hans": "Beautify SQL"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.tableplus.data",
+      "title": {
+        "en": "Data",
+        "zh-Hans": "数据"
+      },
+      "items": [
+        {
+          "id": "remote.tableplus.data.3ad6b7dc15",
+          "title": {
+            "en": "Commit Changes",
+            "zh-Hans": "提交 Changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.tableplus.data.75aab72d27",
+          "title": {
+            "en": "Refresh",
+            "zh-Hans": "刷新"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.tableplus.data.44a1546b20",
+          "title": {
+            "en": "Insert New Row",
+            "zh-Hans": "插入 New 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.tableplus.data.06dce72029",
+          "title": {
+            "en": "Duplicate Row",
+            "zh-Hans": "创建副本 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.tableplus.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.tableplus.navigation.34d5b0a242",
+          "title": {
+            "en": "Open Anything",
+            "zh-Hans": "打开 Anything"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.tableplus.navigation.c392a226fa",
+          "title": {
+            "en": "Filter Rows",
+            "zh-Hans": "滤镜 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.tableplus.navigation.d0269ad8e5",
+          "title": {
+            "en": "Previous Tab",
+            "zh-Hans": "上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.tableplus.navigation.4679b9bb74",
+          "title": {
+            "en": "Next Tab",
+            "zh-Hans": "下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        }
+      ]
+    }
+  ]
+}

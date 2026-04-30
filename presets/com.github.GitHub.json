@@ -1,0 +1,471 @@
+{
+  "bundleIdentifier": "com.github.GitHub",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.github-desktop.branches",
+      "title": {
+        "en": "Branches",
+        "zh-Hans": "分支"
+      },
+      "items": [
+        {
+          "id": "remote.github-desktop.branches.837a39a4b4",
+          "title": {
+            "en": "Show the current pull request on GitHub",
+            "zh-Hans": "Show the current pull request on GitHub"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.c22f537e85",
+          "title": {
+            "en": "Compare branches on GitHub",
+            "zh-Hans": "Compare branches on GitHub"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.96974c91b9",
+          "title": {
+            "en": "Show or hide stashed changes",
+            "zh-Hans": "Show or hide stashed changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.71d90f18d5",
+          "title": {
+            "en": "Merge into current branch",
+            "zh-Hans": "Merge into 当前 分支"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.7ea960a0a5",
+          "title": {
+            "en": "Compare to an existing branch",
+            "zh-Hans": "Compare to an existing branch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.cffada9931",
+          "title": {
+            "en": "Update from default branch",
+            "zh-Hans": "Update from default branch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.029a7a6b64",
+          "title": {
+            "en": "Delete the current branch",
+            "zh-Hans": "Delete the current branch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.4b71976693",
+          "title": {
+            "en": "Rename the current branch",
+            "zh-Hans": "Rename the current branch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.ed4b4c9486",
+          "title": {
+            "en": "Create a new branch",
+            "zh-Hans": "Create a new 分支"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.d18325d475",
+          "title": {
+            "en": "Select or deselect all highlighted files",
+            "zh-Hans": "Select or deselect all highlighted files"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.3b32c6c3c1",
+          "title": {
+            "en": "Commit changes when summary or description field is active",
+            "zh-Hans": "Commit changes when summary or description field is active"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.20e5bb4414",
+          "title": {
+            "en": "Go to the commit summary field",
+            "zh-Hans": "Go to the commit summary field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.69209d2f7f",
+          "title": {
+            "en": "Show all your branches",
+            "zh-Hans": "显示 全部 your branches"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.32f8c280b4",
+          "title": {
+            "en": "Show your commit history",
+            "zh-Hans": "Show your commit history"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.github-desktop.branches.9decfa059b",
+          "title": {
+            "en": "Show all your changes before committing",
+            "zh-Hans": "Show all your changes before committing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.github-desktop.repositories",
+      "title": {
+        "en": "Repositories",
+        "zh-Hans": "仓库"
+      },
+      "items": [
+        {
+          "id": "remote.github-desktop.repositories.9ec3a1fafd",
+          "title": {
+            "en": "Create an issue on GitHub",
+            "zh-Hans": "Create an issue on GitHub"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.2a32990a12",
+          "title": {
+            "en": "Open the repository in your preferred editor tool",
+            "zh-Hans": "Open the repository in your preferred editor tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.01fc3fbb30",
+          "title": {
+            "en": "Show the repository in Finder",
+            "zh-Hans": "Show the repository in Finder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.56980e54e5",
+          "title": {
+            "en": "Open repository in your preferred terminal tool",
+            "zh-Hans": "Open repository in your preferred terminal tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.4a8e8ab610",
+          "title": {
+            "en": "View the repository on GitHub",
+            "zh-Hans": "View the repository on GitHub"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.9372d9c74f",
+          "title": {
+            "en": "Remove an existing repository",
+            "zh-Hans": "移除an existing 仓库"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.4f091a6e20",
+          "title": {
+            "en": "Pull down the latest changes from GitHub",
+            "zh-Hans": "Pull down the latest changes from GitHub"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.09fdc55f0f",
+          "title": {
+            "en": "Push the latest commits to GitHub",
+            "zh-Hans": "Push the latest commits to GitHub"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.1eafeb4971",
+          "title": {
+            "en": "Show a list of your repositories",
+            "zh-Hans": "Show a list of your repositories"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.a89e4ef600",
+          "title": {
+            "en": "Clone a repository from GitHub",
+            "zh-Hans": "Clone a repository from GitHub"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.bf5c891e52",
+          "title": {
+            "en": "Add a local repository",
+            "zh-Hans": "添加a local 仓库"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.github-desktop.repositories.ca5ec41e4a",
+          "title": {
+            "en": "Add a new repository",
+            "zh-Hans": "添加a new 仓库"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.github-desktop.site-wide",
+      "title": {
+        "en": "Site wide",
+        "zh-Hans": "全站"
+      },
+      "items": [
+        {
+          "id": "remote.github-desktop.site-wide.37416a7d72",
+          "title": {
+            "en": "Toggle Developer Tools",
+            "zh-Hans": "Toggle 开发者工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.github-desktop.site-wide.eae1e32d1a",
+          "title": {
+            "en": "Zoom out for smaller text and graphics",
+            "zh-Hans": "Zoom out for smaller text and graphics"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.github-desktop.site-wide.623d608b94",
+          "title": {
+            "en": "Zoom in for larger text and graphics",
+            "zh-Hans": "Zoom in for larger text and graphics"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.github-desktop.site-wide.fb33bf025f",
+          "title": {
+            "en": "Reset zoom to default text size",
+            "zh-Hans": "Reset zoom to default text size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.github-desktop.site-wide.7b4ec3be36",
+          "title": {
+            "en": "Toggle full screen view",
+            "zh-Hans": "Toggle 全屏 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.github-desktop.site-wide.15b9d5de72",
+          "title": {
+            "en": "Quit GitHub Desktop",
+            "zh-Hans": "退出 GitHub Desktop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.github-desktop.site-wide.4dcc3cc2ce",
+          "title": {
+            "en": "Hide all other applications",
+            "zh-Hans": "隐藏 全部 other applications"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.github-desktop.site-wide.9f60d9f75b",
+          "title": {
+            "en": "Hide the GitHub Desktop application",
+            "zh-Hans": "Hide the GitHub Desktop application"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.github-desktop.site-wide.d012948d1a",
+          "title": {
+            "en": "Go to Preferences",
+            "zh-Hans": "Go to Preferences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    }
+  ]
+}

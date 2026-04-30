@@ -1,0 +1,390 @@
+{
+  "bundleIdentifier": "org.filezilla-project.filezilla.sandbox",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.filezilla.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.filezilla.general.c065bfb2ee",
+          "title": {
+            "en": "Rename selected file",
+            "zh-Hans": "重命名 所选 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 63,
+            "carbonModifiers": 0,
+            "displayKey": "63"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.c8f66e00f2",
+          "title": {
+            "en": "Search remote files",
+            "zh-Hans": "搜索 remote 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.31f5348e56",
+          "title": {
+            "en": "Refreshes local and remote file and folder views",
+            "zh-Hans": "Refreshes local and remote file and folder views"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.9972bf3e9f",
+          "title": {
+            "en": "Switches to the next view",
+            "zh-Hans": "Switches to the next view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.1c94384e46",
+          "title": {
+            "en": "Moves selected item to matching item in the other pane.",
+            "zh-Hans": "Moves selected item to matching item in the other pane."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.1ace204a69",
+          "title": {
+            "en": "Moves up a line in tree view, or to parent folder in file view.",
+            "zh-Hans": "Moves up a line in tree view, or to parent folder in file view."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.3c22f0641f",
+          "title": {
+            "en": "Add bookmark",
+            "zh-Hans": "添加bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.38dd36e60d",
+          "title": {
+            "en": "Manage bookmarks",
+            "zh-Hans": "Manage 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.18a0dd1bbb",
+          "title": {
+            "en": "Stops the current operation",
+            "zh-Hans": "Stops the current operation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.634d856846",
+          "title": {
+            "en": "Disconnects from server",
+            "zh-Hans": "Disconnects from server"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.4632ee2ae6",
+          "title": {
+            "en": "Show files currently being edited",
+            "zh-Hans": "Show files currently being edited"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.filezilla.general.fcc759675b",
+          "title": {
+            "en": "Directory listing filters",
+            "zh-Hans": "Directory listing filters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.filezilla.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.filezilla.navigation.ec1fce1422",
+          "title": {
+            "en": "Manual transfer",
+            "zh-Hans": "Manual transfer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.44f42ea218",
+          "title": {
+            "en": "Create a new directory",
+            "zh-Hans": "Create a new directory"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.495915d753",
+          "title": {
+            "en": "Enable directory comparison",
+            "zh-Hans": "启用directory comparison"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.cc6976fecb",
+          "title": {
+            "en": "Process queue",
+            "zh-Hans": "Process queue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.e36c4e07e3",
+          "title": {
+            "en": "Exit",
+            "zh-Hans": "Exit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.216fc5085b",
+          "title": {
+            "en": "Reconnects to server",
+            "zh-Hans": "Reconnects to server"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.952678c754",
+          "title": {
+            "en": "Opens the site manager",
+            "zh-Hans": "Opens the site manager"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.49068c3b04",
+          "title": {
+            "en": "Opens a new tab",
+            "zh-Hans": "Opens a 新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.f3a0c0f79e",
+          "title": {
+            "en": "Preserve the timestamps of transferred files",
+            "zh-Hans": "Preserve the timestamps of transferred files"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.d63a24370a",
+          "title": {
+            "en": "Toggle synchronized browsing",
+            "zh-Hans": "切换synchronized browsing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.3c2a9a0cf2",
+          "title": {
+            "en": "Close tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.9177c3c7c8",
+          "title": {
+            "en": "Transfer the currently selected item if it is a file, or expands if it is a directory",
+            "zh-Hans": "Transfer the currently selected item if it is a file, or expands if it is a directory"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.ce17036981",
+          "title": {
+            "en": "Switches to the next tab",
+            "zh-Hans": "Switches to the next tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 256,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.76edf186d2",
+          "title": {
+            "en": "Switches to the previous tab",
+            "zh-Hans": "Switches to the previous tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 256,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.6368f3d1fb",
+          "title": {
+            "en": "Moves up one item in the current view",
+            "zh-Hans": "Moves up one item in the current view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.10420204a9",
+          "title": {
+            "en": "Moves down one item in the current view",
+            "zh-Hans": "Moves down one item in the current view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.08f97ae5cd",
+          "title": {
+            "en": "Nothing in a files view, up one level in a tree view",
+            "zh-Hans": "Nothing in a files view, up one level in a tree view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.filezilla.navigation.2c031290ae",
+          "title": {
+            "en": "Down one level in a tree view if there are subfolders, nothing if there are none",
+            "zh-Hans": "Down one level in a tree view if there are subfolders, nothing if there are none"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        }
+      ]
+    }
+  ]
+}

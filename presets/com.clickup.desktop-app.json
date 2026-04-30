@@ -1,0 +1,420 @@
+{
+  "bundleIdentifier": "com.clickup.desktop-app",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.clickup.dashboard-navigation",
+      "title": {
+        "en": "Dashboard Navigation",
+        "zh-Hans": "仪表盘导航"
+      },
+      "items": [
+        {
+          "id": "remote.clickup.dashboard-navigation.89b1a946fe",
+          "title": {
+            "en": "Jump to Calendar View",
+            "zh-Hans": "跳转到Calendar 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.580f7a5b23",
+          "title": {
+            "en": "Jump to Box View",
+            "zh-Hans": "跳转到Box 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.4e71f7b92e",
+          "title": {
+            "en": "Jump to Board View",
+            "zh-Hans": "跳转到Board 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.4c88cc29bb",
+          "title": {
+            "en": "Jump to List View",
+            "zh-Hans": "跳转到List 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.0ac7492b2e",
+          "title": {
+            "en": "Close any task or window",
+            "zh-Hans": "Close any task or window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.6d2623dfb1",
+          "title": {
+            "en": "Open search",
+            "zh-Hans": "打开搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.06a2d503de",
+          "title": {
+            "en": "Reload notifications",
+            "zh-Hans": "Reload notifications"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.0c2cf36ab8",
+          "title": {
+            "en": "Home",
+            "zh-Hans": "主页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.bf95ce035d",
+          "title": {
+            "en": "Notifications",
+            "zh-Hans": "Notifications"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.clickup.dashboard-navigation.2e0ea54ad5",
+          "title": {
+            "en": "Dashboards",
+            "zh-Hans": "Dashboards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.clickup.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.clickup.general.8e25c0faa0",
+          "title": {
+            "en": "Open Notepad",
+            "zh-Hans": "打开 Notepad"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.clickup.general.b555adff1a",
+          "title": {
+            "en": "Create task",
+            "zh-Hans": "Create 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.clickup.general.a7d4caacfb",
+          "title": {
+            "en": "While creating task: Copy URL",
+            "zh-Hans": "While creating task: Copy URL"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.clickup.general.fe3661c2fb",
+          "title": {
+            "en": "While creating task: Move to tray",
+            "zh-Hans": "While creating task: Move to tray"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.clickup.general.e409f77a69",
+          "title": {
+            "en": "While creating task: Open",
+            "zh-Hans": "While creating 任务: 打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.clickup.general.506ea4b8bd",
+          "title": {
+            "en": "Move to next task",
+            "zh-Hans": "移动to 下一个 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4608,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.clickup.general.88e333d4f4",
+          "title": {
+            "en": "Show/hide sidebar",
+            "zh-Hans": "显示/隐藏 侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.clickup.general.7278174df2",
+          "title": {
+            "en": "Anchor a link when text is selected",
+            "zh-Hans": "Anchor a link when text is selected"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.clickup.general.c928fb53b1",
+          "title": {
+            "en": "Use emoji picker",
+            "zh-Hans": "Use emoji picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.clickup.general.2db8a86df1",
+          "title": {
+            "en": "Clear filters from current view",
+            "zh-Hans": "Clear filters from current view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.clickup.general.bc693cd20f",
+          "title": {
+            "en": "Edit most recent comment",
+            "zh-Hans": "编辑 most recent 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.clickup.general.bbd9ba0c04",
+          "title": {
+            "en": "Assign current task to yourself",
+            "zh-Hans": "Assign current task to yourself"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.clickup.general.8b08e92af0",
+          "title": {
+            "en": "Mention a doc",
+            "zh-Hans": "Mention a doc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.clickup.general.35a6cc6610",
+          "title": {
+            "en": "Mention a task",
+            "zh-Hans": "Mention a 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.clickup.general.0d97550daa",
+          "title": {
+            "en": "Tag a user",
+            "zh-Hans": "标签 a user"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.clickup.general.2f4953579e",
+          "title": {
+            "en": "Command Center",
+            "zh-Hans": "Command 中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.clickup.desktop",
+      "title": {
+        "en": "Desktop",
+        "zh-Hans": "桌面"
+      },
+      "items": [
+        {
+          "id": "remote.clickup.desktop.4561c33415",
+          "title": {
+            "en": "Quick create a new task",
+            "zh-Hans": "Quick create a new task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.clickup.doc",
+      "title": {
+        "en": "Doc",
+        "zh-Hans": "文档"
+      },
+      "items": [
+        {
+          "id": "remote.clickup.doc.8980e5b9c1",
+          "title": {
+            "en": "Duplicate a text block",
+            "zh-Hans": "Duplicate a text block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.clickup.doc.ab1085b2b0",
+          "title": {
+            "en": "Highlight a text block",
+            "zh-Hans": "Highlight a 文本 block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.clickup.doc.090bad3644",
+          "title": {
+            "en": "Create a task from your selected text",
+            "zh-Hans": "Create a task from your selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.clickup.doc.8d3af36885",
+          "title": {
+            "en": "Create a comment from your selected text",
+            "zh-Hans": "Create a comment from your selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        }
+      ]
+    }
+  ]
+}

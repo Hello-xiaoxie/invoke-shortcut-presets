@@ -19,7 +19,7 @@
           "id": "remote.affinity-designer.tools.66517c70ea",
           "title": {
             "en": "cycle text tools",
-            "zh-Hans": "cycle text tools"
+            "zh-Hans": "cycle 文本 tools"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -43,7 +43,7 @@
           "id": "remote.affinity-designer.tools.d240e55b6d",
           "title": {
             "en": "color picker tool",
-            "zh-Hans": "color picker tool"
+            "zh-Hans": "颜色 picker tool"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -91,7 +91,7 @@
           "id": "remote.affinity-designer.tools.10d9ae2c26",
           "title": {
             "en": "node tool",
-            "zh-Hans": "node tool"
+            "zh-Hans": "节点 tool"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -115,7 +115,7 @@
           "id": "remote.affinity-designer.tools.1547a98a96",
           "title": {
             "en": "fill tool",
-            "zh-Hans": "fill tool"
+            "zh-Hans": "填充 tool"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -127,7 +127,7 @@
           "id": "remote.affinity-designer.tools.a30f53e06b",
           "title": {
             "en": "view tool",
-            "zh-Hans": "view tool"
+            "zh-Hans": "视图 tool"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -175,7 +175,7 @@
           "id": "remote.affinity-designer.tools.f3108de771",
           "title": {
             "en": "toggle active selector",
-            "zh-Hans": "toggle active selector"
+            "zh-Hans": "toggle 活动 selector"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -292,7 +292,7 @@
           "id": "remote.affinity-designer.general.da0812c235",
           "title": {
             "en": "cycle split view",
-            "zh-Hans": "cycle split view"
+            "zh-Hans": "cycle split 视图"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -304,7 +304,7 @@
           "id": "remote.affinity-designer.general.14c3c3fe56",
           "title": {
             "en": "reset selection box",
-            "zh-Hans": "reset selection box"
+            "zh-Hans": "reset 选择 box"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -328,7 +328,7 @@
           "id": "remote.affinity-designer.general.c63faf217a",
           "title": {
             "en": "switch view",
-            "zh-Hans": "switch view"
+            "zh-Hans": "switch 视图"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -364,7 +364,7 @@
           "id": "remote.affinity-designer.general.23e97ac139",
           "title": {
             "en": "character / character panel (advanced text)",
-            "zh-Hans": "character / character panel (advanced text)"
+            "zh-Hans": "字符 / 字符 面板 (advanced 文本)"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -472,7 +472,7 @@
           "id": "remote.affinity-designer.general.d05de38e6f",
           "title": {
             "en": "group",
-            "zh-Hans": "group"
+            "zh-Hans": "编组"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -520,7 +520,7 @@
           "id": "remote.affinity-designer.general.6042093238",
           "title": {
             "en": "show grid",
-            "zh-Hans": "show grid"
+            "zh-Hans": "show 网格"
           },
           "shortcutConfiguration": {
             "keyCode": 39,
@@ -685,7 +685,7 @@
           "id": "remote.affinity-designer.advanced-text.13709ded8a",
           "title": {
             "en": "typography dialog (advanced text)",
-            "zh-Hans": "typography dialog (advanced text)"
+            "zh-Hans": "排版 对话框 (advanced 文本)"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -697,7 +697,7 @@
           "id": "remote.affinity-designer.advanced-text.7ade446f78",
           "title": {
             "en": "bold (advanced text)",
-            "zh-Hans": "加粗 (advanced text)"
+            "zh-Hans": "加粗 (advanced 文本)"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -709,7 +709,7 @@
           "id": "remote.affinity-designer.advanced-text.fdf1417c4b",
           "title": {
             "en": "italic (advanced text)",
-            "zh-Hans": "斜体 (advanced text)"
+            "zh-Hans": "斜体 (advanced 文本)"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -733,7 +733,7 @@
           "id": "remote.affinity-designer.advanced-text.8305ecb064",
           "title": {
             "en": "Align left",
-            "zh-Hans": "Align left"
+            "zh-Hans": "Align 左"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -745,7 +745,7 @@
           "id": "remote.affinity-designer.advanced-text.f12cfa378e",
           "title": {
             "en": "Align center",
-            "zh-Hans": "Align center"
+            "zh-Hans": "Align 中心"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -757,7 +757,7 @@
           "id": "remote.affinity-designer.advanced-text.585db783ec",
           "title": {
             "en": "Align right",
-            "zh-Hans": "Align right"
+            "zh-Hans": "Align 右"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -769,7 +769,7 @@
           "id": "remote.affinity-designer.advanced-text.6d53649c63",
           "title": {
             "en": "Tighten spacing more",
-            "zh-Hans": "Tighten spacing more"
+            "zh-Hans": "Tighten 间距 more"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -781,7 +781,7 @@
           "id": "remote.affinity-designer.advanced-text.23dfce940d",
           "title": {
             "en": "Loosen spacing more",
-            "zh-Hans": "Loosen spacing more"
+            "zh-Hans": "Loosen 间距 more"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -850,7 +850,7 @@
           "id": "remote.affinity-designer.opacity.d4e1c2ae86",
           "title": {
             "en": "change opacity (100%)",
-            "zh-Hans": "change opacity (100%)"
+            "zh-Hans": "change 不透明度 (100%)"
           },
           "shortcutConfiguration": {
             "keyCode": 29,
@@ -862,7 +862,7 @@
           "id": "remote.affinity-designer.opacity.4c0ac5a8ce",
           "title": {
             "en": "change opacity (10%)",
-            "zh-Hans": "change opacity (10%)"
+            "zh-Hans": "change 不透明度 (10%)"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -874,7 +874,7 @@
           "id": "remote.affinity-designer.opacity.ec64ba76bd",
           "title": {
             "en": "change opacity (20%)",
-            "zh-Hans": "change opacity (20%)"
+            "zh-Hans": "change 不透明度 (20%)"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -886,7 +886,7 @@
           "id": "remote.affinity-designer.opacity.9fe10a73d3",
           "title": {
             "en": "change opacity (30%)",
-            "zh-Hans": "change opacity (30%)"
+            "zh-Hans": "change 不透明度 (30%)"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -898,7 +898,7 @@
           "id": "remote.affinity-designer.opacity.a81b9bd57b",
           "title": {
             "en": "change opacity (40%)",
-            "zh-Hans": "change opacity (40%)"
+            "zh-Hans": "change 不透明度 (40%)"
           },
           "shortcutConfiguration": {
             "keyCode": 21,
@@ -910,7 +910,7 @@
           "id": "remote.affinity-designer.opacity.0b65132aef",
           "title": {
             "en": "change opacity (50%)",
-            "zh-Hans": "change opacity (50%)"
+            "zh-Hans": "change 不透明度 (50%)"
           },
           "shortcutConfiguration": {
             "keyCode": 23,
@@ -922,7 +922,7 @@
           "id": "remote.affinity-designer.opacity.ddf295297b",
           "title": {
             "en": "change opacity (60%)",
-            "zh-Hans": "change opacity (60%)"
+            "zh-Hans": "change 不透明度 (60%)"
           },
           "shortcutConfiguration": {
             "keyCode": 22,
@@ -934,7 +934,7 @@
           "id": "remote.affinity-designer.opacity.0b618aefb2",
           "title": {
             "en": "change opacity (70%)",
-            "zh-Hans": "change opacity (70%)"
+            "zh-Hans": "change 不透明度 (70%)"
           },
           "shortcutConfiguration": {
             "keyCode": 26,
@@ -946,7 +946,7 @@
           "id": "remote.affinity-designer.opacity.69ef0af895",
           "title": {
             "en": "change opacity (80%)",
-            "zh-Hans": "change opacity (80%)"
+            "zh-Hans": "change 不透明度 (80%)"
           },
           "shortcutConfiguration": {
             "keyCode": 28,
@@ -958,7 +958,7 @@
           "id": "remote.affinity-designer.opacity.7d4af8a5a6",
           "title": {
             "en": "change opacity (90%)",
-            "zh-Hans": "change opacity (90%)"
+            "zh-Hans": "change 不透明度 (90%)"
           },
           "shortcutConfiguration": {
             "keyCode": 25,

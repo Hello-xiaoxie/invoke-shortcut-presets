@@ -1,0 +1,882 @@
+{
+  "bundleIdentifier": "org.mozilla.thunderbird",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.thunderbird.navigate-messages",
+      "title": {
+        "en": "Navigate Messages",
+        "zh-Hans": "导航消息"
+      },
+      "items": [
+        {
+          "id": "remote.thunderbird.navigate-messages.7db802b50e",
+          "title": {
+            "en": "Toggle Message Pane",
+            "zh-Hans": "切换Message 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.dc249ffc1a",
+          "title": {
+            "en": "Switch focus between Folders Pane and Message List Pane",
+            "zh-Hans": "Switch focus between Folders Pane and Message List Pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.13086e6812",
+          "title": {
+            "en": "Go one message down / one message up",
+            "zh-Hans": "Go one message down / one message up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.606559354b",
+          "title": {
+            "en": "Go to first message / go to last message",
+            "zh-Hans": "Go to first message / go to last message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.93c2c288b2",
+          "title": {
+            "en": "Go to next / go to previous message",
+            "zh-Hans": "Go to next / go to previous message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.5eb61ccf1c",
+          "title": {
+            "en": "Go to next / go to previous unread Message",
+            "zh-Hans": "Go to next / go to previous unread Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.c1e55081ae",
+          "title": {
+            "en": "Go to previously viewed / go to next viewed Message",
+            "zh-Hans": "Go to previously viewed / go to next viewed Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.88a6a029ca",
+          "title": {
+            "en": "Open message (in new window or tab)",
+            "zh-Hans": "Open message (in new window or tab)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.7ee1f1b917",
+          "title": {
+            "en": "Close window or tab",
+            "zh-Hans": "Close window or tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.c8df55725d",
+          "title": {
+            "en": "Redo close window or tab",
+            "zh-Hans": "Redo close window or tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.ff957c5df7",
+          "title": {
+            "en": "Select all messages",
+            "zh-Hans": "全选 messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.2ec5670783",
+          "title": {
+            "en": "Select all messages in Thread",
+            "zh-Hans": "Select all messages in Thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.64b22c772b",
+          "title": {
+            "en": "Expand / collapse collapsed Thread",
+            "zh-Hans": "Expand / collapse collapsed Thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.thunderbird.navigate-messages.f280d4ed7f",
+          "title": {
+            "en": "Expand all Threads / collapse all Threads",
+            "zh-Hans": "Expand all Threads / collapse all Threads"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.thunderbird.compose-and-edit-message",
+      "title": {
+        "en": "Compose and Edit Message",
+        "zh-Hans": "撰写和编辑消息"
+      },
+      "items": [
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.ac10be2e6f",
+          "title": {
+            "en": "New Message",
+            "zh-Hans": "新建Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.a34af72444",
+          "title": {
+            "en": "Reply to Message (sender only)",
+            "zh-Hans": "Reply to Message (sender only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.dd0a62da34",
+          "title": {
+            "en": "Reply to all in Message",
+            "zh-Hans": "Reply to all in Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.a968f2132c",
+          "title": {
+            "en": "Reply to list",
+            "zh-Hans": "Reply to list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.d72740b5cf",
+          "title": {
+            "en": "Forward Message",
+            "zh-Hans": "向前 Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.13bc746735",
+          "title": {
+            "en": "Edit Message as new",
+            "zh-Hans": "Edit Message as new"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.95ba46555a",
+          "title": {
+            "en": "Send Message now",
+            "zh-Hans": "Send Message now"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.e981f5be30",
+          "title": {
+            "en": "Send Message later",
+            "zh-Hans": "Send Message later"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.ac0f36715a",
+          "title": {
+            "en": "Add additional recipient",
+            "zh-Hans": "添加additional recipient"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.ff4849f8bc",
+          "title": {
+            "en": "Increase / decrease text size of selection",
+            "zh-Hans": "Increase / decrease text size of selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.50e6548e2f",
+          "title": {
+            "en": "Copy / Cut / Paste",
+            "zh-Hans": "复制 / 剪切 / 粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.7a93516e37",
+          "title": {
+            "en": "Paste as quotation",
+            "zh-Hans": "粘贴 as quotation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.2d4a3af536",
+          "title": {
+            "en": "Paste without formatting",
+            "zh-Hans": "粘贴 without formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.7959997221",
+          "title": {
+            "en": "Select all text in a message",
+            "zh-Hans": "Select all text in a message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.3046f3eb93",
+          "title": {
+            "en": "Save draft",
+            "zh-Hans": "存储 draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.fb6248e364",
+          "title": {
+            "en": "Delete current word",
+            "zh-Hans": "删除 当前 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.thunderbird.compose-and-edit-message.c96d5ae256",
+          "title": {
+            "en": "Delete previous word",
+            "zh-Hans": "删除 上一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.thunderbird.mark-delete-and-move-message",
+      "title": {
+        "en": "Mark, Delete and Move Message",
+        "zh-Hans": "Mark, 删除 and Move Message"
+      },
+      "items": [
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.61a11de154",
+          "title": {
+            "en": "Mark Message as read / unread",
+            "zh-Hans": "Mark Message as read / unread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.83349e1b85",
+          "title": {
+            "en": "Mark Message Thread as Read",
+            "zh-Hans": "Mark Message Thread as Read"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.4d0006e6dd",
+          "title": {
+            "en": "Mark all Messages als Read",
+            "zh-Hans": "Mark all Messages als Read"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.51cf7d0caf",
+          "title": {
+            "en": "Mark as Read by date",
+            "zh-Hans": "Mark as Read by date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.a7ce620f01",
+          "title": {
+            "en": "Mark as Junk / mark as not junk",
+            "zh-Hans": "Mark as Junk / mark as not junk"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.bba290208c",
+          "title": {
+            "en": "Add / remove Star",
+            "zh-Hans": "添加/ remove Star"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.2064f05dd9",
+          "title": {
+            "en": "Archive Message",
+            "zh-Hans": "Archive Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.a92cc8d77d",
+          "title": {
+            "en": "Move to previous folder",
+            "zh-Hans": "移动to 上一个 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.e4c103721c",
+          "title": {
+            "en": "Delete message",
+            "zh-Hans": "删除 message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.660f72124a",
+          "title": {
+            "en": "Delete with bypassing trash",
+            "zh-Hans": "Delete with bypassing trash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.6f1ee8c894",
+          "title": {
+            "en": "Ignore or Unignore Thread",
+            "zh-Hans": "Ignore or Unignore Thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.ef925f2228",
+          "title": {
+            "en": "Ignore or Unignore Subthread",
+            "zh-Hans": "Ignore or Unignore Subthread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 512,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.7e31fde6ad",
+          "title": {
+            "en": "Watch Thread",
+            "zh-Hans": "Watch Thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.9ba570de97",
+          "title": {
+            "en": "Add / remove Tag 1 ... 9",
+            "zh-Hans": "添加/ remove 标签 1 ... 9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.thunderbird.mark-delete-and-move-message.691090b9f4",
+          "title": {
+            "en": "Remove all Tags from Message",
+            "zh-Hans": "Remove all Tags from Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.thunderbird.find-messages",
+      "title": {
+        "en": "Find Messages",
+        "zh-Hans": "查找 Messages"
+      },
+      "items": [
+        {
+          "id": "remote.thunderbird.find-messages.8b9e0db327",
+          "title": {
+            "en": "Find Messages with Quick Filter",
+            "zh-Hans": "Find Messages with Quick Filter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.thunderbird.find-messages.0528b89c50",
+          "title": {
+            "en": "Find all Messages in Folder",
+            "zh-Hans": "Find all Messages in Folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.thunderbird.find-messages.d9be207a71",
+          "title": {
+            "en": "Find text in current Message",
+            "zh-Hans": "Find text in current Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.thunderbird.find-messages.4c14428dd8",
+          "title": {
+            "en": "Find text again next in Current Message",
+            "zh-Hans": "Find text again next in Current Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.thunderbird.find-messages.396599dfca",
+          "title": {
+            "en": "Find text again previous in Current Message",
+            "zh-Hans": "Find text again previous in Current Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.thunderbird.find-messages.29e0859ef5",
+          "title": {
+            "en": "Move to Search Bar",
+            "zh-Hans": "Move to Search Bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.thunderbird.retrieve-messages",
+      "title": {
+        "en": "Retrieve Messages",
+        "zh-Hans": "获取消息"
+      },
+      "items": [
+        {
+          "id": "remote.thunderbird.retrieve-messages.9935fecf65",
+          "title": {
+            "en": "Send and retrieve all messages",
+            "zh-Hans": "Send and retrieve all messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.thunderbird.retrieve-messages.d09c168326",
+          "title": {
+            "en": "Retrieve new messages for current account",
+            "zh-Hans": "Retrieve new messages for current account"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.thunderbird.retrieve-messages.6fb61838b1",
+          "title": {
+            "en": "Retrieve new messages for all accounts",
+            "zh-Hans": "Retrieve new messages for all accounts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.thunderbird.retrieve-messages.45a2ec13d9",
+          "title": {
+            "en": "Stop",
+            "zh-Hans": "停止"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.thunderbird.other-shortcuts",
+      "title": {
+        "en": "Other Shortcuts",
+        "zh-Hans": "其他快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.thunderbird.other-shortcuts.0016da909e",
+          "title": {
+            "en": "View Message Source",
+            "zh-Hans": "视图 Message 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.fa3a7c7fdb",
+          "title": {
+            "en": "Save Message as File",
+            "zh-Hans": "存储 Message as 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.a1f75c65f0",
+          "title": {
+            "en": "Caret browsing (select text with keyboard)",
+            "zh-Hans": "Caret browsing (select text with keyboard)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.3fb278d20f",
+          "title": {
+            "en": "Help",
+            "zh-Hans": "Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.e7d95d23ae",
+          "title": {
+            "en": "Open 'Saved Files' Window",
+            "zh-Hans": "打开 'Saved 文件' 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.3955bcb9b5",
+          "title": {
+            "en": "Increase / decrease text size (zoom)",
+            "zh-Hans": "Increase / decrease text size (zoom)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.ab4acbbc12",
+          "title": {
+            "en": "Restore Text Size (reset zoom)",
+            "zh-Hans": "Restore Text Size (reset zoom)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.525ecec07e",
+          "title": {
+            "en": "Open Address Book",
+            "zh-Hans": "打开 Address Book"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.thunderbird.other-shortcuts.e36c4e07e3",
+          "title": {
+            "en": "Exit",
+            "zh-Hans": "Exit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "bundleIdentifier": "com.adobe.bridge4.1",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-bridge.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-bridge.general.0556b09701",
+          "title": {
+            "en": "Show/Hide Panels",
+            "zh-Hans": "显示/隐藏 Panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.eeecf408c1",
+          "title": {
+            "en": "Next View",
+            "zh-Hans": "下一个 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.cd66dd9786",
+          "title": {
+            "en": "Previous View",
+            "zh-Hans": "上一个 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.7a2720f1d5",
+          "title": {
+            "en": "Switch between 0 and 1 Star Rating",
+            "zh-Hans": "Switch between 0 and 1 Star Rating"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.d0c73d7bb2",
+          "title": {
+            "en": "Decrease Thumbnail size",
+            "zh-Hans": "Decrease Thumbnail size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.5f0133985d",
+          "title": {
+            "en": "Step Thumbnail Size Up/down",
+            "zh-Hans": "Step Thumbnail Size Up/down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.98ad769f5c",
+          "title": {
+            "en": "Move Up a Folder in Panel or Row",
+            "zh-Hans": "Move Up a Folder in Panel or Row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.b797581292",
+          "title": {
+            "en": "Move Down a Folder in Panel or Row",
+            "zh-Hans": "Move Down a Folder in Panel or Row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.e0e55a5baf",
+          "title": {
+            "en": "Move Up a level in Folders Panel",
+            "zh-Hans": "Move Up a level in Folders Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.5eb01efb47",
+          "title": {
+            "en": "Move Left one item",
+            "zh-Hans": "Move Left one item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.6808cdec9a",
+          "title": {
+            "en": "Move Right one item",
+            "zh-Hans": "Move Right one item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.d48e0f7368",
+          "title": {
+            "en": "Move to First Item",
+            "zh-Hans": "移动to 第一个 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.9546d39eb1",
+          "title": {
+            "en": "Move to Last Item",
+            "zh-Hans": "移动to 最后一个 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.254438629b",
+          "title": {
+            "en": "Refresh Contents Panel",
+            "zh-Hans": "Refresh Contents 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.c0103de215",
+          "title": {
+            "en": "Rename Next",
+            "zh-Hans": "重命名 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.b94fbdec38",
+          "title": {
+            "en": "Rename Previous",
+            "zh-Hans": "重命名 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.bc80a543cb",
+          "title": {
+            "en": "Show Items with Star 1 Rating or Higher",
+            "zh-Hans": "Show Items with Star 1 Rating or Higher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.7f304fdb1f",
+          "title": {
+            "en": "Show Items with Star 5 Rating or Higher",
+            "zh-Hans": "Show Items with Star 5 Rating or Higher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.f1c20c08ed",
+          "title": {
+            "en": "Show Items with Selected Star Rating in Filter Panel",
+            "zh-Hans": "Show Items with Selected Star Rating in Filter Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2816,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.f9a95caeaf",
+          "title": {
+            "en": "Clear Filters",
+            "zh-Hans": "清除Filters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.ad5a392d1b",
+          "title": {
+            "en": "Zoom in/Zoom out with Loupe Tool",
+            "zh-Hans": "Zoom in/Zoom out with Loupe Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.25fce488d5",
+          "title": {
+            "en": "Zoom in/Zoom out with Loupe Tool(Multiple Selection)",
+            "zh-Hans": "Zoom in/Zoom out with Loupe Tool(Multiple Selection)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-bridge.general.254e4006d1",
+          "title": {
+            "en": "Open/Close Disclosure Triangle in Keywords Panel",
+            "zh-Hans": "Open/Close Disclosure Triangle in Keywords Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        }
+      ]
+    }
+  ]
+}

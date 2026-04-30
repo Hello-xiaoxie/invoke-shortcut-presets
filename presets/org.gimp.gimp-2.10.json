@@ -1,0 +1,1218 @@
+{
+  "bundleIdentifier": "org.gimp.gimp-2.10",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.gimp.edit-shortcuts",
+      "title": {
+        "en": "Edit Shortcuts",
+        "zh-Hans": "编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.edit-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.291a842104",
+          "title": {
+            "en": "Copy Visible",
+            "zh-Hans": "复制 可见"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.4d7f125e0e",
+          "title": {
+            "en": "Past as New Image",
+            "zh-Hans": "Past as New Image"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.bf4aeb778f",
+          "title": {
+            "en": "Clear",
+            "zh-Hans": "Clear"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.afd952817e",
+          "title": {
+            "en": "Fill with FG Color",
+            "zh-Hans": "Fill with FG Color"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.2ba0a0dee8",
+          "title": {
+            "en": "Fill with BG Color",
+            "zh-Hans": "Fill with BG Color"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.gimp.edit-shortcuts.269b87c019",
+          "title": {
+            "en": "Fill with Pattern",
+            "zh-Hans": "填充 with Pattern"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.view-shortcuts",
+      "title": {
+        "en": "View Shortcuts",
+        "zh-Hans": "视图快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.view-shortcuts.ce72266784",
+          "title": {
+            "en": "Shrink Wrap - Reduce image window to size of image",
+            "zh-Hans": "Shrink Wrap - Reduce image window to size of image"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.gimp.view-shortcuts.ef3ba27c68",
+          "title": {
+            "en": "Toggle Fullscreen View",
+            "zh-Hans": "切换Fullscreen 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.gimp.view-shortcuts.325960eff3",
+          "title": {
+            "en": "Show Selection",
+            "zh-Hans": "显示 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.gimp.view-shortcuts.0cfcf7e81f",
+          "title": {
+            "en": "Show Guides",
+            "zh-Hans": "显示 Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.gimp.view-shortcuts.9e117b2c83",
+          "title": {
+            "en": "Show Rulers",
+            "zh-Hans": "显示标尺"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.file-operations",
+      "title": {
+        "en": "File operations",
+        "zh-Hans": "文件操作"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.file-operations.3df6c10eb9",
+          "title": {
+            "en": "New Image",
+            "zh-Hans": "新建Image"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.291138df38",
+          "title": {
+            "en": "Create a new Image from Clipboard",
+            "zh-Hans": "Create a new Image from Clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.635ccbf7bc",
+          "title": {
+            "en": "Open Image",
+            "zh-Hans": "打开 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.ca79abd214",
+          "title": {
+            "en": "Open as Layers",
+            "zh-Hans": "打开 as 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.d0831b27d4",
+          "title": {
+            "en": "Save Image",
+            "zh-Hans": "存储 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.8b62a9c62e",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.76a677b153",
+          "title": {
+            "en": "Close All",
+            "zh-Hans": "关闭 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.gimp.file-operations.c58871b0c7",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.layer-shortcuts",
+      "title": {
+        "en": "Layer Shortcuts",
+        "zh-Hans": "图层快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.layer-shortcuts.6843964258",
+          "title": {
+            "en": "New Layer",
+            "zh-Hans": "新建图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.gimp.layer-shortcuts.1d8b8976c2",
+          "title": {
+            "en": "Duplicate Layer",
+            "zh-Hans": "创建副本 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.gimp.layer-shortcuts.34d12569cb",
+          "title": {
+            "en": "Anchor Layer",
+            "zh-Hans": "锚点 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.gimp.layer-shortcuts.b9acc21ec6",
+          "title": {
+            "en": "Select Previous/Next Layer",
+            "zh-Hans": "选择Previous/下一个 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.gimp.layer-shortcuts.08ab079971",
+          "title": {
+            "en": "Select Top/Bottom Layer",
+            "zh-Hans": "选择Top/底部 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.select-shortcuts",
+      "title": {
+        "en": "Select Shortcuts",
+        "zh-Hans": "Select快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.select-shortcuts.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.gimp.select-shortcuts.8aeb6517fb",
+          "title": {
+            "en": "Select None",
+            "zh-Hans": "选择None"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.gimp.select-shortcuts.14533401a3",
+          "title": {
+            "en": "Invert Selection",
+            "zh-Hans": "Invert 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.gimp.select-shortcuts.b8b884b7b2",
+          "title": {
+            "en": "Create a Floating Selection",
+            "zh-Hans": "Create a Floating 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.gimp.select-shortcuts.4bbc60e7f7",
+          "title": {
+            "en": "Select by Color",
+            "zh-Hans": "选择by 颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.gimp.select-shortcuts.21f17ceac2",
+          "title": {
+            "en": "Select from Path",
+            "zh-Hans": "选择from 路径"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.gimp.select-shortcuts.f8394fd85b",
+          "title": {
+            "en": "Toggle Quick Mask",
+            "zh-Hans": "切换Quick 蒙版"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 512,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.image-operations",
+      "title": {
+        "en": "Image Operations",
+        "zh-Hans": "图像操作"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.image-operations.06a36f6ed4",
+          "title": {
+            "en": "Duplicate Image",
+            "zh-Hans": "创建副本 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.gimp.image-operations.e584b70315",
+          "title": {
+            "en": "Merge Visible Layers",
+            "zh-Hans": "Merge 可见 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.gimp.image-operations.d070ff84e1",
+          "title": {
+            "en": "Display Image Properties",
+            "zh-Hans": "Display 图片 Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.selection-tools",
+      "title": {
+        "en": "Selection Tools",
+        "zh-Hans": "选择工具"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.selection-tools.b739ef383b",
+          "title": {
+            "en": "Rectangle Select",
+            "zh-Hans": "Rectangle Select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-tools.91df611e17",
+          "title": {
+            "en": "Ellipse Select",
+            "zh-Hans": "Ellipse Select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-tools.5dc34ab64e",
+          "title": {
+            "en": "Free Select",
+            "zh-Hans": "Free Select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-tools.193badcaaa",
+          "title": {
+            "en": "Fuzzy Select",
+            "zh-Hans": "Fuzzy Select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-tools.4bbc60e7f7",
+          "title": {
+            "en": "Select by Color",
+            "zh-Hans": "选择by 颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-tools.e108cb1127",
+          "title": {
+            "en": "Intelligent Scissors",
+            "zh-Hans": "Intelligent Scissors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.paint-tools",
+      "title": {
+        "en": "Paint Tools",
+        "zh-Hans": "Paint工具"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.paint-tools.97113fa016",
+          "title": {
+            "en": "Bucket Fill",
+            "zh-Hans": "Bucket 填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 512,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.6199ce9a68",
+          "title": {
+            "en": "Blend",
+            "zh-Hans": "Blend"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.00717f1384",
+          "title": {
+            "en": "Pencil",
+            "zh-Hans": "Pencil"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.a199f00d07",
+          "title": {
+            "en": "Paintbrush",
+            "zh-Hans": "Paintbrush"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.b96945152c",
+          "title": {
+            "en": "Eraser",
+            "zh-Hans": "Eraser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.f387375a13",
+          "title": {
+            "en": "Airbrush",
+            "zh-Hans": "Airbrush"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.6855a4180f",
+          "title": {
+            "en": "Ink",
+            "zh-Hans": "Ink"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.ef3444e8cb",
+          "title": {
+            "en": "Clone",
+            "zh-Hans": "Clone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.c3535ecb11",
+          "title": {
+            "en": "Heal",
+            "zh-Hans": "Heal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.7e2af9f325",
+          "title": {
+            "en": "Blur / Sharpen",
+            "zh-Hans": "模糊 / Sharpen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 512,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.26e0c3c6fb",
+          "title": {
+            "en": "Smudge",
+            "zh-Hans": "Smudge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.gimp.paint-tools.a06108e2ae",
+          "title": {
+            "en": "Dodge / Burn",
+            "zh-Hans": "Dodge / Burn"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 512,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.transfrom-tools",
+      "title": {
+        "en": "Transfrom Tools",
+        "zh-Hans": "Transfrom工具"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.transfrom-tools.04eb60ab25",
+          "title": {
+            "en": "Align",
+            "zh-Hans": "对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.gimp.transfrom-tools.8027c70c4a",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.gimp.transfrom-tools.6ab64248ee",
+          "title": {
+            "en": "Crop",
+            "zh-Hans": "裁剪"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.gimp.transfrom-tools.b30a52c43e",
+          "title": {
+            "en": "Rotate",
+            "zh-Hans": "旋转"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.gimp.transfrom-tools.ff56a54bcd",
+          "title": {
+            "en": "Scale",
+            "zh-Hans": "缩放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 512,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.gimp.transfrom-tools.210e8fa42e",
+          "title": {
+            "en": "Shear",
+            "zh-Hans": "Shear"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.gimp.transfrom-tools.1b64372e03",
+          "title": {
+            "en": "Perspective",
+            "zh-Hans": "Perspective"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.gimp.transfrom-tools.9a4513e7f1",
+          "title": {
+            "en": "Flip",
+            "zh-Hans": "Flip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.general.b6aad61197",
+          "title": {
+            "en": "Paths",
+            "zh-Hans": "Paths"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.gimp.general.5b34916171",
+          "title": {
+            "en": "Color Picker",
+            "zh-Hans": "颜色 Picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.gimp.general.7ebd1b954f",
+          "title": {
+            "en": "Zoom",
+            "zh-Hans": "Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.gimp.general.2f43a95b6f",
+          "title": {
+            "en": "Measure",
+            "zh-Hans": "Measure"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.gimp.general.703d441f0a",
+          "title": {
+            "en": "Text",
+            "zh-Hans": "文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.gimp.general.e7d022e361",
+          "title": {
+            "en": "Toolbox",
+            "zh-Hans": "Toolbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.gimp.general.900d38d88b",
+          "title": {
+            "en": "Default Colors (Sets foreground to black and background to white)",
+            "zh-Hans": "Default Colors (Sets foreground to black and background to white)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.gimp.general.83f1e7ec8e",
+          "title": {
+            "en": "Swap Colors",
+            "zh-Hans": "Swap Colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.dockable-dialogs",
+      "title": {
+        "en": "Dockable Dialogs",
+        "zh-Hans": "可停靠对话框"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.dockable-dialogs.1a5a5c6e65",
+          "title": {
+            "en": "Layers",
+            "zh-Hans": "图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.gimp.dockable-dialogs.853d4e265d",
+          "title": {
+            "en": "Brushes",
+            "zh-Hans": "Brushes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.gimp.dockable-dialogs.9edd03eb40",
+          "title": {
+            "en": "Patterns",
+            "zh-Hans": "Patterns"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.gimp.dockable-dialogs.29ba357eb4",
+          "title": {
+            "en": "Gradients",
+            "zh-Hans": "Gradients"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.gimp.dockable-dialogs.e7d022e361",
+          "title": {
+            "en": "Toolbox",
+            "zh-Hans": "Toolbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.help-menu",
+      "title": {
+        "en": "Help Menu",
+        "zh-Hans": "帮助菜单"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.help-menu.9f4dad6270",
+          "title": {
+            "en": "Help",
+            "zh-Hans": "Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.gimp.help-menu.6921e6a3c5",
+          "title": {
+            "en": "Context Sensitive Help",
+            "zh-Hans": "Context Sensitive Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 512,
+            "displayKey": "F1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.plugin-shortcuts",
+      "title": {
+        "en": "PlugIn Shortcuts",
+        "zh-Hans": "PlugIn快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.plugin-shortcuts.addc6d1d97",
+          "title": {
+            "en": "Repeat Last PlgIn",
+            "zh-Hans": "Repeat 最后一个 PlgIn"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.gimp.plugin-shortcuts.0aae81a249",
+          "title": {
+            "en": "Plug In",
+            "zh-Hans": "Plug In"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gimp.selection-shortcuts",
+      "title": {
+        "en": "Selection Shortcuts",
+        "zh-Hans": "选择快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.gimp.selection-shortcuts.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-shortcuts.8aeb6517fb",
+          "title": {
+            "en": "Select None",
+            "zh-Hans": "选择None"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-shortcuts.14533401a3",
+          "title": {
+            "en": "Invert Selection",
+            "zh-Hans": "Invert 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-shortcuts.d31028fb98",
+          "title": {
+            "en": "Toggle Selection",
+            "zh-Hans": "切换Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-shortcuts.a2e48c7bbb",
+          "title": {
+            "en": "Path to selection",
+            "zh-Hans": "Path to selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.gimp.selection-shortcuts.39defea921",
+          "title": {
+            "en": "Float Selection",
+            "zh-Hans": "Float 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        }
+      ]
+    }
+  ]
+}

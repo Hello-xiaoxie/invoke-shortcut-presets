@@ -1,0 +1,204 @@
+{
+  "bundleIdentifier": "com.raycast.macos",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.raycast.core",
+      "title": {
+        "en": "Core",
+        "zh-Hans": "核心"
+      },
+      "items": [
+        {
+          "id": "remote.raycast.core.06686277fc",
+          "title": {
+            "en": "Open Raycast",
+            "zh-Hans": "打开 Raycast"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.raycast.core.5ea5fabd7e",
+          "title": {
+            "en": "Show Window",
+            "zh-Hans": "显示 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.raycast.core.c1b4268bc8",
+          "title": {
+            "en": "Hide Window",
+            "zh-Hans": "隐藏 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.raycast.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.raycast.navigation.161e350ddd",
+          "title": {
+            "en": "Select Next Item",
+            "zh-Hans": "选择Next 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.raycast.navigation.38e3cdbbbe",
+          "title": {
+            "en": "Select Previous Item",
+            "zh-Hans": "选择Previous 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.raycast.navigation.b2d9745f77",
+          "title": {
+            "en": "Scroll Down",
+            "zh-Hans": "滚动Down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4096,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.raycast.navigation.b4bf88a2c2",
+          "title": {
+            "en": "Scroll Up",
+            "zh-Hans": "滚动Up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4096,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.raycast.actions",
+      "title": {
+        "en": "Actions",
+        "zh-Hans": "操作"
+      },
+      "items": [
+        {
+          "id": "remote.raycast.actions.8ac49d97b1",
+          "title": {
+            "en": "Accept Selection",
+            "zh-Hans": "Accept 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.raycast.actions.15b5b02263",
+          "title": {
+            "en": "Quick Actions",
+            "zh-Hans": "Quick Actions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.raycast.actions.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.raycast.actions.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.raycast.extensions",
+      "title": {
+        "en": "Extensions",
+        "zh-Hans": "扩展"
+      },
+      "items": [
+        {
+          "id": "remote.raycast.extensions.12fae22220",
+          "title": {
+            "en": "Manage Extensions",
+            "zh-Hans": "Manage 扩展"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.raycast.extensions.58de4b55de",
+          "title": {
+            "en": "View Recent Extensions",
+            "zh-Hans": "视图 Recent 扩展"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        }
+      ]
+    }
+  ]
+}

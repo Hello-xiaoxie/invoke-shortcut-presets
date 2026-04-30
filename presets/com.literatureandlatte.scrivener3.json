@@ -1,0 +1,1986 @@
+{
+  "bundleIdentifier": "com.literatureandlatte.scrivener3",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.scrivener.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.file.548e3f8f81",
+          "title": {
+            "en": "New Project",
+            "zh-Hans": "新建项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.faf81553ec",
+          "title": {
+            "en": "Open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.f0de73131c",
+          "title": {
+            "en": "Close Project",
+            "zh-Hans": "关闭 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.4f44d241ad",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.885cf45f5d",
+          "title": {
+            "en": "Save and Rebuild Search Indexes",
+            "zh-Hans": "Save and Rebuild Search Indexes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.fbe9ecea93",
+          "title": {
+            "en": "Import Files",
+            "zh-Hans": "导入 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.0749782a11",
+          "title": {
+            "en": "Export Files",
+            "zh-Hans": "导出 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.7d091b72a3",
+          "title": {
+            "en": "Page Setup",
+            "zh-Hans": "页面 Setup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.b1835f57bc",
+          "title": {
+            "en": "Print Current Document",
+            "zh-Hans": "打印 当前 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.scrivener.file.ccbef5077c",
+          "title": {
+            "en": "Compile",
+            "zh-Hans": "Compile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.edit.f354904d77",
+          "title": {
+            "en": "Paste and Match Style",
+            "zh-Hans": "Paste and Match Style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.0ba8d20849",
+          "title": {
+            "en": "Select with Subdocuments",
+            "zh-Hans": "选择with Subdocuments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.8fce39677b",
+          "title": {
+            "en": "Select Current Text",
+            "zh-Hans": "选择Current 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.2c95ab2122",
+          "title": {
+            "en": "Complete",
+            "zh-Hans": "完成"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 2048,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.bd1c8d2b92",
+          "title": {
+            "en": "Complete Document Title",
+            "zh-Hans": "Complete 文档 Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 4096,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.6d13e06628",
+          "title": {
+            "en": "Move Up",
+            "zh-Hans": "移动Up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.5632ef9c17",
+          "title": {
+            "en": "Move Down",
+            "zh-Hans": "移动Down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.059cb4bac1",
+          "title": {
+            "en": "Move Left",
+            "zh-Hans": "移动Left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.d058035478",
+          "title": {
+            "en": "Move Right",
+            "zh-Hans": "移动Right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.c836492d60",
+          "title": {
+            "en": "Add/Edit Link",
+            "zh-Hans": "Add/编辑 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.1d3f6e15a7",
+          "title": {
+            "en": "New Link",
+            "zh-Hans": "新建Link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.9847f0c0e9",
+          "title": {
+            "en": "Quick Search",
+            "zh-Hans": "Quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 6144,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.ae8eab586a",
+          "title": {
+            "en": "Search in Project",
+            "zh-Hans": "Search in Project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.6a8a7fe470",
+          "title": {
+            "en": "Filter",
+            "zh-Hans": "筛选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.43803b067d",
+          "title": {
+            "en": "Use Selection for Find",
+            "zh-Hans": "Use Selection for Find"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.9d135fc5b0",
+          "title": {
+            "en": "Jump to Selection",
+            "zh-Hans": "跳转到Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.aa9704abc5",
+          "title": {
+            "en": "Find by Formatting",
+            "zh-Hans": "Find by Formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6400,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.ea3aad612b",
+          "title": {
+            "en": "Find Next Formatting",
+            "zh-Hans": "查找 下一个 Formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.5b25e36364",
+          "title": {
+            "en": "Find Previous Formatting",
+            "zh-Hans": "查找 上一个 Formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4864,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.2f83419c50",
+          "title": {
+            "en": "Show Spelling and Grammar",
+            "zh-Hans": "Show Spelling and Grammar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.f88cc72337",
+          "title": {
+            "en": "Check Document Now",
+            "zh-Hans": "Check 文档 Now"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.c5ec6de5ac",
+          "title": {
+            "en": "Check Spelling While Typing",
+            "zh-Hans": "Check Spelling While Typing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.scrivener.edit.7b81914876",
+          "title": {
+            "en": "Linguistic Focus",
+            "zh-Hans": "Linguistic Focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4352,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.insert",
+      "title": {
+        "en": "Insert",
+        "zh-Hans": "插入"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.insert.8fdfb0a176",
+          "title": {
+            "en": "Insert comment",
+            "zh-Hans": "插入 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 768,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.scrivener.insert.8c9fea714f",
+          "title": {
+            "en": "Insert Inline Annotation",
+            "zh-Hans": "插入 Inline Annotation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.scrivener.insert.63a4e3ccb2",
+          "title": {
+            "en": "Insert Footnote",
+            "zh-Hans": "插入 Footnote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 4352,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.scrivener.insert.996fbe057e",
+          "title": {
+            "en": "Insert Inline Footnote",
+            "zh-Hans": "插入 Inline Footnote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6144,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.scrivener.insert.cf14f303ee",
+          "title": {
+            "en": "Insert Bibliography/Citations",
+            "zh-Hans": "插入 Bibliography/Citations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.scrivener.insert.20c31a8d76",
+          "title": {
+            "en": "Insert Line Break",
+            "zh-Hans": "插入 行 Break"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2304,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.scrivener.insert.4d7391b53e",
+          "title": {
+            "en": "Insert Non-Breaking Space",
+            "zh-Hans": "Insert Non-Breaking Space"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.scrivener.insert.f1826c1f95",
+          "title": {
+            "en": "Insert Current Date ",
+            "zh-Hans": "插入 当前 Date "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.view.eff6b80255",
+          "title": {
+            "en": "Document/Scrivenings",
+            "zh-Hans": "文档/Scrivenings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.44a6a2d623",
+          "title": {
+            "en": "Corkboard",
+            "zh-Hans": "Corkboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.82fb789e8d",
+          "title": {
+            "en": "Outline",
+            "zh-Hans": "大纲"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.d52bfdda9c",
+          "title": {
+            "en": "Show/Hide Binder",
+            "zh-Hans": "显示/隐藏 Binder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.772f981d7d",
+          "title": {
+            "en": "Show/Hide Inspector",
+            "zh-Hans": "显示/隐藏检查器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.8bf4feca8d",
+          "title": {
+            "en": "No Split",
+            "zh-Hans": "No Split"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.e471846321",
+          "title": {
+            "en": "Split Horizontally",
+            "zh-Hans": "Split Horizontally"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2304,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.scrivener.view.f2b916e650",
+          "title": {
+            "en": "Split Vertically",
+            "zh-Hans": "Split Vertically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.e7378a1c55",
+          "title": {
+            "en": "Show/Hide Format Bar",
+            "zh-Hans": "显示/隐藏 Format Bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.cd0e1887b9",
+          "title": {
+            "en": "Show/Hide Ruler",
+            "zh-Hans": "显示/隐藏 标尺"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.ff181aa177",
+          "title": {
+            "en": "Show/Hide Page View",
+            "zh-Hans": "显示/隐藏 页面 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2816,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.32d95d650d",
+          "title": {
+            "en": "Typewriter Scrolling",
+            "zh-Hans": "Typewriter Scrolling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4352,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.147359678b",
+          "title": {
+            "en": "Show Hide Label Colors Along Edges",
+            "zh-Hans": "Show Hide Label Colors Along Edges"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4352,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.0a4841e8c2",
+          "title": {
+            "en": "Show Hide Status Stamps",
+            "zh-Hans": "显示 隐藏 Status Stamps"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4352,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.a9c3b0871f",
+          "title": {
+            "en": "Show Hide Keyword Colors",
+            "zh-Hans": "显示 隐藏 Keyword Colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4352,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.65e24b440e",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.65d8808ca0",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.scrivener.view.a1b4ab2b07",
+          "title": {
+            "en": "Expand All",
+            "zh-Hans": "展开All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.fd3944d243",
+          "title": {
+            "en": "Collapse All",
+            "zh-Hans": "折叠All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.c2d984d221",
+          "title": {
+            "en": "Collapse All to Current Level",
+            "zh-Hans": "Collapse All to Current Level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4352,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.scrivener.view.624fc3e4e0",
+          "title": {
+            "en": "Enter/Exit Composition Mode",
+            "zh-Hans": "Enter/Exit Composition Mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.navigate-menu",
+      "title": {
+        "en": "Navigate Menu",
+        "zh-Hans": "Navigate菜单"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.navigate-menu.765e47cb14",
+          "title": {
+            "en": "Reveal in Binder",
+            "zh-Hans": "Reveal in Binder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.30a3c37434",
+          "title": {
+            "en": "Previous Document",
+            "zh-Hans": "上一个 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.03a9df6c9c",
+          "title": {
+            "en": "Next Document",
+            "zh-Hans": "下一个 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.7b88c43767",
+          "title": {
+            "en": "Enclosing Group",
+            "zh-Hans": "Enclosing 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4352,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.1abf757d46",
+          "title": {
+            "en": "Selection",
+            "zh-Hans": "选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.4b6a62bff6",
+          "title": {
+            "en": "In Current Editor",
+            "zh-Hans": "In Current Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.3ef7e337d5",
+          "title": {
+            "en": "in Other Editor",
+            "zh-Hans": "in Other Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.2d7a703b67",
+          "title": {
+            "en": "in External Editor",
+            "zh-Hans": "in External Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4352,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.a4b26473d9",
+          "title": {
+            "en": "With All Subdocuments as Flat List on Editor Corkboard",
+            "zh-Hans": "With All Subdocuments as Flat List on Editor Corkboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2816,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.9f93aa7a0d",
+          "title": {
+            "en": "Lock in Place",
+            "zh-Hans": "Lock in Place"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.a8584b5215",
+          "title": {
+            "en": "Forward in Document History",
+            "zh-Hans": "Forward in Document History"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.2e0a318874",
+          "title": {
+            "en": "Backward in Document History",
+            "zh-Hans": "Backward in Document History"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.f23cca2ba2",
+          "title": {
+            "en": "Other Editor Forward in History",
+            "zh-Hans": "Other Editor Forward in History"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.389049671f",
+          "title": {
+            "en": "Other Editor Backward in History",
+            "zh-Hans": "Other Editor Backward in History"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.25aac9cece",
+          "title": {
+            "en": "Other Editor Scroll Up",
+            "zh-Hans": "Other 编辑器 Scroll 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6400,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.5ad86c27c9",
+          "title": {
+            "en": "Other Editor Scroll Down",
+            "zh-Hans": "Other 编辑器 Scroll 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6400,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.1e9784ae14",
+          "title": {
+            "en": "Other Editor Go to Previous Page",
+            "zh-Hans": "Other Editor Go to Previous Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6400,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.00d280ea45",
+          "title": {
+            "en": "Other Editor Go to Next Page",
+            "zh-Hans": "Other Editor Go to Next Page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6400,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.0d23bca8d1",
+          "title": {
+            "en": "Play Media File",
+            "zh-Hans": "Play 媒体 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.ceecd2c300",
+          "title": {
+            "en": "Fast Forward",
+            "zh-Hans": "快进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2816,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.f7ae9bc07d",
+          "title": {
+            "en": "Rewind",
+            "zh-Hans": "快退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2816,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.6c38b9d4fc",
+          "title": {
+            "en": "Rotate through main views",
+            "zh-Hans": "Rotate through main views"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.5549f72ca7",
+          "title": {
+            "en": "Binder",
+            "zh-Hans": "Binder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 6400,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.da4f406c3b",
+          "title": {
+            "en": "Editor",
+            "zh-Hans": "编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 6400,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.74bf0b88b2",
+          "title": {
+            "en": "Other Editor",
+            "zh-Hans": "Other 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6400,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.8974520fd7",
+          "title": {
+            "en": "Header Bar Title",
+            "zh-Hans": "页头 Bar Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 6400,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.75ac94d58e",
+          "title": {
+            "en": "Copyholder",
+            "zh-Hans": "Copyholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6400,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.bf7eca152c",
+          "title": {
+            "en": "Notes",
+            "zh-Hans": "笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 6400,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.d1ed5dea71",
+          "title": {
+            "en": "Bookmarks",
+            "zh-Hans": "书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 6400,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.ebd72ef77f",
+          "title": {
+            "en": "Metadata",
+            "zh-Hans": "Metadata"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 6400,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.93d887158d",
+          "title": {
+            "en": "Snapshots",
+            "zh-Hans": "Snapshots"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 6400,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.0031741fb7",
+          "title": {
+            "en": "Comments and Footnotes",
+            "zh-Hans": "Comments and Footnotes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 6400,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.88a36d444c",
+          "title": {
+            "en": "Synopsis",
+            "zh-Hans": "Synopsis"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6400,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.3f3edb4322",
+          "title": {
+            "en": "Keywords",
+            "zh-Hans": "Keywords"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 6400,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.f090654d33",
+          "title": {
+            "en": "Previous Group",
+            "zh-Hans": "上一个 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6144,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.scrivener.navigate-menu.516c151a93",
+          "title": {
+            "en": "Next Group",
+            "zh-Hans": "下一个 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6144,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.project",
+      "title": {
+        "en": "Project",
+        "zh-Hans": "项目"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.project.7acff79f85",
+          "title": {
+            "en": "New Text",
+            "zh-Hans": "新建Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.scrivener.project.c954fdda65",
+          "title": {
+            "en": "New Folder",
+            "zh-Hans": "新建文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.scrivener.project.8ecec0ada6",
+          "title": {
+            "en": "New From Template",
+            "zh-Hans": "新建From 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2816,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.scrivener.project.8c298fdbad",
+          "title": {
+            "en": "Project Settings",
+            "zh-Hans": "项目 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2304,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.scrivener.project.e19ea6df60",
+          "title": {
+            "en": "Show Project Targets",
+            "zh-Hans": "显示 项目 Targets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.scrivener.project.8d1f4f3a69",
+          "title": {
+            "en": "Statistics",
+            "zh-Hans": "Statistics"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.scrivener.project.ea1948579e",
+          "title": {
+            "en": "Show Project Keywords",
+            "zh-Hans": "显示 项目 Keywords"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.scrivener.project.53ca3766e2",
+          "title": {
+            "en": "Show Project Bookmarks",
+            "zh-Hans": "显示 项目 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.documents",
+      "title": {
+        "en": "Documents",
+        "zh-Hans": "文档"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.documents.2d5ca97a64",
+          "title": {
+            "en": "Take Snapshot",
+            "zh-Hans": "Take Snapshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.d03f47df05",
+          "title": {
+            "en": "Take Titled Snapshot",
+            "zh-Hans": "Take Titled Snapshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4352,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.9d3b79f33c",
+          "title": {
+            "en": "Snapshots: show Next Change",
+            "zh-Hans": "Snapshots: 显示 下一个 Change"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 4352,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.307374ebaa",
+          "title": {
+            "en": "Snapshots: show Previous Change",
+            "zh-Hans": "Snapshots: 显示 上一个 Change"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 4352,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.eab967646c",
+          "title": {
+            "en": "Duplicate with Subdocuments and Unique Title",
+            "zh-Hans": "Duplicate with Subdocuments and Unique Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.5380b90643",
+          "title": {
+            "en": "Duplicate without Subdocuments",
+            "zh-Hans": "创建副本 without Subdocuments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.f0807defc7",
+          "title": {
+            "en": "Split at Selection",
+            "zh-Hans": "Split at 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.0fc5a0c584",
+          "title": {
+            "en": "Split with Selection as Title",
+            "zh-Hans": "Split with Selection as Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2816,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.d86d9e508c",
+          "title": {
+            "en": "Merge",
+            "zh-Hans": "合并"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.1320df1600",
+          "title": {
+            "en": "New Folder From Selection",
+            "zh-Hans": "New Folder From Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.2ec644d64a",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.03c0dfb77b",
+          "title": {
+            "en": "Move To \"X\" Again",
+            "zh-Hans": "移动To \"X\" Again"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.9201a243fb",
+          "title": {
+            "en": "Set Selected Text as Title",
+            "zh-Hans": "Set Selected Text as Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2816,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.10e53ece8a",
+          "title": {
+            "en": "Set Synopsis from Main Text/Selection",
+            "zh-Hans": "Set Synopsis from Main Text/Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2816,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.scrivener.documents.bba06cf87b",
+          "title": {
+            "en": "Move to Trash",
+            "zh-Hans": "移到废纸篓"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.format",
+      "title": {
+        "en": "Format",
+        "zh-Hans": "格式"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.format.80861dc524",
+          "title": {
+            "en": "Show Fonts",
+            "zh-Hans": "显示 Fonts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.e056c319a0",
+          "title": {
+            "en": "Underline Single",
+            "zh-Hans": "下划线 Single"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.b722bd3522",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "Strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.e71d6e2246",
+          "title": {
+            "en": "Bigger Font",
+            "zh-Hans": "Bigger 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.scrivener.format.f407b290f8",
+          "title": {
+            "en": "Smaller Font",
+            "zh-Hans": "Smaller 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.4fbf019684",
+          "title": {
+            "en": "Copy Font",
+            "zh-Hans": "复制 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.4924e0fa23",
+          "title": {
+            "en": "Paste Font",
+            "zh-Hans": "粘贴 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.387fd9fb24",
+          "title": {
+            "en": "Paragraph: Align Left",
+            "zh-Hans": "段落: 对齐 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.scrivener.format.62b2acf53c",
+          "title": {
+            "en": "Paragraph: Center",
+            "zh-Hans": "段落: 中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.e4390f8114",
+          "title": {
+            "en": "Paragraph: Justify",
+            "zh-Hans": "段落: Justify"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 2816,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.1c809eaddb",
+          "title": {
+            "en": "Paragraph: Align Right",
+            "zh-Hans": "段落: 对齐 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.6a8bed77c2",
+          "title": {
+            "en": "Increase Indents",
+            "zh-Hans": "Increase Indents"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.2689f0c319",
+          "title": {
+            "en": "Decrease Indents",
+            "zh-Hans": "Decrease Indents"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.5699920f8e",
+          "title": {
+            "en": "Increase First Line Indent",
+            "zh-Hans": "Increase 第一个 行 Indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 6400,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.4027639fef",
+          "title": {
+            "en": "Decrease First Line Indent",
+            "zh-Hans": "Decrease 第一个 行 Indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 6400,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.7e18bbaced",
+          "title": {
+            "en": "Copy Paragraph Attributes",
+            "zh-Hans": "复制 段落 Attributes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4352,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.029da41848",
+          "title": {
+            "en": "Paste Paragraph Attributes",
+            "zh-Hans": "粘贴 段落 Attributes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.8d4e59f1eb",
+          "title": {
+            "en": "Show/Hide Styles Panel",
+            "zh-Hans": "显示/隐藏 Styles 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4096,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.c1cfa6f2bd",
+          "title": {
+            "en": "Show Styles Menu",
+            "zh-Hans": "显示 Styles 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.e80f47dcd1",
+          "title": {
+            "en": "No Style",
+            "zh-Hans": "No 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.c0db548628",
+          "title": {
+            "en": "Script Mode (Format)",
+            "zh-Hans": "Script 模式 (Format)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.cc7f2d928e",
+          "title": {
+            "en": "Show Script Elements Menu",
+            "zh-Hans": "显示 Script Elements 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.229165cbfe",
+          "title": {
+            "en": "Highlight Text",
+            "zh-Hans": "Highlight 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.d33ec1f076",
+          "title": {
+            "en": "Copy Formatting",
+            "zh-Hans": "复制 Formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6400,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.scrivener.format.27e699c06f",
+          "title": {
+            "en": "Paste Formatting",
+            "zh-Hans": "粘贴 Formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 6400,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.window",
+      "title": {
+        "en": "Window",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.window.319133107b",
+          "title": {
+            "en": "Manage Layouts",
+            "zh-Hans": "Manage Layouts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 768,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.scrivener.window.0bc7acf132",
+          "title": {
+            "en": "Float Quick Reference Panels",
+            "zh-Hans": "Float Quick Reference Panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 6400,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.scrivener.window.7b8f150cca",
+          "title": {
+            "en": "Show/Hide Scratchpad",
+            "zh-Hans": "显示/隐藏 Scratchpad"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.scrivener.misc",
+      "title": {
+        "en": "Misc",
+        "zh-Hans": "其他"
+      },
+      "items": [
+        {
+          "id": "remote.scrivener.misc.17bcf963f3",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.scrivener.misc.414e73e7ef",
+          "title": {
+            "en": "Keep Main Editors Light",
+            "zh-Hans": "Keep Main Editors Light"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2816,
+            "displayKey": "L"
+          }
+        }
+      ]
+    }
+  ]
+}

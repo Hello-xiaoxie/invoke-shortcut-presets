@@ -1,0 +1,1449 @@
+{
+  "bundleIdentifier": "com.ableton.live",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.ableton-live.showing-and-hiding-results",
+      "title": {
+        "en": "Showing and Hiding Results",
+        "zh-Hans": "显示和隐藏结果"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.e96b588ce3",
+          "title": {
+            "en": "Toggle Full Screen Mode",
+            "zh-Hans": "Toggle 全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.015b6b6d33",
+          "title": {
+            "en": "Toggle Second Window",
+            "zh-Hans": "切换Second 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.da9e82820f",
+          "title": {
+            "en": "Toggle Session/ArrangementView",
+            "zh-Hans": "切换Session/ArrangementView"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.6d0181bd4e",
+          "title": {
+            "en": "Toggle Device/Clip View",
+            "zh-Hans": "切换Device/片段 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.77ef1a14fd",
+          "title": {
+            "en": "Hide/Show Detail View",
+            "zh-Hans": "隐藏/显示 Detail 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.3c801c3a4c",
+          "title": {
+            "en": "Toggle Hot-Swap Mode",
+            "zh-Hans": "切换Hot-Swap 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.74d3e83fb1",
+          "title": {
+            "en": "Toggle DrumRack/last-selected Pad",
+            "zh-Hans": "Toggle DrumRack/last-selected Pad"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.1ea52cce18",
+          "title": {
+            "en": "Hide/Show Info View",
+            "zh-Hans": "隐藏/显示 Info 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 512,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.6acfe72872",
+          "title": {
+            "en": "Hide/Show Browser",
+            "zh-Hans": "隐藏/显示 Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.e6f70cfb77",
+          "title": {
+            "en": "Hide/Show Overview",
+            "zh-Hans": "隐藏/显示 Overview"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.f9cf31266e",
+          "title": {
+            "en": "Hide/Show In/Out",
+            "zh-Hans": "Hide/Show In/Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.5a71986d29",
+          "title": {
+            "en": "Hide/Show Sends",
+            "zh-Hans": "隐藏/显示 Sends"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.ab845de682",
+          "title": {
+            "en": "Hide/Show Mixer",
+            "zh-Hans": "隐藏/显示 混音器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.81626c729c",
+          "title": {
+            "en": "Open the Preferences",
+            "zh-Hans": "Open the Preferences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.ableton-live.showing-and-hiding-results.21ed2564c1",
+          "title": {
+            "en": "Close Window/Dialog",
+            "zh-Hans": "关闭 窗口/对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.adjusting-values",
+      "title": {
+        "en": "Adjusting Values",
+        "zh-Hans": "调整值"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.adjusting-values.474df97d09",
+          "title": {
+            "en": "Decrement/Increment",
+            "zh-Hans": "Decrement/Increment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.ableton-live.adjusting-values.6f249e81ea",
+          "title": {
+            "en": "Finer Resolution for Dragging",
+            "zh-Hans": "Finer Resolution for Dragging"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.ableton-live.adjusting-values.8458cb50d4",
+          "title": {
+            "en": "Return to Default",
+            "zh-Hans": "Return to Default"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.ableton-live.adjusting-values.1b87bc883b",
+          "title": {
+            "en": "Go to Next Field",
+            "zh-Hans": "转到Next Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.ableton-live.adjusting-values.77446644fb",
+          "title": {
+            "en": "Abort Value Entry",
+            "zh-Hans": "Abort Value Entry"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.ableton-live.adjusting-values.0c285b2e5e",
+          "title": {
+            "en": "Confirm Value Entry",
+            "zh-Hans": "Confirm Value Entry"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.browsing",
+      "title": {
+        "en": "Browsing",
+        "zh-Hans": "浏览"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.browsing.c75a3686a1",
+          "title": {
+            "en": "Load Selected Item fromBrowser",
+            "zh-Hans": "Load 所选 项目 fromBrowser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.ableton-live.browsing.8ce62f0ee0",
+          "title": {
+            "en": "Preview Selected File",
+            "zh-Hans": "预览 所选 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.ableton-live.browsing.13d51ab4b4",
+          "title": {
+            "en": "Search in Browser",
+            "zh-Hans": "Search in Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.transport",
+      "title": {
+        "en": "Transport",
+        "zh-Hans": "走带控制"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.transport.ac4c622557",
+          "title": {
+            "en": "Play from Start Marker/Stop",
+            "zh-Hans": "Play from Start Marker/Stop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.ableton-live.transport.69708c55f6",
+          "title": {
+            "en": "Continue Play from StopPoint",
+            "zh-Hans": "Continue Play from StopPoint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 512,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.ableton-live.transport.f62e97341a",
+          "title": {
+            "en": "Play Arrangement ViewSelection",
+            "zh-Hans": "Play Arrangement ViewSelection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.ableton-live.transport.e3f51e4b5a",
+          "title": {
+            "en": "Record",
+            "zh-Hans": "录制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.ableton-live.transport.a18a81b5df",
+          "title": {
+            "en": "Back to Arrangement",
+            "zh-Hans": "Back to Arrangement"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.ableton-live.transport.bce5551078",
+          "title": {
+            "en": "Activate/Deactivate Track 1",
+            "zh-Hans": "Activate/Deactivate 轨道 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 107,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.ableton-live.transport.64774ea0eb",
+          "title": {
+            "en": "Activate/Deactivate Track 2",
+            "zh-Hans": "Activate/Deactivate 轨道 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 113,
+            "carbonModifiers": 0,
+            "displayKey": "113"
+          }
+        },
+        {
+          "id": "remote.ableton-live.transport.c0c8110f2f",
+          "title": {
+            "en": "Activate/Deactivate Track 3",
+            "zh-Hans": "Activate/Deactivate 轨道 3"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 160,
+            "carbonModifiers": 0,
+            "displayKey": "160"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.editing.003ee42379",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.ableton-live.editing.04feb9a714",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.ableton-live.editing.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.ableton-live.editing.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.ableton-live.editing.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.ableton-live.editing.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.ableton-live.editing.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.ableton-live.editing.f438823733",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.ableton-live.editing.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.session-view-commands",
+      "title": {
+        "en": "Session view Commands",
+        "zh-Hans": "Session view命令"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.session-view-commands.bf23228d2d",
+          "title": {
+            "en": "Launch Selected Clip/Slot",
+            "zh-Hans": "Launch 所选 片段/Slot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.ableton-live.session-view-commands.56de5f9035",
+          "title": {
+            "en": "Select all Clips/Slots",
+            "zh-Hans": "全选 片段/Slots"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.ableton-live.session-view-commands.d55dac3035",
+          "title": {
+            "en": "Add/Remove Stop Button",
+            "zh-Hans": "Add/Remove Stop Button"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.ableton-live.session-view-commands.855a82dee9",
+          "title": {
+            "en": "Insert MIDI clip",
+            "zh-Hans": "插入 MIDI 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.ableton-live.session-view-commands.8c82037086",
+          "title": {
+            "en": "Insert Scene",
+            "zh-Hans": "插入 Scene"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.ableton-live.session-view-commands.2797e74e94",
+          "title": {
+            "en": "Insert Captured Scene",
+            "zh-Hans": "插入 Captured Scene"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.ableton-live.session-view-commands.f80d530c8b",
+          "title": {
+            "en": "Drop Browser Clips as aScene",
+            "zh-Hans": "Drop Browser Clips as aScene"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.arrangement-view-commands",
+      "title": {
+        "en": "Arrangement View Commands",
+        "zh-Hans": "排列视图命令"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.arrangement-view-commands.9154f4da7d",
+          "title": {
+            "en": "Split Clip at Selection",
+            "zh-Hans": "Split Clip at Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.ableton-live.arrangement-view-commands.41bec82807",
+          "title": {
+            "en": "Consolidate Selection intoClip",
+            "zh-Hans": "Consolidate 选择 intoClip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.ableton-live.arrangement-view-commands.2bfab0b581",
+          "title": {
+            "en": "Create Fade/Crossfade",
+            "zh-Hans": "Create Fade/Crossfade"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ableton-live.arrangement-view-commands.82dcd5be78",
+          "title": {
+            "en": "Loop Selection",
+            "zh-Hans": "循环 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.ableton-live.arrangement-view-commands.0569dc8500",
+          "title": {
+            "en": "Insert Silence",
+            "zh-Hans": "插入 Silence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.ableton-live.arrangement-view-commands.9d018fc94c",
+          "title": {
+            "en": "Pan Left/Right of Selection",
+            "zh-Hans": "Pan Left/Right of Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.ableton-live.arrangement-view-commands.195d1b4fa9",
+          "title": {
+            "en": "Scroll Display to FollowPlayback",
+            "zh-Hans": "Scroll Display to FollowPlayback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.commands-for-tracks",
+      "title": {
+        "en": "Commands for Tracks",
+        "zh-Hans": "轨道命令"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.commands-for-tracks.dc1128cc60",
+          "title": {
+            "en": "Insert Audio Track",
+            "zh-Hans": "插入 音频 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-tracks.797c6d122a",
+          "title": {
+            "en": "Insert MIDI Track",
+            "zh-Hans": "插入 MIDI 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-tracks.3f375b8487",
+          "title": {
+            "en": "Insert Return Track",
+            "zh-Hans": "插入 Return 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-tracks.fe3f1d324e",
+          "title": {
+            "en": "Rename Selected Track",
+            "zh-Hans": "重命名 所选 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-tracks.6027f05354",
+          "title": {
+            "en": "While Renaming, Go to nextTrack",
+            "zh-Hans": "While Renaming, Go to nextTrack"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-tracks.01365243b4",
+          "title": {
+            "en": "Group Selected Tracks",
+            "zh-Hans": "编组 所选 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-tracks.1913fa60d0",
+          "title": {
+            "en": "Ungroup Tracks",
+            "zh-Hans": "取消编组 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-tracks.4f44a06ab2",
+          "title": {
+            "en": "Hide Grouped Tracks",
+            "zh-Hans": "隐藏 Grouped 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-tracks.d0d3a9478c",
+          "title": {
+            "en": "Add Device from Browser",
+            "zh-Hans": "Add Device from Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.commands-for-breakpoint-envelopes",
+      "title": {
+        "en": "Commands for Breakpoint Envelopes",
+        "zh-Hans": "Breakpoint Envelopes命令"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.commands-for-breakpoint-envelopes.6f249e81ea",
+          "title": {
+            "en": "Finer Resolution for Dragging",
+            "zh-Hans": "Finer Resolution for Dragging"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-breakpoint-envelopes.50ad42ff8c",
+          "title": {
+            "en": "Enable Dragging OverBreakpoints",
+            "zh-Hans": "启用Dragging OverBreakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.ableton-live.commands-for-breakpoint-envelopes.05cc424857",
+          "title": {
+            "en": "Create Curved AutomationSegment",
+            "zh-Hans": "Create Curved AutomationSegment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.key-mini-map-mode-and-the-computer-keyboard",
+      "title": {
+        "en": "Key/Mini Map Mode and the Computer Keyboard",
+        "zh-Hans": "键/小地图模式和电脑键盘"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.key-mini-map-mode-and-the-computer-keyboard.dba52a39a7",
+          "title": {
+            "en": "Toggle MIDI Map Mode",
+            "zh-Hans": "切换MIDI Map 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.ableton-live.key-mini-map-mode-and-the-computer-keyboard.c44285b602",
+          "title": {
+            "en": "Toggle Key Map Mode",
+            "zh-Hans": "切换Key Map 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.ableton-live.key-mini-map-mode-and-the-computer-keyboard.ae94991672",
+          "title": {
+            "en": "Computer MIDI Keyboard",
+            "zh-Hans": "Computer MIDI Keyboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.zooming-display-and-selection",
+      "title": {
+        "en": "Zooming, Display and Selection",
+        "zh-Hans": "缩放、显示与选择"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.zooming-display-and-selection.667abc41d2",
+          "title": {
+            "en": "Follow (Auto-Scroll)",
+            "zh-Hans": "Follow (Auto-Scroll)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ableton-live.zooming-display-and-selection.9d018fc94c",
+          "title": {
+            "en": "Pan Left/Right of Selection",
+            "zh-Hans": "Pan Left/Right of Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.clip-view-sample-display",
+      "title": {
+        "en": "Clip view Sample Display",
+        "zh-Hans": "片段视图采样显示"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.clip-view-sample-display.d9ae33c86b",
+          "title": {
+            "en": "Quantize",
+            "zh-Hans": "量化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-sample-display.b1640032af",
+          "title": {
+            "en": "Quantize Settings",
+            "zh-Hans": "Quantize 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-sample-display.ef451db9bd",
+          "title": {
+            "en": "Insert Warp Marker",
+            "zh-Hans": "插入 Warp 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-sample-display.195d1b4fa9",
+          "title": {
+            "en": "Scroll Display to FollowPlayback",
+            "zh-Hans": "Scroll Display to FollowPlayback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.clip-view-midi-editor",
+      "title": {
+        "en": "Clip View MIDI Editor",
+        "zh-Hans": "Clip View MIDI编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.clip-view-midi-editor.d9ae33c86b",
+          "title": {
+            "en": "Quantize",
+            "zh-Hans": "量化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-midi-editor.b1640032af",
+          "title": {
+            "en": "Quantize Settings",
+            "zh-Hans": "Quantize 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-midi-editor.5fcff1af97",
+          "title": {
+            "en": "Scroll Editor Vertically",
+            "zh-Hans": "滚动Editor Vertically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-midi-editor.9c056df051",
+          "title": {
+            "en": "Scroll Editor Vertically",
+            "zh-Hans": "滚动Editor Vertically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-midi-editor.ce85a7477c",
+          "title": {
+            "en": "Scroll Editor Horizontally",
+            "zh-Hans": "滚动Editor Horizontally"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-midi-editor.929e98e04b",
+          "title": {
+            "en": "Scroll Editor Horizontally",
+            "zh-Hans": "滚动Editor Horizontally"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 512,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.ableton-live.clip-view-midi-editor.195d1b4fa9",
+          "title": {
+            "en": "Scroll Display to FollowPlayback",
+            "zh-Hans": "Scroll Display to FollowPlayback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.grid-snapping-and-drawing",
+      "title": {
+        "en": "Grid Snapping And Drawing",
+        "zh-Hans": "网格吸附与绘制"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.grid-snapping-and-drawing.069d4f4463",
+          "title": {
+            "en": "Toggle Draw Mode",
+            "zh-Hans": "切换Draw 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.ableton-live.grid-snapping-and-drawing.e33a5e1db4",
+          "title": {
+            "en": "Narrow Grid",
+            "zh-Hans": "Narrow 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.ableton-live.grid-snapping-and-drawing.8ef0bb0bc4",
+          "title": {
+            "en": "Widen Grid",
+            "zh-Hans": "Widen 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.ableton-live.grid-snapping-and-drawing.fe7904cce1",
+          "title": {
+            "en": "Triplet Grid",
+            "zh-Hans": "Triplet 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.ableton-live.grid-snapping-and-drawing.103d91f498",
+          "title": {
+            "en": "Snap to Grid",
+            "zh-Hans": "吸附到网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.ableton-live.grid-snapping-and-drawing.745f351aef",
+          "title": {
+            "en": "Fixed/Zoom-Adaptive Grid",
+            "zh-Hans": "Fixed/Zoom-Adaptive Grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.ableton-live.grid-snapping-and-drawing.74b90c1bb2",
+          "title": {
+            "en": "Bypass Snapping While Dragging",
+            "zh-Hans": "Bypass Snapping While Dragging"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.global-quantization",
+      "title": {
+        "en": "Global Quantization",
+        "zh-Hans": "全局量化"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.global-quantization.2ce6ba8c8e",
+          "title": {
+            "en": "Sixteenth-Note Quantization",
+            "zh-Hans": "Sixteenth-笔记 Quantization"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.ableton-live.global-quantization.b34df016d0",
+          "title": {
+            "en": "Eighth-Note Quantization",
+            "zh-Hans": "Eighth-笔记 Quantization"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.ableton-live.global-quantization.33f98d8895",
+          "title": {
+            "en": "Quarter-Note Quantization",
+            "zh-Hans": "Quarter-笔记 Quantization"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.ableton-live.global-quantization.70a5e766d5",
+          "title": {
+            "en": "1-Bar Quantization",
+            "zh-Hans": "1-Bar Quantization"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.ableton-live.global-quantization.252df07abb",
+          "title": {
+            "en": "Quantization Off",
+            "zh-Hans": "Quantization Off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.working-with-sets-and-the-program",
+      "title": {
+        "en": "Working with Sets and the Program",
+        "zh-Hans": "Sets and the Program操作"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.working-with-sets-and-the-program.268c78d59f",
+          "title": {
+            "en": "New Live Set",
+            "zh-Hans": "新建Live Set"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-sets-and-the-program.8d3854f92d",
+          "title": {
+            "en": "Open Live Set",
+            "zh-Hans": "打开 Live Set"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-sets-and-the-program.e00e726794",
+          "title": {
+            "en": "Save Live Set",
+            "zh-Hans": "存储 Live Set"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-sets-and-the-program.5a7d89fbc6",
+          "title": {
+            "en": "Save Live Set As...",
+            "zh-Hans": "Save Live Set As..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-sets-and-the-program.28fb8d278e",
+          "title": {
+            "en": "Quit Live",
+            "zh-Hans": "退出 Live"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-sets-and-the-program.a21b2f556b",
+          "title": {
+            "en": "Hide Live",
+            "zh-Hans": "隐藏 Live"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-sets-and-the-program.49780472b4",
+          "title": {
+            "en": "Export Audio/Video",
+            "zh-Hans": "导出 音频/视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-sets-and-the-program.c27c5baf99",
+          "title": {
+            "en": "Export MIDI file",
+            "zh-Hans": "导出 MIDI 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ableton-live.working-with-plug-ins-and-devices",
+      "title": {
+        "en": "Working with Plug-Ins and Devices",
+        "zh-Hans": "Plug-Ins and Devices操作"
+      },
+      "items": [
+        {
+          "id": "remote.ableton-live.working-with-plug-ins-and-devices.05f4fb214a",
+          "title": {
+            "en": "Show/Hide Plug-In Windows",
+            "zh-Hans": "Show/Hide Plug-In Windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-plug-ins-and-devices.a20af661b6",
+          "title": {
+            "en": "Open Second/MultipleWindows with Plug-In Edit Button",
+            "zh-Hans": "Open Second/MultipleWindows with Plug-In Edit Button"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-plug-ins-and-devices.27866afc61",
+          "title": {
+            "en": "Group/Ungroup Devices",
+            "zh-Hans": "编组/取消编组 Devices"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.ableton-live.working-with-plug-ins-and-devices.27153a09d1",
+          "title": {
+            "en": "Load Selected Device From Browser",
+            "zh-Hans": "Load Selected Device From Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "bundleIdentifier": "com.wisprflow.app",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.wispr-flow.voice-dictation",
+      "title": {
+        "en": "Voice Dictation",
+        "zh-Hans": "语音听写"
+      },
+      "items": [
+        {
+          "id": "remote.wispr-flow.voice-dictation.cdcf314c9d",
+          "title": {
+            "en": "Push to talk - hold to dictate",
+            "zh-Hans": "Push to talk - hold to dictate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 63,
+            "carbonModifiers": 0,
+            "displayKey": "63"
+          }
+        },
+        {
+          "id": "remote.wispr-flow.voice-dictation.224c79f88a",
+          "title": {
+            "en": "Hands-free mode - toggle start/stop",
+            "zh-Hans": "Hands-free mode - toggle start/stop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.wispr-flow.voice-dictation.fdc3fa5ae2",
+          "title": {
+            "en": "Paste last transcript",
+            "zh-Hans": "粘贴 最后一个 transcript"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4352,
+            "displayKey": "V"
+          }
+        }
+      ]
+    }
+  ]
+}

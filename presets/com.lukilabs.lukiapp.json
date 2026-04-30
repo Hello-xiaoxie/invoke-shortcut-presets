@@ -1,0 +1,909 @@
+{
+  "bundleIdentifier": "com.lukilabs.lukiapp",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.craft.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.craft.general.52d0110c26",
+          "title": {
+            "en": "Show Keyboard Shortcuts",
+            "zh-Hans": "显示 Keyboard Shortcuts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2048,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.craft.general.0752ce054b",
+          "title": {
+            "en": "Exit Selection",
+            "zh-Hans": "Exit 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.craft.navigation.3658fdb2d1",
+          "title": {
+            "en": "Navigate Forward / In to Block",
+            "zh-Hans": "Navigate Forward / In to Block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.craft.navigation.76e65876e2",
+          "title": {
+            "en": "Navigate Back",
+            "zh-Hans": "Navigate Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.search",
+      "title": {
+        "en": "Search",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.craft.search.ec92293d2b",
+          "title": {
+            "en": "Open Search",
+            "zh-Hans": "打开 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.craft.search.ba2c33b29a",
+          "title": {
+            "en": "Quick Open",
+            "zh-Hans": "快速打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.craft.search.dd8c00e4c1",
+          "title": {
+            "en": "Quick Open",
+            "zh-Hans": "快速打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.new-document",
+      "title": {
+        "en": "New Document",
+        "zh-Hans": "新建文档"
+      },
+      "items": [
+        {
+          "id": "remote.craft.new-document.e4384ca1a4",
+          "title": {
+            "en": "New Document",
+            "zh-Hans": "新建Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.craft.new-document.341cd77dc9",
+          "title": {
+            "en": "Quick New Document (Jump to content)",
+            "zh-Hans": "Quick New Document (Jump to content)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.craft.editing.fffd235097",
+          "title": {
+            "en": "Add or view Comments",
+            "zh-Hans": "添加or 视图 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.craft.editing.62e1398304",
+          "title": {
+            "en": "Edit selected block",
+            "zh-Hans": "编辑 所选 block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.craft.editing.bc5148b398",
+          "title": {
+            "en": "Edit selected block for pages",
+            "zh-Hans": "Edit selected block for pages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.craft.editing.6a64d31f84",
+          "title": {
+            "en": "Exit Editing",
+            "zh-Hans": "Exit Editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.craft.editing.3b5542790a",
+          "title": {
+            "en": "Insert new block below selection",
+            "zh-Hans": "插入 new block 下方 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.craft.editing.6e74e4178b",
+          "title": {
+            "en": "Insert new block above selection",
+            "zh-Hans": "插入 new block 上方 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 512,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.craft.editing.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.craft.editing.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.craft.editing.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.styling",
+      "title": {
+        "en": "Styling",
+        "zh-Hans": "样式"
+      },
+      "items": [
+        {
+          "id": "remote.craft.styling.c6632372e2",
+          "title": {
+            "en": "Increase Size",
+            "zh-Hans": "Increase Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.craft.styling.923fba01c9",
+          "title": {
+            "en": "Decrease Size",
+            "zh-Hans": "Decrease Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.craft.styling.2ae9046732",
+          "title": {
+            "en": "Copy Style",
+            "zh-Hans": "复制 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.craft.styling.3b10406511",
+          "title": {
+            "en": "Paste Style",
+            "zh-Hans": "粘贴 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.decorations",
+      "title": {
+        "en": "Decorations",
+        "zh-Hans": "装饰"
+      },
+      "items": [
+        {
+          "id": "remote.craft.decorations.64cc5ff7eb",
+          "title": {
+            "en": "Focus",
+            "zh-Hans": "Focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.craft.decorations.7e38ee5492",
+          "title": {
+            "en": "Block",
+            "zh-Hans": "Block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 768,
+            "displayKey": "39"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.indentation",
+      "title": {
+        "en": "Indentation",
+        "zh-Hans": "缩进"
+      },
+      "items": [
+        {
+          "id": "remote.craft.indentation.c1aa519034",
+          "title": {
+            "en": "Increase Indent",
+            "zh-Hans": "Increase Indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.craft.indentation.87da8923f7",
+          "title": {
+            "en": "Decrease Indent",
+            "zh-Hans": "Decrease Indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.text-style",
+      "title": {
+        "en": "Text Style",
+        "zh-Hans": "文本样式"
+      },
+      "items": [
+        {
+          "id": "remote.craft.text-style.9e6fdc47f0",
+          "title": {
+            "en": "Title",
+            "zh-Hans": "Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.craft.text-style.cd706a7de1",
+          "title": {
+            "en": "Subtitle",
+            "zh-Hans": "Subtitle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4096,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.craft.text-style.6aa85aabb0",
+          "title": {
+            "en": "Heading",
+            "zh-Hans": "Heading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 4096,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.craft.text-style.9992d5b8a4",
+          "title": {
+            "en": "Strong",
+            "zh-Hans": "Strong"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 4096,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.craft.text-style.578e80ec8c",
+          "title": {
+            "en": "Body",
+            "zh-Hans": "Body"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4096,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.craft.text-style.7cd181e1ae",
+          "title": {
+            "en": "Caption",
+            "zh-Hans": "Caption"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 4096,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.craft.text-style.23c5df3ec2",
+          "title": {
+            "en": "Page",
+            "zh-Hans": "页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.craft.text-style.1d2c33fd09",
+          "title": {
+            "en": "Card",
+            "zh-Hans": "Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.lists-todo",
+      "title": {
+        "en": "Lists, Todo",
+        "zh-Hans": "列表与待办"
+      },
+      "items": [
+        {
+          "id": "remote.craft.lists-todo.7f7be8da54",
+          "title": {
+            "en": "Make Todo",
+            "zh-Hans": "Make Todo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2304,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.craft.lists-todo.f61796838b",
+          "title": {
+            "en": "Todo Completion",
+            "zh-Hans": "Todo Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.craft.lists-todo.aa863b32b4",
+          "title": {
+            "en": "Toggle List",
+            "zh-Hans": "切换List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 2304,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.craft.lists-todo.a30376a99d",
+          "title": {
+            "en": "Bullet List",
+            "zh-Hans": "Bullet List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2304,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.craft.lists-todo.08834c297d",
+          "title": {
+            "en": "Numbered List",
+            "zh-Hans": "Numbered List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 2304,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.craft.lists-todo.297aed2864",
+          "title": {
+            "en": "No List",
+            "zh-Hans": "No List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.inline-styles",
+      "title": {
+        "en": "Inline Styles",
+        "zh-Hans": "行内样式"
+      },
+      "items": [
+        {
+          "id": "remote.craft.inline-styles.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.craft.inline-styles.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.craft.inline-styles.f1e88a0d6f",
+          "title": {
+            "en": "Code",
+            "zh-Hans": "Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.craft.inline-styles.b722bd3522",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "Strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.craft.inline-styles.5f6a8946c0",
+          "title": {
+            "en": "Link",
+            "zh-Hans": "链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.craft.inline-styles.8bc1bace20",
+          "title": {
+            "en": "Page/Block Link",
+            "zh-Hans": "页面/Block 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.craft.inline-styles.0b85df376d",
+          "title": {
+            "en": "Highlight",
+            "zh-Hans": "Highlight"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.organize",
+      "title": {
+        "en": "Organize",
+        "zh-Hans": "整理"
+      },
+      "items": [
+        {
+          "id": "remote.craft.organize.a3202160ba",
+          "title": {
+            "en": "Move Selected Blocks Up",
+            "zh-Hans": "移动Selected Blocks 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.craft.organize.b268eb0bd4",
+          "title": {
+            "en": "Move Selected Blocks Down",
+            "zh-Hans": "移动Selected Blocks 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.craft.organize.a0b0b93d45",
+          "title": {
+            "en": "Move Selected Blocks To Top",
+            "zh-Hans": "Move Selected Blocks To Top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2816,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.craft.organize.543866a153",
+          "title": {
+            "en": "Move Selected Blocks To Bottom",
+            "zh-Hans": "Move Selected Blocks To Bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2816,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.toggles",
+      "title": {
+        "en": "Toggles",
+        "zh-Hans": "切换开关"
+      },
+      "items": [
+        {
+          "id": "remote.craft.toggles.da91d29273",
+          "title": {
+            "en": "Expand / Collapse Toggle List",
+            "zh-Hans": "Expand / Collapse Toggle List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.grouping",
+      "title": {
+        "en": "Grouping",
+        "zh-Hans": "编组"
+      },
+      "items": [
+        {
+          "id": "remote.craft.grouping.135632afca",
+          "title": {
+            "en": "Group Selected Blocks",
+            "zh-Hans": "编组 所选 Blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.craft.grouping.40e2a39bd4",
+          "title": {
+            "en": "Ungroup Selected Block",
+            "zh-Hans": "取消编组 所选 Block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.cut-copy-paste",
+      "title": {
+        "en": "Cut, Copy Paste",
+        "zh-Hans": "剪切, 复制 粘贴"
+      },
+      "items": [
+        {
+          "id": "remote.craft.cut-copy-paste.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.craft.cut-copy-paste.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.craft.cut-copy-paste.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.managing-windows",
+      "title": {
+        "en": "Managing windows",
+        "zh-Hans": "windows管理"
+      },
+      "items": [
+        {
+          "id": "remote.craft.managing-windows.c162b23704",
+          "title": {
+            "en": "Open selected Page/Document in new Window",
+            "zh-Hans": "Open selected Page/Document in new Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.craft.managing-windows.47bee8eca7",
+          "title": {
+            "en": "Close Current Tab or Window",
+            "zh-Hans": "Close Current Tab or Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.craft.managing-windows.3179cd0bc7",
+          "title": {
+            "en": "Minimize Window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.craft.tabs",
+      "title": {
+        "en": "Tabs",
+        "zh-Hans": "标签页"
+      },
+      "items": [
+        {
+          "id": "remote.craft.tabs.8d7452ce65",
+          "title": {
+            "en": "Switch To Next Tab",
+            "zh-Hans": "Switch To Next Tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.craft.tabs.4ee47d7408",
+          "title": {
+            "en": "Switch To Previous Tab",
+            "zh-Hans": "Switch To Previous Tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    }
+  ]
+}

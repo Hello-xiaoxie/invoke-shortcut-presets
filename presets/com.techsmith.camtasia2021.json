@@ -1,0 +1,705 @@
+{
+  "bundleIdentifier": "com.techsmith.camtasia2021",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.camtasia.recording",
+      "title": {
+        "en": "Recording",
+        "zh-Hans": "录制"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.recording.2b42a96507",
+          "title": {
+            "en": "Start/Pause Recording",
+            "zh-Hans": "开始/Pause Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.recording.957e4dc52a",
+          "title": {
+            "en": "Stop Recording",
+            "zh-Hans": "Stop Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.recording.22fd770f92",
+          "title": {
+            "en": "New Recording",
+            "zh-Hans": "新建Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.camtasia.file-project",
+      "title": {
+        "en": "File & Project",
+        "zh-Hans": "文件与项目"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.file-project.5eec592fee",
+          "title": {
+            "en": "New Project",
+            "zh-Hans": "新建项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.file-project.24e1a54185",
+          "title": {
+            "en": "Open Project",
+            "zh-Hans": "打开 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.file-project.f4d4748442",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.file-project.e73bd9087c",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.file-project.c3cde761d5",
+          "title": {
+            "en": "Import Media",
+            "zh-Hans": "导入 媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.file-project.a16bb7b376",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.file-project.276fc75487",
+          "title": {
+            "en": "Advanced Export",
+            "zh-Hans": "Advanced 导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.file-project.41948ab249",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.camtasia.timeline-editing",
+      "title": {
+        "en": "Timeline Editing",
+        "zh-Hans": "时间轴编辑"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.timeline-editing.c6b18848a4",
+          "title": {
+            "en": "Split at Playhead",
+            "zh-Hans": "Split at 播放头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.b0a058a56d",
+          "title": {
+            "en": "Split All at Playhead",
+            "zh-Hans": "Split All at Playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.75d6a0aeaa",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.33bd0e3dad",
+          "title": {
+            "en": "Ripple Cut",
+            "zh-Hans": "Ripple 剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.b951698f99",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.29a60cc579",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.a0e571aae2",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.eba9681524",
+          "title": {
+            "en": "Ripple Delete",
+            "zh-Hans": "Ripple 删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.4f0d19021d",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.ab4ceedce7",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.cf012e6cb6",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-editing.cb134a228f",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.camtasia.playback",
+      "title": {
+        "en": "Playback",
+        "zh-Hans": "播放"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.playback.a472eae3e7",
+          "title": {
+            "en": "Play/Pause",
+            "zh-Hans": "播放/暂停"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.playback.520353638e",
+          "title": {
+            "en": "Rewind to Start",
+            "zh-Hans": "Rewind to Start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.playback.b34d4ceeb8",
+          "title": {
+            "en": "Jump to Beginning",
+            "zh-Hans": "跳转到Beginning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.playback.00e36b6798",
+          "title": {
+            "en": "Jump to End",
+            "zh-Hans": "跳转到End"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4352,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.camtasia.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.navigation.81b207d76e",
+          "title": {
+            "en": "Jump to Next Edit",
+            "zh-Hans": "跳转到Next 编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.navigation.bf23100940",
+          "title": {
+            "en": "Jump to Previous Edit",
+            "zh-Hans": "跳转到Previous 编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.navigation.e40c7ca23d",
+          "title": {
+            "en": "Jump Forward 15 Frames",
+            "zh-Hans": "Jump 向前 15 Frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.navigation.05f6b3c266",
+          "title": {
+            "en": "Jump Backward 15 Frames",
+            "zh-Hans": "Jump 向后 15 Frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.navigation.075bd9f8e2",
+          "title": {
+            "en": "Select Preceding Media",
+            "zh-Hans": "选择Preceding 媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.navigation.4ea0cfb17f",
+          "title": {
+            "en": "Select Succeeding Media",
+            "zh-Hans": "选择Succeeding 媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.camtasia.markers",
+      "title": {
+        "en": "Markers",
+        "zh-Hans": "标记"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.markers.905e82239c",
+          "title": {
+            "en": "Add Marker",
+            "zh-Hans": "添加Marker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.markers.fc81f5218e",
+          "title": {
+            "en": "Jump to Next Marker",
+            "zh-Hans": "跳转到Next 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6144,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.markers.f513fd1f04",
+          "title": {
+            "en": "Jump to Previous Marker",
+            "zh-Hans": "跳转到Previous 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6144,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.camtasia.timeline-view",
+      "title": {
+        "en": "Timeline View",
+        "zh-Hans": "时间轴视图"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.timeline-view.01ea72e862",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-view.a8819ba709",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-view.91522ac0cc",
+          "title": {
+            "en": "Zoom to Fit",
+            "zh-Hans": "缩放以适合"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-view.f88dad787c",
+          "title": {
+            "en": "Show Assets",
+            "zh-Hans": "显示 Assets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-view.d6f6d5c002",
+          "title": {
+            "en": "Show Properties",
+            "zh-Hans": "显示 Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-view.2636457e4d",
+          "title": {
+            "en": "Show Marker Track",
+            "zh-Hans": "显示 标记 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.timeline-view.a88214f5b6",
+          "title": {
+            "en": "Enable/Disable Snapping",
+            "zh-Hans": "Enable/Disable Snapping"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.camtasia.canvas",
+      "title": {
+        "en": "Canvas",
+        "zh-Hans": "画布"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.canvas.4d4d80f5d9",
+          "title": {
+            "en": "Zoom In Canvas",
+            "zh-Hans": "放大 画布"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.canvas.d79a26009a",
+          "title": {
+            "en": "Zoom Out Canvas",
+            "zh-Hans": "缩小 画布"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.canvas.2e7f90ca3f",
+          "title": {
+            "en": "Zoom Canvas to Fit",
+            "zh-Hans": "Zoom Canvas to Fit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.canvas.2ec28e093a",
+          "title": {
+            "en": "Zoom to 100%",
+            "zh-Hans": "缩放到 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.camtasia.text",
+      "title": {
+        "en": "Text",
+        "zh-Hans": "文本"
+      },
+      "items": [
+        {
+          "id": "remote.camtasia.text.ff34b6084d",
+          "title": {
+            "en": "Edit Text",
+            "zh-Hans": "编辑 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.text.6c3e9b4bd9",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.text.fc84e263ae",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.camtasia.text.d547d1af23",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        }
+      ]
+    }
+  ]
+}

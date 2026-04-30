@@ -1,0 +1,549 @@
+{
+  "bundleIdentifier": "com.axosoft.gitkraken",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.gitkraken.tabs",
+      "title": {
+        "en": "Tabs",
+        "zh-Hans": "标签页"
+      },
+      "items": [
+        {
+          "id": "remote.gitkraken.tabs.0db0f1c2b0",
+          "title": {
+            "en": "Jump to previous open tab",
+            "zh-Hans": "Jump to previous open tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 768,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.gitkraken.tabs.f5b0dffbae",
+          "title": {
+            "en": "Jump to next open tab",
+            "zh-Hans": "Jump to next open tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.gitkraken.tabs.aafb080517",
+          "title": {
+            "en": "Swap to Tab #1-9",
+            "zh-Hans": "Swap to Tab #1-9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.gitkraken.tabs.c7885432cf",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.gitkraken.tabs.26ef4c66c1",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gitkraken.ui",
+      "title": {
+        "en": "UI",
+        "zh-Hans": "界面"
+      },
+      "items": [
+        {
+          "id": "remote.gitkraken.ui.ceecb7f654",
+          "title": {
+            "en": "Close the current panel (if one is open)",
+            "zh-Hans": "Close the current panel (if one is open)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.gitkraken.ui.5846b47bb0",
+          "title": {
+            "en": "Focus the left panel filter bar",
+            "zh-Hans": "Focus the left panel filter bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.gitkraken.ui.ca9f047244",
+          "title": {
+            "en": "Focus the search bar",
+            "zh-Hans": "Focus the search bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.gitkraken.ui.755f837798",
+          "title": {
+            "en": "Show or hide the left panel",
+            "zh-Hans": "Show or hide the left panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.gitkraken.ui.b5c4e9f7f1",
+          "title": {
+            "en": "Reset zoom",
+            "zh-Hans": "重置zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.gitkraken.ui.778e085bb9",
+          "title": {
+            "en": "Decrease Zoom",
+            "zh-Hans": "Decrease Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.gitkraken.ui.dfd60a2fc4",
+          "title": {
+            "en": "Increase Zoom",
+            "zh-Hans": "Increase Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.gitkraken.ui.a16d668134",
+          "title": {
+            "en": "Toggle Fullscreen Mode",
+            "zh-Hans": "切换Fullscreen 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gitkraken.fuzzy-finder",
+      "title": {
+        "en": "Fuzzy Finder",
+        "zh-Hans": "模糊查找"
+      },
+      "items": [
+        {
+          "id": "remote.gitkraken.fuzzy-finder.8b18a074af",
+          "title": {
+            "en": "Search within file (if file content has focus)",
+            "zh-Hans": "Search within file (if file content has focus)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.f0671f149a",
+          "title": {
+            "en": "Close current repo",
+            "zh-Hans": "关闭 当前 repo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.b95f16b582",
+          "title": {
+            "en": "Open diff or merge tool",
+            "zh-Hans": "Open diff or merge tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.f7c5473ac6",
+          "title": {
+            "en": "Open current repo in File Manager",
+            "zh-Hans": "Open current repo in File Manager"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2048,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.ad0ee971fe",
+          "title": {
+            "en": "Open current repo in terminal",
+            "zh-Hans": "Open current repo in terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.5846b47bb0",
+          "title": {
+            "en": "Focus the left panel filter bar",
+            "zh-Hans": "Focus the left panel filter bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.c1cf582ec0",
+          "title": {
+            "en": "Search file to view history and blame",
+            "zh-Hans": "Search file to view history and blame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.8beb73b9c9",
+          "title": {
+            "en": "Open repo via Fuzzy Finder",
+            "zh-Hans": "Open repo via Fuzzy Finder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.6c95507798",
+          "title": {
+            "en": "Search commits",
+            "zh-Hans": "搜索 commits"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.gitkraken.fuzzy-finder.2314ebe51a",
+          "title": {
+            "en": "Toggle Fuzzy Finder",
+            "zh-Hans": "切换Fuzzy Finder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gitkraken.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.gitkraken.navigation.465b424d30",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.gitkraken.navigation.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.gitkraken.navigation.6b0bd727ab",
+          "title": {
+            "en": "Select last commit in graph",
+            "zh-Hans": "Select last commit in graph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.gitkraken.navigation.2cb87ab3ee",
+          "title": {
+            "en": "Select first commit in graph",
+            "zh-Hans": "Select first commit in graph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.gitkraken.navigation.2ceebfd0c3",
+          "title": {
+            "en": "Select previous item in branch",
+            "zh-Hans": "Select previous item in branch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.gitkraken.navigation.b2d2aa4a3c",
+          "title": {
+            "en": "Select next item in branch",
+            "zh-Hans": "Select next item in branch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.gitkraken.navigation.46751eb5bc",
+          "title": {
+            "en": "Select previous commit in graph",
+            "zh-Hans": "Select previous commit in graph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.gitkraken.navigation.e43323d19d",
+          "title": {
+            "en": "Select next commit in graph",
+            "zh-Hans": "Select next commit in graph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.gitkraken.navigation.77b89bae36",
+          "title": {
+            "en": "Open keyboard shortcuts",
+            "zh-Hans": "打开键盘快捷键"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.gitkraken.repo-actions",
+      "title": {
+        "en": "Repo actions",
+        "zh-Hans": "仓库操作"
+      },
+      "items": [
+        {
+          "id": "remote.gitkraken.repo-actions.dfef4a0c94",
+          "title": {
+            "en": "Focus commit message box",
+            "zh-Hans": "Focus commit message box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.gitkraken.repo-actions.57d2a2bcf3",
+          "title": {
+            "en": "Stage all files and commit with current message",
+            "zh-Hans": "Stage all files and commit with current message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.gitkraken.repo-actions.8582006eee",
+          "title": {
+            "en": "Commit staged files with current message",
+            "zh-Hans": "Commit staged files with current message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.gitkraken.repo-actions.636b60779d",
+          "title": {
+            "en": "Unstage all files",
+            "zh-Hans": "Unstage 全部 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.gitkraken.repo-actions.2215520445",
+          "title": {
+            "en": "Unstage the current file",
+            "zh-Hans": "Unstage the current file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.gitkraken.repo-actions.da239c36b1",
+          "title": {
+            "en": "Stage all files",
+            "zh-Hans": "Stage 全部 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.gitkraken.repo-actions.1b9e5650bf",
+          "title": {
+            "en": "Stage the current file",
+            "zh-Hans": "Stage the current file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.gitkraken.repo-actions.575bc83b93",
+          "title": {
+            "en": "Fetch all",
+            "zh-Hans": "Fetch 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.gitkraken.repo-actions.60f2d6d18b",
+          "title": {
+            "en": "Create branch",
+            "zh-Hans": "Create 分支"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    }
+  ]
+}

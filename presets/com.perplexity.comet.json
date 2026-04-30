@@ -1,0 +1,528 @@
+{
+  "bundleIdentifier": "com.perplexity.comet",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.comet.basics",
+      "title": {
+        "en": "Basics",
+        "zh-Hans": "基础"
+      },
+      "items": [
+        {
+          "id": "remote.comet.basics.5bc0e40899",
+          "title": {
+            "en": "New window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.comet.basics.57823112ae",
+          "title": {
+            "en": "New incognito window",
+            "zh-Hans": "新建incognito 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.comet.basics.ad7f2396de",
+          "title": {
+            "en": "New tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.comet.basics.07ae06c496",
+          "title": {
+            "en": "Reopen closed tab",
+            "zh-Hans": "Reopen closed 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.comet.basics.c7ddd56742",
+          "title": {
+            "en": "Close current tab",
+            "zh-Hans": "关闭当前标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.comet.basics.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.comet.basics.d5eb8d9fb1",
+          "title": {
+            "en": "Find in page",
+            "zh-Hans": "Find in page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.comet.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.comet.edit.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.comet.edit.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.comet.edit.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.comet.edit.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.comet.edit.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.comet.edit.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.comet.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.comet.view.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.comet.view.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.comet.view.9c8da1d825",
+          "title": {
+            "en": "Actual size",
+            "zh-Hans": "Actual size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.comet.view.a6ada6f496",
+          "title": {
+            "en": "Toggle sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.comet.history-bookmarks",
+      "title": {
+        "en": "History & Bookmarks",
+        "zh-Hans": "历史与书签"
+      },
+      "items": [
+        {
+          "id": "remote.comet.history-bookmarks.ec2e192f24",
+          "title": {
+            "en": "Show history",
+            "zh-Hans": "显示历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.comet.history-bookmarks.2800ff6589",
+          "title": {
+            "en": "Toggle bookmarks bar",
+            "zh-Hans": "切换书签栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.comet.history-bookmarks.14a5414812",
+          "title": {
+            "en": "Open downloads",
+            "zh-Hans": "打开 downloads"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.comet.tabs",
+      "title": {
+        "en": "Tabs",
+        "zh-Hans": "标签页"
+      },
+      "items": [
+        {
+          "id": "remote.comet.tabs.22ca503e49",
+          "title": {
+            "en": "Select next tab",
+            "zh-Hans": "选择next 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.comet.tabs.b2fd0f07bf",
+          "title": {
+            "en": "Select previous tab",
+            "zh-Hans": "选择previous 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.comet.tabs.505cf14c0e",
+          "title": {
+            "en": "Select 1st tab",
+            "zh-Hans": "选择1st 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.comet.tabs.08388544d2",
+          "title": {
+            "en": "Select 2nd tab",
+            "zh-Hans": "选择2nd 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.comet.tabs.0c34da811e",
+          "title": {
+            "en": "Select 3rd tab",
+            "zh-Hans": "选择3rd 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.comet.tabs.a4c12969e8",
+          "title": {
+            "en": "Select 4th tab",
+            "zh-Hans": "选择4th 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.comet.tabs.45efd1e87d",
+          "title": {
+            "en": "Select 5th tab",
+            "zh-Hans": "选择5th 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.comet.tabs.13536d80fa",
+          "title": {
+            "en": "Select last tab",
+            "zh-Hans": "选择last 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.comet.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.comet.navigation.f7f0e05bba",
+          "title": {
+            "en": "Reload page",
+            "zh-Hans": "Reload 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.comet.navigation.ea41196ec5",
+          "title": {
+            "en": "Hard reload",
+            "zh-Hans": "Hard reload"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.comet.navigation.61ee17e5d6",
+          "title": {
+            "en": "Go back",
+            "zh-Hans": "Go back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.comet.navigation.85d9606a3d",
+          "title": {
+            "en": "Go forward",
+            "zh-Hans": "Go 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.comet.navigation.c630349677",
+          "title": {
+            "en": "Focus address bar",
+            "zh-Hans": "聚焦地址栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.comet.window",
+      "title": {
+        "en": "Window",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.comet.window.d94258f711",
+          "title": {
+            "en": "Minimize window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.comet.window.a772dd0b73",
+          "title": {
+            "en": "Zoom window",
+            "zh-Hans": "Zoom 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 4352,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.comet.perplexity-ai",
+      "title": {
+        "en": "Perplexity AI",
+        "zh-Hans": "Perplexity AI"
+      },
+      "items": [
+        {
+          "id": "remote.comet.perplexity-ai.2ea059d8f1",
+          "title": {
+            "en": "Ask Perplexity",
+            "zh-Hans": "Ask Perplexity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.comet.perplexity-ai.9cc3655787",
+          "title": {
+            "en": "Quick search",
+            "zh-Hans": "Quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1428 @@
+{
+  "bundleIdentifier": "com.pixelmatorteam.pixelmator.x",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.pixelmator-pro.palettes-panels",
+      "title": {
+        "en": "Palettes/Panels",
+        "zh-Hans": "调色板/面板"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.0563756a56",
+          "title": {
+            "en": "Show / Hide Tools palette/panel",
+            "zh-Hans": "显示 / 隐藏 Tools 面板/面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.20b3c08eae",
+          "title": {
+            "en": "Show / Hide Layers palette/panel",
+            "zh-Hans": "显示 / 隐藏 图层 面板/面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.f93a98aea4",
+          "title": {
+            "en": "Show / Hide Effects browser",
+            "zh-Hans": "显示 / 隐藏 Effects browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.058a94dc58",
+          "title": {
+            "en": "Show / Hide Brushes palette/panel",
+            "zh-Hans": "显示 / 隐藏 Brushes 面板/面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 0,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.009cd80be6",
+          "title": {
+            "en": "Show / Hide Gradients palette/panel",
+            "zh-Hans": "显示 / 隐藏 Gradients 面板/面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 0,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.f03d136171",
+          "title": {
+            "en": "Show / Hide Photo browser",
+            "zh-Hans": "显示 / 隐藏 照片 browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 0,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.0fe1a42bb4",
+          "title": {
+            "en": "Show / Hide Colors palette/panel",
+            "zh-Hans": "显示 / 隐藏 Colors 面板/面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.b71db8f672",
+          "title": {
+            "en": "Show / Hide Fonts palette/panel",
+            "zh-Hans": "显示 / 隐藏 Fonts 面板/面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.palettes-panels.fbf894a40e",
+          "title": {
+            "en": "Reset palettes/panels to default location",
+            "zh-Hans": "Reset palettes/panels to default location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.selection-tools",
+      "title": {
+        "en": "Selection Tools",
+        "zh-Hans": "选择工具"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.selection-tools.fc362fbe60",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.7ebd1b954f",
+          "title": {
+            "en": "Zoom",
+            "zh-Hans": "Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.cd92aa9ae3",
+          "title": {
+            "en": "Eyedropper",
+            "zh-Hans": "Eyedropper"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.1c0477fe0e",
+          "title": {
+            "en": "Hand",
+            "zh-Hans": "Hand"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.365f9f4062",
+          "title": {
+            "en": "Type",
+            "zh-Hans": "Type"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.667efbcb19",
+          "title": {
+            "en": "Crop",
+            "zh-Hans": "裁剪"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.c4b6a76e4b",
+          "title": {
+            "en": "Slice",
+            "zh-Hans": "Slice"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.e9e4e14558",
+          "title": {
+            "en": "Elliptical Marquee",
+            "zh-Hans": "Elliptical Marquee"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.f15a919ffe",
+          "title": {
+            "en": "Rectangular Marquee",
+            "zh-Hans": "Rectangular Marquee"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.6e2e68984a",
+          "title": {
+            "en": "Lasso",
+            "zh-Hans": "Lasso"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.e995415127",
+          "title": {
+            "en": "Magic Wand",
+            "zh-Hans": "Magic Wand"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.e94128486a",
+          "title": {
+            "en": "Brush",
+            "zh-Hans": "Brush"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.ea3a50cbf7",
+          "title": {
+            "en": "Pixel",
+            "zh-Hans": "Pixel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.e840e3f6e3",
+          "title": {
+            "en": "Eraser",
+            "zh-Hans": "Eraser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.20ad21a268",
+          "title": {
+            "en": "Paint Bucket",
+            "zh-Hans": "Paint Bucket"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.47e0318591",
+          "title": {
+            "en": "Gradient",
+            "zh-Hans": "渐变"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.da4b8c1b93",
+          "title": {
+            "en": "Clone Stamp",
+            "zh-Hans": "Clone Stamp"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.7cad6ad77c",
+          "title": {
+            "en": "Sharpen",
+            "zh-Hans": "Sharpen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.selection-tools.0b0fad3b7e",
+          "title": {
+            "en": "Red Eye",
+            "zh-Hans": "Red Eye"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.file.20bf708a70",
+          "title": {
+            "en": "Create New File",
+            "zh-Hans": "Create New 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.file.7e0199ae33",
+          "title": {
+            "en": "Open Existing File",
+            "zh-Hans": "打开 Existing 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.file.c555ef6efa",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.save",
+      "title": {
+        "en": "Save",
+        "zh-Hans": "存储"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.save.0180824b25",
+          "title": {
+            "en": "Save file",
+            "zh-Hans": "保存文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.save.1ee1d37024",
+          "title": {
+            "en": "Export For Web",
+            "zh-Hans": "Export For Web"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.view.b4e8796564",
+          "title": {
+            "en": "Zoom In",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.754f227faa",
+          "title": {
+            "en": "Zoom Out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.30afa27287",
+          "title": {
+            "en": "Zoom In / Out",
+            "zh-Hans": "放大 / Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.889dace265",
+          "title": {
+            "en": "Horizontal Scrolling",
+            "zh-Hans": "水平 Scrolling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.4787b122db",
+          "title": {
+            "en": "Fit Image In Window",
+            "zh-Hans": "Fit Image In Window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 0,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.a9221fb90e",
+          "title": {
+            "en": "Magnify 100%",
+            "zh-Hans": "Magnify 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2048,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.883c091301",
+          "title": {
+            "en": "Show / Hide Rulers",
+            "zh-Hans": "显示 / 隐藏 Rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.2dc9d176e7",
+          "title": {
+            "en": "Show / Hide Guides",
+            "zh-Hans": "显示 / 隐藏 Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.35969d6dc9",
+          "title": {
+            "en": "Show / Hide Grid",
+            "zh-Hans": "显示 / 隐藏 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.2922647a21",
+          "title": {
+            "en": "Full-screen On / Off",
+            "zh-Hans": "Full-screen On / Off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.view.7d64b0c591",
+          "title": {
+            "en": "Quick Mask Mode On / Off",
+            "zh-Hans": "Quick Mask Mode On / Off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.edit.45f5086573",
+          "title": {
+            "en": "Undo Last Action",
+            "zh-Hans": "Undo 最后一个 Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.9fe0c6dac5",
+          "title": {
+            "en": "Redo Last Action",
+            "zh-Hans": "Redo 最后一个 Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 512,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.bffe196c79",
+          "title": {
+            "en": "Fill With Color",
+            "zh-Hans": "Fill With Color"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2048,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.47894754a8",
+          "title": {
+            "en": "Fill With Primary Color (hold Shift to preserve transparency)",
+            "zh-Hans": "Fill With Primary Color (hold Shift to preserve transparency)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.fcb0dfaeec",
+          "title": {
+            "en": "Fill With Secondary Color (hold Shift to preserve transparency)",
+            "zh-Hans": "Fill With Secondary Color (hold Shift to preserve transparency)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 512,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.709d5dacb3",
+          "title": {
+            "en": "Stroke",
+            "zh-Hans": "描边"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.e7d31f92e7",
+          "title": {
+            "en": "Invert Color",
+            "zh-Hans": "Invert 颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.cbce4bdc4b",
+          "title": {
+            "en": "Edit Levels",
+            "zh-Hans": "编辑 Levels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.43bcdd59ed",
+          "title": {
+            "en": "Edit Curves",
+            "zh-Hans": "编辑 Curves"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.2b5b5f92fe",
+          "title": {
+            "en": "Edit Color Balance",
+            "zh-Hans": "编辑 颜色 Balance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.1f6e8cd3c2",
+          "title": {
+            "en": "Edit Hue And Saturation",
+            "zh-Hans": "Edit Hue And Saturation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.41b88de75f",
+          "title": {
+            "en": "De-saturate",
+            "zh-Hans": "De-saturate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2048,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.77f5b35f42",
+          "title": {
+            "en": "Edit Canvas Size",
+            "zh-Hans": "编辑 画布 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2048,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.7a464fc531",
+          "title": {
+            "en": "Edit Image Size",
+            "zh-Hans": "编辑 图片 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2048,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.188d3a5324",
+          "title": {
+            "en": "Color Management",
+            "zh-Hans": "颜色 Management"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 512,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.53fc8f2945",
+          "title": {
+            "en": "Soft Proof",
+            "zh-Hans": "Soft Proof"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2560,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.edit.ff53a765e6",
+          "title": {
+            "en": "Last Filter",
+            "zh-Hans": "最后一个 滤镜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.working-with-selections",
+      "title": {
+        "en": "Working With Selections",
+        "zh-Hans": "选区操作"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.working-with-selections.b3336ea6d7",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-selections.78838c734b",
+          "title": {
+            "en": "De-select",
+            "zh-Hans": "De-select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-selections.be10a7043b",
+          "title": {
+            "en": "Load layer transparency as selection",
+            "zh-Hans": "Load layer transparency as selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2048,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-selections.f602412976",
+          "title": {
+            "en": "Refine Selection",
+            "zh-Hans": "Refine 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-selections.e9eb5daba9",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-selections.d9e195135c",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-selections.a157fb35b3",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-selections.567d479f56",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 512,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.working-with-layers",
+      "title": {
+        "en": "Working With Layers",
+        "zh-Hans": "图层操作"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.1455d9fc88",
+          "title": {
+            "en": "Transform Layer",
+            "zh-Hans": "Transform 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.c3044e0ba6",
+          "title": {
+            "en": "Lock Layer",
+            "zh-Hans": "锁定图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.af93e34162",
+          "title": {
+            "en": "Cycle Layer Blending Modes",
+            "zh-Hans": "Cycle Layer Blending Modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.6b58c5e662",
+          "title": {
+            "en": "Select All Layers",
+            "zh-Hans": "全选 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2048,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.aae98466dc",
+          "title": {
+            "en": "Create / Release Clipping Mask",
+            "zh-Hans": "Create / Release Clipping Mask"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2048,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.9c1280029a",
+          "title": {
+            "en": "Link Layers",
+            "zh-Hans": "链接 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.103837a453",
+          "title": {
+            "en": "Merge Selected Layers",
+            "zh-Hans": "Merge 所选 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.8c98b5f538",
+          "title": {
+            "en": "Group Layers",
+            "zh-Hans": "编组图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.32444d61a4",
+          "title": {
+            "en": "Ungroup Layers",
+            "zh-Hans": "取消编组图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 512,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.7903f2284a",
+          "title": {
+            "en": "Create New Layer",
+            "zh-Hans": "Create New 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 512,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.0b132e3a5a",
+          "title": {
+            "en": "Select Top Layer",
+            "zh-Hans": "选择Top 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2048,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.ac5ba58d59",
+          "title": {
+            "en": "Select Next Layer",
+            "zh-Hans": "选择Next 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2048,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.3ae9a8a217",
+          "title": {
+            "en": "Select Previous Layer",
+            "zh-Hans": "选择Previous 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2048,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.fc7265f3e9",
+          "title": {
+            "en": "Select Bottom Layer",
+            "zh-Hans": "选择Bottom 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2048,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.b3767bd5fd",
+          "title": {
+            "en": "Bring Layer To Front",
+            "zh-Hans": "Bring Layer To Front"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2048,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.5e749904b0",
+          "title": {
+            "en": "Send Layer To Back",
+            "zh-Hans": "Send Layer To Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2048,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.8fcb6fe00e",
+          "title": {
+            "en": "Bring Layer Forward",
+            "zh-Hans": "Bring 图层 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.working-with-layers.9b70452319",
+          "title": {
+            "en": "Send Layer Backward",
+            "zh-Hans": "Send 图层 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.move",
+      "title": {
+        "en": "Move",
+        "zh-Hans": "移动"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.move.7317e8f5cf",
+          "title": {
+            "en": "Move Layer / Selection by 1px",
+            "zh-Hans": "Move Layer / Selection by 1px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.move.a8f5797120",
+          "title": {
+            "en": "Move Layer / Selection by 10px",
+            "zh-Hans": "Move Layer / Selection by 10px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.move.e0410da94b",
+          "title": {
+            "en": "Move Selection Border by 1px",
+            "zh-Hans": "Move Selection Border by 1px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.move.4eacafa9b9",
+          "title": {
+            "en": "Move Selection Border by 10px",
+            "zh-Hans": "Move Selection Border by 10px"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.paint",
+      "title": {
+        "en": "Paint",
+        "zh-Hans": "绘画"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.paint.3db0fa6b99",
+          "title": {
+            "en": "Switch Between Primary And Secondary Colors",
+            "zh-Hans": "Switch Between Primary And Secondary Colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.paint.ef97d18f10",
+          "title": {
+            "en": "Navigate Through Brushes/Navigate Through Gradients",
+            "zh-Hans": "Navigate Through Brushes/Navigate Through Gradients"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.paint.8d3f8a6f83",
+          "title": {
+            "en": "Increase / Decrease Brush Size/Cycle Through Gradients",
+            "zh-Hans": "Increase / Decrease Brush Size/Cycle Through Gradients"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.paint.c91624ada1",
+          "title": {
+            "en": "Change Brush Hardness",
+            "zh-Hans": "Change Brush Hardness"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 512,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.print",
+      "title": {
+        "en": "Print",
+        "zh-Hans": "打印"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.print.fa35a65aff",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.print.5aad1bfcee",
+          "title": {
+            "en": "Page Setup",
+            "zh-Hans": "页面 Setup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pixelmator-pro.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.pixelmator-pro.general.26d8748dce",
+          "title": {
+            "en": "Show Preferences",
+            "zh-Hans": "显示 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.fcb17dc7d8",
+          "title": {
+            "en": "Check Spelling",
+            "zh-Hans": "Check Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.8d81f23396",
+          "title": {
+            "en": "Get File Info",
+            "zh-Hans": "Get 文件 Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.c555ef6efa",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.552b56d5bd",
+          "title": {
+            "en": "Close All Windows",
+            "zh-Hans": "关闭 全部 Windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2048,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.266f5edd64",
+          "title": {
+            "en": "Cycle Through Windows",
+            "zh-Hans": "Cycle Through Windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.b9541282ac",
+          "title": {
+            "en": "Minimize Window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.ffc74dcd5a",
+          "title": {
+            "en": "Minimize All Windows",
+            "zh-Hans": "最小化 全部 Windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2048,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.9d38e56ac7",
+          "title": {
+            "en": "Hide Pixelmator",
+            "zh-Hans": "隐藏 Pixelmator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.81b1960183",
+          "title": {
+            "en": "Hide Others",
+            "zh-Hans": "隐藏 Others"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2048,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.9beb2a17c7",
+          "title": {
+            "en": "Active/deactive Vectormator Mode",
+            "zh-Hans": "活动/deactive Vectormator 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pixelmator-pro.general.4cb5fbf174",
+          "title": {
+            "en": "Quit Pixelmator",
+            "zh-Hans": "退出 Pixelmator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    }
+  ]
+}

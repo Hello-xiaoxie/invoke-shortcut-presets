@@ -1,0 +1,435 @@
+{
+  "bundleIdentifier": "com.acreom.acreom-desktop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.acreom.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.acreom.general.71f7015f15",
+          "title": {
+            "en": "activate view 1",
+            "zh-Hans": "activate 视图 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.acreom.general.a706d2b3f7",
+          "title": {
+            "en": "activate view 2",
+            "zh-Hans": "activate 视图 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.acreom.general.d064fb2c8c",
+          "title": {
+            "en": "activate view 3",
+            "zh-Hans": "activate 视图 3"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.acreom.general.cd9bed7a13",
+          "title": {
+            "en": "activate view 4",
+            "zh-Hans": "activate 视图 4"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2304,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.acreom.general.a97cdb0522",
+          "title": {
+            "en": "activate view 5",
+            "zh-Hans": "activate 视图 5"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.acreom.general.6268cac6cc",
+          "title": {
+            "en": "activate view 6",
+            "zh-Hans": "activate 视图 6"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2304,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.acreom.general.5bd14e517c",
+          "title": {
+            "en": "activate view 7",
+            "zh-Hans": "activate 视图 7"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 2304,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.acreom.general.dbc6f41af5",
+          "title": {
+            "en": "activate view 8",
+            "zh-Hans": "activate 视图 8"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2304,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.acreom.general.2f8382d11c",
+          "title": {
+            "en": "activate view 9",
+            "zh-Hans": "activate 视图 9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 2304,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.acreom.general.a8738ad3ec",
+          "title": {
+            "en": "activate view 10",
+            "zh-Hans": "activate 视图 10"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.acreom.general.e339cd009c",
+          "title": {
+            "en": "open jira tab",
+            "zh-Hans": "打开 jira 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.acreom.general.029277c393",
+          "title": {
+            "en": "open github tab",
+            "zh-Hans": "打开 github 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.acreom.general.83577f6bba",
+          "title": {
+            "en": "open search",
+            "zh-Hans": "打开 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.acreom.general.f538dfb92a",
+          "title": {
+            "en": "open full search",
+            "zh-Hans": "打开 full 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.acreom.general.548703f7ce",
+          "title": {
+            "en": "open xray",
+            "zh-Hans": "打开 xray"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.acreom.general.2b758d98fe",
+          "title": {
+            "en": "open settings",
+            "zh-Hans": "打开 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.acreom.general.5943fb49f5",
+          "title": {
+            "en": "toggle sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.acreom.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.acreom.navigation.06093219de",
+          "title": {
+            "en": "back",
+            "zh-Hans": "back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2048,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.acreom.navigation.320bfa8109",
+          "title": {
+            "en": "forward",
+            "zh-Hans": "向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2048,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.acreom.navigation.3a4a2e2568",
+          "title": {
+            "en": "new page",
+            "zh-Hans": "new 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.acreom.task-management",
+      "title": {
+        "en": "Task Management",
+        "zh-Hans": "任务管理"
+      },
+      "items": [
+        {
+          "id": "remote.acreom.task-management.32cee84195",
+          "title": {
+            "en": "notification accept",
+            "zh-Hans": "notification accept"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.e5f080cfda",
+          "title": {
+            "en": "focus editor / navigate to task",
+            "zh-Hans": "focus editor / navigate to task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.c37acf735b",
+          "title": {
+            "en": "unfocus editor",
+            "zh-Hans": "unfocus 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.ec0d62346a",
+          "title": {
+            "en": "find in page",
+            "zh-Hans": "find in page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.a66d05a919",
+          "title": {
+            "en": "share page",
+            "zh-Hans": "share 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.de0bbb03c5",
+          "title": {
+            "en": "convert selected text to document",
+            "zh-Hans": "convert selected text to document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2048,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.e0bada8134",
+          "title": {
+            "en": "convert selected text to task",
+            "zh-Hans": "convert selected text to task"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.35f7336e50",
+          "title": {
+            "en": "edit task",
+            "zh-Hans": "编辑 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.46747e2382",
+          "title": {
+            "en": "complete task",
+            "zh-Hans": "complete 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.497350c2a4",
+          "title": {
+            "en": "schedule task for tomorrow",
+            "zh-Hans": "schedule task for tomorrow"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.7d804f1e6a",
+          "title": {
+            "en": "schedule task for start of next week",
+            "zh-Hans": "schedule task for start of next week"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.6f6fd4b617",
+          "title": {
+            "en": "delete task",
+            "zh-Hans": "删除 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.acreom.task-management.382de33f28",
+          "title": {
+            "en": "focus task in context",
+            "zh-Hans": "focus task in context"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        }
+      ]
+    }
+  ]
+}

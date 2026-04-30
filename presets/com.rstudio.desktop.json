@@ -1,0 +1,2502 @@
+{
+  "bundleIdentifier": "com.rstudio.desktop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.rstudio.accessibility",
+      "title": {
+        "en": "Accessibility",
+        "zh-Hans": "辅助功能"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.accessibility.db68c98476",
+          "title": {
+            "en": "Focus Console Output",
+            "zh-Hans": "聚焦Console 输出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 6144,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.rstudio.accessibility.2e3c7b935e",
+          "title": {
+            "en": "Focus Main Toolbar",
+            "zh-Hans": "聚焦Main 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 6144,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.rstudio.accessibility.e6a830d64d",
+          "title": {
+            "en": "Speak Text Editor Location",
+            "zh-Hans": "Speak 文本 编辑器 Location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 6656,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.rstudio.accessibility.dc7d2aeb1a",
+          "title": {
+            "en": "Toggle Tab Key Always Moves Focus",
+            "zh-Hans": "Toggle Tab Key Always Moves Focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 6656,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rstudio.accessibility.e6622c69ed",
+          "title": {
+            "en": "Toggle Screen Reader Support",
+            "zh-Hans": "Toggle Screen Reader Support"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 6144,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.main-menu-server",
+      "title": {
+        "en": "Main Menu (Server)",
+        "zh-Hans": "主菜单（服务器）"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.main-menu-server.8e589a6f09",
+          "title": {
+            "en": "Help Menu",
+            "zh-Hans": "Help 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 6144,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.80be55dbab",
+          "title": {
+            "en": "Tools Menu",
+            "zh-Hans": "Tools 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 6144,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.0e5dce98b9",
+          "title": {
+            "en": "Profile Menu",
+            "zh-Hans": "Profile 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 6144,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.f014152b89",
+          "title": {
+            "en": "Debug Menu",
+            "zh-Hans": "调试 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 6144,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.2ab52bf629",
+          "title": {
+            "en": "Build Menu",
+            "zh-Hans": "Build 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 6144,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.73f2ba9e63",
+          "title": {
+            "en": "Session Menu",
+            "zh-Hans": "Session 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 6656,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.e8f44f4851",
+          "title": {
+            "en": "Plots Menu",
+            "zh-Hans": "Plots 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6144,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.4c964500d5",
+          "title": {
+            "en": "View Menu",
+            "zh-Hans": "视图 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 6144,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.64dac87171",
+          "title": {
+            "en": "Code Menu",
+            "zh-Hans": "Code 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6144,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.c1163f3c51",
+          "title": {
+            "en": "Edit Menu",
+            "zh-Hans": "编辑 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.rstudio.main-menu-server.2c97116380",
+          "title": {
+            "en": "File Menu",
+            "zh-Hans": "文件 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6144,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.terminal",
+      "title": {
+        "en": "Terminal",
+        "zh-Hans": "终端"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.terminal.20ddd29d19",
+          "title": {
+            "en": "Next Terminal",
+            "zh-Hans": "下一个 终端"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 2560,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.rstudio.terminal.f12306ae9f",
+          "title": {
+            "en": "Previous Terminal",
+            "zh-Hans": "上一个 终端"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 2560,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.rstudio.terminal.cbff1a9478",
+          "title": {
+            "en": "Move Focus to Terminal",
+            "zh-Hans": "Move Focus to Terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2560,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rstudio.terminal.77a5ac2b76",
+          "title": {
+            "en": "New Terminal",
+            "zh-Hans": "新建Terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2560,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.session",
+      "title": {
+        "en": "Session",
+        "zh-Hans": "会话"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.session.9491ed3743",
+          "title": {
+            "en": "Restart R Session",
+            "zh-Hans": "Restart R Session"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 768,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.rstudio.session.ef970bf0ee",
+          "title": {
+            "en": "Quit Session (desktop only)",
+            "zh-Hans": "Quit Session (desktop only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.git-svn",
+      "title": {
+        "en": "Git/SVN",
+        "zh-Hans": "Git/SVN"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.git-svn.ee0a5408d3",
+          "title": {
+            "en": "Stage/Unstage and move to next (Git)",
+            "zh-Hans": "Stage/Unstage and move to next (Git)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rstudio.git-svn.0f896fd598",
+          "title": {
+            "en": "Stage/Unstage (Git)",
+            "zh-Hans": "Stage/Unstage (Git)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.rstudio.git-svn.a2c061eb20",
+          "title": {
+            "en": "Scroll diff view",
+            "zh-Hans": "滚动diff 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.git-svn.280a4752be",
+          "title": {
+            "en": "Commit changes",
+            "zh-Hans": "提交 changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 6144,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.rstudio.git-svn.0239c9ba42",
+          "title": {
+            "en": "Diff active source document",
+            "zh-Hans": "Diff 活动 源 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6144,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.plots",
+      "title": {
+        "en": "Plots",
+        "zh-Hans": "绘图"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.plots.f48b0fb215",
+          "title": {
+            "en": "Next plot",
+            "zh-Hans": "下一个 plot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 2304,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.rstudio.plots.89f1237b25",
+          "title": {
+            "en": "Previous plot",
+            "zh-Hans": "上一个 plot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 2304,
+            "displayKey": "F11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.debug",
+      "title": {
+        "en": "Debug",
+        "zh-Hans": "调试"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.debug.63c1ea261b",
+          "title": {
+            "en": "Stop Debugging",
+            "zh-Hans": "Stop Debugging"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.rstudio.debug.a9a68744e4",
+          "title": {
+            "en": "Continue",
+            "zh-Hans": "继续"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.rstudio.debug.1220ee0a4d",
+          "title": {
+            "en": "Finish Function/Loop",
+            "zh-Hans": "Finish 函数/循环"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.rstudio.debug.ba1d13f6b7",
+          "title": {
+            "en": "Step Into Function",
+            "zh-Hans": "Step Into 函数"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.rstudio.debug.7a4be1bc99",
+          "title": {
+            "en": "Execute Next Line",
+            "zh-Hans": "Execute 下一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.rstudio.debug.efcf181b8f",
+          "title": {
+            "en": "Toggle Breakpoint",
+            "zh-Hans": "切换Breakpoint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.build",
+      "title": {
+        "en": "Build",
+        "zh-Hans": "构建"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.build.7ded6d9e97",
+          "title": {
+            "en": "Document Package",
+            "zh-Hans": "文档 Package"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rstudio.build.add37fc65f",
+          "title": {
+            "en": "Check Package",
+            "zh-Hans": "Check Package"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.rstudio.build.5e5138c2f4",
+          "title": {
+            "en": "Test Package (Web)",
+            "zh-Hans": "Test Package (Web)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2304,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.rstudio.build.18bbe44400",
+          "title": {
+            "en": "Test Package (Desktop)",
+            "zh-Hans": "Test Package (Desktop)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rstudio.build.9b7aef2317",
+          "title": {
+            "en": "Load All (devtools)",
+            "zh-Hans": "Load 全部 (devtools)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rstudio.build.ac85b19b73",
+          "title": {
+            "en": "Build and Reload",
+            "zh-Hans": "Build and Reload"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.help",
+      "title": {
+        "en": "Help",
+        "zh-Hans": "帮助"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.help.db773039e9",
+          "title": {
+            "en": "Show Command Palette",
+            "zh-Hans": "显示 Command 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rstudio.help.ecf94e3d88",
+          "title": {
+            "en": "Next Help Topic",
+            "zh-Hans": "下一个 Help Topic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2560,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.rstudio.help.f4a33170ee",
+          "title": {
+            "en": "Previous Help Topic",
+            "zh-Hans": "上一个 Help Topic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 2560,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.rstudio.help.6bd08979cc",
+          "title": {
+            "en": "Find in Help Topic",
+            "zh-Hans": "Find in Help Topic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rstudio.help.a5afd5f456",
+          "title": {
+            "en": "Search R Help",
+            "zh-Hans": "搜索 R Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 6144,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.rstudio.help.2539c63046",
+          "title": {
+            "en": "Show Keyboard Shortcut Reference",
+            "zh-Hans": "显示 Keyboard Shortcut 引用"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2560,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.views",
+      "title": {
+        "en": "Views",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.views.cb277a2d4c",
+          "title": {
+            "en": "Project Options",
+            "zh-Hans": "项目 Options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.rstudio.views.9c4e18e4cd",
+          "title": {
+            "en": "Global Options",
+            "zh-Hans": "Global Options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.rstudio.views.92d673d662",
+          "title": {
+            "en": "Sync Editor ",
+            "zh-Hans": "Sync 编辑器 "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.a7d8f713d9",
+          "title": {
+            "en": "Zoom Tutorial",
+            "zh-Hans": "Zoom Tutorial"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 4608,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.a391ba2e4d",
+          "title": {
+            "en": "Show Find in Files Results",
+            "zh-Hans": "Show Find in Files Results"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 4096,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.16ccc6c00a",
+          "title": {
+            "en": "Zoom Connections",
+            "zh-Hans": "Zoom Connections"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 4608,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.30f8fac8fd",
+          "title": {
+            "en": "Show Connections",
+            "zh-Hans": "显示 Connections"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 4096,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.761348f3c8",
+          "title": {
+            "en": "Zoom Build",
+            "zh-Hans": "Zoom Build"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 4608,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.f4c4fe341d",
+          "title": {
+            "en": "Show Build",
+            "zh-Hans": "显示 Build"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 4096,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.5dbb16934d",
+          "title": {
+            "en": "Zoom Git/SVN",
+            "zh-Hans": "Zoom Git/SVN"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 4608,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.a243c43f8a",
+          "title": {
+            "en": "Show Git/SVN",
+            "zh-Hans": "显示 Git/SVN"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 4096,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.bec9d6f29c",
+          "title": {
+            "en": "Zoom Viewer",
+            "zh-Hans": "Zoom Viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 4608,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.77ec9a5707",
+          "title": {
+            "en": "Show Viewer",
+            "zh-Hans": "显示 Viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 4096,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.5406beab41",
+          "title": {
+            "en": "Zoom Environment",
+            "zh-Hans": "Zoom Environment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 4608,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.fd9f676bbb",
+          "title": {
+            "en": "Show Environment",
+            "zh-Hans": "显示 Environment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 4096,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.a2cf4fdf6a",
+          "title": {
+            "en": "Zoom Packages",
+            "zh-Hans": "Zoom Packages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 4608,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.64103ff31a",
+          "title": {
+            "en": "Show Packages",
+            "zh-Hans": "显示 Packages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 4096,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.dbf3cf9108",
+          "title": {
+            "en": "Zoom Plots",
+            "zh-Hans": "Zoom Plots"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 4608,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.150f41452c",
+          "title": {
+            "en": "Show Plots",
+            "zh-Hans": "显示 Plots"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 4096,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.3310df427f",
+          "title": {
+            "en": "Zoom Files",
+            "zh-Hans": "Zoom 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4608,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.cc36852ccd",
+          "title": {
+            "en": "Show Files",
+            "zh-Hans": "显示 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 4096,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.d111c7aa52",
+          "title": {
+            "en": "Zoom History",
+            "zh-Hans": "Zoom 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 4608,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.f74588b639",
+          "title": {
+            "en": "Show History",
+            "zh-Hans": "显示 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 4096,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.460b5babe3",
+          "title": {
+            "en": "Move focus to Terminal",
+            "zh-Hans": "Move focus to Terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2560,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.7661a0c1f6",
+          "title": {
+            "en": "Zoom Help",
+            "zh-Hans": "Zoom Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 4608,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.44358c5b27",
+          "title": {
+            "en": "Move focus to Help",
+            "zh-Hans": "Move focus to Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 4096,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.d42c562205",
+          "title": {
+            "en": "Zoom Console",
+            "zh-Hans": "Zoom 控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4608,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.d81558a05a",
+          "title": {
+            "en": "Move focus to Console",
+            "zh-Hans": "Move focus to Console"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4096,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.b0cd6f2753",
+          "title": {
+            "en": "Zoom Source Editor",
+            "zh-Hans": "Zoom 源 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4608,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.rstudio.views.4d249a0116",
+          "title": {
+            "en": "Move focus to Source Editor",
+            "zh-Hans": "Move focus to Source Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.completions",
+      "title": {
+        "en": "Completions",
+        "zh-Hans": "补全"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.completions.cca1951604",
+          "title": {
+            "en": "Dismiss completion popup",
+            "zh-Hans": "Dismiss completion popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.rstudio.completions.de2b8ec644",
+          "title": {
+            "en": "Accept selected candidate",
+            "zh-Hans": "Accept 所选 candidate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rstudio.completions.df5ee20dcf",
+          "title": {
+            "en": "Navigate candidates",
+            "zh-Hans": "Navigate candidates"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.completions.9774b9d9ea",
+          "title": {
+            "en": "Attempt completion",
+            "zh-Hans": "Attempt completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.editing.ff4419dd24",
+          "title": {
+            "en": "Find usages for symbol at cursor (C  )",
+            "zh-Hans": "Find usages for symbol at cursor (C  )"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.dc1484e708",
+          "title": {
+            "en": "Show source code for function at cursor",
+            "zh-Hans": "Show source code for function at cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.2cfdf2519f",
+          "title": {
+            "en": "Show help for function at cursor",
+            "zh-Hans": "Show help for function at cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.e0238fd1a3",
+          "title": {
+            "en": "Insert pipe operator",
+            "zh-Hans": "插入 pipe operator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.e0b202c5b6",
+          "title": {
+            "en": "Insert assignment operator",
+            "zh-Hans": "插入 assignment operator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 2048,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.a2f2f46c4b",
+          "title": {
+            "en": "Insert currently yanked text",
+            "zh-Hans": "插入 currently yanked 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 4096,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.9c91253861",
+          "title": {
+            "en": "Yank line after cursor",
+            "zh-Hans": "Yank 行 after 光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4096,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.404c94d0bc",
+          "title": {
+            "en": "Yank line up to cursor",
+            "zh-Hans": "Yank line up to cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4096,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.432c4eb75f",
+          "title": {
+            "en": "Outdent",
+            "zh-Hans": "减少缩进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.63d0e9680d",
+          "title": {
+            "en": "Indent (at beginning of line)",
+            "zh-Hans": "Indent (at beginning of line)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.5552b861cd",
+          "title": {
+            "en": "Delete to Line Start",
+            "zh-Hans": "Delete to Line Start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 2048,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.220225a7bc",
+          "title": {
+            "en": "Delete to Line End",
+            "zh-Hans": "Delete to Line End"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4096,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.c33621a576",
+          "title": {
+            "en": "Delete Word Right",
+            "zh-Hans": "删除 单词 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.6cc062290a",
+          "title": {
+            "en": "Delete Word Left",
+            "zh-Hans": "删除 单词 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 6144,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.cff42ebaf1",
+          "title": {
+            "en": "Select to Start/End",
+            "zh-Hans": "选择to 开始/结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.bab643d06b",
+          "title": {
+            "en": "Select Page Up/Down",
+            "zh-Hans": "选择Page 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.f1f12b51e8",
+          "title": {
+            "en": "Select to Line End",
+            "zh-Hans": "选择to 行 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.2897ac8e16",
+          "title": {
+            "en": "Select to Line Start",
+            "zh-Hans": "选择to 行 开始"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.425207801c",
+          "title": {
+            "en": "Select Word",
+            "zh-Hans": "选择Word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.8e5a4eda76",
+          "title": {
+            "en": "Select",
+            "zh-Hans": "Select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.41f1e6a1df",
+          "title": {
+            "en": "Delete Line",
+            "zh-Hans": "删除 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.4f960c4c6a",
+          "title": {
+            "en": "Jump to Start/End",
+            "zh-Hans": "跳转到Start/结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.36764ff027",
+          "title": {
+            "en": "Jump to Word",
+            "zh-Hans": "跳转到Word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.rstudio.editing.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.source",
+      "title": {
+        "en": "Source",
+        "zh-Hans": "源代码"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.source.cb50440d2c",
+          "title": {
+            "en": "Insert Roxygen Skeleton",
+            "zh-Hans": "插入 Roxygen Skeleton"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2816,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.f51cce6de2",
+          "title": {
+            "en": "Rename Symbol in Scope",
+            "zh-Hans": "Rename Symbol in Scope"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2816,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.3468db3579",
+          "title": {
+            "en": "Check Spelling",
+            "zh-Hans": "Check Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.7c0d8e1b2b",
+          "title": {
+            "en": "Find in Files",
+            "zh-Hans": "Find in Files"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.2547ad0451",
+          "title": {
+            "en": "Replace and Find",
+            "zh-Hans": "Replace and Find"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.43803b067d",
+          "title": {
+            "en": "Use Selection for Find",
+            "zh-Hans": "Use Selection for Find"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.e4752cd078",
+          "title": {
+            "en": "Find and Replace",
+            "zh-Hans": "查找和替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.5a88fb4917",
+          "title": {
+            "en": "Move Active Cursor Down",
+            "zh-Hans": "移动Active 光标 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6656,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.51ef6c5abe",
+          "title": {
+            "en": "Move Active Cursor Up",
+            "zh-Hans": "移动Active 光标 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6656,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.d848b4cac0",
+          "title": {
+            "en": "Add Cursor Below Current Cursor",
+            "zh-Hans": "添加Cursor 下方 当前 光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6144,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.0289fa5b49",
+          "title": {
+            "en": "Add Cursor Above Current Cursor",
+            "zh-Hans": "添加Cursor 上方 当前 光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6144,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.8381de081d",
+          "title": {
+            "en": "Expand to Matching Brace/Paren",
+            "zh-Hans": "Expand to Matching Brace/Paren"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4608,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.3e8dcee170",
+          "title": {
+            "en": "Jump to Matching Brace/Paren",
+            "zh-Hans": "Jump to Matching Brace/Paren"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.36b759ae46",
+          "title": {
+            "en": "Copy Lines Up/Down",
+            "zh-Hans": "复制 Lines 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.822d89c3bb",
+          "title": {
+            "en": "Move Lines Up/Down",
+            "zh-Hans": "移动Lines 上/下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.d872f968fb",
+          "title": {
+            "en": "Transpose Letters",
+            "zh-Hans": "Transpose Letters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.6d720fc8bd",
+          "title": {
+            "en": "Show Diagnostics",
+            "zh-Hans": "显示 Diagnostics"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.6769d2df7b",
+          "title": {
+            "en": "Reformat Selection",
+            "zh-Hans": "Reformat 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.359d13bde3",
+          "title": {
+            "en": "Reflow Comment",
+            "zh-Hans": "Reflow 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 768,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.909b9ced90",
+          "title": {
+            "en": "Comment/uncomment current line/selection",
+            "zh-Hans": "评论/uncomment 当前 行/选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.8ae5178fb3",
+          "title": {
+            "en": "Reindent lines",
+            "zh-Hans": "Reindent lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.7c82ca54d0",
+          "title": {
+            "en": "Extract variable from selection",
+            "zh-Hans": "Extract variable from selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.2d9f6b61a0",
+          "title": {
+            "en": "Extract function from selection",
+            "zh-Hans": "Extract function from selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2304,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.9493042ad6",
+          "title": {
+            "en": "Navigate forward",
+            "zh-Hans": "向前导航"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 256,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.6bb63d92b7",
+          "title": {
+            "en": "Navigate back",
+            "zh-Hans": "向后导航"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.349ff8fd28",
+          "title": {
+            "en": "Last tab",
+            "zh-Hans": "最后一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 4608,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.409c5b4b62",
+          "title": {
+            "en": "First tab",
+            "zh-Hans": "第一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 4608,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.adfb4b1072",
+          "title": {
+            "en": "Next tab (desktop)",
+            "zh-Hans": "下一个 标签页 (desktop)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.b932467839",
+          "title": {
+            "en": "Next tab",
+            "zh-Hans": "下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 4096,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.8b518bd073",
+          "title": {
+            "en": "Previous tab (desktop)",
+            "zh-Hans": "上一个 标签页 (desktop)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.f6e3bb07a4",
+          "title": {
+            "en": "Previous tab",
+            "zh-Hans": "上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 4096,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.690be6014a",
+          "title": {
+            "en": "Switch to tab",
+            "zh-Hans": "切换到tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 4608,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.rstudio.source.652ad3b9f5",
+          "title": {
+            "en": "Edit lines from start",
+            "zh-Hans": "Edit lines from start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 6656,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.e4c0ac339f",
+          "title": {
+            "en": "Split into lines",
+            "zh-Hans": "Split into lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 6144,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.1b301e2955",
+          "title": {
+            "en": "Previous section",
+            "zh-Hans": "上一个 section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 256,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.04a0f1532c",
+          "title": {
+            "en": "Next section",
+            "zh-Hans": "下一个 section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 256,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.49a91f4453",
+          "title": {
+            "en": "Shrink selection",
+            "zh-Hans": "收缩选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6656,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.26a14c7bbe",
+          "title": {
+            "en": "Expand selection",
+            "zh-Hans": "展开选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6656,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.4d3ae0968d",
+          "title": {
+            "en": "Jump to",
+            "zh-Hans": "Jump to"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2816,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.4b70021cb6",
+          "title": {
+            "en": "Go to line",
+            "zh-Hans": "转到line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.723cf398e3",
+          "title": {
+            "en": "Unfold All",
+            "zh-Hans": "全部展开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2816,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.3058cf8373",
+          "title": {
+            "en": "Fold All",
+            "zh-Hans": "全部折叠"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.c901d9b9d1",
+          "title": {
+            "en": "Unfold Selected",
+            "zh-Hans": "Unfold 所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2816,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.d691c25b5c",
+          "title": {
+            "en": "Fold Selected",
+            "zh-Hans": "Fold 所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.cbeaaefd8c",
+          "title": {
+            "en": "Send current line/selection to terminal",
+            "zh-Hans": "Send current line/selection to terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2304,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.52fe5146fc",
+          "title": {
+            "en": "Source the current document (with echo)",
+            "zh-Hans": "Source the current document (with echo)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.3a1f5e9e0c",
+          "title": {
+            "en": "Source the current document",
+            "zh-Hans": "Source the current document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.4cfac3e1cb",
+          "title": {
+            "en": "Source a file",
+            "zh-Hans": "Source a file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 6144,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.0d0676fcca",
+          "title": {
+            "en": "Run the next Sweave/Rmd chunk",
+            "zh-Hans": "Run the next Sweave/Rmd chunk"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.28485511f6",
+          "title": {
+            "en": "Run the current Sweave/Rmd chunk",
+            "zh-Hans": "Run the current Sweave/Rmd chunk"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.ad563abb77",
+          "title": {
+            "en": "Run previous Sweave/Rmd code",
+            "zh-Hans": "Run previous Sweave/Rmd code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2816,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.b3bc155555",
+          "title": {
+            "en": "Run the current code section",
+            "zh-Hans": "Run the current code section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.161d176980",
+          "title": {
+            "en": "Run the current function definition",
+            "zh-Hans": "Run the current function definition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.5b4a155bcf",
+          "title": {
+            "en": "Run from current line to document end",
+            "zh-Hans": "Run from current line to document end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.4b2019513a",
+          "title": {
+            "en": "Run from document beginning to current line",
+            "zh-Hans": "Run from document beginning to current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.b304b94a73",
+          "title": {
+            "en": "Run current document",
+            "zh-Hans": "Run 当前 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.a650a7cbcc",
+          "title": {
+            "en": "Re-run previous region",
+            "zh-Hans": "Re-run 上一个 区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.24f3862c0a",
+          "title": {
+            "en": "Run current line/selection (retain cursor)",
+            "zh-Hans": "Run 当前 行/选择 (retain 光标)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.392e218204",
+          "title": {
+            "en": "Run current line/selection",
+            "zh-Hans": "Run 当前 行/选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.fb5aa5cafe",
+          "title": {
+            "en": "Insert code section",
+            "zh-Hans": "插入 code section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.c5b9fc6409",
+          "title": {
+            "en": "Insert chunk (Sweave and Knitr)",
+            "zh-Hans": "Insert chunk (Sweave and Knitr)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.f81968f7f9",
+          "title": {
+            "en": "Compile PDF (TeX and Sweave)",
+            "zh-Hans": "Compile PDF (TeX and Sweave)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.a72cec4d69",
+          "title": {
+            "en": "Compile Notebook",
+            "zh-Hans": "Compile Notebook"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.da234537ae",
+          "title": {
+            "en": "Knit Document (knitr)",
+            "zh-Hans": "Knit 文档 (knitr)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.08af0144b9",
+          "title": {
+            "en": "Preview HTML (Markdown and HTML)",
+            "zh-Hans": "Preview HTML (Markdown and HTML)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.d40633a2c1",
+          "title": {
+            "en": "Close other documents",
+            "zh-Hans": "关闭 other 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2816,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.781c791b8e",
+          "title": {
+            "en": "Close all open documents",
+            "zh-Hans": "关闭 全部 打开 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.97d45ae2ce",
+          "title": {
+            "en": "Close active document (Chrome only)",
+            "zh-Hans": "关闭 活动 文档 (Chrome only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.3962b87320",
+          "title": {
+            "en": "Close active document (except on Chrome)",
+            "zh-Hans": "Close active document (except on Chrome)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.8aceacdd0b",
+          "title": {
+            "en": "Save all documents",
+            "zh-Hans": "存储 全部 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 6144,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.729e4a2605",
+          "title": {
+            "en": "Save active document",
+            "zh-Hans": "存储 活动 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.af534e5244",
+          "title": {
+            "en": "Open document",
+            "zh-Hans": "打开 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.b64bb4df37",
+          "title": {
+            "en": "New document (Chrome only)",
+            "zh-Hans": "New document (Chrome only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2816,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.bb58cbfb37",
+          "title": {
+            "en": "New document (except on Chrome/Windows)",
+            "zh-Hans": "New document (except on Chrome/Windows)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.786df2e7f5",
+          "title": {
+            "en": "Toggle document outline",
+            "zh-Hans": "切换document 大纲"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.6bc9f3b0c8",
+          "title": {
+            "en": "Move cursor to Source Editor",
+            "zh-Hans": "Move cursor to Source Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.rstudio.source.3124203313",
+          "title": {
+            "en": "Go to File/Function",
+            "zh-Hans": "转到File/函数"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 4096,
+            "displayKey": "."
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rstudio.console",
+      "title": {
+        "en": "Console",
+        "zh-Hans": "控制台"
+      },
+      "items": [
+        {
+          "id": "remote.rstudio.console.4d83e61db7",
+          "title": {
+            "en": "Change working directory",
+            "zh-Hans": "Change working directory"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4608,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.rstudio.console.d35a73b43c",
+          "title": {
+            "en": "Interrupt currently executing command",
+            "zh-Hans": "Interrupt currently executing command"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.rstudio.console.ec523270a1",
+          "title": {
+            "en": "Popup command history",
+            "zh-Hans": "Popup command 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.console.6a616de2fc",
+          "title": {
+            "en": "Navigate command history",
+            "zh-Hans": "Navigate command 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rstudio.console.2e4d9e47cf",
+          "title": {
+            "en": "Move cursor to end of line",
+            "zh-Hans": "Move cursor to end of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.rstudio.console.bde0a6cd95",
+          "title": {
+            "en": "Move cursor to beginning of line",
+            "zh-Hans": "Move cursor to beginning of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.rstudio.console.ccd9940f1f",
+          "title": {
+            "en": "Clear console",
+            "zh-Hans": "清除console"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rstudio.console.a3d2cf48d1",
+          "title": {
+            "en": "Move cursor to Console",
+            "zh-Hans": "Move cursor to Console"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 4096,
+            "displayKey": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

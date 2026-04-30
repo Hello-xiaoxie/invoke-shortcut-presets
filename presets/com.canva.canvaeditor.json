@@ -67,7 +67,7 @@
           "id": "remote.canva.general.0408772e33",
           "title": {
             "en": "Add Text",
-            "zh-Hans": "Add Text"
+            "zh-Hans": "添加Text"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -79,7 +79,7 @@
           "id": "remote.canva.general.36ca30dcf2",
           "title": {
             "en": "Add Rectangle",
-            "zh-Hans": "Add Rectangle"
+            "zh-Hans": "添加Rectangle"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -91,7 +91,7 @@
           "id": "remote.canva.general.773587f4e9",
           "title": {
             "en": "Add Line",
-            "zh-Hans": "Add Line"
+            "zh-Hans": "添加Line"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -103,7 +103,7 @@
           "id": "remote.canva.general.105ae2222a",
           "title": {
             "en": "Add Circle",
-            "zh-Hans": "Add Circle"
+            "zh-Hans": "添加Circle"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -115,7 +115,7 @@
           "id": "remote.canva.general.099423f610",
           "title": {
             "en": "Add Link",
-            "zh-Hans": "Add Link"
+            "zh-Hans": "添加Link"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -127,7 +127,7 @@
           "id": "remote.canva.general.b0e5b645dd",
           "title": {
             "en": "Add Empty Page",
-            "zh-Hans": "Add Empty Page"
+            "zh-Hans": "添加Empty 页面"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -217,7 +217,7 @@
           "id": "remote.canva.text.24f7fdff86",
           "title": {
             "en": "Bold Text",
-            "zh-Hans": "加粗 Text"
+            "zh-Hans": "加粗 文本"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -229,7 +229,7 @@
           "id": "remote.canva.text.8f98d1693b",
           "title": {
             "en": "Italicize Text",
-            "zh-Hans": "Italicize Text"
+            "zh-Hans": "Italicize 文本"
           },
           "shortcutConfiguration": {
             "keyCode": 34,

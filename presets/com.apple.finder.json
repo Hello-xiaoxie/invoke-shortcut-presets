@@ -1,0 +1,699 @@
+{
+  "bundleIdentifier": "com.apple.finder",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.finder.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.finder.general.9854459739",
+          "title": {
+            "en": "Duplicate the selected files.",
+            "zh-Hans": "Duplicate the selected files."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.finder.general.ee6e4e1c9f",
+          "title": {
+            "en": "Open the Computer window.",
+            "zh-Hans": "Open the Computer window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.finder.general.c5069c5fd8",
+          "title": {
+            "en": "Open the desktop folder.",
+            "zh-Hans": "Open the desktop folder."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.finder.general.5f7aba2c1b",
+          "title": {
+            "en": "Open the All My Files window.",
+            "zh-Hans": "Open the All My Files window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.finder.general.3ce05aa975",
+          "title": {
+            "en": "Open a Go to Folder window.",
+            "zh-Hans": "Open a Go to Folder window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.finder.general.d79d629e83",
+          "title": {
+            "en": "Open the Home folder of the current macOS user account.",
+            "zh-Hans": "Open the Home folder of the current macOS user account."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.finder.general.1b1318693e",
+          "title": {
+            "en": "Eject the selected disk or volume.",
+            "zh-Hans": "Eject the selected disk or volume."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.finder.general.6b34fc8657",
+          "title": {
+            "en": "Start a Spotlight search in the Finder window.",
+            "zh-Hans": "Start a Spotlight search in the Finder window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.finder.general.6c40598f85",
+          "title": {
+            "en": "Show the Get Info window for a selected file.",
+            "zh-Hans": "Show the Get Info window for a selected file."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.finder.general.eb78dfa383",
+          "title": {
+            "en": "Open iCloud Drive.",
+            "zh-Hans": "打开 iCloud Drive."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.finder.general.0270e1378b",
+          "title": {
+            "en": "Open the Network window.",
+            "zh-Hans": "Open the Network window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.finder.general.c98bdcfbea",
+          "title": {
+            "en": "Open the AirDrop window.",
+            "zh-Hans": "Open the AirDrop window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.finder.general.94022bb6ac",
+          "title": {
+            "en": "Open the Documents folder.",
+            "zh-Hans": "Open the Documents folder."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.finder.general.d5bb8956a5",
+          "title": {
+            "en": "Open the Downloads folder.",
+            "zh-Hans": "Open the Downloads folder."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.finder.general.77a4f15b43",
+          "title": {
+            "en": "Open the Utilities folder.",
+            "zh-Hans": "Open the Utilities folder."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.finder.general.e906351f78",
+          "title": {
+            "en": "Open the Connect to Server window.",
+            "zh-Hans": "Open the Connect to Server window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.finder.general.22643aebab",
+          "title": {
+            "en": "Make an alias of the selected item.",
+            "zh-Hans": "Make an alias of the selected item."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.finder.general.0ffbe94b94",
+          "title": {
+            "en": "Open a new Finder window.",
+            "zh-Hans": "Open a new Finder window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.finder.general.a841e65f13",
+          "title": {
+            "en": "Create a new folder.",
+            "zh-Hans": "Create a new 文件夹."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.finder.general.04a14627d1",
+          "title": {
+            "en": "Go to the previous folder.",
+            "zh-Hans": "转到the 上一个 文件夹."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.finder.general.15f4f9faa7",
+          "title": {
+            "en": "Go to the next folder.",
+            "zh-Hans": "转到the 下一个 文件夹."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.finder.general.9a25884413",
+          "title": {
+            "en": "Open the folder that contains the current folder.",
+            "zh-Hans": "Open the folder that contains the current folder."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.finder.general.fb0c8d51d2",
+          "title": {
+            "en": "Open the folder that contains the current folder in a new window.",
+            "zh-Hans": "Open the folder that contains the current folder in a new window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.finder.general.c9bd20a467",
+          "title": {
+            "en": "Open the selected item.",
+            "zh-Hans": "Open the selected item."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.finder.general.1c55e3bbaf",
+          "title": {
+            "en": "Open the selected folder. This works only when in list view.",
+            "zh-Hans": "Open the selected folder. This works only when in list view."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.finder.general.71ff6b4582",
+          "title": {
+            "en": "Close the selected folder. This works only when in list view.",
+            "zh-Hans": "Close the selected folder. This works only when in list view."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.finder.general.534f45aa43",
+          "title": {
+            "en": "Open Displays preferences. This works with either Brightness key.",
+            "zh-Hans": "Open Displays preferences. This works with either Brightness key."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.finder.general.9ccab64f19",
+          "title": {
+            "en": "Open Mission Control preferences.",
+            "zh-Hans": "打开 Mission Control 偏好设置."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.finder.general.8649bdef55",
+          "title": {
+            "en": "Open Sound preferences. This works with any of the volume keys.",
+            "zh-Hans": "Open Sound preferences. This works with any of the volume keys."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.finder.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.finder.editing.8d5ad2ba58",
+          "title": {
+            "en": "Add selected Finder item to the Dock (OS X Mountain Lion or earlier)",
+            "zh-Hans": "Add selected Finder item to the Dock (OS X Mountain Lion or earlier)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.finder.editing.b1722c0400",
+          "title": {
+            "en": "Add selected Finder item to the Dock (OS X Mavericks or later)",
+            "zh-Hans": "Add selected Finder item to the Dock (OS X Mavericks or later)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.finder.editing.e0b42be7db",
+          "title": {
+            "en": "Add the selected item to the sidebar (OS X Mavericks or later).",
+            "zh-Hans": "Add the selected item to the sidebar (OS X Mavericks or later)."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.finder.editing.3dbd601fb8",
+          "title": {
+            "en": "Hide or show the path bar in Finder windows.",
+            "zh-Hans": "Hide or show the path bar in Finder windows."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.finder.editing.7d5cfd15a8",
+          "title": {
+            "en": "Hide or show the Sidebar in Finder windows.",
+            "zh-Hans": "Hide or show the Sidebar in Finder windows."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.finder.editing.f4caf513a1",
+          "title": {
+            "en": "Hide or show the status bar in Finder windows.",
+            "zh-Hans": "Hide or show the status bar in Finder windows."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.finder.editing.9f286e1793",
+          "title": {
+            "en": "Move: Move the files in the Clipboard from their original location to the current location.",
+            "zh-Hans": "Move: Move the files in the Clipboard from their original location to the current location."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.finder.editing.86484bc4f0",
+          "title": {
+            "en": "Move the selected item to the Trash.",
+            "zh-Hans": "Move the selected item to the Trash."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.finder.editing.7fafccf495",
+          "title": {
+            "en": "Empty the Trash.",
+            "zh-Hans": "Empty the Trash."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.finder.editing.669d567a3f",
+          "title": {
+            "en": "Empty the Trash without confirmation dialog.",
+            "zh-Hans": "Empty the Trash without confirmation dialog."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2816,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.finder.editing.ba17d8d788",
+          "title": {
+            "en": "Turn Target Display Mode on or off.",
+            "zh-Hans": "Turn Target Display Mode on or off."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.finder.editing.0cf17dbb98",
+          "title": {
+            "en": "Turn display mirroring on or off when your Mac is connected to more than one display.",
+            "zh-Hans": "Turn display mirroring on or off when your Mac is connected to more than one display."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.finder.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.finder.view.836edd1370",
+          "title": {
+            "en": "Show or hide the Dock. This often works even when you're not in the Finder.",
+            "zh-Hans": "Show or hide the Dock. This often works even when you're not in the Finder."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2304,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.finder.view.e7e4e1a822",
+          "title": {
+            "en": "Show the original file for the selected alias.",
+            "zh-Hans": "Show the original file for the selected alias."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.finder.view.4fffb2dda7",
+          "title": {
+            "en": "Show or hide the tab bar when a single tab is open in the current Finder window.",
+            "zh-Hans": "Show or hide the tab bar when a single tab is open in the current Finder window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.finder.view.8da76d57d8",
+          "title": {
+            "en": "Show or hide a Finder tab.",
+            "zh-Hans": "Show or hide a Finder tab."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.finder.view.d974a6c318",
+          "title": {
+            "en": "Show or hide the toolbar when a single tab is open in the current Finder window.",
+            "zh-Hans": "Show or hide the toolbar when a single tab is open in the current Finder window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.finder.view.4938d17715",
+          "title": {
+            "en": "Show View Options.",
+            "zh-Hans": "显示 视图 Options."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.finder.view.272f5607f2",
+          "title": {
+            "en": "View a Quick Look slideshow of the selected files.",
+            "zh-Hans": "View a Quick Look slideshow of the selected files."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.finder.view.d9f726f971",
+          "title": {
+            "en": "Use Quick Look to preview the selected files.",
+            "zh-Hans": "Use Quick Look to preview the selected files."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.finder.view.d738295421",
+          "title": {
+            "en": "View the items in the Finder window as icons.",
+            "zh-Hans": "View the items in the Finder window as icons."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.finder.view.d7076d35e3",
+          "title": {
+            "en": "View the items in a Finder window as a list.",
+            "zh-Hans": "View the items in a Finder window as a list."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.finder.view.5cb1b0790d",
+          "title": {
+            "en": "View the items in a Finder window in columns.",
+            "zh-Hans": "View the items in a Finder window in columns."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.finder.view.0ae2079aff",
+          "title": {
+            "en": "View the items in a Finder window with Cover Flow.",
+            "zh-Hans": "View the items in a Finder window with Cover Flow."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.finder.view.5f98a6cab8",
+          "title": {
+            "en": "Show the desktop. This works even when you're not in the Finder.",
+            "zh-Hans": "Show the desktop. This works even when you're not in the Finder."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.finder.view.d3ae2421e9",
+          "title": {
+            "en": "Use Quick Look to preview the files.",
+            "zh-Hans": "Use Quick Look to preview the files."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        }
+      ]
+    }
+  ]
+}

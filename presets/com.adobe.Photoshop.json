@@ -1,0 +1,2946 @@
+{
+  "bundleIdentifier": "com.adobe.Photoshop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-photoshop.selecting-tools",
+      "title": {
+        "en": "Selecting Tools",
+        "zh-Hans": "Selecting工具"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.44cbba7f31",
+          "title": {
+            "en": "Hand tool",
+            "zh-Hans": "抓手工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.ca100e0d19",
+          "title": {
+            "en": "Move Tool",
+            "zh-Hans": "移动Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.3fada43724",
+          "title": {
+            "en": "Marquee Tools",
+            "zh-Hans": "Marquee Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.5ae5d8f6b7",
+          "title": {
+            "en": "Lasso Tools",
+            "zh-Hans": "Lasso Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.84343c9299",
+          "title": {
+            "en": "Magic Wand and Quick Selection Tool",
+            "zh-Hans": "Magic Wand and Quick Selection Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.ff7ef2dc91",
+          "title": {
+            "en": "Crop and Slice Tools",
+            "zh-Hans": "Crop and Slice Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.57db1d2cfe",
+          "title": {
+            "en": "Eyedropper, Color Sampler, Ruler, Note, and Count Tool",
+            "zh-Hans": "Eyedropper, Color Sampler, Ruler, Note, and Count Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.9c9fcf36b6",
+          "title": {
+            "en": "Spot Healing Brush, Patch, and Red Eye Tool",
+            "zh-Hans": "Spot Healing Brush, Patch, and Red Eye Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.9c332a6172",
+          "title": {
+            "en": "Brush, Pencil, Color Replacement, and",
+            "zh-Hans": "Brush, Pencil, Color Replacement, and"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.6c259bca54",
+          "title": {
+            "en": "Clone Stamp tool",
+            "zh-Hans": "仿制图章工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.fd28571a1c",
+          "title": {
+            "en": "History Brush tool",
+            "zh-Hans": "历史记录 Brush tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.b03782b46f",
+          "title": {
+            "en": "Eraser tool",
+            "zh-Hans": "橡皮擦工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.92a8be086d",
+          "title": {
+            "en": "Gradient tool",
+            "zh-Hans": "渐变工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.87cbdcb73b",
+          "title": {
+            "en": "Dodge tool",
+            "zh-Hans": "减淡工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.cac2569b34",
+          "title": {
+            "en": "Pen tool",
+            "zh-Hans": "钢笔工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.c27507ab73",
+          "title": {
+            "en": "Type tool",
+            "zh-Hans": "文字工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.dc3f0d1582",
+          "title": {
+            "en": "Path Selection tool",
+            "zh-Hans": "路径选择工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.3f0db60c98",
+          "title": {
+            "en": "Rectangle, Ellipse, Polygon, Line, and Custom Shape Tool",
+            "zh-Hans": "Rectangle, Ellipse, Polygon, Line, and Custom Shape Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.c1e2a48447",
+          "title": {
+            "en": "3D Object Tools",
+            "zh-Hans": "3D 对象 Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.209b84b436",
+          "title": {
+            "en": "3D Camera Tools",
+            "zh-Hans": "3D Camera Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.89fb50f0d7",
+          "title": {
+            "en": "Rotate View tool",
+            "zh-Hans": "Rotate 视图 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.selecting-tools.126d6e1208",
+          "title": {
+            "en": "Zoom tool",
+            "zh-Hans": "缩放工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015",
+      "title": {
+        "en": "Basic Shortcuts for PhotoShop CC 2015",
+        "zh-Hans": "Photoshop CC 2015 基础快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.00e336e90d",
+          "title": {
+            "en": "Show Keyboard Shortcuts Menu",
+            "zh-Hans": "显示 Keyboard Shortcuts 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2816,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.3e6c7752b1",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.32e80b503b",
+          "title": {
+            "en": "File Menu",
+            "zh-Hans": "文件 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2048,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.90225f79d4",
+          "title": {
+            "en": "Edit Menu",
+            "zh-Hans": "编辑 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2048,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.77ceda39b1",
+          "title": {
+            "en": "Image Menu",
+            "zh-Hans": "图片 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2048,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.1b7b4cec1f",
+          "title": {
+            "en": "Layer Menu",
+            "zh-Hans": "图层 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2048,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.8c466efb01",
+          "title": {
+            "en": "Select Menu",
+            "zh-Hans": "选择Menu"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2048,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.b23765b6a6",
+          "title": {
+            "en": "Filter Menu",
+            "zh-Hans": "滤镜 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.e39291c835",
+          "title": {
+            "en": "3D Menu",
+            "zh-Hans": "3D 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2048,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.4c960bbae3",
+          "title": {
+            "en": "Window Menu",
+            "zh-Hans": "窗口 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2048,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.0b78e0dc5a",
+          "title": {
+            "en": "New File",
+            "zh-Hans": "新建File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.c7879f2087",
+          "title": {
+            "en": "Open File",
+            "zh-Hans": "打开 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.bbbeb94458",
+          "title": {
+            "en": "Open/ Browse in CC Bridge",
+            "zh-Hans": "Open/ Browse in CC Bridge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.c0c278c8db",
+          "title": {
+            "en": "Open/ Brows in Bridge",
+            "zh-Hans": "Open/ Brows in Bridge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2816,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.8b62a9c62e",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.5943d227a7",
+          "title": {
+            "en": "Close all",
+            "zh-Hans": "全部关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.9f87aeec05",
+          "title": {
+            "en": "Save as…",
+            "zh-Hans": "存储 as…"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.a56050a434",
+          "title": {
+            "en": "Revert to last saved state",
+            "zh-Hans": "Revert to last saved state"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.03badedde4",
+          "title": {
+            "en": "Export as…",
+            "zh-Hans": "导出 as…"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2816,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.5891467ba5",
+          "title": {
+            "en": "Save for Web",
+            "zh-Hans": "Save for Web"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.08581c1ebc",
+          "title": {
+            "en": "File Info",
+            "zh-Hans": "文件 Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2816,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.604576943d",
+          "title": {
+            "en": "Print one Copy",
+            "zh-Hans": "Print one Copy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2816,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.04ddc7976b",
+          "title": {
+            "en": "Quit PhotoShop",
+            "zh-Hans": "退出 PhotoShop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.c53eed2d4e",
+          "title": {
+            "en": "Toggle Undo (one step forwards/ backwards only)",
+            "zh-Hans": "Toggle Undo (one step forwards/ backwards only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.4475a16456",
+          "title": {
+            "en": "Undo (multiple steps possible; referred to as 'step backwards')",
+            "zh-Hans": "Undo (multiple steps possible; referred to as 'step backwards')"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.9ce2c0ade0",
+          "title": {
+            "en": "Redo (multiple steps possible; referred to as 'step backwards')",
+            "zh-Hans": "Redo (multiple steps possible; referred to as 'step backwards')"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.8cb5620c26",
+          "title": {
+            "en": "Fade",
+            "zh-Hans": "Fade"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.31b728fa70",
+          "title": {
+            "en": "Copy Merged",
+            "zh-Hans": "复制 Merged"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.69d69ad9b6",
+          "title": {
+            "en": "Paste in Place",
+            "zh-Hans": "Paste in Place"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.51e492e2ab",
+          "title": {
+            "en": "Paste Into",
+            "zh-Hans": "粘贴 Into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.54fb466650",
+          "title": {
+            "en": "Fill",
+            "zh-Hans": "填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.584c715030",
+          "title": {
+            "en": "Content-Aware Scale",
+            "zh-Hans": "内容识别缩放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.b7b6fdc9b2",
+          "title": {
+            "en": "Free Transform",
+            "zh-Hans": "自由变换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.0f112aaf13",
+          "title": {
+            "en": "Transform again",
+            "zh-Hans": "Transform again"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.5948bd2890",
+          "title": {
+            "en": "Color Settings",
+            "zh-Hans": "颜色 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.34791de361",
+          "title": {
+            "en": "Adjust Levels",
+            "zh-Hans": "Adjust Levels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.83ce8eb69f",
+          "title": {
+            "en": "Adjsut Curves",
+            "zh-Hans": "Adjsut Curves"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.7dfcfdcce9",
+          "title": {
+            "en": "Adjust Hue/ Saturation",
+            "zh-Hans": "Adjust Hue/ Saturation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.88e6729842",
+          "title": {
+            "en": "Adjust Color Balance",
+            "zh-Hans": "Adjust 颜色 Balance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.0d3140391f",
+          "title": {
+            "en": "Adjust to Black and White",
+            "zh-Hans": "Adjust to Black and White"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2816,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.a293b834c8",
+          "title": {
+            "en": "New Layers",
+            "zh-Hans": "新建Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.6d6c2b0a4e",
+          "title": {
+            "en": "Layer via Copy",
+            "zh-Hans": "通过拷贝的图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.ec4d5150ad",
+          "title": {
+            "en": "Layer via Cut",
+            "zh-Hans": "通过剪切的图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.a99d0cb80e",
+          "title": {
+            "en": "Create/release Clipping Mark",
+            "zh-Hans": "Create/release Clipping Mark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.a3af3e8ba4",
+          "title": {
+            "en": "Group Layers",
+            "zh-Hans": "编组图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.2dde8b65f7",
+          "title": {
+            "en": "Ungroup Layers",
+            "zh-Hans": "取消编组图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.bf9ad9e024",
+          "title": {
+            "en": "Hide Layers",
+            "zh-Hans": "隐藏 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.64fa317093",
+          "title": {
+            "en": "Bring forwards/ bring backwards",
+            "zh-Hans": "Bring forwards/ bring backwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.2c333eae88",
+          "title": {
+            "en": "Bring to front/ bring to back",
+            "zh-Hans": "Bring to front/ bring to back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.5bb91a989d",
+          "title": {
+            "en": "Lock Layers",
+            "zh-Hans": "锁定 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.ef314db94c",
+          "title": {
+            "en": "Merge Layers",
+            "zh-Hans": "合并图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.8373aa5df8",
+          "title": {
+            "en": "Merge Visible",
+            "zh-Hans": "Merge 可见"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.56fd601c57",
+          "title": {
+            "en": "Deselect",
+            "zh-Hans": "取消选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.c22dd07443",
+          "title": {
+            "en": "Reselect",
+            "zh-Hans": "重新选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.1e6e851c7d",
+          "title": {
+            "en": "Inverse selection",
+            "zh-Hans": "Inverse 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.63bbbe5b51",
+          "title": {
+            "en": "Select All Layers",
+            "zh-Hans": "全选 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.d6a6bca433",
+          "title": {
+            "en": "Find Layers",
+            "zh-Hans": "查找 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2816,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.93edf999e3",
+          "title": {
+            "en": "Refine Mask",
+            "zh-Hans": "Refine 蒙版"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.4b363b19e8",
+          "title": {
+            "en": "Feather",
+            "zh-Hans": "羽化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.d35d890ecb",
+          "title": {
+            "en": "Last Filter",
+            "zh-Hans": "最后一个 滤镜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.e6d58c49bb",
+          "title": {
+            "en": "Adaptive Wide Angle",
+            "zh-Hans": "自适应广角"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2816,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.0863270914",
+          "title": {
+            "en": "Camera Raw Filter",
+            "zh-Hans": "Camera Raw 滤镜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.5fac00174b",
+          "title": {
+            "en": "Lens Correction",
+            "zh-Hans": "镜头校正"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.a586ce58f2",
+          "title": {
+            "en": "Liquify",
+            "zh-Hans": "液化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.7b7066e6e4",
+          "title": {
+            "en": "Vanishing Point",
+            "zh-Hans": "消失点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.fd6d20eed9",
+          "title": {
+            "en": "Show/Hide Polygons",
+            "zh-Hans": "显示/隐藏 Polygons"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2304,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.89ab750897",
+          "title": {
+            "en": "Reveal all",
+            "zh-Hans": "Reveal 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2816,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.4e4a1c42ff",
+          "title": {
+            "en": "Render 3D Layer",
+            "zh-Hans": "Render 3D 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2816,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.b39921adcd",
+          "title": {
+            "en": "Design Space Preview",
+            "zh-Hans": "Design Space 预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 2304,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.e974277a7b",
+          "title": {
+            "en": "Toggle Brush Window",
+            "zh-Hans": "切换Brush 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.e0d8d992e0",
+          "title": {
+            "en": "Toggle Color Window",
+            "zh-Hans": "切换Color 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.537dba475d",
+          "title": {
+            "en": "Toggle Layers Window",
+            "zh-Hans": "切换Layers 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.82e1709ea2",
+          "title": {
+            "en": "Toggle Info Window",
+            "zh-Hans": "切换Info 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.abfc7d3cec",
+          "title": {
+            "en": "Toggle Actions  Window",
+            "zh-Hans": "切换Actions  窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.manage-views",
+      "title": {
+        "en": "Manage Views",
+        "zh-Hans": "管理视图"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.manage-views.55cab121a1",
+          "title": {
+            "en": "Cycle forwards/ backwards through open documents",
+            "zh-Hans": "Cycle forwards/ backwards through open documents"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.b574212016",
+          "title": {
+            "en": "Toggle Fullscreen Modes forward/ backwards",
+            "zh-Hans": "Toggle Fullscreen Modes forward/ backwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.a58323bbd9",
+          "title": {
+            "en": "Zoom in/ zoom out",
+            "zh-Hans": "放大/ 缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.2bd18199e3",
+          "title": {
+            "en": "Zoom to fit screen",
+            "zh-Hans": "Zoom to fit screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.ce68898691",
+          "title": {
+            "en": "Zoom to 100%",
+            "zh-Hans": "缩放到 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.7a96e55f28",
+          "title": {
+            "en": "Show/Hide Grid",
+            "zh-Hans": "显示/隐藏 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.e6391b4dc2",
+          "title": {
+            "en": "Show/Hide Guides",
+            "zh-Hans": "显示/隐藏 Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.84fdf38252",
+          "title": {
+            "en": "Show/Hide Rulers",
+            "zh-Hans": "显示/隐藏标尺"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.2a5570db14",
+          "title": {
+            "en": "Temporarily Switch to Hand Tool",
+            "zh-Hans": "Temporarily Switch to Hand Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.cddea33ccb",
+          "title": {
+            "en": "Scroll up/ scroll down in small increments",
+            "zh-Hans": "Scroll up/ scroll down in small increments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.27272d6ebc",
+          "title": {
+            "en": "Scroll up/ down one screen",
+            "zh-Hans": "Scroll up/ down one screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.6a1912fa90",
+          "title": {
+            "en": "Scroll to to upper-left/ lower-right corner",
+            "zh-Hans": "Scroll to to upper-left/ lower-right corner"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.4fd0c13f49",
+          "title": {
+            "en": "Toggle Snap",
+            "zh-Hans": "切换Snap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.0cdfd3c998",
+          "title": {
+            "en": "Lock Guides",
+            "zh-Hans": "锁定 Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.212fae72e1",
+          "title": {
+            "en": "Proof Colors",
+            "zh-Hans": "Proof Colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.60e64a9a9e",
+          "title": {
+            "en": "Gamut Warning",
+            "zh-Hans": "Gamut 警告"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.55d1ecca0f",
+          "title": {
+            "en": "Extras",
+            "zh-Hans": "Extras"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-views.94ea15cae9",
+          "title": {
+            "en": "Show Target Path",
+            "zh-Hans": "显示 Target 路径"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.refine-edge-dialog-box",
+      "title": {
+        "en": "Refine Edge Dialog Box",
+        "zh-Hans": "调整边缘对话框"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.refine-edge-dialog-box.716ef3cb22",
+          "title": {
+            "en": "Open Refine Edge Dialog Box",
+            "zh-Hans": "Open Refine Edge Dialog Box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.refine-edge-dialog-box.5bb21b3a89",
+          "title": {
+            "en": "Cycle forwards/backwards through preview modes",
+            "zh-Hans": "Cycle forwards/backwards through preview modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.refine-edge-dialog-box.3c399afb48",
+          "title": {
+            "en": "Toggle between original image and selection preview",
+            "zh-Hans": "Toggle between original image and selection preview"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.refine-edge-dialog-box.ea302c97b9",
+          "title": {
+            "en": "Toggle between original selection and refined version",
+            "zh-Hans": "Toggle between original selection and refined version"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.refine-edge-dialog-box.76857988c3",
+          "title": {
+            "en": "Toggle radius preview on and off",
+            "zh-Hans": "Toggle radius preview on and off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.refine-edge-dialog-box.49e1303cc5",
+          "title": {
+            "en": "Toggle between Refine Radius and Erase Refinements tools",
+            "zh-Hans": "Toggle between Refine Radius and Erase Refinements tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.liquify-window",
+      "title": {
+        "en": "Liquify Window",
+        "zh-Hans": "Liquify窗口"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.liquify-window.89b95040ca",
+          "title": {
+            "en": "Open Liquify Window",
+            "zh-Hans": "打开 Liquify 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.b5e8981972",
+          "title": {
+            "en": "Forward Warp tool",
+            "zh-Hans": "向前 Warp tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.05541295b3",
+          "title": {
+            "en": "Reconstruct tool",
+            "zh-Hans": "Reconstruct tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.a5781ddfd0",
+          "title": {
+            "en": "Twirl Clockwise tool",
+            "zh-Hans": "Twirl Clockwise tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.eb32695562",
+          "title": {
+            "en": "Pucker tool",
+            "zh-Hans": "缩拢工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.15b7710a14",
+          "title": {
+            "en": "Bloat tool",
+            "zh-Hans": "膨胀工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.24d435346f",
+          "title": {
+            "en": "Push Left tool",
+            "zh-Hans": "Push 左 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.59e7d156d6",
+          "title": {
+            "en": "Mirror tool",
+            "zh-Hans": "Mirror tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.64cb875cd3",
+          "title": {
+            "en": "Turbulence tool",
+            "zh-Hans": "Turbulence tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.898d174155",
+          "title": {
+            "en": "Freeze Mask tool",
+            "zh-Hans": "Freeze 蒙版 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.0663441b96",
+          "title": {
+            "en": "Thaw Mask tool",
+            "zh-Hans": "Thaw 蒙版 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.758b32b595",
+          "title": {
+            "en": "Reverse direction for Bloat, Pucker, Push Left, and Mirror tools",
+            "zh-Hans": "Reverse direction for Bloat, Pucker, Push Left, and Mirror tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.bb3fc4fa08",
+          "title": {
+            "en": "Decrease/increase brush size by 2, or most other parameters by 1 (With Brush Size, Density, Pressure, Rate, or Turbulent Jitter slider showing)",
+            "zh-Hans": "Decrease/increase brush size by 2, or most other parameters by 1 (With Brush Size, Density, Pressure, Rate, or Turbulent Jitter slider showing)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.5e77dadbbb",
+          "title": {
+            "en": "Cycle forwards/backwards through controls on right from top",
+            "zh-Hans": "Cycle forwards/backwards through controls on right from top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.liquify-window.06ef80ef44",
+          "title": {
+            "en": "Change Cancel to Reset",
+            "zh-Hans": "Change Cancel to Reset"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.vanishing-point-tools-brush-stamp-plane-marquee-",
+      "title": {
+        "en": "Vanishing Point Tools (Brush, Stamp, Plane, Marquee, etc)",
+        "zh-Hans": "消失点工具（画笔、图章、平面、选框等）"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.vanishing-point-tools-brush-stamp-plane-marquee-.4adaedd1de",
+          "title": {
+            "en": "Increase/ Decrease Brush Size (Brush and Stamp Tools)",
+            "zh-Hans": "Increase/ Decrease Brush Size (Brush and Stamp Tools)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.vanishing-point-tools-brush-stamp-plane-marquee-.2c66223858",
+          "title": {
+            "en": "Increase/ Decrease Brush Hardnewss",
+            "zh-Hans": "Increase/ Decrease Brush Hardnewss"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 512,
+            "displayKey": "["
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.black-and-white-dialog-box",
+      "title": {
+        "en": "Black-and-White Dialog Box",
+        "zh-Hans": "黑白对话框"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.black-and-white-dialog-box.b4fb305e02",
+          "title": {
+            "en": "Open Black-and-White Dialog Box",
+            "zh-Hans": "Open Black-and-White Dialog Box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2816,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.black-and-white-dialog-box.a649972036",
+          "title": {
+            "en": "Jump to next/ jump to previous slider",
+            "zh-Hans": "Jump to next/ jump to previous slider"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.black-and-white-dialog-box.8ed320d50e",
+          "title": {
+            "en": "Increase/Decrease selected value by 10%",
+            "zh-Hans": "Increase/Decrease selected value by 10%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.black-and-white-dialog-box.e518eaf7c1",
+          "title": {
+            "en": "Increase/Decrease selected value by 1%",
+            "zh-Hans": "Increase/Decrease selected value by 1%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.curves-dialog-box",
+      "title": {
+        "en": "Curves Dialog Box",
+        "zh-Hans": "曲线对话框"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.curves-dialog-box.4dd7e83cf3",
+          "title": {
+            "en": "Open Curves Dialog Box",
+            "zh-Hans": "Open Curves Dialog Box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.curves-dialog-box.b9a9331a30",
+          "title": {
+            "en": "Delete a point from the Curve",
+            "zh-Hans": "Delete a point from the Curve"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.curves-dialog-box.86aea419b6",
+          "title": {
+            "en": "Delete selected points on the curve",
+            "zh-Hans": "Delete selected points on the curve"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.transform-selections-borders-and-paths",
+      "title": {
+        "en": "Transform Selections, Borders, and Paths",
+        "zh-Hans": "变换选区、边框和路径"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.transform-selections-borders-and-paths.fa92cc126b",
+          "title": {
+            "en": "Transform from center or reflect",
+            "zh-Hans": "Transform from center or reflect"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.transform-selections-borders-and-paths.39c242c5f7",
+          "title": {
+            "en": "Constrain",
+            "zh-Hans": "Constrain"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.transform-selections-borders-and-paths.78f4e8e88f",
+          "title": {
+            "en": "Distort",
+            "zh-Hans": "Distort"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.transform-selections-borders-and-paths.3b8253041e",
+          "title": {
+            "en": "Apply",
+            "zh-Hans": "Apply"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.transform-selections-borders-and-paths.a0c65480b6",
+          "title": {
+            "en": "Cancel",
+            "zh-Hans": "取消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.transform-selections-borders-and-paths.7c69e24799",
+          "title": {
+            "en": "Free transform with duplicate data",
+            "zh-Hans": "Free transform with duplicate data"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.transform-selections-borders-and-paths.29450c0e0e",
+          "title": {
+            "en": "Transform again with duplicate data",
+            "zh-Hans": "Transform again with duplicate data"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2816,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.painting-tools",
+      "title": {
+        "en": "Painting Tools",
+        "zh-Hans": "Painting工具"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.painting-tools.c6ec44a7bd",
+          "title": {
+            "en": "Cycle through blending modes",
+            "zh-Hans": "Cycle through blending modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 512,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.painting-tools.326e89e798",
+          "title": {
+            "en": "Open Fill dialog box on background or standard layer",
+            "zh-Hans": "Open Fill dialog box on background or standard layer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.painting-tools.40a4261363",
+          "title": {
+            "en": "Fill with foreground or background color",
+            "zh-Hans": "Fill with foreground or background color"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.painting-tools.2a764e73bb",
+          "title": {
+            "en": "Fill from history",
+            "zh-Hans": "Fill from history"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2304,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.painting-tools.e05d4280bf",
+          "title": {
+            "en": "Displays Fill dialog box",
+            "zh-Hans": "Displays 填充 对话框 box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.painting-tools.cc987c437b",
+          "title": {
+            "en": "Lock transparent pixels on/ off",
+            "zh-Hans": "Lock transparent pixels on/ off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.blending-modes",
+      "title": {
+        "en": "Blending Modes",
+        "zh-Hans": "混合模式"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.blending-modes.c6ec44a7bd",
+          "title": {
+            "en": "Cycle through blending modes",
+            "zh-Hans": "Cycle through blending modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 512,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.9930cc16a1",
+          "title": {
+            "en": "Normal",
+            "zh-Hans": "Normal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2560,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.decd0cd726",
+          "title": {
+            "en": "Dissolve",
+            "zh-Hans": "Dissolve"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.be5564ba61",
+          "title": {
+            "en": "Behind (Brush tool only)",
+            "zh-Hans": "Behind (Brush tool only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2560,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.8d19d3e16d",
+          "title": {
+            "en": "Clear (Brush tool only)",
+            "zh-Hans": "Clear (Brush tool only)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2560,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.a65f967926",
+          "title": {
+            "en": "Darken",
+            "zh-Hans": "Darken"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2560,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.20e082d2b9",
+          "title": {
+            "en": "Multiply",
+            "zh-Hans": "Multiply"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2560,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.0c417be24d",
+          "title": {
+            "en": "Color Burn",
+            "zh-Hans": "颜色 Burn"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2560,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.7768a0566b",
+          "title": {
+            "en": "Linear Burn",
+            "zh-Hans": "Linear Burn"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2560,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.3915f175a6",
+          "title": {
+            "en": "Lighten",
+            "zh-Hans": "Lighten"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2560,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.a2eca0fa47",
+          "title": {
+            "en": "Screen",
+            "zh-Hans": "Screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2560,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.50de350f3b",
+          "title": {
+            "en": "Color Dodge",
+            "zh-Hans": "颜色 Dodge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2560,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.c93e7ed84a",
+          "title": {
+            "en": "Linear Dodge",
+            "zh-Hans": "Linear Dodge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2560,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.4295eff36f",
+          "title": {
+            "en": "Overlay",
+            "zh-Hans": "覆盖层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2560,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.798388d63f",
+          "title": {
+            "en": "Soft Light",
+            "zh-Hans": "Soft Light"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.d511292f1e",
+          "title": {
+            "en": "Hard Light",
+            "zh-Hans": "Hard Light"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2560,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.8f0382d2c1",
+          "title": {
+            "en": "Vivid Light",
+            "zh-Hans": "Vivid Light"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2560,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.0df53aae35",
+          "title": {
+            "en": "Linear Light",
+            "zh-Hans": "Linear Light"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2560,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.5fb1db0e8b",
+          "title": {
+            "en": "Pin Light",
+            "zh-Hans": "Pin Light"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2560,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.6282c9f3b2",
+          "title": {
+            "en": "Hard Mix",
+            "zh-Hans": "Hard Mix"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2560,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.f19a4e7ea2",
+          "title": {
+            "en": "Difference",
+            "zh-Hans": "Difference"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2560,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.39fde956e2",
+          "title": {
+            "en": "Exclusion",
+            "zh-Hans": "Exclusion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2560,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.51a6e0296e",
+          "title": {
+            "en": "Hue",
+            "zh-Hans": "Hue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2560,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.ed64b11d60",
+          "title": {
+            "en": "Saturation",
+            "zh-Hans": "Saturation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2560,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.99b6118ea0",
+          "title": {
+            "en": "Color",
+            "zh-Hans": "颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.c13bbe5fd8",
+          "title": {
+            "en": "Luminosity",
+            "zh-Hans": "Luminosity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2560,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.blending-modes.ad1862a420",
+          "title": {
+            "en": "Set blending mode Normal (or to to Threshold for bitmap images)",
+            "zh-Hans": "Set blending mode Normal (or to to Threshold for bitmap images)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2560,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.select-and-edit-text",
+      "title": {
+        "en": "Select and Edit Text",
+        "zh-Hans": "选择与编辑文本"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.select-and-edit-text.b426da7fb0",
+          "title": {
+            "en": "Hide/Show selection on selected type",
+            "zh-Hans": "Hide/Show selection on selected type"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.select-and-edit-text.883bf5fb2d",
+          "title": {
+            "en": "Display the Bounding Box for transforming text (or activate Move Tool when inside the Bounding Box)",
+            "zh-Hans": "Display the Bounding Box for transforming text (or activate Move Tool when inside the Bounding Box)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.format-text-type",
+      "title": {
+        "en": "Format Text Type",
+        "zh-Hans": "格式化文本类型"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.format-text-type.3ab55a5862",
+          "title": {
+            "en": "Choose 100% horizontal scale",
+            "zh-Hans": "Choose 100% 水平 scale"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.a1861e8905",
+          "title": {
+            "en": "Choose 100% vertical scale",
+            "zh-Hans": "Choose 100% 垂直 scale"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2816,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.4379de880a",
+          "title": {
+            "en": "Choose Auto leading",
+            "zh-Hans": "Choose Auto leading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2816,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.66108006ca",
+          "title": {
+            "en": "Choose 0 for tracking",
+            "zh-Hans": "Choose 0 for tracking"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4864,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.2bf621e51f",
+          "title": {
+            "en": "Justify paragraph, left aligns last line",
+            "zh-Hans": "Justify 段落, 左 aligns 最后一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.2d9dbc468e",
+          "title": {
+            "en": "Justify paragraph, justifies all",
+            "zh-Hans": "Justify 段落, justifies 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.7b417f7f8a",
+          "title": {
+            "en": "Toggle paragraph hyphenation",
+            "zh-Hans": "切换paragraph hyphenation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 6912,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.741edbf7a6",
+          "title": {
+            "en": "Toggle single/every-line composer",
+            "zh-Hans": "Toggle single/every-line composer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2816,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.bb157c9375",
+          "title": {
+            "en": "Decrease/ increase leading 2 points or pixels",
+            "zh-Hans": "Decrease/ increase leading 2 points or pixels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.bae5ca47ba",
+          "title": {
+            "en": "Decrease/ increase Baseline Shift 2 points or pixels",
+            "zh-Hans": "Decrease/ increase Baseline Shift 2 points or pixels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.format-text-type.ecd2964ed9",
+          "title": {
+            "en": "Decrease or increase kerning/tracking 20/1000 ems",
+            "zh-Hans": "Decrease or increase kerning/tracking 20/1000 ems"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-photoshop.manage-panels",
+      "title": {
+        "en": "Manage Panels",
+        "zh-Hans": "管理面板"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-photoshop.manage-panels.6b6ee2767d",
+          "title": {
+            "en": "Apply value and keep text box active",
+            "zh-Hans": "Apply value and keep text box active"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.1ae8ff5ad8",
+          "title": {
+            "en": "Show/Hide all panels",
+            "zh-Hans": "显示/隐藏 全部 panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.c84ff6e5c6",
+          "title": {
+            "en": "Show/Hide all panels except the toolbox and options bar",
+            "zh-Hans": "Show/Hide all panels except the toolbox and options bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.c3308e3b13",
+          "title": {
+            "en": "Increase/decrease selected values by 10",
+            "zh-Hans": "Increase/decrease selected values by 10"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.787d5c3d40",
+          "title": {
+            "en": "Choose specific channel (Red/Green/Blue) for adjustment",
+            "zh-Hans": "Choose specific channel (Red/Green/Blue) for adjustment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2048,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.3d901adcc3",
+          "title": {
+            "en": "Choose composite channel for adjustment",
+            "zh-Hans": "Choose composite channel for adjustment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2048,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.90f00f027c",
+          "title": {
+            "en": "Delete adjustment layer",
+            "zh-Hans": "删除 adjustment 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.a0a72a0ae3",
+          "title": {
+            "en": "Select previous/ next brush size",
+            "zh-Hans": "Select previous/ next brush size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.3488e63016",
+          "title": {
+            "en": "Select first/last brush",
+            "zh-Hans": "Select first/last brush"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 512,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.a57b460c46",
+          "title": {
+            "en": "Display precise cross hair for brushes",
+            "zh-Hans": "Display precise cross hair for brushes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.6dcf3a6044",
+          "title": {
+            "en": "Toggle airbrush option",
+            "zh-Hans": "切换airbrush option"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2560,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.82ed467553",
+          "title": {
+            "en": "Select individual channels (Red/Green/Blue)",
+            "zh-Hans": "Select individual channels (Red/Green/Blue)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.0da1a3555b",
+          "title": {
+            "en": "Select composite channel",
+            "zh-Hans": "选择composite 频道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.0f46fa91ca",
+          "title": {
+            "en": "Toggle composite and grayscale mask in Quick Mask mode",
+            "zh-Hans": "Toggle composite and grayscale mask in Quick Mask mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.7a8d42562c",
+          "title": {
+            "en": "Show Clone Source (overlays image)",
+            "zh-Hans": "Show Clone Source (overlays image)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 2560,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.1304531d85",
+          "title": {
+            "en": "Rotate Clone Source",
+            "zh-Hans": "Rotate Clone 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2560,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.5369686d61",
+          "title": {
+            "en": "Scale (increase or reduce size) Clone Source",
+            "zh-Hans": "Scale (increase or reduce size) Clone Source"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2560,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.dcb0534824",
+          "title": {
+            "en": "Step forward through image states",
+            "zh-Hans": "Step forward through image states"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.bd079b54c2",
+          "title": {
+            "en": "Step backward through image states",
+            "zh-Hans": "Step backward through image states"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.6e79cf47db",
+          "title": {
+            "en": "Group layers",
+            "zh-Hans": "编组 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.65eb2c6317",
+          "title": {
+            "en": "Ungroup layers",
+            "zh-Hans": "取消编组 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.737ce2f79e",
+          "title": {
+            "en": "Create/release clipping mask",
+            "zh-Hans": "Create/release clipping mask"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.d3b7e55e45",
+          "title": {
+            "en": "Select all layers",
+            "zh-Hans": "全选 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.d4353f4b26",
+          "title": {
+            "en": "Merge visible layers",
+            "zh-Hans": "Merge 可见 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.2db553c7b0",
+          "title": {
+            "en": "Select top layer",
+            "zh-Hans": "选择top 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2048,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.8aafc404cd",
+          "title": {
+            "en": "Add to layer selection in Layers panel",
+            "zh-Hans": "Add to layer selection in Layers panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2560,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.28d6eddeb4",
+          "title": {
+            "en": "Select next layer down/up",
+            "zh-Hans": "选择next 图层 下/上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2048,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.ebe2d11546",
+          "title": {
+            "en": "Move target layer down/up",
+            "zh-Hans": "移动target 图层 下/上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.3ad899dc3e",
+          "title": {
+            "en": "Merge a copy of all visible layers into target layer",
+            "zh-Hans": "Merge a copy of all visible layers into target layer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2816,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.ac26968582",
+          "title": {
+            "en": "Merge layers: highlight the layers you want to merge",
+            "zh-Hans": "Merge layers: highlight the layers you want to merge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.d716195738",
+          "title": {
+            "en": "Move layer to bottom",
+            "zh-Hans": "Move layer to bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.27f8afe2e6",
+          "title": {
+            "en": "Move layer to top",
+            "zh-Hans": "Move layer to top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.d81eeaa8ee",
+          "title": {
+            "en": "Toggle lock transparency for target layer, or last applied lock",
+            "zh-Hans": "Toggle lock transparency for target layer, or last applied lock"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.adobe-photoshop.manage-panels.659dd96cac",
+          "title": {
+            "en": "Hide path",
+            "zh-Hans": "隐藏 路径"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "bundleIdentifier": "com.skype.skype",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.skype.app-shortcuts",
+      "title": {
+        "en": "App Shortcuts",
+        "zh-Hans": "应用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.skype.app-shortcuts.0620a82db1",
+          "title": {
+            "en": "Open notification panel",
+            "zh-Hans": "打开 notification 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.620a756939",
+          "title": {
+            "en": "Open app settings",
+            "zh-Hans": "打开 app 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.04efbe8ca5",
+          "title": {
+            "en": "Launch main dial pad",
+            "zh-Hans": "Launch main dial pad"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.269f20f498",
+          "title": {
+            "en": "Start new conversation",
+            "zh-Hans": "开始 new conversation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.8a119bf945",
+          "title": {
+            "en": "New group",
+            "zh-Hans": "New 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.8c78c1671f",
+          "title": {
+            "en": "Find in current conversation",
+            "zh-Hans": "Find in current conversation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.4e9e564d21",
+          "title": {
+            "en": "Select next message in search results",
+            "zh-Hans": "Select next message in search results"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.1690323b06",
+          "title": {
+            "en": "Select previous message in search results",
+            "zh-Hans": "Select previous message in search results"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.56730cd710",
+          "title": {
+            "en": "Edit the last message sent / focus message composer",
+            "zh-Hans": "Edit the last message sent / focus message composer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.285dbc0c80",
+          "title": {
+            "en": "Search for people, groups, and messages",
+            "zh-Hans": "Search for people, groups, and messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.99f2327da9",
+          "title": {
+            "en": "Navigate to recent chats",
+            "zh-Hans": "导航到recent chats"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2048,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.db0d7cc122",
+          "title": {
+            "en": "Open contacts",
+            "zh-Hans": "打开 contacts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.9d2a6da766",
+          "title": {
+            "en": "Open contact screen to bots",
+            "zh-Hans": "Open contact screen to bots"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.1a2824e1c7",
+          "title": {
+            "en": "Send feedback",
+            "zh-Hans": "Send feedback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.6673aae164",
+          "title": {
+            "en": "Refresh the app",
+            "zh-Hans": "Refresh the app"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.9e7ccf372c",
+          "title": {
+            "en": "Open themes",
+            "zh-Hans": "打开 themes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.9aecf44474",
+          "title": {
+            "en": "Toggle between light and dark mode",
+            "zh-Hans": "Toggle between light and dark mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.9c8da1d825",
+          "title": {
+            "en": "Actual size",
+            "zh-Hans": "Actual size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.06d192b6e4",
+          "title": {
+            "en": "Show conversation profile",
+            "zh-Hans": "显示 conversation profile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.3da77f668a",
+          "title": {
+            "en": "Add people to conversation or call",
+            "zh-Hans": "Add people to conversation or call"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.03de5c2314",
+          "title": {
+            "en": "Hide conversation",
+            "zh-Hans": "隐藏 conversation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.d667d08bcd",
+          "title": {
+            "en": "Mark as unread",
+            "zh-Hans": "标记为未读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.32c32d46ba",
+          "title": {
+            "en": "Start video call or toggle video on/off",
+            "zh-Hans": "Start video call or toggle video on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.9f0d823f6a",
+          "title": {
+            "en": "Select multiple messages in conversation",
+            "zh-Hans": "Select multiple messages in conversation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.7c3df382e7",
+          "title": {
+            "en": "Start or answer audio call",
+            "zh-Hans": "Start or answer audio call"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.1c2b2418f5",
+          "title": {
+            "en": "Send a file",
+            "zh-Hans": "Send a 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.94f0d837cb",
+          "title": {
+            "en": "Open gallery",
+            "zh-Hans": "打开 gallery"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.45642f70a2",
+          "title": {
+            "en": "Take a snapshot",
+            "zh-Hans": "Take a snapshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.8330b49d59",
+          "title": {
+            "en": "Hang up",
+            "zh-Hans": "Hang 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.skype.app-shortcuts.282bd069e7",
+          "title": {
+            "en": "Toggle mute",
+            "zh-Hans": "切换静音"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        }
+      ]
+    }
+  ]
+}

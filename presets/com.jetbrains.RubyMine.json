@@ -1,0 +1,1704 @@
+{
+  "bundleIdentifier": "com.jetbrains.RubyMine",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.rubymine.vcs-local-history",
+      "title": {
+        "en": "VCS / Local History",
+        "zh-Hans": "版本控制/本地历史"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.vcs-local-history.3a94140472",
+          "title": {
+            "en": "VCS operations popup",
+            "zh-Hans": "VCS operations popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.rubymine.vcs-local-history.d67a11f8ea",
+          "title": {
+            "en": "View Diff",
+            "zh-Hans": "视图 Diff"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rubymine.vcs-local-history.18ae3c6d1e",
+          "title": {
+            "en": "View recent changes",
+            "zh-Hans": "视图 recent changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.rubymine.vcs-local-history.2d918902df",
+          "title": {
+            "en": "Update project from VCS",
+            "zh-Hans": "Update project from VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rubymine.vcs-local-history.515ebfe02c",
+          "title": {
+            "en": "Commit project to VCS",
+            "zh-Hans": "Commit project to VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.search-replace",
+      "title": {
+        "en": "Search / Replace",
+        "zh-Hans": "搜索 / 替换"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.search-replace.d8b66c1095",
+          "title": {
+            "en": "Replace in path",
+            "zh-Hans": "Replace in path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rubymine.search-replace.b36717c7bb",
+          "title": {
+            "en": "Find in path",
+            "zh-Hans": "Find in path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rubymine.search-replace.eccb3fa2a7",
+          "title": {
+            "en": "Find previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rubymine.search-replace.311842e8cb",
+          "title": {
+            "en": "Find next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rubymine.search-replace.98bc8cfea2",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rubymine.search-replace.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rubymine.search-replace.ded68f228b",
+          "title": {
+            "en": "Search everywhere",
+            "zh-Hans": "搜索 everywhere"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.usage-search",
+      "title": {
+        "en": "Usage Search",
+        "zh-Hans": "Usage 搜索"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.usage-search.68be8939cd",
+          "title": {
+            "en": "Show usages popup",
+            "zh-Hans": "显示 usages popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2304,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.rubymine.usage-search.f1fc5478ef",
+          "title": {
+            "en": "Highlight usages in file",
+            "zh-Hans": "Highlight usages in file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 768,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.rubymine.usage-search.b15022e1a1",
+          "title": {
+            "en": "Find usages in file",
+            "zh-Hans": "Find usages in file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.rubymine.usage-search.19faf5044a",
+          "title": {
+            "en": "Find usages",
+            "zh-Hans": "查找 usages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2048,
+            "displayKey": "F7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.carets-and-selections",
+      "title": {
+        "en": "Carets and Selections",
+        "zh-Hans": "光标与选区"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.carets-and-selections.6891dda2fa",
+          "title": {
+            "en": "Unselect all occurrences or carets",
+            "zh-Hans": "Unselect all occurrences or carets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.rubymine.carets-and-selections.fb38e17355",
+          "title": {
+            "en": "Unselect occurrence",
+            "zh-Hans": "Unselect occurrence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4608,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rubymine.carets-and-selections.4327ba5007",
+          "title": {
+            "en": "Select all occurrences / Select next occurrence",
+            "zh-Hans": "Select all occurrences / Select next occurrence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4352,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.refactoring",
+      "title": {
+        "en": "Refactoring",
+        "zh-Hans": "重构"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.refactoring.6872ab5272",
+          "title": {
+            "en": "Refactor this... quick list",
+            "zh-Hans": "Refactor this... quick list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.7f54b87a47",
+          "title": {
+            "en": "Inline",
+            "zh-Hans": "Inline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.da01290182",
+          "title": {
+            "en": "Extract Parameter",
+            "zh-Hans": "Extract Parameter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.5de98fb942",
+          "title": {
+            "en": "Extract Method",
+            "zh-Hans": "Extract 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.041b0fa96d",
+          "title": {
+            "en": "Extract Field",
+            "zh-Hans": "Extract Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.8c305e36ba",
+          "title": {
+            "en": "Extract Constant",
+            "zh-Hans": "Extract Constant"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.bb6c9134a2",
+          "title": {
+            "en": "Extract Variable",
+            "zh-Hans": "Extract 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.caf60fc1ab",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.1a2fcd6c38",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.rubymine.refactoring.cfc647eb63",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.live-templates",
+      "title": {
+        "en": "Live Templates",
+        "zh-Hans": "动态模板"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.live-templates.3376bffb6e",
+          "title": {
+            "en": "Insert Live Template",
+            "zh-Hans": "插入 Live 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.rubymine.live-templates.15d907a430",
+          "title": {
+            "en": "Surround with Live Template",
+            "zh-Hans": "Surround with Live Template"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.running-and-debugging",
+      "title": {
+        "en": "Running and Debugging",
+        "zh-Hans": "运行与调试"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.running-and-debugging.f714c17104",
+          "title": {
+            "en": "Debug anything",
+            "zh-Hans": "调试 anything"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 4608,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.891a001af4",
+          "title": {
+            "en": "Show execution point",
+            "zh-Hans": "显示 execution point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 2048,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.a855d669ad",
+          "title": {
+            "en": "View breakpoints",
+            "zh-Hans": "视图 breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 768,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.be2a19bc7b",
+          "title": {
+            "en": "Toggle breakpoint",
+            "zh-Hans": "切换断点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.fb4d2696d0",
+          "title": {
+            "en": "Evaluate / Quick evaluate expression",
+            "zh-Hans": "Evaluate / Quick evaluate expression"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2304,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.7b188603fe",
+          "title": {
+            "en": "Resume program",
+            "zh-Hans": "Resume program"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.8641d58894",
+          "title": {
+            "en": "Run to cursor",
+            "zh-Hans": "Run to cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2048,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.57177a5867",
+          "title": {
+            "en": "Step out",
+            "zh-Hans": "单步跳出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.fc0ed9c336",
+          "title": {
+            "en": "Step into",
+            "zh-Hans": "单步调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.fc8dd72b83",
+          "title": {
+            "en": "Step over",
+            "zh-Hans": "单步跳过"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.a5cb23caf4",
+          "title": {
+            "en": "Run rake task",
+            "zh-Hans": "Run rake 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.3cdc279853",
+          "title": {
+            "en": "Run or debug context configuration from editor",
+            "zh-Hans": "Run or debug context configuration from editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4608,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.25505811bd",
+          "title": {
+            "en": "Debug",
+            "zh-Hans": "调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.323392fd84",
+          "title": {
+            "en": "Run",
+            "zh-Hans": "Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.c81c86daee",
+          "title": {
+            "en": "Open debug configurations dropdown",
+            "zh-Hans": "打开 调试 configurations 下拉菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6144,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.bb35bb1934",
+          "title": {
+            "en": "Open run configurations dropdown",
+            "zh-Hans": "打开 run configurations 下拉菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6144,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rubymine.running-and-debugging.9414920867",
+          "title": {
+            "en": "Run Anything",
+            "zh-Hans": "Run Anything"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.rails",
+      "title": {
+        "en": "Rails",
+        "zh-Hans": "Rails"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.rails.cef97aea3f",
+          "title": {
+            "en": "Reload application sources in Rails Console",
+            "zh-Hans": "Reload application sources in Rails Console"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.rubymine.rails.7b77829e59",
+          "title": {
+            "en": "Run Rails generator",
+            "zh-Hans": "Run Rails generator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.rubymine.rails.b7c06f69e7",
+          "title": {
+            "en": "Insert <%= %> in RHTML",
+            "zh-Hans": "Insert <%= %> in RHTML"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.rubymine.rails.1a522d608c",
+          "title": {
+            "en": "Preview Rails View in browser",
+            "zh-Hans": "Preview Rails View in browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 2048,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.rubymine.rails.f809ba6e71",
+          "title": {
+            "en": "Navigate to Rails model/view/controller etc.",
+            "zh-Hans": "Navigate to Rails model/view/controller etc."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.navigation.9898a0635e",
+          "title": {
+            "en": "Diagram popup",
+            "zh-Hans": "Diagram popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.d79d439c72",
+          "title": {
+            "en": "Show diagram",
+            "zh-Hans": "显示 diagram"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2816,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.eaff73cca5",
+          "title": {
+            "en": "Show bookmarks",
+            "zh-Hans": "显示 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.552fd81416",
+          "title": {
+            "en": "Go to numbered bookmark",
+            "zh-Hans": "转到numbered 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4096,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.cb53172078",
+          "title": {
+            "en": "Toggle bookmark / with mnemonic",
+            "zh-Hans": "Toggle bookmark / with mnemonic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.2f8a62f472",
+          "title": {
+            "en": "Show navigation bar",
+            "zh-Hans": "显示 navigation bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.f18fcdf101",
+          "title": {
+            "en": "Go to source",
+            "zh-Hans": "转到source"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.308a91e178",
+          "title": {
+            "en": "Previous highlighted error",
+            "zh-Hans": "上一个 highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.51022ef92e",
+          "title": {
+            "en": "Next highlighted error",
+            "zh-Hans": "下一个 highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.c748040bdb",
+          "title": {
+            "en": "Type hierarchy",
+            "zh-Hans": "Type hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.ce003befe8",
+          "title": {
+            "en": "File structure popup",
+            "zh-Hans": "文件 structure popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.ef1287fc0e",
+          "title": {
+            "en": "Move to code block end/start",
+            "zh-Hans": "Move to code block end/start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.251b2a851e",
+          "title": {
+            "en": "Go to previous/next method",
+            "zh-Hans": "转到previous/下一个 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.1ec4470853",
+          "title": {
+            "en": "Go to super-method/super-class",
+            "zh-Hans": "Go to super-method/super-class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.b00aab64ca",
+          "title": {
+            "en": "Quick definition lookup",
+            "zh-Hans": "Quick 定义 lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2304,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.f9b2cd6683",
+          "title": {
+            "en": "Go to type declaration",
+            "zh-Hans": "转到type declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4608,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.ed1910c176",
+          "title": {
+            "en": "Go to declaration",
+            "zh-Hans": "转到declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.e304894a52",
+          "title": {
+            "en": "Select current file or symbol in any view",
+            "zh-Hans": "Select current file or symbol in any view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 2048,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.bff6b0c548",
+          "title": {
+            "en": "Navigate to last edit location",
+            "zh-Hans": "Navigate to last edit location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 768,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.83b09ab5c2",
+          "title": {
+            "en": "Navigate back or forward",
+            "zh-Hans": "Navigate back or forward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.fb8248e666",
+          "title": {
+            "en": "Recent files popup",
+            "zh-Hans": "Recent 文件 popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.3e0191f275",
+          "title": {
+            "en": "Go to bottom or top of page",
+            "zh-Hans": "Go to bottom or top of page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 256,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.a957eeee0e",
+          "title": {
+            "en": "Go to line",
+            "zh-Hans": "转到line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.ceba376fd0",
+          "title": {
+            "en": "Go to next or previous editor tab",
+            "zh-Hans": "Go to next or previous editor tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.fbe1caeba6",
+          "title": {
+            "en": "Go to symbol",
+            "zh-Hans": "转到符号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.7ba6e020ab",
+          "title": {
+            "en": "Go to file",
+            "zh-Hans": "转到file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rubymine.navigation.eab3ee59b6",
+          "title": {
+            "en": "Go to class",
+            "zh-Hans": "转到class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.show-tool-windows",
+      "title": {
+        "en": "Show Tool Windows",
+        "zh-Hans": "显示 Tool Windows"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.show-tool-windows.017cd61c6b",
+          "title": {
+            "en": "Show Terminal window",
+            "zh-Hans": "显示 终端 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 2048,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.ea20abec92",
+          "title": {
+            "en": "Show Commit window",
+            "zh-Hans": "显示 提交 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.a9400ff1e5",
+          "title": {
+            "en": "Show Version Control window",
+            "zh-Hans": "显示 Version Control 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.56fa17d8b0",
+          "title": {
+            "en": "Show Services window",
+            "zh-Hans": "显示 Services 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.d92753f593",
+          "title": {
+            "en": "Show Structure window",
+            "zh-Hans": "显示 Structure 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.5f9da55c88",
+          "title": {
+            "en": "Show Problems window",
+            "zh-Hans": "显示 Problems 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.fda934281d",
+          "title": {
+            "en": "Show Debug window",
+            "zh-Hans": "显示 调试 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.a63ed298a0",
+          "title": {
+            "en": "Show Run window",
+            "zh-Hans": "显示 Run 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.4cfc045a93",
+          "title": {
+            "en": "Show Find window",
+            "zh-Hans": "显示 查找 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.52a0c8a87a",
+          "title": {
+            "en": "Show Favorites window",
+            "zh-Hans": "显示 Favorites 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.rubymine.show-tool-windows.5983033075",
+          "title": {
+            "en": "Show Project window",
+            "zh-Hans": "显示 项目 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.general.9cc11488b8",
+          "title": {
+            "en": "Quick switch current scheme",
+            "zh-Hans": "Quick switch current scheme"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.rubymine.general.cf82db62c6",
+          "title": {
+            "en": "Switch between tabs and tool window",
+            "zh-Hans": "Switch between tabs and tool window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.rubymine.general.c0013d37f9",
+          "title": {
+            "en": "Close active editor tab",
+            "zh-Hans": "关闭 活动 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.rubymine.general.641cb02822",
+          "title": {
+            "en": "Hide active or last active window",
+            "zh-Hans": "Hide active or last active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.rubymine.general.2ebf8cd37c",
+          "title": {
+            "en": "Go back to previous tool window",
+            "zh-Hans": "Go back to previous tool window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.rubymine.general.7c727017e1",
+          "title": {
+            "en": "Inspect current file with current profile",
+            "zh-Hans": "Inspect current file with current profile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.rubymine.general.9eec90dcad",
+          "title": {
+            "en": "Add to Favorites",
+            "zh-Hans": "添加to Favorites"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.rubymine.general.996f65ff55",
+          "title": {
+            "en": "Toggle maximizing editor",
+            "zh-Hans": "切换maximizing 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 768,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.rubymine.general.2d30510cb3",
+          "title": {
+            "en": "Synchronize",
+            "zh-Hans": "Synchronize"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.rubymine.general.ded68f228b",
+          "title": {
+            "en": "Search everywhere",
+            "zh-Hans": "搜索 everywhere"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.rubymine.general.932c3db060",
+          "title": {
+            "en": "Find any action",
+            "zh-Hans": "查找 any action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.rubymine.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.rubymine.editing.dac0fb29ac",
+          "title": {
+            "en": "Perform string interpolation on selection",
+            "zh-Hans": "Perform string interpolation on selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 512,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.a074854e10",
+          "title": {
+            "en": "Move line (selection) up or down",
+            "zh-Hans": "Move line (selection) up or down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.47836eb4be",
+          "title": {
+            "en": "Collapse all",
+            "zh-Hans": "折叠all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.37d978bbd1",
+          "title": {
+            "en": "Expand all",
+            "zh-Hans": "展开all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 768,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.5d4201ab95",
+          "title": {
+            "en": "Collapse code block",
+            "zh-Hans": "折叠code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.79baf488af",
+          "title": {
+            "en": "Expand code block",
+            "zh-Hans": "展开code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.0211bf55a7",
+          "title": {
+            "en": "Delete to word start",
+            "zh-Hans": "Delete to word start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 2048,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.48edf96812",
+          "title": {
+            "en": "Delete to word end",
+            "zh-Hans": "Delete to word end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.33c9a6647d",
+          "title": {
+            "en": "Select till code block end/start",
+            "zh-Hans": "Select till code block end/start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2816,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.1a25f81692",
+          "title": {
+            "en": "Toggle Camel/Snake Case",
+            "zh-Hans": "Toggle Camel/Snake Case"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2560,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.e062368123",
+          "title": {
+            "en": "Toggle case for word at caret or selected block",
+            "zh-Hans": "Toggle case for word at caret or selected block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.52a7c1bb5e",
+          "title": {
+            "en": "Start new line",
+            "zh-Hans": "开始 new 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.65da75225e",
+          "title": {
+            "en": "Delete line at caret",
+            "zh-Hans": "Delete line at caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.8cd9ea892b",
+          "title": {
+            "en": "Duplicate current line or selected block",
+            "zh-Hans": "Duplicate current line or selected block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.1bbe2191dd",
+          "title": {
+            "en": "Paste from buffer/recent buffers",
+            "zh-Hans": "Paste from buffer/recent buffers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.346e3a3af1",
+          "title": {
+            "en": "Auto-indent line(s)",
+            "zh-Hans": "Auto-indent 行(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.f53274747f",
+          "title": {
+            "en": "Reformat code",
+            "zh-Hans": "Reformat code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.09e0b66738",
+          "title": {
+            "en": "Show intention actions/quick-fixes",
+            "zh-Hans": "Show intention actions/quick-fixes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.cd6c49fc0d",
+          "title": {
+            "en": "Decrease current selection to previous state",
+            "zh-Hans": "Decrease current selection to previous state"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.c4b85e2604",
+          "title": {
+            "en": "Select successively increasing code blocks",
+            "zh-Hans": "Select successively increasing code blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.6bc1cb53fc",
+          "title": {
+            "en": "Comment with line or block comment",
+            "zh-Hans": "Comment with line or block comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 2304,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.077a82eb2a",
+          "title": {
+            "en": "Surround with...",
+            "zh-Hans": "Surround with..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.5cfa780cfd",
+          "title": {
+            "en": "Override methods",
+            "zh-Hans": "Override methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.6267573578",
+          "title": {
+            "en": "Generate code... (e.g. Rails Generators)",
+            "zh-Hans": "Generate code... (e.g. Rails Generators)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.25585196ec",
+          "title": {
+            "en": "Show descriptions of error at caret",
+            "zh-Hans": "Show descriptions of error at caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 256,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.2feff49681",
+          "title": {
+            "en": "Brief Info",
+            "zh-Hans": "Brief Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.0ade735c1b",
+          "title": {
+            "en": "Quick documentation lookup",
+            "zh-Hans": "Quick documentation lookup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4096,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.40417295dd",
+          "title": {
+            "en": "Parameter info (within method call arguments)",
+            "zh-Hans": "Parameter info (within method call arguments)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.1be0db89a8",
+          "title": {
+            "en": "Complete current statement",
+            "zh-Hans": "Complete 当前 statement"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.rubymine.editing.70e9e2dfff",
+          "title": {
+            "en": "Basic code completion",
+            "zh-Hans": "Basic code completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    }
+  ]
+}

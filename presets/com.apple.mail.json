@@ -1,0 +1,681 @@
+{
+  "bundleIdentifier": "com.apple.mail",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-mail.editing-shortcuts",
+      "title": {
+        "en": "Editing Shortcuts",
+        "zh-Hans": "编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-mail.editing-shortcuts.04b7633c07",
+          "title": {
+            "en": "Archive an email message",
+            "zh-Hans": "Archive an email message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.f1abb0412d",
+          "title": {
+            "en": "Compose a new email message",
+            "zh-Hans": "Compose a new email message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2560,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.b3960f2217",
+          "title": {
+            "en": "Delete a selected message or folder",
+            "zh-Hans": "Delete a selected message or folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.46d86436c1",
+          "title": {
+            "en": "Flag or unflag email",
+            "zh-Hans": "Flag or unflag email"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.effe49ee5f",
+          "title": {
+            "en": "Indent items in a list",
+            "zh-Hans": "Indent items in a list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.8b987269a4",
+          "title": {
+            "en": "Make font size bigger",
+            "zh-Hans": "Make font size bigger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.7303275619",
+          "title": {
+            "en": "Make font size smaller",
+            "zh-Hans": "Make font size smaller"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.6404dc3c8e",
+          "title": {
+            "en": "Mark email as Junk or Not Junk",
+            "zh-Hans": "Mark email as Junk or Not Junk"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.1ce9ad1958",
+          "title": {
+            "en": "Mark email as Read or Unread",
+            "zh-Hans": "Mark email as Read or Unread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.84ffb61b02",
+          "title": {
+            "en": "Open the selected message in a new window",
+            "zh-Hans": "Open the selected message in a new window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.7490d9281e",
+          "title": {
+            "en": "Outdent items in a list",
+            "zh-Hans": "Outdent items in a list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.5432b05bd6",
+          "title": {
+            "en": "Redo changes to an email message",
+            "zh-Hans": "Redo changes to an email message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.eb74afb79d",
+          "title": {
+            "en": "Reply to sender",
+            "zh-Hans": "Reply to sender"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.76269be998",
+          "title": {
+            "en": "Save as a draft",
+            "zh-Hans": "存储 as a draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.6aca8f7629",
+          "title": {
+            "en": "Scroll through the selected messages",
+            "zh-Hans": "Scroll through the selected messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.21f8d0710d",
+          "title": {
+            "en": "Select all email messages",
+            "zh-Hans": "全选 email messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.a009693642",
+          "title": {
+            "en": "Send email message",
+            "zh-Hans": "Send email message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.6137b4d411",
+          "title": {
+            "en": "Toggle between Reply and Reply All",
+            "zh-Hans": "Toggle between Reply and Reply All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.apple-mail.editing-shortcuts.6a280b9e45",
+          "title": {
+            "en": "Undo changes to an email message",
+            "zh-Hans": "Undo changes to an email message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-mail.sending-messeges",
+      "title": {
+        "en": "Sending Messeges",
+        "zh-Hans": "发送消息"
+      },
+      "items": [
+        {
+          "id": "remote.apple-mail.sending-messeges.ac10be2e6f",
+          "title": {
+            "en": "New Message",
+            "zh-Hans": "新建Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-mail.sending-messeges.41f5d0ac83",
+          "title": {
+            "en": "Send Message",
+            "zh-Hans": "Send Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.apple-mail.sending-messeges.8f4c64ce60",
+          "title": {
+            "en": "Save Draft",
+            "zh-Hans": "存储 Draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-mail.sending-messeges.c087684fe5",
+          "title": {
+            "en": "Forward Message",
+            "zh-Hans": "向前 Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-mail.sending-messeges.374439e15e",
+          "title": {
+            "en": "Attach File",
+            "zh-Hans": "Attach 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-mail.sending-messeges.adf4eeb854",
+          "title": {
+            "en": "Show/Hide bcc field",
+            "zh-Hans": "显示/隐藏 bcc field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-mail.receive-message",
+      "title": {
+        "en": "Receive Message",
+        "zh-Hans": "接收消息"
+      },
+      "items": [
+        {
+          "id": "remote.apple-mail.receive-message.a51e692549",
+          "title": {
+            "en": "Flag Message",
+            "zh-Hans": "Flag Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-mail.receive-message.19f1a3f24c",
+          "title": {
+            "en": "Reply to Message",
+            "zh-Hans": "Reply to Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-mail.receive-message.04306fca3f",
+          "title": {
+            "en": "Reply to All",
+            "zh-Hans": "Reply to All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.apple-mail.receive-message.09de7bfc47",
+          "title": {
+            "en": "Move message to same box you just did",
+            "zh-Hans": "Move message to same box you just did"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-mail.receive-message.d0b0217f56",
+          "title": {
+            "en": "Mark as read/unread",
+            "zh-Hans": "Mark as 已读/未读"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.apple-mail.receive-message.cc551a17c0",
+          "title": {
+            "en": "Mark as junk mail",
+            "zh-Hans": "Mark as junk mail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.apple-mail.receive-message.f832d1d2db",
+          "title": {
+            "en": "View raw message content",
+            "zh-Hans": "View raw message content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-mail.formatting-messages",
+      "title": {
+        "en": "Formatting Messages",
+        "zh-Hans": "格式化消息"
+      },
+      "items": [
+        {
+          "id": "remote.apple-mail.formatting-messages.ad0de51de4",
+          "title": {
+            "en": "Show fonts panel",
+            "zh-Hans": "显示 fonts 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.apple-mail.formatting-messages.4643727357",
+          "title": {
+            "en": "Show colors panel",
+            "zh-Hans": "显示 colors 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-mail.formatting-messages.96815b16f6",
+          "title": {
+            "en": "Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.apple-mail.formatting-messages.162985bee5",
+          "title": {
+            "en": "Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.apple-mail.formatting-messages.7dec141e96",
+          "title": {
+            "en": "Align Center",
+            "zh-Hans": "居中对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-mail.formatting-messages.2ae9046732",
+          "title": {
+            "en": "Copy Style",
+            "zh-Hans": "复制 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-mail.formatting-messages.3b10406511",
+          "title": {
+            "en": "Paste Style",
+            "zh-Hans": "粘贴 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-mail.formatting-messages.6f3dd18dc4",
+          "title": {
+            "en": "Check Spelling",
+            "zh-Hans": "Check Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-mail.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-mail.general-shortcuts.c7cb976edc",
+          "title": {
+            "en": "Get New Mail",
+            "zh-Hans": "Get New Mail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-mail.general-shortcuts.5bc696a6ab",
+          "title": {
+            "en": "Open message viewer",
+            "zh-Hans": "打开 message viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.apple-mail.general-shortcuts.20fa9e8181",
+          "title": {
+            "en": "Add sender to address book",
+            "zh-Hans": "Add sender to address book"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.apple-mail.general-shortcuts.e6b37c7300",
+          "title": {
+            "en": "Use selected text in search",
+            "zh-Hans": "Use selected text in search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.apple-mail.general-shortcuts.49db5d0fb4",
+          "title": {
+            "en": "Go to Inbox",
+            "zh-Hans": "转到Inbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.apple-mail.general-shortcuts.f757c3a883",
+          "title": {
+            "en": "Jump to search field",
+            "zh-Hans": "Jump to search field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.apple-mail.general-shortcuts.5aa9cd69a9",
+          "title": {
+            "en": "Go to other items in favourites",
+            "zh-Hans": "Go to other items in favourites"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.apple-mail.general-shortcuts.c78960a618",
+          "title": {
+            "en": "Apply Rule to selected message",
+            "zh-Hans": "Apply Rule to selected message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        }
+      ]
+    }
+  ]
+}

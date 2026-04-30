@@ -283,7 +283,7 @@
           "id": "remote.word.frequently-used-shortcuts.ea6d61ed59",
           "title": {
             "en": "Find the next misspelling or grammatical error. The Check spelling as you type check box must be selected (Word menu, Preferences command, Spelling and Grammar).",
-            "zh-Hans": "查找下一个拼写或语法错误（需在“Word”>“偏好设置”>“拼写和语法”中启用“键入时检查拼写”。）"
+            "zh-Hans": "查找下一个拼写或语法错误（需在“单词”>“偏好设置”>“拼写和语法”中启用“键入时检查拼写”。）"
           },
           "shortcutConfiguration": {
             "keyCode": 98,
@@ -1507,7 +1507,7 @@
           "id": "remote.word.insert-special-characters.5d156414de",
           "title": {
             "en": "Insert the copyright symbol",
-            "zh-Hans": "插入指定的 ANSI（小数）字符代码对应的 ANSI 字符。 例如，若要插入欧元货币符号，请在按住 Alt 的同时按数字拨号键盘上的 0128。"
+            "zh-Hans": "Insert the copyright symbol"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1672,7 +1672,7 @@
           "id": "remote.word.work-with-fields.22badbe301",
           "title": {
             "en": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results",
-            "zh-Hans": "从显示字段结果的字段运行 GOTOBUTTON 或 MACROBUTTON。"
+            "zh-Hans": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results"
           },
           "shortcutConfiguration": {
             "keyCode": 101,
@@ -2413,18 +2413,6 @@
           }
         },
         {
-          "id": "remote.word.function-key-shortcuts.0cb9752374",
-          "title": {
-            "en": "Go to the next window",
-            "zh-Hans": "打开多个文档时切换到下一个文档窗口。"
-          },
-          "shortcutConfiguration": {
-            "keyCode": 97,
-            "carbonModifiers": 256,
-            "displayKey": "F6"
-          }
-        },
-        {
           "id": "remote.word.function-key-shortcuts.36a5e7fd8a",
           "title": {
             "en": "Insert an empty field",
@@ -2476,7 +2464,7 @@
           "id": "remote.word.function-key-shortcuts.2aa00f3929",
           "title": {
             "en": "Update linked information in a Word source document",
-            "zh-Hans": "更新 Word 源文档中链接的信息。"
+            "zh-Hans": "更新 单词 源文档中链接的信息。"
           },
           "shortcutConfiguration": {
             "keyCode": 98,
@@ -2584,7 +2572,7 @@
           "id": "remote.word.function-key-shortcuts.22badbe301",
           "title": {
             "en": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results",
-            "zh-Hans": "从显示字段结果的字段运行 GOTOBUTTON 或 MACROBUTTON。"
+            "zh-Hans": "Run GOTOBUTTON or MACROBUTTON from the field that displays the field results"
           },
           "shortcutConfiguration": {
             "keyCode": 101,

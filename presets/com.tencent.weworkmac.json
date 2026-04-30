@@ -298,7 +298,7 @@
           "id": "remote.wework.mail.home.read",
           "title": {
             "en": "Mark as Read",
-            "zh-Hans": "标为已读"
+            "zh-Hans": "标记为已读"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -310,7 +310,7 @@
           "id": "remote.wework.mail.home.unread",
           "title": {
             "en": "Mark as Unread",
-            "zh-Hans": "标为未读"
+            "zh-Hans": "标记为未读"
           },
           "shortcutConfiguration": {
             "keyCode": 32,

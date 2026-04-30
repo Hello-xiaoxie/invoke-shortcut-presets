@@ -1,0 +1,921 @@
+{
+  "bundleIdentifier": "pro.writer.mac",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.ia-writer.files",
+      "title": {
+        "en": "Files",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.files.ec9bb4025d",
+          "title": {
+            "en": "New in Library in current window",
+            "zh-Hans": "New in Library in current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ia-writer.files.4721744eb2",
+          "title": {
+            "en": "New",
+            "zh-Hans": "新建"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ia-writer.files.73e89e124c",
+          "title": {
+            "en": "New in Library",
+            "zh-Hans": "新建in Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ia-writer.files.9379ed7775",
+          "title": {
+            "en": "Save active file",
+            "zh-Hans": "存储 活动 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.ia-writer.files.634246f2c7",
+          "title": {
+            "en": "Duplicate active file",
+            "zh-Hans": "创建副本 活动 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.ia-writer.files.3c24ccd42e",
+          "title": {
+            "en": "Save active file as",
+            "zh-Hans": "存储 活动 文件 as"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.quick-search",
+      "title": {
+        "en": "Quick Search",
+        "zh-Hans": "Quick 搜索"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.quick-search.08f9ba68bc",
+          "title": {
+            "en": "Quick Search",
+            "zh-Hans": "Quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.library-navigation",
+      "title": {
+        "en": "Library Navigation",
+        "zh-Hans": "资源库导航"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.library-navigation.7a1cc92555",
+          "title": {
+            "en": "Show iCloud in Library",
+            "zh-Hans": "Show iCloud in Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.document-history",
+      "title": {
+        "en": "Document History",
+        "zh-Hans": "文档历史"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.document-history.af7023d3b0",
+          "title": {
+            "en": "Go to previous document",
+            "zh-Hans": "转到previous 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.ia-writer.document-history.7c12881926",
+          "title": {
+            "en": "Go to next document",
+            "zh-Hans": "转到next 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.interface",
+      "title": {
+        "en": "Interface",
+        "zh-Hans": "界面"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.interface.ef59c28d5d",
+          "title": {
+            "en": "Dark or light appearance",
+            "zh-Hans": "Dark or light appearance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ia-writer.interface.5f780038b0",
+          "title": {
+            "en": "Show or hide Library",
+            "zh-Hans": "Show or hide Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4352,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.ia-writer.interface.d13b2b614c",
+          "title": {
+            "en": "Show or hide Preview",
+            "zh-Hans": "Show or hide Preview"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.ia-writer.interface.539874e4da",
+          "title": {
+            "en": "Enter or exit full screen",
+            "zh-Hans": "Enter or exit full screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ia-writer.interface.8efbeadc06",
+          "title": {
+            "en": "Close active window",
+            "zh-Hans": "关闭 活动 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.ia-writer.interface.b7452b58ea",
+          "title": {
+            "en": "Close all windows",
+            "zh-Hans": "关闭 全部 windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.structure",
+      "title": {
+        "en": "Structure",
+        "zh-Hans": "结构"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.structure.c7cffe8604",
+          "title": {
+            "en": "Task list",
+            "zh-Hans": "任务 list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.ia-writer.structure.bd0820093d",
+          "title": {
+            "en": "Ordered list",
+            "zh-Hans": "Ordered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.ia-writer.structure.c54630b5ab",
+          "title": {
+            "en": "Ordered task list",
+            "zh-Hans": "Ordered 任务 list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2816,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.ia-writer.structure.05ae266e23",
+          "title": {
+            "en": "Mark task as completed",
+            "zh-Hans": "Mark task as completed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2304,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.ia-writer.structure.03dcfd445d",
+          "title": {
+            "en": "Indent",
+            "zh-Hans": "缩进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.ia-writer.structure.432c4eb75f",
+          "title": {
+            "en": "Outdent",
+            "zh-Hans": "减少缩进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.ia-writer.structure.6a2db8451b",
+          "title": {
+            "en": "Move selected line up",
+            "zh-Hans": "移动selected 行 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.ia-writer.structure.fafe724483",
+          "title": {
+            "en": "Move selected line down",
+            "zh-Hans": "移动selected 行 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.formatting",
+      "title": {
+        "en": "Formatting",
+        "zh-Hans": "格式化"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.formatting.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.3097cbaf60",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "Strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.90538cd342",
+          "title": {
+            "en": "Highlight",
+            "zh-Hans": "Highlight"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.5f6a8946c0",
+          "title": {
+            "en": "Link",
+            "zh-Hans": "链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.f5a9e1dc60",
+          "title": {
+            "en": "Image link",
+            "zh-Hans": "图片 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.6551715582",
+          "title": {
+            "en": "Wikilink",
+            "zh-Hans": "Wikilink"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.442e09db7f",
+          "title": {
+            "en": "Footnote",
+            "zh-Hans": "Footnote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4352,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.c462e41def",
+          "title": {
+            "en": "Code",
+            "zh-Hans": "Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.ia-writer.formatting.4b58a04548",
+          "title": {
+            "en": "Code block",
+            "zh-Hans": "Code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.focus",
+      "title": {
+        "en": "Focus",
+        "zh-Hans": "焦点"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.focus.36e537fe81",
+          "title": {
+            "en": "Enable or disable Focus Mode",
+            "zh-Hans": "Enable or disable Focus Mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.ia-writer.focus.ebbe708726",
+          "title": {
+            "en": "Enable or disable Syntax Highlight",
+            "zh-Hans": "Enable or disable Syntax Highlight"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.ia-writer.focus.60dbfa8cbb",
+          "title": {
+            "en": "Enable or disable Style Checking",
+            "zh-Hans": "Enable or disable Style Checking"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.copy-and-paste",
+      "title": {
+        "en": "Copy and Paste",
+        "zh-Hans": "复制 and 粘贴"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.copy-and-paste.786377b57a",
+          "title": {
+            "en": "Copy selected text",
+            "zh-Hans": "复制 所选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.ia-writer.copy-and-paste.1709a7d128",
+          "title": {
+            "en": "Copy formatted selected text",
+            "zh-Hans": "复制 formatted 所选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.ia-writer.copy-and-paste.2ad65c4efb",
+          "title": {
+            "en": "Copy selected text as HTML",
+            "zh-Hans": "复制 所选 文本 as HTML"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.ia-writer.copy-and-paste.dc0121e23e",
+          "title": {
+            "en": "Copy selected text as Markdown (includes Content Blocks)",
+            "zh-Hans": "Copy selected text as Markdown (includes Content Blocks)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4352,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.ia-writer.copy-and-paste.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.find",
+      "title": {
+        "en": "Find",
+        "zh-Hans": "查找"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.find.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ia-writer.find.4e6418098c",
+          "title": {
+            "en": "Find and replace",
+            "zh-Hans": "Find and replace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ia-writer.find.54c15cc6bc",
+          "title": {
+            "en": "Use selection for find",
+            "zh-Hans": "Use selection for find"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.ia-writer.find.311842e8cb",
+          "title": {
+            "en": "Find next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.ia-writer.find.eccb3fa2a7",
+          "title": {
+            "en": "Find previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.move-caret-to",
+      "title": {
+        "en": "Move Caret To",
+        "zh-Hans": "移动光标至"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.move-caret-to.e879541e87",
+          "title": {
+            "en": "Previous character",
+            "zh-Hans": "上一个 字符"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.5790c744d3",
+          "title": {
+            "en": "Next character",
+            "zh-Hans": "下一个 字符"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.9b98ce5502",
+          "title": {
+            "en": "Previous line",
+            "zh-Hans": "上一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.e189fb6483",
+          "title": {
+            "en": "Next line",
+            "zh-Hans": "下一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.8e63796d59",
+          "title": {
+            "en": "Start of line",
+            "zh-Hans": "Start of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.5a8b64b81c",
+          "title": {
+            "en": "End of line",
+            "zh-Hans": "End of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.c9d4949021",
+          "title": {
+            "en": "Start of document",
+            "zh-Hans": "Start of document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.5853fea846",
+          "title": {
+            "en": "End of document",
+            "zh-Hans": "End of document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.388d7c7db4",
+          "title": {
+            "en": "One word left",
+            "zh-Hans": "One word left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.0c807a6319",
+          "title": {
+            "en": "One word right",
+            "zh-Hans": "One word right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.ceacfa83d1",
+          "title": {
+            "en": "Start of this or previous line",
+            "zh-Hans": "Start of this or previous line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.ia-writer.move-caret-to.432a4bacf9",
+          "title": {
+            "en": "End of this or next line",
+            "zh-Hans": "End of this or next line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.text-size",
+      "title": {
+        "en": "Text Size",
+        "zh-Hans": "文本大小"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.text-size.6e6eb96a87",
+          "title": {
+            "en": "Make text larger",
+            "zh-Hans": "Make 文本 larger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.ia-writer.text-size.3d9f9698f0",
+          "title": {
+            "en": "Make text smaller",
+            "zh-Hans": "Make 文本 smaller"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.ia-writer.text-size.a77de4e5f8",
+          "title": {
+            "en": "Default text size",
+            "zh-Hans": "Default 文本 size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ia-writer.export",
+      "title": {
+        "en": "Export",
+        "zh-Hans": "导出"
+      },
+      "items": [
+        {
+          "id": "remote.ia-writer.export.9a3b977a7a",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.ia-writer.export.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.ia-writer.export.db5c02d098",
+          "title": {
+            "en": "Print plain text",
+            "zh-Hans": "打印 plain 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.ia-writer.export.0885a00e31",
+          "title": {
+            "en": "Page setup for printing and PDF export",
+            "zh-Hans": "Page setup for printing and PDF export"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        }
+      ]
+    }
+  ]
+}

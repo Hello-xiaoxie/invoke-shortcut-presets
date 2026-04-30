@@ -1,0 +1,1584 @@
+{
+  "bundleIdentifier": "com.adobe.captivate",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-captivate.function-key-shortcuts",
+      "title": {
+        "en": "Function Key Shortcuts",
+        "zh-Hans": "功能键快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.d3365f1275",
+          "title": {
+            "en": "Open Adobe Captivate Help",
+            "zh-Hans": "Open Adobe Captivate Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.caefd962c5",
+          "title": {
+            "en": "Rename the selected object",
+            "zh-Hans": "Rename the selected object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.867b8b4863",
+          "title": {
+            "en": "Test view the current slide",
+            "zh-Hans": "Test view the current slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.b10459b315",
+          "title": {
+            "en": "Preview the project",
+            "zh-Hans": "Preview the project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.55c1442387",
+          "title": {
+            "en": "Record audio",
+            "zh-Hans": "Record 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.6ed3f876f7",
+          "title": {
+            "en": "Import audio",
+            "zh-Hans": "导入 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.8bb24dd657",
+          "title": {
+            "en": "Perform a spelling and grammar check",
+            "zh-Hans": "Perform a spelling and grammar check"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.67496f3ec8",
+          "title": {
+            "en": "Preview the project in a web browser (HTML)",
+            "zh-Hans": "Preview the project in a web browser (HTML)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.function-key-shortcuts.142e488187",
+          "title": {
+            "en": "Preview the project in a web browser (SWF)",
+            "zh-Hans": "Preview the project in a web browser (SWF)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-captivate.magnification",
+      "title": {
+        "en": "Magnification",
+        "zh-Hans": "放大"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-captivate.magnification.df9726ff3d",
+          "title": {
+            "en": "100%",
+            "zh-Hans": "100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.magnification.7611fe85d3",
+          "title": {
+            "en": "200%",
+            "zh-Hans": "200%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.magnification.de293d058a",
+          "title": {
+            "en": "300%",
+            "zh-Hans": "300%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.magnification.c62bd8656d",
+          "title": {
+            "en": "400%",
+            "zh-Hans": "400%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.magnification.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.magnification.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.magnification.b468b0fcb1",
+          "title": {
+            "en": "Best Fit Zoom / Center Align Workspace",
+            "zh-Hans": "Best Fit Zoom / Center Align Workspace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-captivate.recording",
+      "title": {
+        "en": "Recording",
+        "zh-Hans": "录制"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-captivate.recording.33fedfd373",
+          "title": {
+            "en": "Start/record new capture project",
+            "zh-Hans": "Start/record new capture project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.751a24eeb0",
+          "title": {
+            "en": "Record additional slides",
+            "zh-Hans": "Record additional slides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.0e7c526d5c",
+          "title": {
+            "en": "Stop recording",
+            "zh-Hans": "Stop recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.316bee5f7f",
+          "title": {
+            "en": "Delete the current selection",
+            "zh-Hans": "Delete the current selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.63fa24c77e",
+          "title": {
+            "en": "Pause or resume recording",
+            "zh-Hans": "Pause or resume recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 256,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.9f6835a477",
+          "title": {
+            "en": "Capture a screenshot manually",
+            "zh-Hans": "Capture a screenshot manually"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.ca02718d41",
+          "title": {
+            "en": "Preview project",
+            "zh-Hans": "预览 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.bf923ba5a4",
+          "title": {
+            "en": "Preview single slide",
+            "zh-Hans": "预览 single slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.596417e66a",
+          "title": {
+            "en": "Edit caption text",
+            "zh-Hans": "编辑 caption 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.dc8fae43b9",
+          "title": {
+            "en": "Preview project in browser",
+            "zh-Hans": "Preview project in browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.6e394b319d",
+          "title": {
+            "en": "Auto panning",
+            "zh-Hans": "Auto panning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.99e7e07758",
+          "title": {
+            "en": "Manual panning",
+            "zh-Hans": "Manual panning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.3098111866",
+          "title": {
+            "en": "Stop panning",
+            "zh-Hans": "Stop panning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.c8bbb65b21",
+          "title": {
+            "en": "Start Full Motion Recording",
+            "zh-Hans": "Start Full Motion Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.0b83cfa696",
+          "title": {
+            "en": "Stop Full Motion Recording",
+            "zh-Hans": "Stop Full Motion Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 256,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.98bb85998c",
+          "title": {
+            "en": "Snap recording window to mouse",
+            "zh-Hans": "Snap recording window to mouse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.recording.0d8275229d",
+          "title": {
+            "en": "Toggle mouse capture",
+            "zh-Hans": "切换mouse capture"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts",
+      "title": {
+        "en": "General and Miscellaneous Shortcuts",
+        "zh-Hans": "General and Miscellaneous快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.2db482333c",
+          "title": {
+            "en": "Scroll to the previous slide",
+            "zh-Hans": "Scroll to the previous slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.82d24a5e6d",
+          "title": {
+            "en": "Scroll to the next slide",
+            "zh-Hans": "Scroll to the next slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.8bbb62bfcb",
+          "title": {
+            "en": "Create question pool",
+            "zh-Hans": "Create question pool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2048,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.20d3725896",
+          "title": {
+            "en": "Find audio in the Library/Change text to Bold",
+            "zh-Hans": "Find audio in the Library/Change text to Bold"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.4bca35aecd",
+          "title": {
+            "en": "Copy (slide in Filmstrip, and selected object on stage)",
+            "zh-Hans": "Copy (slide in Filmstrip, and selected object on stage)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.7e1f6919c6",
+          "title": {
+            "en": "Extend the length of the object display time to the end of the slide on the Timeline",
+            "zh-Hans": "Extend the length of the object display time to the end of the slide on the Timeline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0ad08cceb3",
+          "title": {
+            "en": "Find/replace a particular object in the project Library",
+            "zh-Hans": "Find/replace a particular object in the project Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.a032b615bb",
+          "title": {
+            "en": "Increase the indent (selected object on stage)/Change text to Italics. Indentation is equal to the grid size.",
+            "zh-Hans": "Increase the indent (selected object on stage)/Change text to Italics. Indentation is equal to the grid size."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.712ca484db",
+          "title": {
+            "en": "Sync the selected object to the playhead",
+            "zh-Hans": "Sync the selected object to the playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.813b0b9837",
+          "title": {
+            "en": "Merge the selected object with the background",
+            "zh-Hans": "Merge the selected object with the background"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0f19f7a3c9",
+          "title": {
+            "en": "Open new project",
+            "zh-Hans": "打开 new 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.e41080da66",
+          "title": {
+            "en": "Open the project",
+            "zh-Hans": "Open the project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.7c992a7a86",
+          "title": {
+            "en": "Insert a random question slide",
+            "zh-Hans": "Insert a random question slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2560,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.33fedfd373",
+          "title": {
+            "en": "Start/record new capture project",
+            "zh-Hans": "Start/record new capture project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.9c70fb371e",
+          "title": {
+            "en": "Open project template",
+            "zh-Hans": "打开 项目 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.389303ce07",
+          "title": {
+            "en": "Paste what is on the clipboard (for example, slide, image, object, and so on)",
+            "zh-Hans": "Paste what is on the clipboard (for example, slide, image, object, and so on)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.c46030e5e3",
+          "title": {
+            "en": "Close the project",
+            "zh-Hans": "Close the project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.1387723692",
+          "title": {
+            "en": "Cut (selected object on stage)",
+            "zh-Hans": "剪切 (所选 对象 on stage)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.1c289a1d4d",
+          "title": {
+            "en": "Preview the project",
+            "zh-Hans": "Preview the project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.318ea4b6ca",
+          "title": {
+            "en": "Export PowerPoint slides as animation",
+            "zh-Hans": "Export PowerPoint slides as animation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0b0df20462",
+          "title": {
+            "en": "Show or hide Filmstrip",
+            "zh-Hans": "Show or hide Filmstrip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.499d3cca84",
+          "title": {
+            "en": "Show the Closed Captioning dialog box",
+            "zh-Hans": "Show the Closed Captioning dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0b6ad3baba",
+          "title": {
+            "en": "Update the Library",
+            "zh-Hans": "Update the Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2304,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.c4e3e66b59",
+          "title": {
+            "en": "Edit points of polygon drawing object",
+            "zh-Hans": "Edit points of polygon drawing object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.ef13c0ac60",
+          "title": {
+            "en": "Find in the Library",
+            "zh-Hans": "Find in the Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.2fac2075b9",
+          "title": {
+            "en": "Create a slide group and autoadjust the rollover area",
+            "zh-Hans": "Create a slide group and autoadjust the rollover area"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.b226577560",
+          "title": {
+            "en": "Hide the selected object",
+            "zh-Hans": "Hide the selected object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.5c5bb42700",
+          "title": {
+            "en": "Find PowerPoint slides in the Library",
+            "zh-Hans": "Find PowerPoint slides in the Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.5dda232b78",
+          "title": {
+            "en": "Edit PowerPoint slides",
+            "zh-Hans": "编辑 PowerPoint slides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.59c7ea078a",
+          "title": {
+            "en": "Lock the selected object",
+            "zh-Hans": "Lock the selected object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.b0787d0082",
+          "title": {
+            "en": "Show or hide the Library",
+            "zh-Hans": "Show or hide the Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.2dfd4e9827",
+          "title": {
+            "en": "Insert master slide",
+            "zh-Hans": "插入 master slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.712065121c",
+          "title": {
+            "en": "Show slide notes",
+            "zh-Hans": "显示 slide 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.751a24eeb0",
+          "title": {
+            "en": "Record additional slides",
+            "zh-Hans": "Record additional slides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.f59f495e7a",
+          "title": {
+            "en": "Remove a slide group.",
+            "zh-Hans": "Remove a slide 编组."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.de2bce8e19",
+          "title": {
+            "en": "Show the Question Pools Manager",
+            "zh-Hans": "Show the Question Pools Manager"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2304,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.bbc721eb89",
+          "title": {
+            "en": "Show or hide the Timeline",
+            "zh-Hans": "Show or hide the Timeline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.e632d5d8f4",
+          "title": {
+            "en": "Library usage",
+            "zh-Hans": "Library usage"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0994c8ffb7",
+          "title": {
+            "en": "Import video file",
+            "zh-Hans": "导入 视频 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.a7e0bd156d",
+          "title": {
+            "en": "Show/hide the SWF-Commenting pane",
+            "zh-Hans": "Show/hide the SWF-Commenting pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2304,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.90b2481297",
+          "title": {
+            "en": "Show/hide the Widget panel",
+            "zh-Hans": "Show/hide the Widget panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.4235d0df72",
+          "title": {
+            "en": "Show objects style manager",
+            "zh-Hans": "Show objects style manager"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.d771e96b1c",
+          "title": {
+            "en": "Preferences dialog box",
+            "zh-Hans": "偏好设置 对话框 box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.9b8ea33143",
+          "title": {
+            "en": "Actions dialog box",
+            "zh-Hans": "Actions 对话框 box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 768,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.7ded420513",
+          "title": {
+            "en": "Table of contents",
+            "zh-Hans": "Table of contents"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 768,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.13e54f4c32",
+          "title": {
+            "en": "Skin Editor panel",
+            "zh-Hans": "Skin 编辑器 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 768,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.9d2632a4ee",
+          "title": {
+            "en": "Publish the file",
+            "zh-Hans": "Publish the file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 768,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.46f0ebb2a6",
+          "title": {
+            "en": "Insert Animation placeholder",
+            "zh-Hans": "插入 动画 placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.eec0619c5d",
+          "title": {
+            "en": "Insert Flash video placeholder",
+            "zh-Hans": "Insert Flash video placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.990e962bae",
+          "title": {
+            "en": "Insert rollover caption placeholder",
+            "zh-Hans": "Insert rollover caption placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.d9d9fdff2d",
+          "title": {
+            "en": "Insert rollover image placeholder",
+            "zh-Hans": "Insert rollover image placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.ac9a2d0b26",
+          "title": {
+            "en": "Insert Text Caption placeholder",
+            "zh-Hans": "插入 文本 Caption placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.a32467981a",
+          "title": {
+            "en": "Insert video place holder",
+            "zh-Hans": "插入 视频 place holder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0ade85007c",
+          "title": {
+            "en": "Insert Image placeholder",
+            "zh-Hans": "插入 图片 placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.895206d67c",
+          "title": {
+            "en": "Insert Question slide placeholder",
+            "zh-Hans": "Insert Question slide placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2048,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.28c415fd98",
+          "title": {
+            "en": "Insert Text Animation placeholder",
+            "zh-Hans": "插入 文本 动画 placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 512,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.bcff1b212b",
+          "title": {
+            "en": "Show Audio Management panel",
+            "zh-Hans": "显示 音频 Management 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2560,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.e790424825",
+          "title": {
+            "en": "Close all the open projects",
+            "zh-Hans": "Close all the open projects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2560,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0bed68a19d",
+          "title": {
+            "en": "Insert recording slide placeholder",
+            "zh-Hans": "Insert recording slide placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2560,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.3f6ca18e14",
+          "title": {
+            "en": "Import Photoshop file",
+            "zh-Hans": "导入 Photoshop 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2560,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.2d810f1d36",
+          "title": {
+            "en": "Show Speech Management panel",
+            "zh-Hans": "显示 Speech Management 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2560,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.c93eb5eaf9",
+          "title": {
+            "en": "Paste as Background",
+            "zh-Hans": "粘贴 as Background"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2560,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.2362caf7de",
+          "title": {
+            "en": "Add an animation object",
+            "zh-Hans": "添加an 动画 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.de88dd84ae",
+          "title": {
+            "en": "Add a new button",
+            "zh-Hans": "添加a new 按钮"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.1760c1db9d",
+          "title": {
+            "en": "Add a new text caption",
+            "zh-Hans": "Add a new text caption"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4608,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.7f62bb1fbe",
+          "title": {
+            "en": "View slide properties",
+            "zh-Hans": "视图 slide properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.1ebee021d6",
+          "title": {
+            "en": "Insert a new zoom area",
+            "zh-Hans": "Insert a new zoom area"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.806e3840ce",
+          "title": {
+            "en": "Insert an FLV file",
+            "zh-Hans": "Insert an FLV file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.e16e5389ea",
+          "title": {
+            "en": "Hide/show slide",
+            "zh-Hans": "隐藏/显示 slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.00e0c43236",
+          "title": {
+            "en": "Decrease the indent",
+            "zh-Hans": "Decrease the indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.25a606ad61",
+          "title": {
+            "en": "Insert a blank slide",
+            "zh-Hans": "插入 a blank slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.77ec7938a3",
+          "title": {
+            "en": "Add a new click box",
+            "zh-Hans": "Add a new click box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.18f049cfc4",
+          "title": {
+            "en": "Insert a highlight box",
+            "zh-Hans": "插入 a highlight box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.4a2ddf7064",
+          "title": {
+            "en": "Add a new image",
+            "zh-Hans": "添加a new 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.1c4ac34a2c",
+          "title": {
+            "en": "Add a new animation slide",
+            "zh-Hans": "Add a new animation slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.f7b85bf344",
+          "title": {
+            "en": "Add a new rollover image",
+            "zh-Hans": "添加a new rollover 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.06cc63cf46",
+          "title": {
+            "en": "Import PPT",
+            "zh-Hans": "导入 PPT"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.004df2cd1b",
+          "title": {
+            "en": "Insert a question slide",
+            "zh-Hans": "插入 a question slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 768,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.fb8f7a10de",
+          "title": {
+            "en": "Insert a rollover caption",
+            "zh-Hans": "插入 a rollover caption"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.c6007629a3",
+          "title": {
+            "en": "Save the project with different name",
+            "zh-Hans": "Save the project with different name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.c390d804ed",
+          "title": {
+            "en": "Insert a text entry box",
+            "zh-Hans": "Insert a text entry box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.81fc9d93bd",
+          "title": {
+            "en": "Insert the mouse",
+            "zh-Hans": "Insert the mouse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.67f99be55c",
+          "title": {
+            "en": "Insert a widget",
+            "zh-Hans": "插入 a widget"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.4768fe159d",
+          "title": {
+            "en": "Insert a text animation",
+            "zh-Hans": "Insert a text animation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.2496fbdcbc",
+          "title": {
+            "en": "Copy the background",
+            "zh-Hans": "Copy the background"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.03de58c2cd",
+          "title": {
+            "en": "Insert Slidelet",
+            "zh-Hans": "插入 Slidelet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.8f3dd19230",
+          "title": {
+            "en": "Show Branching View",
+            "zh-Hans": "显示 Branching 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2816,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.57920155d4",
+          "title": {
+            "en": "Insert an image slide",
+            "zh-Hans": "Insert an image slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.a9b1eb27d9",
+          "title": {
+            "en": "Show/Hide effects panel",
+            "zh-Hans": "显示/隐藏 effects 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2816,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.7339b75fae",
+          "title": {
+            "en": "Insert stencil slides",
+            "zh-Hans": "插入 stencil slides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.f369c3880d",
+          "title": {
+            "en": "Edit gradient",
+            "zh-Hans": "编辑 渐变"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "bundleIdentifier": "ch.sudo.cyberduck",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.cyberduck.global",
+      "title": {
+        "en": "Global",
+        "zh-Hans": "全局"
+      },
+      "items": [
+        {
+          "id": "remote.cyberduck.global.07556c9e29",
+          "title": {
+            "en": "Go to dashboard",
+            "zh-Hans": "转到dashboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.ded97bbe2b",
+          "title": {
+            "en": "Browse to a project",
+            "zh-Hans": "Browse to a project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.41bab1e0b7",
+          "title": {
+            "en": "Go to agile",
+            "zh-Hans": "转到agile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.556aa489d6",
+          "title": {
+            "en": "Find issues",
+            "zh-Hans": "查找 issues"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.8478ca4fe7",
+          "title": {
+            "en": "Administration quick search",
+            "zh-Hans": "Administration quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.303a470248",
+          "title": {
+            "en": "Quick search",
+            "zh-Hans": "Quick 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.ef2e953a25",
+          "title": {
+            "en": "Create an issue",
+            "zh-Hans": "Create an 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.bd041c3796",
+          "title": {
+            "en": "Quick operation",
+            "zh-Hans": "Quick operation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.589866f54d",
+          "title": {
+            "en": "Open shortcut help",
+            "zh-Hans": "打开 shortcut help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.cyberduck.global.055ea1b744",
+          "title": {
+            "en": "From submit",
+            "zh-Hans": "From submit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.cyberduck.issue-action",
+      "title": {
+        "en": "Issue Action",
+        "zh-Hans": "议题操作"
+      },
+      "items": [
+        {
+          "id": "remote.cyberduck.issue-action.728572c8ad",
+          "title": {
+            "en": "Edit issue",
+            "zh-Hans": "编辑 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.cyberduck.issue-action.d14192394a",
+          "title": {
+            "en": "Assign issue",
+            "zh-Hans": "Assign 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.cyberduck.issue-action.5cdd1d0995",
+          "title": {
+            "en": "Comment on issue",
+            "zh-Hans": "Comment on issue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.cyberduck.issue-action.e35899120e",
+          "title": {
+            "en": "Edit issue labels",
+            "zh-Hans": "编辑 事项 labels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.cyberduck.issue-action.62cbdec731",
+          "title": {
+            "en": "Jump to fields for editing",
+            "zh-Hans": "Jump to fields for editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.cyberduck.issue-action.bb9320ce8e",
+          "title": {
+            "en": "Assign to me",
+            "zh-Hans": "分配给我"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.cyberduck.navigating-issues",
+      "title": {
+        "en": "Navigating Issues",
+        "zh-Hans": "议题导航"
+      },
+      "items": [
+        {
+          "id": "remote.cyberduck.navigating-issues.b23d484a0e",
+          "title": {
+            "en": "View selected issue",
+            "zh-Hans": "视图 所选 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.d753f2a95d",
+          "title": {
+            "en": "Next issue",
+            "zh-Hans": "下一个 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.0d2677a435",
+          "title": {
+            "en": "Previous issue",
+            "zh-Hans": "上一个 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.eb875e5fa1",
+          "title": {
+            "en": "Dock/undock the filters panel",
+            "zh-Hans": "Dock/undock the filters panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.cede6527e0",
+          "title": {
+            "en": "Next activity",
+            "zh-Hans": "下一个 activity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.2388fe3caf",
+          "title": {
+            "en": "Previous activity",
+            "zh-Hans": "上一个 activity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.5fb18ab2be",
+          "title": {
+            "en": "Focus search field",
+            "zh-Hans": "Focus 搜索 field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.e6e8602959",
+          "title": {
+            "en": "Search for issues",
+            "zh-Hans": "Search for issues"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.737645dd58",
+          "title": {
+            "en": "Switch filter view",
+            "zh-Hans": "Switch 滤镜 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.cyberduck.navigating-issues.2b07f78ae3",
+          "title": {
+            "en": "Details view order by",
+            "zh-Hans": "Details view order by"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.cyberduck.agile-shortcuts",
+      "title": {
+        "en": "Agile Shortcuts",
+        "zh-Hans": "敏捷快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.cyberduck.agile-shortcuts.3d53459cf0",
+          "title": {
+            "en": "Backlog",
+            "zh-Hans": "Backlog"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.908fc8c015",
+          "title": {
+            "en": "Active sprints/ Kanban board",
+            "zh-Hans": "Active sprints/ Kanban board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.0102679061",
+          "title": {
+            "en": "Reports",
+            "zh-Hans": "Reports"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.51b337597c",
+          "title": {
+            "en": "Presentation mode",
+            "zh-Hans": "Presentation 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.57da2288c9",
+          "title": {
+            "en": "Next column",
+            "zh-Hans": "下一个 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.26fb7d9184",
+          "title": {
+            "en": "Previous column",
+            "zh-Hans": "上一个 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.53ab1bfccd",
+          "title": {
+            "en": "Hide/Show Details",
+            "zh-Hans": "隐藏/显示 Details"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.458eb47d63",
+          "title": {
+            "en": "Toggle all swimlanes",
+            "zh-Hans": "切换all swimlanes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.f0816b08c9",
+          "title": {
+            "en": "Send to top",
+            "zh-Hans": "Send to top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.cyberduck.agile-shortcuts.74dd7c18ba",
+          "title": {
+            "en": "Send to bottom",
+            "zh-Hans": "Send to bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        }
+      ]
+    }
+  ]
+}

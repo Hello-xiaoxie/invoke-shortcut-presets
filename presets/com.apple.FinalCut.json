@@ -1,0 +1,1305 @@
+{
+  "bundleIdentifier": "com.apple.FinalCut",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.final-cut-pro.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.file.2de243e436",
+          "title": {
+            "en": "Open file",
+            "zh-Hans": "打开文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.d3ef9b0b32",
+          "title": {
+            "en": "Open selected file",
+            "zh-Hans": "打开 所选 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.749cbd53cc",
+          "title": {
+            "en": "OPen in separate window",
+            "zh-Hans": "OPen in separate window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.d81561e52e",
+          "title": {
+            "en": "Open item editor",
+            "zh-Hans": "打开 项目 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.09643d511b",
+          "title": {
+            "en": "HElp",
+            "zh-Hans": "HElp"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.c58871b0c7",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.6af8bcad1a",
+          "title": {
+            "en": "Save all",
+            "zh-Hans": "全部保存"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2048,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.3650ad23d4",
+          "title": {
+            "en": "Adio scrub on or off",
+            "zh-Hans": "Adio scrub on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.4b4fcb976c",
+          "title": {
+            "en": "Edit render quality",
+            "zh-Hans": "编辑 render quality"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 512,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.b4f0b7d1f4",
+          "title": {
+            "en": "Looping on or off",
+            "zh-Hans": "Looping on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.file.551b0b5ef7",
+          "title": {
+            "en": "Snappig on or off",
+            "zh-Hans": "Snappig on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.application-window",
+      "title": {
+        "en": "Application Window",
+        "zh-Hans": "应用窗口"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.application-window.a68c231fed",
+          "title": {
+            "en": "Viewer",
+            "zh-Hans": "Viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.52e921b1bf",
+          "title": {
+            "en": "Canvas",
+            "zh-Hans": "画布"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.6bcdc8e506",
+          "title": {
+            "en": "Timeline",
+            "zh-Hans": "时间线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.9d45dd13d8",
+          "title": {
+            "en": "Browser",
+            "zh-Hans": "Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.6ea8b315be",
+          "title": {
+            "en": "Effects",
+            "zh-Hans": "Effects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.6f92f85617",
+          "title": {
+            "en": "Favorites bin",
+            "zh-Hans": "Favorites bin"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.ad0e123f6f",
+          "title": {
+            "en": "Trim edit",
+            "zh-Hans": "Trim 编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.133a51cbae",
+          "title": {
+            "en": "Log and capture",
+            "zh-Hans": "Log and capture"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.4f94256f80",
+          "title": {
+            "en": "Item properties",
+            "zh-Hans": "项目 properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.3e036fbe09",
+          "title": {
+            "en": "Sequence Settings",
+            "zh-Hans": "Sequence 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.application-window.f09c55ef14",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2048,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.general.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.general.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.general.ce78eb1409",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2048,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.general.51467cdd65",
+          "title": {
+            "en": "Make in/out a selection",
+            "zh-Hans": "Make in/out a selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2048,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.general.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.general.84ed8f748b",
+          "title": {
+            "en": "Paste attributes",
+            "zh-Hans": "粘贴 attributes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2048,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.general.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.general.39f8fc1095",
+          "title": {
+            "en": "Deselect all",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.navigation.53f684f3b4",
+          "title": {
+            "en": "Forward one frame",
+            "zh-Hans": "Forward one frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.d084fed318",
+          "title": {
+            "en": "Backward one frame",
+            "zh-Hans": "Backward one frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.62371b3fcd",
+          "title": {
+            "en": "Forward one second",
+            "zh-Hans": "Forward one second"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.350a0ca8f7",
+          "title": {
+            "en": "Back one second",
+            "zh-Hans": "Back one second"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.33b659cd31",
+          "title": {
+            "en": "Match frame",
+            "zh-Hans": "Match 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.d5d248edf8",
+          "title": {
+            "en": "Next edit",
+            "zh-Hans": "下一个 编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.ec5449220a",
+          "title": {
+            "en": "Previous edit",
+            "zh-Hans": "上一个 编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2048,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.779e0b689a",
+          "title": {
+            "en": "Next gap",
+            "zh-Hans": "下一个 gap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 512,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.eeb0742c04",
+          "title": {
+            "en": "Previous gap",
+            "zh-Hans": "上一个 gap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2048,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.b0abbccaa4",
+          "title": {
+            "en": "Shuttle forward",
+            "zh-Hans": "Shuttle 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.bdaafb1784",
+          "title": {
+            "en": "Shuttle backward",
+            "zh-Hans": "Shuttle 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.0e764051c8",
+          "title": {
+            "en": "To beginning of media",
+            "zh-Hans": "To beginning of media"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.8da51f5777",
+          "title": {
+            "en": "To end of media",
+            "zh-Hans": "To end of media"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.e18fcefe89",
+          "title": {
+            "en": "To next edit or in/out",
+            "zh-Hans": "To next edit or in/out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.6c90ffb33d",
+          "title": {
+            "en": "To previous edit or In/Out",
+            "zh-Hans": "To previous edit or In/Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.7c0a51f1d7",
+          "title": {
+            "en": "To next marker",
+            "zh-Hans": "To next marker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.047ddb759f",
+          "title": {
+            "en": "To previous marker",
+            "zh-Hans": "To previous marker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.navigation.5bd17b774b",
+          "title": {
+            "en": "To master clip",
+            "zh-Hans": "To master clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.finding-items",
+      "title": {
+        "en": "Finding items",
+        "zh-Hans": "查找项目"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.finding-items.6205267520",
+          "title": {
+            "en": "FInd",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.finding-items.1c37ebb47e",
+          "title": {
+            "en": "FInd next (in find results)",
+            "zh-Hans": "FInd next (in find results)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.finding-items.11771025dc",
+          "title": {
+            "en": "Find previous (in Find results)",
+            "zh-Hans": "Find previous (in Find results)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.scrolling",
+      "title": {
+        "en": "Scrolling",
+        "zh-Hans": "滚动"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.scrolling.1e3ef9b160",
+          "title": {
+            "en": "Horizontal scroll left",
+            "zh-Hans": "水平 scroll 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.scrolling.41834c3aeb",
+          "title": {
+            "en": "Horizontal scroll right",
+            "zh-Hans": "水平 scroll 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 512,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.scrolling.dccdf552cc",
+          "title": {
+            "en": "Vertical scroll up",
+            "zh-Hans": "垂直 scroll 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.scrolling.050ad77a9b",
+          "title": {
+            "en": "Vertical scroll down",
+            "zh-Hans": "垂直 scroll 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.screen-layout-and-display",
+      "title": {
+        "en": "Screen Layout and Display",
+        "zh-Hans": "屏幕布局与显示"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.screen-layout-and-display.06a4ab6a40",
+          "title": {
+            "en": "Custom layout 1",
+            "zh-Hans": "Custom layout 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 512,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.screen-layout-and-display.a59b46f375",
+          "title": {
+            "en": "Custom layout 2",
+            "zh-Hans": "Custom layout 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2048,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.project",
+      "title": {
+        "en": "Project",
+        "zh-Hans": "项目"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.project.ce6109e81b",
+          "title": {
+            "en": "Import file",
+            "zh-Hans": "导入 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.project.bb62ab0612",
+          "title": {
+            "en": "New project",
+            "zh-Hans": "新建project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.project.0dc5ae8596",
+          "title": {
+            "en": "New sequence",
+            "zh-Hans": "新建sequence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.browser",
+      "title": {
+        "en": "Browser",
+        "zh-Hans": "浏览器"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.browser.78cc788b25",
+          "title": {
+            "en": "Toggle list",
+            "zh-Hans": "切换list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.browser.8580e72446",
+          "title": {
+            "en": "Insert bin",
+            "zh-Hans": "插入 bin"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.browser.0481c2c0c6",
+          "title": {
+            "en": "Oepn bins",
+            "zh-Hans": "Oepn bins"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.browser.e2f6766cb1",
+          "title": {
+            "en": "Close bins",
+            "zh-Hans": "关闭 bins"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.browser.11f726a1b8",
+          "title": {
+            "en": "Make favorite",
+            "zh-Hans": "Make favorite"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2048,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.browser.0c0bacd77b",
+          "title": {
+            "en": "Show logging columns",
+            "zh-Hans": "显示 logging 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2048,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.browser.84f017853d",
+          "title": {
+            "en": "Show standard columns",
+            "zh-Hans": "显示 standard 列"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 512,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.timeline",
+      "title": {
+        "en": "Timeline",
+        "zh-Hans": "时间线"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.timeline.73855f898e",
+          "title": {
+            "en": "Create or break link",
+            "zh-Hans": "Create or break link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.6e39431c65",
+          "title": {
+            "en": "Linked selection on or off",
+            "zh-Hans": "Linked selection on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.7d90bb787e",
+          "title": {
+            "en": "Create or break stereo pair",
+            "zh-Hans": "Create or break stereo pair"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2048,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.d0064ef2a8",
+          "title": {
+            "en": "Change track size",
+            "zh-Hans": "Change 轨道 size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 512,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.5667ae77b4",
+          "title": {
+            "en": "Clip Keyframes on or off",
+            "zh-Hans": "Clip Keyframes on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.0d314feb7e",
+          "title": {
+            "en": "Clip Overlays on or off",
+            "zh-Hans": "Clip Overlays on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2048,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.a7b4d01a14",
+          "title": {
+            "en": "Delete and leave gap",
+            "zh-Hans": "Delete and leave gap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.13766881cc",
+          "title": {
+            "en": "Ripple delete (no gap)",
+            "zh-Hans": "Ripple delete (no gap)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.61c3d62e28",
+          "title": {
+            "en": "Fit sequence in window",
+            "zh-Hans": "Fit sequence in window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 512,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.b0f3814865",
+          "title": {
+            "en": "Lock video track",
+            "zh-Hans": "锁定 视频 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.timeline.bf1e05206b",
+          "title": {
+            "en": "Lock all video tracks",
+            "zh-Hans": "锁定 全部 视频 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.in-and-out-points",
+      "title": {
+        "en": "In and Out points",
+        "zh-Hans": "入点与出点"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.0ba313a8f5",
+          "title": {
+            "en": "Set in points",
+            "zh-Hans": "Set in points"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.37eb8edb78",
+          "title": {
+            "en": "Set out point",
+            "zh-Hans": "Set out point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.eeb2ff78d8",
+          "title": {
+            "en": "Set video in only",
+            "zh-Hans": "Set video in only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.cc707cff61",
+          "title": {
+            "en": "Set video out only",
+            "zh-Hans": "Set video out only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 512,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.345091d909",
+          "title": {
+            "en": "Clear in",
+            "zh-Hans": "清除in"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2048,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.49dad4b0a7",
+          "title": {
+            "en": "Clear out",
+            "zh-Hans": "清除out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2048,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.ad4a796eb2",
+          "title": {
+            "en": "Clear in and out",
+            "zh-Hans": "Clear in and out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2048,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.a9c6855766",
+          "title": {
+            "en": "Make selection an In or out",
+            "zh-Hans": "Make selection an In or out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.4a1cc1d3ab",
+          "title": {
+            "en": "Mark clip",
+            "zh-Hans": "Mark 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.4ba41d9bab",
+          "title": {
+            "en": "Goto in point",
+            "zh-Hans": "Goto in point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.in-and-out-points.e34c069b8e",
+          "title": {
+            "en": "Go to out point",
+            "zh-Hans": "转到out point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.logging-and-capturing",
+      "title": {
+        "en": "Logging and capturing",
+        "zh-Hans": "记录与采集"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.logging-and-capturing.90037f17f6",
+          "title": {
+            "en": "Log clip",
+            "zh-Hans": "日志 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.logging-and-capturing.37faa90970",
+          "title": {
+            "en": "Batch capture",
+            "zh-Hans": "Batch capture"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.final-cut-pro.output",
+      "title": {
+        "en": "Output",
+        "zh-Hans": "输出"
+      },
+      "items": [
+        {
+          "id": "remote.final-cut-pro.output.ff4dafd2f8",
+          "title": {
+            "en": "Change render quality",
+            "zh-Hans": "Change render quality"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.output.7f05f16752",
+          "title": {
+            "en": "Display frame",
+            "zh-Hans": "Display 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.final-cut-pro.output.39dfa70c63",
+          "title": {
+            "en": "Print to video",
+            "zh-Hans": "Print to video"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        }
+      ]
+    }
+  ]
+}

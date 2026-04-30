@@ -1,0 +1,1422 @@
+{
+  "bundleIdentifier": "com.adobe.AdobePremierePro",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-premiere.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.ff4d559836",
+          "title": {
+            "en": "New Project",
+            "zh-Hans": "新建项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.f489414a10",
+          "title": {
+            "en": "Save Project",
+            "zh-Hans": "存储 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.4b0fe75f46",
+          "title": {
+            "en": "Save Copy",
+            "zh-Hans": "存储 复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.8b62a9c62e",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.f0de73131c",
+          "title": {
+            "en": "Close Project",
+            "zh-Hans": "关闭 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.654f485567",
+          "title": {
+            "en": "Title",
+            "zh-Hans": "Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.320f81ab3a",
+          "title": {
+            "en": "Open Existing Project",
+            "zh-Hans": "打开 Existing 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.798b32de34",
+          "title": {
+            "en": "Open in Adobe bridge",
+            "zh-Hans": "Open in Adobe bridge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.9089fca083",
+          "title": {
+            "en": "Sequence",
+            "zh-Hans": "Sequence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.e36c4e07e3",
+          "title": {
+            "en": "Exit",
+            "zh-Hans": "Exit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.60d62e26e9",
+          "title": {
+            "en": "Import",
+            "zh-Hans": "导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.fab2f0a413",
+          "title": {
+            "en": "Import from media browser",
+            "zh-Hans": "Import from media browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.917c427c02",
+          "title": {
+            "en": "Media",
+            "zh-Hans": "媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.ee14720876",
+          "title": {
+            "en": "Selection",
+            "zh-Hans": "选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.9cd0b6e6bf",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.dbceab9f2e",
+          "title": {
+            "en": "Edit",
+            "zh-Hans": "编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.5e05836962",
+          "title": {
+            "en": "Paste Insert",
+            "zh-Hans": "粘贴 插入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.6efdcec028",
+          "title": {
+            "en": "Paste Attributes",
+            "zh-Hans": "粘贴 Attributes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.df0b40b675",
+          "title": {
+            "en": "Clear",
+            "zh-Hans": "Clear"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.4970932741",
+          "title": {
+            "en": "Delete forever",
+            "zh-Hans": "删除 forever"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.89fe5202a8",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.general-shortcuts.7e22f76163",
+          "title": {
+            "en": "Bin",
+            "zh-Hans": "Bin"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-premiere.clipping-shortcuts",
+      "title": {
+        "en": "Clipping Shortcuts",
+        "zh-Hans": "Clipping快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.e9daf5616d",
+          "title": {
+            "en": "Link",
+            "zh-Hans": "链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.b0fb87819e",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.fcfb48217e",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.72354df85e",
+          "title": {
+            "en": "Speed",
+            "zh-Hans": "Speed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.59178e61bc",
+          "title": {
+            "en": "Capture",
+            "zh-Hans": "Capture"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.0bbe7b75df",
+          "title": {
+            "en": "Insert",
+            "zh-Hans": "插入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.63a1b8e05f",
+          "title": {
+            "en": "Overwrite",
+            "zh-Hans": "Overwrite"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.da48bb9789",
+          "title": {
+            "en": "Add edit",
+            "zh-Hans": "添加edit"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.a88806cb11",
+          "title": {
+            "en": "Add edit to track",
+            "zh-Hans": "Add edit to track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.6801f3248e",
+          "title": {
+            "en": "Video transition",
+            "zh-Hans": "视频 过渡"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.80586acf18",
+          "title": {
+            "en": "Audio transition",
+            "zh-Hans": "音频 过渡"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.254ac24b8f",
+          "title": {
+            "en": "Reverse match frame",
+            "zh-Hans": "Reverse match 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.a8c61ee5a4",
+          "title": {
+            "en": "Zoom in/Zoom out",
+            "zh-Hans": "放大/缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.02dff5c19a",
+          "title": {
+            "en": "Snap",
+            "zh-Hans": "吸附"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.1bfd788cab",
+          "title": {
+            "en": "Go to selected clip start",
+            "zh-Hans": "转到selected 片段 开始"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.3d2c5858e6",
+          "title": {
+            "en": "Go to selected clip end",
+            "zh-Hans": "转到selected 片段 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 512,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.9d3751f9df",
+          "title": {
+            "en": "Go to sequence clip start",
+            "zh-Hans": "转到sequence 片段 开始"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.09c9f8e7d4",
+          "title": {
+            "en": "Go to sequence clip end",
+            "zh-Hans": "转到sequence 片段 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.778780c063",
+          "title": {
+            "en": "Increse/Decrese volume",
+            "zh-Hans": "Increse/Decrese volume"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.7ff3211e37",
+          "title": {
+            "en": "Minimize all tracks",
+            "zh-Hans": "最小化 全部 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 512,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.07343c4fc5",
+          "title": {
+            "en": "Next in Sequence",
+            "zh-Hans": "Next in Sequence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.8963262155",
+          "title": {
+            "en": "Previous in Sequence",
+            "zh-Hans": "Previous in Sequence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.c51e610f3c",
+          "title": {
+            "en": "Extract",
+            "zh-Hans": "提取"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.91a1284559",
+          "title": {
+            "en": "Make Subclip",
+            "zh-Hans": "Make Subclip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.clipping-shortcuts.74f644e50b",
+          "title": {
+            "en": "Audio Channels",
+            "zh-Hans": "音频 频道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 512,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-premiere.marker-operation",
+      "title": {
+        "en": "Marker Operation",
+        "zh-Hans": "标记操作"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-premiere.marker-operation.becb0bfa6d",
+          "title": {
+            "en": "Mark in/Mark out",
+            "zh-Hans": "Mark in/Mark out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.4a1cc1d3ab",
+          "title": {
+            "en": "Mark clip",
+            "zh-Hans": "Mark 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.d393dc3124",
+          "title": {
+            "en": "Mark selection",
+            "zh-Hans": "Mark 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.7488a8cf7d",
+          "title": {
+            "en": "Go to in",
+            "zh-Hans": "转到in"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 512,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.938fc07426",
+          "title": {
+            "en": "Go to out",
+            "zh-Hans": "转到out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.f73db1bd9f",
+          "title": {
+            "en": "Clear in/Clear out",
+            "zh-Hans": "Clear in/Clear out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2048,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.9c79c47363",
+          "title": {
+            "en": "Clear in  and out",
+            "zh-Hans": "Clear in  and out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2048,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.e880ea3d34",
+          "title": {
+            "en": "Add marker",
+            "zh-Hans": "添加marker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.1adfbebf5c",
+          "title": {
+            "en": "Previous marker",
+            "zh-Hans": "上一个 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.8f6409c05c",
+          "title": {
+            "en": "Next marker",
+            "zh-Hans": "下一个 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.e2c202307e",
+          "title": {
+            "en": "Clear current marker",
+            "zh-Hans": "清除current 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2048,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.b43b089321",
+          "title": {
+            "en": "Left align",
+            "zh-Hans": "左 对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.077395e45f",
+          "title": {
+            "en": "Center align",
+            "zh-Hans": "中心 对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.91877eedcb",
+          "title": {
+            "en": "Right align",
+            "zh-Hans": "右 对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.4fb9d6f968",
+          "title": {
+            "en": "Stopping tab",
+            "zh-Hans": "Stopping 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.marker-operation.e237e5aef0",
+          "title": {
+            "en": "Templates",
+            "zh-Hans": "模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-premiere.window-shortcuts",
+      "title": {
+        "en": "Window Shortcuts",
+        "zh-Hans": "窗口快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.acd5836c32",
+          "title": {
+            "en": "Project",
+            "zh-Hans": "项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 512,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.9f55e81d1c",
+          "title": {
+            "en": "Source monitor",
+            "zh-Hans": "源 monitor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 512,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.5fd51ba601",
+          "title": {
+            "en": "Timeline",
+            "zh-Hans": "时间线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 512,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.8666396bd3",
+          "title": {
+            "en": "Program monitor",
+            "zh-Hans": "Program monitor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 512,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.4ae8052be4",
+          "title": {
+            "en": "Effect control",
+            "zh-Hans": "效果 control"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 512,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.7713ae560c",
+          "title": {
+            "en": "Audio track mixer",
+            "zh-Hans": "音频 轨道 混音器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 512,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.7b5001787a",
+          "title": {
+            "en": "Effects",
+            "zh-Hans": "Effects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 512,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.6972a71d50",
+          "title": {
+            "en": "Media browser",
+            "zh-Hans": "媒体 browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 512,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.ea188cc6eb",
+          "title": {
+            "en": "Audio clip mixer",
+            "zh-Hans": "音频 片段 混音器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 512,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.c811b1dd4b",
+          "title": {
+            "en": "Cut to camera",
+            "zh-Hans": "Cut to camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.fdc4906bc0",
+          "title": {
+            "en": "Clear poster frame",
+            "zh-Hans": "清除poster 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.e8772b06f6",
+          "title": {
+            "en": "Export frame",
+            "zh-Hans": "导出 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.ac4e674673",
+          "title": {
+            "en": "Select Camera <Specific number>",
+            "zh-Hans": "Select Camera <Specific number>"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.window-shortcuts.7a8f264458",
+          "title": {
+            "en": "Replace Current Workplace",
+            "zh-Hans": "替换 当前 Workplace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2560,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-premiere.panel-shortcuts",
+      "title": {
+        "en": "Panel Shortcuts",
+        "zh-Hans": "面板快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.07d3dd05c7",
+          "title": {
+            "en": "Record video",
+            "zh-Hans": "Record 视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.bc4ec93fa4",
+          "title": {
+            "en": "Record Audio",
+            "zh-Hans": "Record 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.7425c0645f",
+          "title": {
+            "en": "Eject",
+            "zh-Hans": "推出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.662895b0d7",
+          "title": {
+            "en": "Fast forward",
+            "zh-Hans": "Fast 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.6e027765da",
+          "title": {
+            "en": "Go to in point",
+            "zh-Hans": "转到in point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.730f188bcd",
+          "title": {
+            "en": "Go to out point",
+            "zh-Hans": "转到out point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.07f7893bad",
+          "title": {
+            "en": "Rewind",
+            "zh-Hans": "快退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.8eb2e840e2",
+          "title": {
+            "en": "Record",
+            "zh-Hans": "录制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.edb4037978",
+          "title": {
+            "en": "Stop",
+            "zh-Hans": "停止"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.3675e38c65",
+          "title": {
+            "en": "Step back",
+            "zh-Hans": "Step back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.ee800ba7c1",
+          "title": {
+            "en": "Step forward",
+            "zh-Hans": "Step 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.6d1bc88a50",
+          "title": {
+            "en": "Remove effects/delete item",
+            "zh-Hans": "Remove effects/删除 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.53774fb8b8",
+          "title": {
+            "en": "Play",
+            "zh-Hans": "播放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.a0479308fb",
+          "title": {
+            "en": "Record on/off",
+            "zh-Hans": "Record on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 0,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.d1a85dccad",
+          "title": {
+            "en": "Next/Previous",
+            "zh-Hans": "下一个/上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.d4d4532a65",
+          "title": {
+            "en": "Shuttle Stop",
+            "zh-Hans": "Shuttle Stop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.24d928c734",
+          "title": {
+            "en": "Shuttle Right",
+            "zh-Hans": "Shuttle 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.panel-shortcuts.f1bf17d387",
+          "title": {
+            "en": "Shuttle Left",
+            "zh-Hans": "Shuttle 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-premiere.tools-shortcuts",
+      "title": {
+        "en": "Tools Shortcuts",
+        "zh-Hans": "工具快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.b4e3689f56",
+          "title": {
+            "en": "Track select tool",
+            "zh-Hans": "轨道 select tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.378ac8257f",
+          "title": {
+            "en": "Ripple edit tool",
+            "zh-Hans": "Ripple 编辑 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.857a749d36",
+          "title": {
+            "en": "Razor tool",
+            "zh-Hans": "剃刀工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.44cbba7f31",
+          "title": {
+            "en": "Hand tool",
+            "zh-Hans": "抓手工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.a01e97fa93",
+          "title": {
+            "en": "Rolling edit tool",
+            "zh-Hans": "Rolling 编辑 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.cac2569b34",
+          "title": {
+            "en": "Pen tool",
+            "zh-Hans": "钢笔工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.e9fd92d84f",
+          "title": {
+            "en": "Slide tool",
+            "zh-Hans": "滑移工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.d3891ba1c3",
+          "title": {
+            "en": "Selection tool",
+            "zh-Hans": "选择工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.69f2bb6a34",
+          "title": {
+            "en": "Slip tool",
+            "zh-Hans": "滑动工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-premiere.tools-shortcuts.126d6e1208",
+          "title": {
+            "en": "Zoom tool",
+            "zh-Hans": "缩放工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    }
+  ]
+}

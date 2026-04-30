@@ -1,0 +1,948 @@
+{
+  "bundleIdentifier": "com.superhuman.electron",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.superhuman.actions",
+      "title": {
+        "en": "Actions",
+        "zh-Hans": "操作"
+      },
+      "items": [
+        {
+          "id": "remote.superhuman.actions.a1ead139c2",
+          "title": {
+            "en": "Superhuman Command",
+            "zh-Hans": "Superhuman Command"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.actions.1f75acd34c",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.actions.04c2a6606a",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.actions.7b80ce4910",
+          "title": {
+            "en": "Shortcuts",
+            "zh-Hans": "Shortcuts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.superhuman.conversations",
+      "title": {
+        "en": "Conversations",
+        "zh-Hans": "对话"
+      },
+      "items": [
+        {
+          "id": "remote.superhuman.conversations.1793518fdc",
+          "title": {
+            "en": "Mark Done (Archive)",
+            "zh-Hans": "Mark Done (Archive)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.conversations.dc93303c7d",
+          "title": {
+            "en": "Mark Not Done",
+            "zh-Hans": "Mark Not Done"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.conversations.232736ce58",
+          "title": {
+            "en": "Remind Me (Snooze)",
+            "zh-Hans": "Remind Me (Snooze)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.conversations.af6d97dc21",
+          "title": {
+            "en": "Star",
+            "zh-Hans": "Star"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.conversations.2d7d732285",
+          "title": {
+            "en": "Mark Read or Unread",
+            "zh-Hans": "Mark Read or Unread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.conversations.37c7731edc",
+          "title": {
+            "en": "Trash",
+            "zh-Hans": "Trash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.conversations.5f16482159",
+          "title": {
+            "en": "Mark Spam",
+            "zh-Hans": "Mark Spam"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.conversations.f8cc470c19",
+          "title": {
+            "en": "Mute",
+            "zh-Hans": "静音"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.conversations.aa2ca4d9aa",
+          "title": {
+            "en": "Unsubscribe",
+            "zh-Hans": "Unsubscribe"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.superhuman.messages",
+      "title": {
+        "en": "Messages",
+        "zh-Hans": "消息"
+      },
+      "items": [
+        {
+          "id": "remote.superhuman.messages.c4351a6cc9",
+          "title": {
+            "en": "Compose",
+            "zh-Hans": "Compose"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.messages.7510b88e53",
+          "title": {
+            "en": "Reply All",
+            "zh-Hans": "Reply 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.messages.182d17ccc7",
+          "title": {
+            "en": "Reply",
+            "zh-Hans": "回复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.messages.27adbe05fc",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.messages.71976b124d",
+          "title": {
+            "en": "Open Links ",
+            "zh-Hans": "打开 Links "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.messages.753ff120aa",
+          "title": {
+            "en": "Expand Message",
+            "zh-Hans": "展开Message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.messages.ed7bea0f19",
+          "title": {
+            "en": "Expand All Messages",
+            "zh-Hans": "展开All Messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.superhuman.labels",
+      "title": {
+        "en": "Labels",
+        "zh-Hans": "标签"
+      },
+      "items": [
+        {
+          "id": "remote.superhuman.labels.e255cbedde",
+          "title": {
+            "en": "Add or Remove Label",
+            "zh-Hans": "Add or Remove Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.labels.addfda51b4",
+          "title": {
+            "en": "Remove Label",
+            "zh-Hans": "移除Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.labels.5e6ef94787",
+          "title": {
+            "en": "Remove All Labels",
+            "zh-Hans": "移除All Labels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.labels.62bacfead5",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.superhuman.calendar",
+      "title": {
+        "en": "Calendar",
+        "zh-Hans": "日历"
+      },
+      "items": [
+        {
+          "id": "remote.superhuman.calendar.1014802248",
+          "title": {
+            "en": "Toggle Calendar",
+            "zh-Hans": "切换Calendar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.calendar.23c7e3be1c",
+          "title": {
+            "en": "Previous Day",
+            "zh-Hans": "上一个 Day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.calendar.486453cf1a",
+          "title": {
+            "en": "Next Day",
+            "zh-Hans": "下一个 Day"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.superhuman.format",
+      "title": {
+        "en": "Format",
+        "zh-Hans": "格式"
+      },
+      "items": [
+        {
+          "id": "remote.superhuman.format.7b879c758c",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.5f0b712692",
+          "title": {
+            "en": "Italics",
+            "zh-Hans": "Italics"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.b71fce2ba5",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.d350c57b2e",
+          "title": {
+            "en": "Hyperlink",
+            "zh-Hans": "Hyperlink"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.3ebb10a90f",
+          "title": {
+            "en": "Color",
+            "zh-Hans": "颜色"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.c0be314f6e",
+          "title": {
+            "en": "Strikethrough",
+            "zh-Hans": "Strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.7627eaccda",
+          "title": {
+            "en": "Numbers",
+            "zh-Hans": "Numbers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.a9701cb7da",
+          "title": {
+            "en": "Bullets",
+            "zh-Hans": "Bullets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.6f9f1bac2b",
+          "title": {
+            "en": "Quote",
+            "zh-Hans": "Quote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.3975fd6c21",
+          "title": {
+            "en": "Indent List",
+            "zh-Hans": "Indent List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.0d7c1101ec",
+          "title": {
+            "en": "Outdent List",
+            "zh-Hans": "Outdent List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.2817cdd043",
+          "title": {
+            "en": "Increase Indent",
+            "zh-Hans": "Increase Indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.format.838a403a0a",
+          "title": {
+            "en": "Decrease Indent",
+            "zh-Hans": "Decrease Indent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.superhuman.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.superhuman.navigation.af3c918493",
+          "title": {
+            "en": "Next Split",
+            "zh-Hans": "下一个 Split"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.198d837e3c",
+          "title": {
+            "en": "Previous Split",
+            "zh-Hans": "上一个 Split"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.f114c97435",
+          "title": {
+            "en": "Next Conversation",
+            "zh-Hans": "下一个 Conversation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.aa6846e36d",
+          "title": {
+            "en": "Previous Conversation",
+            "zh-Hans": "上一个 Conversation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.50ec71d72b",
+          "title": {
+            "en": "Jump to Top",
+            "zh-Hans": "跳转到Top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.58bba467b5",
+          "title": {
+            "en": "Jump to Bottom",
+            "zh-Hans": "跳转到Bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.2b246c025e",
+          "title": {
+            "en": "New Window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.b2d9820a69",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.2393fde8c4",
+          "title": {
+            "en": "Next Tab",
+            "zh-Hans": "下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.97701f22be",
+          "title": {
+            "en": "Previous Tab",
+            "zh-Hans": "上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.98790182a8",
+          "title": {
+            "en": "Switch tab 1",
+            "zh-Hans": "Switch 标签页 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.47f0231964",
+          "title": {
+            "en": "Switch tab 2",
+            "zh-Hans": "Switch 标签页 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.68492c372d",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.bbc9108534",
+          "title": {
+            "en": "Switch to first account",
+            "zh-Hans": "切换到first account"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.d8ff9d5381",
+          "title": {
+            "en": "Switch to second account",
+            "zh-Hans": "切换到second account"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.2bd9b47cf3",
+          "title": {
+            "en": "Increase Font Size",
+            "zh-Hans": "Increase 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.navigation.a3e1eef8e2",
+          "title": {
+            "en": "Decrease Font Size",
+            "zh-Hans": "Decrease 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.superhuman.compose",
+      "title": {
+        "en": "Compose",
+        "zh-Hans": "撰写"
+      },
+      "items": [
+        {
+          "id": "remote.superhuman.compose.72e9bbb33c",
+          "title": {
+            "en": "To",
+            "zh-Hans": "To"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.2ba0e8ee90",
+          "title": {
+            "en": "Cc",
+            "zh-Hans": "Cc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.e42a5a887f",
+          "title": {
+            "en": "Bcc",
+            "zh-Hans": "Bcc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.0f26d59a2f",
+          "title": {
+            "en": "From",
+            "zh-Hans": "From"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.5b365c16d3",
+          "title": {
+            "en": "Edit Subject",
+            "zh-Hans": "编辑 Subject"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.bc2e9f65d0",
+          "title": {
+            "en": "Edit Message",
+            "zh-Hans": "编辑消息"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.9b1401e3ab",
+          "title": {
+            "en": "Attach",
+            "zh-Hans": "Attach"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.bb2dea7191",
+          "title": {
+            "en": "Discard Draft",
+            "zh-Hans": "Discard Draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.9e06bc8eae",
+          "title": {
+            "en": "Move Contacts to Bcc",
+            "zh-Hans": "Move Contacts to Bcc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.992e7e5bcd",
+          "title": {
+            "en": "Remind Me",
+            "zh-Hans": "Remind Me"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.c0b7fa35f1",
+          "title": {
+            "en": "Send Later",
+            "zh-Hans": "Send Later"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.4bd6c63319",
+          "title": {
+            "en": "Use Snippet",
+            "zh-Hans": "Use 代码片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.03b5583a65",
+          "title": {
+            "en": "Send",
+            "zh-Hans": "Send"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.f3ab8edabd",
+          "title": {
+            "en": "Send ",
+            "zh-Hans": "Send "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.superhuman.compose.0987769dc2",
+          "title": {
+            "en": "Instant Send",
+            "zh-Hans": "Instant Send"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        }
+      ]
+    }
+  ]
+}

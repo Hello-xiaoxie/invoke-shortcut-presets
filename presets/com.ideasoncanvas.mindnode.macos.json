@@ -1,0 +1,1800 @@
+{
+  "bundleIdentifier": "com.ideasoncanvas.mindnode.macos",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.mindnode.node-creation",
+      "title": {
+        "en": "Node Creation",
+        "zh-Hans": "创建节点"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.node-creation.c99441f274",
+          "title": {
+            "en": "Create new child node",
+            "zh-Hans": "Create new child node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-creation.b0028ff36c",
+          "title": {
+            "en": "Create new parent node",
+            "zh-Hans": "Create new parent node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 2048,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-creation.7ef032040d",
+          "title": {
+            "en": "Create new sibling node",
+            "zh-Hans": "Create new sibling node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-creation.6ff2d353a1",
+          "title": {
+            "en": "Create new sibling node above current node",
+            "zh-Hans": "Create new sibling node above current node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-creation.bcf676f7b4",
+          "title": {
+            "en": "Create new main node",
+            "zh-Hans": "Create new main node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.edit-node",
+      "title": {
+        "en": "Edit node",
+        "zh-Hans": "编辑节点"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.edit-node.0b110dd9d7",
+          "title": {
+            "en": "Edit Node Title",
+            "zh-Hans": "编辑 节点 Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-node.099423f610",
+          "title": {
+            "en": "Add Link",
+            "zh-Hans": "添加Link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-node.da95888dad",
+          "title": {
+            "en": "Open Link",
+            "zh-Hans": "打开 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-node.e6e3c6d63b",
+          "title": {
+            "en": "Size to Fit Content",
+            "zh-Hans": "Size to Fit Content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2304,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-node.38a0d4409c",
+          "title": {
+            "en": "Add/Remove Task",
+            "zh-Hans": "Add/Remove 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-node.b0cf25e1ba",
+          "title": {
+            "en": "Check/Uncheck Task",
+            "zh-Hans": "Check/Uncheck 任务"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4352,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.navigation.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.2ac28d2ea9",
+          "title": {
+            "en": "Zoom to Actual Size (100%)",
+            "zh-Hans": "Zoom to Actual Size (100%)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.f72379cba6",
+          "title": {
+            "en": "Zoom to Fit",
+            "zh-Hans": "缩放以适合"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.fc23924346",
+          "title": {
+            "en": "Zoom to Selection",
+            "zh-Hans": "Zoom to Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.7e6e34a3e5",
+          "title": {
+            "en": "Go to Main Node",
+            "zh-Hans": "转到Main 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.cea6127990",
+          "title": {
+            "en": "Center Selection",
+            "zh-Hans": "中心 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4352,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.2d86c7d494",
+          "title": {
+            "en": "Lock Viewport on External Screen",
+            "zh-Hans": "Lock Viewport on External Screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 4352,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.fb0f20b312",
+          "title": {
+            "en": "Scroll Canvas Right",
+            "zh-Hans": "滚动Canvas 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.b345d4d85f",
+          "title": {
+            "en": "Scroll Canvas Down",
+            "zh-Hans": "滚动Canvas 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.80b4dc942c",
+          "title": {
+            "en": "Scroll Canvas Left",
+            "zh-Hans": "滚动Canvas 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mindnode.navigation.f0c6ccacc6",
+          "title": {
+            "en": "Scroll Canvas Up",
+            "zh-Hans": "滚动Canvas 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.folding",
+      "title": {
+        "en": "Folding",
+        "zh-Hans": "折叠"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.folding.83e6943515",
+          "title": {
+            "en": "Fold/Unfold Branch",
+            "zh-Hans": "Fold/Unfold 分支"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2048,
+            "displayKey": "."
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.connections",
+      "title": {
+        "en": "Connections",
+        "zh-Hans": "连接"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.connections.4d7f9f7bf8",
+          "title": {
+            "en": "Create Cross Connection",
+            "zh-Hans": "Create Cross Connection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.mindnode.connections.c48c9c862e",
+          "title": {
+            "en": "Show Start Node of Cross Connection",
+            "zh-Hans": "Show Start Node of Cross Connection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4352,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.mindnode.connections.a113b53e16",
+          "title": {
+            "en": "Show End Node of Cross Connection",
+            "zh-Hans": "Show End Node of Cross Connection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.mindnode.connections.fcaa5fc8b3",
+          "title": {
+            "en": "Reset Waypoint of Cross Connection",
+            "zh-Hans": "Reset Waypoint of Cross Connection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.mindnode.connections.04a1e20491",
+          "title": {
+            "en": "Hide All Cross Connections",
+            "zh-Hans": "隐藏 全部 Cross Connections"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 6400,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.focus",
+      "title": {
+        "en": "Focus",
+        "zh-Hans": "焦点"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.focus.360b5510d5",
+          "title": {
+            "en": "Enter/Exit Focus Mode",
+            "zh-Hans": "Enter/Exit Focus Mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.node-selection",
+      "title": {
+        "en": "Node Selection",
+        "zh-Hans": "节点选择"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.node-selection.e59790c5c8",
+          "title": {
+            "en": "Move right",
+            "zh-Hans": "向右移动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.baa01c19ba",
+          "title": {
+            "en": "Move down",
+            "zh-Hans": "向下移动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.498307c436",
+          "title": {
+            "en": "Move left",
+            "zh-Hans": "向左移动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.9665ea931d",
+          "title": {
+            "en": "Move up",
+            "zh-Hans": "向上移动"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.ad83ac86c8",
+          "title": {
+            "en": "Select Next Node in → Direction",
+            "zh-Hans": "Select Next Node in → Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.d367d0335d",
+          "title": {
+            "en": "Select Next Node in ↓ Direction",
+            "zh-Hans": "Select Next Node in ↓ Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.edfbd4f77d",
+          "title": {
+            "en": "Select Next Node in ← Direction",
+            "zh-Hans": "Select Next Node in ← Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.0f2b544d05",
+          "title": {
+            "en": "Select Next Node in ↑ Direction",
+            "zh-Hans": "Select Next Node in ↑ Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.9cd0b6e6bf",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.32e084dd7e",
+          "title": {
+            "en": "Select All Child Nodes",
+            "zh-Hans": "全选 Child Nodes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.efeb4e00ae",
+          "title": {
+            "en": "Forward Cycle through Main Nodes",
+            "zh-Hans": "Forward Cycle through Main Nodes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 58,
+            "carbonModifiers": 2048,
+            "displayKey": "58"
+          }
+        },
+        {
+          "id": "remote.mindnode.node-selection.337659ab9f",
+          "title": {
+            "en": "Backward Cycle through Main Nodes",
+            "zh-Hans": "Backward Cycle through Main Nodes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2048,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.move-node-selection",
+      "title": {
+        "en": "Move Node Selection",
+        "zh-Hans": "移动节点选区"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.move-node-selection.bf7d77425e",
+          "title": {
+            "en": "Move 1pt in → Direction",
+            "zh-Hans": "Move 1pt in → Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mindnode.move-node-selection.af74e36335",
+          "title": {
+            "en": "Move 1pt in ↓ Direction",
+            "zh-Hans": "Move 1pt in ↓ Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.mindnode.move-node-selection.0e9793d251",
+          "title": {
+            "en": "Move 1pt in ← Direction",
+            "zh-Hans": "Move 1pt in ← Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mindnode.move-node-selection.bbf08f6a0e",
+          "title": {
+            "en": "Move 1pt in ↑ Direction",
+            "zh-Hans": "Move 1pt in ↑ Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.mindnode.move-node-selection.13d54032ee",
+          "title": {
+            "en": "Move 20pt in → Direction",
+            "zh-Hans": "Move 20pt in → Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mindnode.move-node-selection.694833af7d",
+          "title": {
+            "en": "Move 20pt in ↓ Direction",
+            "zh-Hans": "Move 20pt in ↓ Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.mindnode.move-node-selection.18429be70b",
+          "title": {
+            "en": "Move 20pt in ← Direction",
+            "zh-Hans": "Move 20pt in ← Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mindnode.move-node-selection.1da7f38675",
+          "title": {
+            "en": "Move 20pt in ↑ Direction",
+            "zh-Hans": "Move 20pt in ↑ Direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.organize-nodes",
+      "title": {
+        "en": "Organize Nodes",
+        "zh-Hans": "整理节点"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.organize-nodes.689fdb0b7f",
+          "title": {
+            "en": "Reorganize Nodes",
+            "zh-Hans": "Reorganize Nodes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.mindnode.organize-nodes.57da3e0273",
+          "title": {
+            "en": "Balance Nodes",
+            "zh-Hans": "Balance Nodes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.mindnode.organize-nodes.2c995ea826",
+          "title": {
+            "en": "Move All Nodes to the Right/Bottom",
+            "zh-Hans": "Move All Nodes to the Right/Bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 6400,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.mindnode.organize-nodes.fd2cc5679d",
+          "title": {
+            "en": "Move All Nodes to Left/Top",
+            "zh-Hans": "Move All Nodes to Left/Top"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 58,
+            "carbonModifiers": 6400,
+            "displayKey": "58"
+          }
+        },
+        {
+          "id": "remote.mindnode.organize-nodes.86fcbc4c12",
+          "title": {
+            "en": "Sort Nodes by Task State",
+            "zh-Hans": "Sort Nodes by Task State"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 6400,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.mindnode.organize-nodes.3b98a84409",
+          "title": {
+            "en": "Sort Nodes Alphabetically",
+            "zh-Hans": "Sort Nodes Alphabetically"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 6400,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.mindnode.organize-nodes.d49e96da5c",
+          "title": {
+            "en": "Detach Node",
+            "zh-Hans": "Detach 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.search-in-mindmap",
+      "title": {
+        "en": "Search in mindmap",
+        "zh-Hans": "搜索 in mindmap"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.search-in-mindmap.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.mindnode.search-in-mindmap.ef9d8ce653",
+          "title": {
+            "en": "Find ",
+            "zh-Hans": "查找 "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.mindnode.search-in-mindmap.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.mindnode.search-in-mindmap.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.sidebars-pickers-popovers",
+      "title": {
+        "en": "Sidebars, Pickers & Popovers",
+        "zh-Hans": "侧边栏、拾取器与弹出框"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.0ac3d51c9d",
+          "title": {
+            "en": "Show/Hide Toolbar",
+            "zh-Hans": "显示/隐藏 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.2c5e0413ad",
+          "title": {
+            "en": "Show Sticker Picker",
+            "zh-Hans": "显示 Sticker Picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.0fb536a3a8",
+          "title": {
+            "en": "Show Photo Picker",
+            "zh-Hans": "显示 照片 Picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.3889d78319",
+          "title": {
+            "en": "Show/Hide Style",
+            "zh-Hans": "显示/隐藏 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.a8bfd07ae2",
+          "title": {
+            "en": "Show/Hide Themes",
+            "zh-Hans": "显示/隐藏 Themes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.7f5157e56b",
+          "title": {
+            "en": "Show Notes Popover",
+            "zh-Hans": "显示 笔记 弹出框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.b770de6a13",
+          "title": {
+            "en": "Show/Hide Notes",
+            "zh-Hans": "显示/隐藏 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.62c7828ec5",
+          "title": {
+            "en": "Show/Hide Tags",
+            "zh-Hans": "显示/隐藏 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.mindnode.sidebars-pickers-popovers.9fee83273f",
+          "title": {
+            "en": "Show/Hide Outline",
+            "zh-Hans": "显示/隐藏 大纲"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.edit-mind-map",
+      "title": {
+        "en": "Edit Mind Map",
+        "zh-Hans": "编辑思维导图"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.edit-mind-map.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.3c66e8bd7f",
+          "title": {
+            "en": "Delete Single Node",
+            "zh-Hans": "删除 Single 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.e9d3f87751",
+          "title": {
+            "en": "Copy Single Node",
+            "zh-Hans": "复制 Single 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.2ae9046732",
+          "title": {
+            "en": "Copy Style",
+            "zh-Hans": "复制 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.3b10406511",
+          "title": {
+            "en": "Paste Style",
+            "zh-Hans": "粘贴 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.4bd14c6aaa",
+          "title": {
+            "en": "Paste and Preserve Style",
+            "zh-Hans": "Paste and Preserve Style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.21e35a10af",
+          "title": {
+            "en": "Duplicate Single Node",
+            "zh-Hans": "创建副本 Single 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-mind-map.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.edit-outline",
+      "title": {
+        "en": "Edit Outline",
+        "zh-Hans": "编辑大纲"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.edit-outline.f3192f4c32",
+          "title": {
+            "en": "Add New Sibling Node",
+            "zh-Hans": "添加New Sibling 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.147919b4d7",
+          "title": {
+            "en": "Delete Node",
+            "zh-Hans": "删除 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.cd7a8b30c8",
+          "title": {
+            "en": "Fold Node",
+            "zh-Hans": "Fold 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.a8f87689e6",
+          "title": {
+            "en": "Unfold Node",
+            "zh-Hans": "Unfold 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.d75ac2fb2d",
+          "title": {
+            "en": "Indent Node",
+            "zh-Hans": "Indent 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.fd306a9c92",
+          "title": {
+            "en": "Outdent Node",
+            "zh-Hans": "Outdent 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.8b1b981727",
+          "title": {
+            "en": "Navigate Up and Down",
+            "zh-Hans": "Navigate Up and Down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.83591cf1c1",
+          "title": {
+            "en": "Expand Selection Up",
+            "zh-Hans": "展开Selection 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.75379f2dda",
+          "title": {
+            "en": "Expand Selection Down",
+            "zh-Hans": "展开Selection 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.5e6145a6db",
+          "title": {
+            "en": "Move Selection Up",
+            "zh-Hans": "移动Selection 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.mindnode.edit-outline.adf18e87f6",
+          "title": {
+            "en": "Move Selection Down",
+            "zh-Hans": "移动Selection 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.text-editing",
+      "title": {
+        "en": "Text Editing",
+        "zh-Hans": "文本编辑"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.text-editing.31756a461e",
+          "title": {
+            "en": "Enter Text Editing",
+            "zh-Hans": "Enter 文本 Editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 52,
+            "carbonModifiers": 256,
+            "displayKey": "52"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-editing.b2135078cc",
+          "title": {
+            "en": "Exit Text Editing",
+            "zh-Hans": "Exit 文本 Editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-editing.e383303f51",
+          "title": {
+            "en": "Delete Node",
+            "zh-Hans": "删除 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-editing.5d114c9342",
+          "title": {
+            "en": "At the beginning of a Node Merges the Node with the one Above",
+            "zh-Hans": "At the beginning of a Node Merges the Node with the one Above"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-editing.8393ad143b",
+          "title": {
+            "en": "Split Node",
+            "zh-Hans": "Split 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 512,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.text-formating",
+      "title": {
+        "en": "Text Formating",
+        "zh-Hans": "文本格式化"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.text-formating.ae832fb476",
+          "title": {
+            "en": "Toggle Bold",
+            "zh-Hans": "Toggle 加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.a3fb987da9",
+          "title": {
+            "en": "Toggle Italic",
+            "zh-Hans": "Toggle 斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.4d4f99211d",
+          "title": {
+            "en": "Toggle Underline",
+            "zh-Hans": "Toggle 下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.f5aa6ecdd3",
+          "title": {
+            "en": "Toggle Strikethrough",
+            "zh-Hans": "切换Strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.6c571fe848",
+          "title": {
+            "en": "Increase Font Size",
+            "zh-Hans": "Increase 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2304,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.247b7189e3",
+          "title": {
+            "en": "Decrease Font Size",
+            "zh-Hans": "Decrease 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 2304,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.ec1c15ce8b",
+          "title": {
+            "en": "Show Colors",
+            "zh-Hans": "显示 Colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.5957516809",
+          "title": {
+            "en": "Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.f59e293373",
+          "title": {
+            "en": "Align Centered",
+            "zh-Hans": "对齐 Centered"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.f48020f1ce",
+          "title": {
+            "en": "Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.mindnode.text-formating.9185e7ca81",
+          "title": {
+            "en": "Emoji ",
+            "zh-Hans": "Emoji "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4352,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mindnode.document",
+      "title": {
+        "en": "Document",
+        "zh-Hans": "文档"
+      },
+      "items": [
+        {
+          "id": "remote.mindnode.document.d277ebff34",
+          "title": {
+            "en": "Show Toolbar",
+            "zh-Hans": "显示 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.52f0ae4752",
+          "title": {
+            "en": "Show Spelling ",
+            "zh-Hans": "显示 Spelling "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.f88cc72337",
+          "title": {
+            "en": "Check Document Now",
+            "zh-Hans": "Check 文档 Now"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.ac27e23f63",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.946a0c7221",
+          "title": {
+            "en": "New",
+            "zh-Hans": "新建"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.faf81553ec",
+          "title": {
+            "en": "Open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.8b62a9c62e",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.c7b0e2a4c3",
+          "title": {
+            "en": "Close All Documents",
+            "zh-Hans": "关闭 全部 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.bb85a56934",
+          "title": {
+            "en": "Enter/ Leave Full Screen",
+            "zh-Hans": "Enter/ Leave 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.a73346595e",
+          "title": {
+            "en": "Minimize",
+            "zh-Hans": "最小化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.f8d0d874f2",
+          "title": {
+            "en": "Minimize All",
+            "zh-Hans": "最小化 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.f7ac168b94",
+          "title": {
+            "en": "Hide App",
+            "zh-Hans": "隐藏 App"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.939804c041",
+          "title": {
+            "en": "Hide Other Apps",
+            "zh-Hans": "隐藏 Other Apps"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.1a821c1e6a",
+          "title": {
+            "en": "Save As…",
+            "zh-Hans": "存储 As…"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.b053793fbd",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.000cca6f33",
+          "title": {
+            "en": "Quit App",
+            "zh-Hans": "退出 App"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.9a65e3f921",
+          "title": {
+            "en": "Quit and Keep Windows",
+            "zh-Hans": "Quit and Keep Windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2304,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.2ac4095c60",
+          "title": {
+            "en": "Page Setup…",
+            "zh-Hans": "页面 Setup…"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.546410b4a8",
+          "title": {
+            "en": "Show Previous Tab",
+            "zh-Hans": "显示 上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.cd60b9b641",
+          "title": {
+            "en": "Show Next Tab",
+            "zh-Hans": "显示 下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.9aaa8e1c82",
+          "title": {
+            "en": "Show All Tabs",
+            "zh-Hans": "显示 全部 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.bc0538e3b3",
+          "title": {
+            "en": "Open User Guide",
+            "zh-Hans": "打开 User 参考线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.533fae51f6",
+          "title": {
+            "en": "Get Support",
+            "zh-Hans": "Get Support"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 4096,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.mindnode.document.83cde6420a",
+          "title": {
+            "en": "Preferences…",
+            "zh-Hans": "偏好设置…"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "bundleIdentifier": "io.overflow.mac.app",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.overflow.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.overflow.general.be45cc0cb6",
+          "title": {
+            "en": "Drag Canvas",
+            "zh-Hans": "Drag 画布"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.overflow.general.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.overflow.general.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.overflow.general.f83a998992",
+          "title": {
+            "en": "Scale to 100%",
+            "zh-Hans": "Scale to 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.overflow.general.6a3540fd8a",
+          "title": {
+            "en": "Fit to screen",
+            "zh-Hans": "Fit to screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.overflow.general.de5b4cb0d7",
+          "title": {
+            "en": "Fit to selection",
+            "zh-Hans": "Fit to selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.overflow.general.59584c79e9",
+          "title": {
+            "en": "Next Board",
+            "zh-Hans": "下一个 Board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.overflow.general.70c3227579",
+          "title": {
+            "en": "Previous Board",
+            "zh-Hans": "上一个 Board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.overflow.general.f545ff752d",
+          "title": {
+            "en": "Toggle Navigator",
+            "zh-Hans": "切换Navigator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.overflow.general.cd21a2881b",
+          "title": {
+            "en": "Toggle keyboard shortcuts",
+            "zh-Hans": "切换keyboard shortcuts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.overflow.general.8d87cb1f00",
+          "title": {
+            "en": "Toggle interface",
+            "zh-Hans": "切换interface"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.overflow.general.394da364a4",
+          "title": {
+            "en": "Show/hide Connectors",
+            "zh-Hans": "显示/隐藏 Connectors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.overflow.general.2694875a2b",
+          "title": {
+            "en": "Share Presentation",
+            "zh-Hans": "Share Presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.overflow.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.overflow.editor.9028482161",
+          "title": {
+            "en": "Delete selection",
+            "zh-Hans": "删除 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.e6f8a69e40",
+          "title": {
+            "en": "Delete selection",
+            "zh-Hans": "删除 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.99d1b19f11",
+          "title": {
+            "en": "Toggle Mask",
+            "zh-Hans": "切换Mask"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.a54855438d",
+          "title": {
+            "en": "Nudge Element by 1 pixel",
+            "zh-Hans": "Nudge Element by 1 pixel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.24797c43b8",
+          "title": {
+            "en": "Nudge Element by 1 pixel",
+            "zh-Hans": "Nudge Element by 1 pixel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.98e48b4152",
+          "title": {
+            "en": "Nudge Element by 1 pixel",
+            "zh-Hans": "Nudge Element by 1 pixel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.8fa92cc52d",
+          "title": {
+            "en": "Nudge Element by 1 pixel",
+            "zh-Hans": "Nudge Element by 1 pixel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.4ad59f5394",
+          "title": {
+            "en": "Nudge Element by 10 pixels",
+            "zh-Hans": "Nudge Element by 10 pixels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.20ed957fa9",
+          "title": {
+            "en": "Nudge Element by 10 pixels",
+            "zh-Hans": "Nudge Element by 10 pixels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.637006f233",
+          "title": {
+            "en": "Nudge Element by 10 pixels",
+            "zh-Hans": "Nudge Element by 10 pixels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.53b76bc4ed",
+          "title": {
+            "en": "Nudge Element by 10 pixels",
+            "zh-Hans": "Nudge Element by 10 pixels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.f94c1c9e0f",
+          "title": {
+            "en": "Increase spacing",
+            "zh-Hans": "Increase 间距"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.20545edb77",
+          "title": {
+            "en": "Decrease spacing",
+            "zh-Hans": "Decrease 间距"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.da5895c5c1",
+          "title": {
+            "en": "Toggle Grid",
+            "zh-Hans": "切换Grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.4dd3d2cc43",
+          "title": {
+            "en": "Create new connector from nearest Magnet",
+            "zh-Hans": "Create new connector from nearest Magnet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.79f6aa2ccf",
+          "title": {
+            "en": "Select all Screens",
+            "zh-Hans": "全选 Screens"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.daadb81147",
+          "title": {
+            "en": "Select all Shapes",
+            "zh-Hans": "全选 Shapes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.eb869bd5d6",
+          "title": {
+            "en": "Select all Images",
+            "zh-Hans": "全选 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.0d36e1eabc",
+          "title": {
+            "en": "Select all Connectors",
+            "zh-Hans": "全选 Connectors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.e45c42b44a",
+          "title": {
+            "en": "Create Rectangle",
+            "zh-Hans": "Create Rectangle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.9cc2d5ed6f",
+          "title": {
+            "en": "Create Diamond",
+            "zh-Hans": "Create Diamond"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.696adf4599",
+          "title": {
+            "en": "Create Oval",
+            "zh-Hans": "Create Oval"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.e9bfe0a142",
+          "title": {
+            "en": "Create Text",
+            "zh-Hans": "Create 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.87e5e6f9e4",
+          "title": {
+            "en": "Insert Image",
+            "zh-Hans": "插入 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.bf36442f27",
+          "title": {
+            "en": "New Board",
+            "zh-Hans": "新建Board"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.4ca65f49d0",
+          "title": {
+            "en": "Embolden text",
+            "zh-Hans": "Embolden 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.93bd4548b9",
+          "title": {
+            "en": "Underline text",
+            "zh-Hans": "下划线 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.7916c97e39",
+          "title": {
+            "en": "Italicize text",
+            "zh-Hans": "Italicize 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.overflow.editor.71133d6b8d",
+          "title": {
+            "en": "Present",
+            "zh-Hans": "Present"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.overflow.player",
+      "title": {
+        "en": "Player",
+        "zh-Hans": "播放器"
+      },
+      "items": [
+        {
+          "id": "remote.overflow.player.18e44fbd70",
+          "title": {
+            "en": "Back to Editor",
+            "zh-Hans": "Back to Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.overflow.player.576cb3cad7",
+          "title": {
+            "en": "Go to previous visited Element",
+            "zh-Hans": "转到previous visited 元素"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.overflow.player.a309bc75f1",
+          "title": {
+            "en": "Go to self",
+            "zh-Hans": "转到self"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.overflow.player.94c3a856db",
+          "title": {
+            "en": "Go to first",
+            "zh-Hans": "转到first"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.overflow.player.3058137701",
+          "title": {
+            "en": "Toggle flight animation",
+            "zh-Hans": "切换flight 动画"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.overflow.player.4211792a5c",
+          "title": {
+            "en": "Transition to nearest Element",
+            "zh-Hans": "Transition to nearest Element"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.overflow.player.b1e5a0d519",
+          "title": {
+            "en": "Transition to nearest Element",
+            "zh-Hans": "Transition to nearest Element"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.overflow.player.01b26d0e71",
+          "title": {
+            "en": "Transition to nearest Element",
+            "zh-Hans": "Transition to nearest Element"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.overflow.player.54c818b668",
+          "title": {
+            "en": "Transition to nearest Element",
+            "zh-Hans": "Transition to nearest Element"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.overflow.player.b82f9ab03a",
+          "title": {
+            "en": "Enter/Exit Rapid prototype",
+            "zh-Hans": "Enter/Exit Rapid prototype"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.overflow.player.1c127036ec",
+          "title": {
+            "en": "Highlight interaction areas",
+            "zh-Hans": "Highlight 交互 areas"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.overflow.rapid-prototype",
+      "title": {
+        "en": "Rapid prototype",
+        "zh-Hans": "快速原型"
+      },
+      "items": [
+        {
+          "id": "remote.overflow.rapid-prototype.90c7114fb4",
+          "title": {
+            "en": "Back to Presentation",
+            "zh-Hans": "Back to Presentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.overflow.rapid-prototype.14ecd02446",
+          "title": {
+            "en": "Exit Rapid prototype",
+            "zh-Hans": "Exit Rapid 原型"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.overflow.rapid-prototype.6519dc7c43",
+          "title": {
+            "en": "Previous screen",
+            "zh-Hans": "上一个 screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.overflow.rapid-prototype.2e2ddad4e3",
+          "title": {
+            "en": "Next screen",
+            "zh-Hans": "下一个 screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.overflow.rapid-prototype.1c127036ec",
+          "title": {
+            "en": "Highlight interaction areas",
+            "zh-Hans": "Highlight 交互 areas"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        }
+      ]
+    }
+  ]
+}

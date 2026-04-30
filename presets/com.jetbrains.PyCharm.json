@@ -1,0 +1,2424 @@
+{
+  "bundleIdentifier": "com.jetbrains.PyCharm",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.pycharm.refactoring",
+      "title": {
+        "en": "Refactoring",
+        "zh-Hans": "重构"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.refactoring.7f54b87a47",
+          "title": {
+            "en": "Inline",
+            "zh-Hans": "Inline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.b33d527cae",
+          "title": {
+            "en": "Introduce Parameter",
+            "zh-Hans": "Introduce Parameter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.1a44a0104a",
+          "title": {
+            "en": "Introduce Constant",
+            "zh-Hans": "Introduce Constant"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.ee5c02a589",
+          "title": {
+            "en": "Introduce Field",
+            "zh-Hans": "Introduce Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.921360ec53",
+          "title": {
+            "en": "Introduce Variable",
+            "zh-Hans": "Introduce 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.5de98fb942",
+          "title": {
+            "en": "Extract Method",
+            "zh-Hans": "Extract 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.8a58b63810",
+          "title": {
+            "en": "Safe Delete",
+            "zh-Hans": "Safe 删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.cfc647eb63",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.1a2fcd6c38",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.25efa3afcb",
+          "title": {
+            "en": "Change Method Signature",
+            "zh-Hans": "Change 方法 Signature"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.pycharm.refactoring.caf60fc1ab",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.navigation-in-source-code",
+      "title": {
+        "en": "Navigation In Source Code",
+        "zh-Hans": "源代码导航"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.navigation-in-source-code.874789fcc0",
+          "title": {
+            "en": "Navigate to Previous Highlighted Error",
+            "zh-Hans": "导航到Previous Highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.f96583b3ba",
+          "title": {
+            "en": "Navigate to Next Highlighted Error",
+            "zh-Hans": "导航到Next Highlighted 错误"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.df17fdd142",
+          "title": {
+            "en": "Last Edit Location",
+            "zh-Hans": "最后一个 编辑 Location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 768,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.b7b7cb52c7",
+          "title": {
+            "en": "Navigate to Next Occurrence",
+            "zh-Hans": "导航到Next Occurrence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.4d65220307",
+          "title": {
+            "en": "Navigate to Previous Occurrence",
+            "zh-Hans": "导航到Previous Occurrence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.f815d08615",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.aa9816892f",
+          "title": {
+            "en": "Back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.fe85d3e25f",
+          "title": {
+            "en": "Navigate to Closing Brace",
+            "zh-Hans": "导航到Closing Brace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.361abf4feb",
+          "title": {
+            "en": "Navigate to Opening Brace",
+            "zh-Hans": "导航到Opening Brace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.352ca8b33a",
+          "title": {
+            "en": "Navigate to Previous Method",
+            "zh-Hans": "导航到Previous 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.e390ec0eae",
+          "title": {
+            "en": "Navigate to Next Method",
+            "zh-Hans": "导航到Next 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4096,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.c374e5439f",
+          "title": {
+            "en": "Go to Header/Source",
+            "zh-Hans": "转到Header/源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.308444f720",
+          "title": {
+            "en": "Navigate to Related Symbol",
+            "zh-Hans": "导航到Related 符号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.bc6613dd67",
+          "title": {
+            "en": "Navigate to Test/Test Subject",
+            "zh-Hans": "Navigate to Test/Test Subject"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.caf2ecb3bc",
+          "title": {
+            "en": "Navigate to Super Method",
+            "zh-Hans": "导航到Super 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.552afd2798",
+          "title": {
+            "en": "Navigate to Type Declaration",
+            "zh-Hans": "导航到Type Declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.17d7f43e93",
+          "title": {
+            "en": "Navigate to Implementation",
+            "zh-Hans": "导航到Implementation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.e8620c1e24",
+          "title": {
+            "en": "Navigate to Declaration",
+            "zh-Hans": "导航到Declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.fc18ef2e74",
+          "title": {
+            "en": "Navigate to Line",
+            "zh-Hans": "导航到Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.d0b5deab70",
+          "title": {
+            "en": "Navigate to Recently Opened File",
+            "zh-Hans": "导航到Recently Opened 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.5708fdc6e8",
+          "title": {
+            "en": "Navigate to File",
+            "zh-Hans": "导航到File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.8019625904",
+          "title": {
+            "en": "Navigate to Class",
+            "zh-Hans": "导航到Class"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.3f7e5ac6b6",
+          "title": {
+            "en": "Type Hierarchy",
+            "zh-Hans": "Type Hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.136164f916",
+          "title": {
+            "en": "Recent Files",
+            "zh-Hans": "Recent 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.6c36dbde01",
+          "title": {
+            "en": "Select target",
+            "zh-Hans": "选择target"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 2048,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-in-source-code.96e1e9a9d6",
+          "title": {
+            "en": "File Structure Popup",
+            "zh-Hans": "文件 Structure Popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.differences",
+      "title": {
+        "en": "Differences",
+        "zh-Hans": "差异对比"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.differences.4d556383b8",
+          "title": {
+            "en": "Move to Previous Difference",
+            "zh-Hans": "Move to Previous Difference"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.pycharm.differences.31dfb8abc9",
+          "title": {
+            "en": "Move to Next Difference",
+            "zh-Hans": "Move to Next Difference"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.show-tool-windows",
+      "title": {
+        "en": "Show Tool Windows",
+        "zh-Hans": "显示 Tool Windows"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.show-tool-windows.017cd61c6b",
+          "title": {
+            "en": "Show Terminal window",
+            "zh-Hans": "显示 终端 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 2048,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.ea20abec92",
+          "title": {
+            "en": "Show Commit window",
+            "zh-Hans": "显示 提交 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.a9400ff1e5",
+          "title": {
+            "en": "Show Version Control window",
+            "zh-Hans": "显示 Version Control 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.56fa17d8b0",
+          "title": {
+            "en": "Show Services window",
+            "zh-Hans": "显示 Services 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.d92753f593",
+          "title": {
+            "en": "Show Structure window",
+            "zh-Hans": "显示 Structure 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.5f9da55c88",
+          "title": {
+            "en": "Show Problems window",
+            "zh-Hans": "显示 Problems 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.fda934281d",
+          "title": {
+            "en": "Show Debug window",
+            "zh-Hans": "显示 调试 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.a63ed298a0",
+          "title": {
+            "en": "Show Run window",
+            "zh-Hans": "显示 Run 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.4cfc045a93",
+          "title": {
+            "en": "Show Find window",
+            "zh-Hans": "显示 查找 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.52a0c8a87a",
+          "title": {
+            "en": "Show Favorites window",
+            "zh-Hans": "显示 Favorites 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.pycharm.show-tool-windows.5983033075",
+          "title": {
+            "en": "Show Project window",
+            "zh-Hans": "显示 项目 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.views-and-windows",
+      "title": {
+        "en": "Views and Windows",
+        "zh-Hans": "视图与窗口"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.views-and-windows.2ccc71bc2c",
+          "title": {
+            "en": "Hide all tool windows",
+            "zh-Hans": "隐藏 全部 tool windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 768,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.pycharm.views-and-windows.37b7a15f18",
+          "title": {
+            "en": "Jump to Last Window",
+            "zh-Hans": "跳转到Last 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.pycharm.views-and-windows.bf3f37e96e",
+          "title": {
+            "en": "Hide Active Window",
+            "zh-Hans": "隐藏 活动 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.pycharm.views-and-windows.84fb0686f2",
+          "title": {
+            "en": "Switcher",
+            "zh-Hans": "Switcher"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.pycharm.views-and-windows.f1323fd94b",
+          "title": {
+            "en": "Expand all",
+            "zh-Hans": "展开all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.views-and-windows.777f859e7d",
+          "title": {
+            "en": "Collapse all",
+            "zh-Hans": "折叠all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.views-and-windows.fffdb45406",
+          "title": {
+            "en": "Select Target",
+            "zh-Hans": "选择Target"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 2048,
+            "displayKey": "F1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.navigation-between-bookmarks",
+      "title": {
+        "en": "Navigation Between Bookmarks",
+        "zh-Hans": "书签间导航"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.navigation-between-bookmarks.876b924b77",
+          "title": {
+            "en": "Show Bookmarks",
+            "zh-Hans": "显示 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 256,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-between-bookmarks.6a39b8b093",
+          "title": {
+            "en": "Toggle Bookmark with Mnemonic",
+            "zh-Hans": "Toggle Bookmark with Mnemonic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 2048,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-between-bookmarks.5d3cf3834c",
+          "title": {
+            "en": "Toggle Bookmark",
+            "zh-Hans": "切换Bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.pycharm.navigation-between-bookmarks.5a3dba408a",
+          "title": {
+            "en": "Go to Bookmark <number>",
+            "zh-Hans": "转到Bookmark <number>"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.search",
+      "title": {
+        "en": "Search",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.search.eb76dc0b06",
+          "title": {
+            "en": "Find Action",
+            "zh-Hans": "查找 Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.9ae1ab857c",
+          "title": {
+            "en": "Show Usages",
+            "zh-Hans": "显示 Usages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2304,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.612678d0c5",
+          "title": {
+            "en": "Highlight Usages in File",
+            "zh-Hans": "Highlight Usages in File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 768,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.24f448fa4b",
+          "title": {
+            "en": "Find Usages in File",
+            "zh-Hans": "Find Usages in File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 256,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.22ec69302f",
+          "title": {
+            "en": "Find Usages",
+            "zh-Hans": "查找 Usages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2048,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.db9f5efd25",
+          "title": {
+            "en": "Replace in Path",
+            "zh-Hans": "Replace in Path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.f3971cf25f",
+          "title": {
+            "en": "Find in Path",
+            "zh-Hans": "Find in Path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.c9af251b2a",
+          "title": {
+            "en": "Incremental Search",
+            "zh-Hans": "Incremental 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.4c1c125ed1",
+          "title": {
+            "en": "Search for next/previous occurrence",
+            "zh-Hans": "Search for next/previous occurrence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.98bc8cfea2",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.pycharm.search.ded68f228b",
+          "title": {
+            "en": "Search everywhere",
+            "zh-Hans": "搜索 everywhere"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.general.0b8bfa5f46",
+          "title": {
+            "en": "View Source",
+            "zh-Hans": "视图 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.52e4b9090f",
+          "title": {
+            "en": "Reload All from Disk",
+            "zh-Hans": "Reload All from Disk"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.801547f7c9",
+          "title": {
+            "en": "Show Intention Action",
+            "zh-Hans": "显示 Intention Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.0416b4f17c",
+          "title": {
+            "en": "Select Previous Tab",
+            "zh-Hans": "选择Previous 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.pycharm.general.aab18cd5ba",
+          "title": {
+            "en": "Select Next Tab",
+            "zh-Hans": "选择Next 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.8d66ec67e7",
+          "title": {
+            "en": "Save All",
+            "zh-Hans": "存储 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.70ede19536",
+          "title": {
+            "en": "New...",
+            "zh-Hans": "New..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.daef117278",
+          "title": {
+            "en": "Export to Text File",
+            "zh-Hans": "Export to Text File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.eb1c2d995a",
+          "title": {
+            "en": "Escape",
+            "zh-Hans": "Escape"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.81b0b332f6",
+          "title": {
+            "en": "Edit Source",
+            "zh-Hans": "编辑 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.db3b9c7911",
+          "title": {
+            "en": "Close Editor",
+            "zh-Hans": "关闭 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.pycharm.general.94e0f1c757",
+          "title": {
+            "en": "Close Active Tab",
+            "zh-Hans": "关闭 活动 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 4608,
+            "displayKey": "F4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.running-and-debugging",
+      "title": {
+        "en": "Running and Debugging",
+        "zh-Hans": "运行与调试"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.running-and-debugging.b07e8939c3",
+          "title": {
+            "en": "View Breakpoints",
+            "zh-Hans": "视图 Breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 768,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.af570d7441",
+          "title": {
+            "en": "Toggle breakpoint at the current line.",
+            "zh-Hans": "Toggle breakpoint at the current line."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.05ee043210",
+          "title": {
+            "en": "Quick Evaluate Expression",
+            "zh-Hans": "Quick Evaluate Expression"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2304,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.fd5c03a90e",
+          "title": {
+            "en": "Evaluate Expression",
+            "zh-Hans": "Evaluate Expression"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2048,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.288a8ff392",
+          "title": {
+            "en": "Stop Program",
+            "zh-Hans": "Stop Program"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.e9dfcb9456",
+          "title": {
+            "en": "Pause Program",
+            "zh-Hans": "Pause Program"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.87cb1d512c",
+          "title": {
+            "en": "Resume Program",
+            "zh-Hans": "Resume Program"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.e931e32bba",
+          "title": {
+            "en": "Force Run To Cursor",
+            "zh-Hans": "Force Run To Cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2304,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.7f8d6347e5",
+          "title": {
+            "en": "Run to Cursor",
+            "zh-Hans": "Run to Cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2048,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.45d3072ed2",
+          "title": {
+            "en": "Force Step Into",
+            "zh-Hans": "Force Step Into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2560,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.7a21e2a1e8",
+          "title": {
+            "en": "Step Into My Code",
+            "zh-Hans": "Step Into My Code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2560,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.93aee524fb",
+          "title": {
+            "en": "Force Step Over",
+            "zh-Hans": "Force Step Over"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2560,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.87655abe7b",
+          "title": {
+            "en": "Step Out",
+            "zh-Hans": "Step Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.eeada36bc1",
+          "title": {
+            "en": "Smart Step Into",
+            "zh-Hans": "Smart Step Into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.d0b12895eb",
+          "title": {
+            "en": "Step Into",
+            "zh-Hans": "Step Into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.d8c311358f",
+          "title": {
+            "en": "Step Over",
+            "zh-Hans": "Step Over"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.e4511db21e",
+          "title": {
+            "en": "Show Execution Point",
+            "zh-Hans": "显示 Execution Point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 2048,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.25944c2b33",
+          "title": {
+            "en": "Choose configuration and debug",
+            "zh-Hans": "Choose configuration and debug"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 6144,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.25505811bd",
+          "title": {
+            "en": "Debug",
+            "zh-Hans": "调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.57d3559b73",
+          "title": {
+            "en": "Rerun without loosing focus in the editor",
+            "zh-Hans": "Rerun without loosing focus in the editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.8ae30fbd11",
+          "title": {
+            "en": "Rerun",
+            "zh-Hans": "Rerun"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.6d335dbf8b",
+          "title": {
+            "en": "Choose configuration and run",
+            "zh-Hans": "Choose configuration and run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6144,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.pycharm.running-and-debugging.323392fd84",
+          "title": {
+            "en": "Run",
+            "zh-Hans": "Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.code-folding",
+      "title": {
+        "en": "Code Folding",
+        "zh-Hans": "代码折叠"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.code-folding.8adf88d506",
+          "title": {
+            "en": "Fold Selection / Remove region",
+            "zh-Hans": "Fold 选择 / Remove 区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.pycharm.code-folding.10c734e2da",
+          "title": {
+            "en": "Expand all to level 1",
+            "zh-Hans": "Expand all to level 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.code-folding.c567092f11",
+          "title": {
+            "en": "Expand to level 1",
+            "zh-Hans": "展开to level 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.code-folding.6d0fc91462",
+          "title": {
+            "en": "Collapse All",
+            "zh-Hans": "折叠All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.code-folding.1b49b22d59",
+          "title": {
+            "en": "Expand All",
+            "zh-Hans": "展开All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.code-folding.d89951cd46",
+          "title": {
+            "en": "Collapse Recursively",
+            "zh-Hans": "折叠Recursively"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.code-folding.34f0d53bcf",
+          "title": {
+            "en": "Expand Recursively",
+            "zh-Hans": "展开Recursively"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.code-folding.3d240e6b80",
+          "title": {
+            "en": "Collapse",
+            "zh-Hans": "Collapse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.pycharm.code-folding.c5992fbe72",
+          "title": {
+            "en": "Expand",
+            "zh-Hans": "扩展"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.basic-editing",
+      "title": {
+        "en": "Basic Editing",
+        "zh-Hans": "基础编辑"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.basic-editing.d761b6f414",
+          "title": {
+            "en": "Auto-Indent Lines",
+            "zh-Hans": "Auto-Indent Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.b9a41068e1",
+          "title": {
+            "en": "Unindent Selection",
+            "zh-Hans": "Unindent 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.1047cf7f06",
+          "title": {
+            "en": "Indent Selection",
+            "zh-Hans": "Indent 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.3fa9388bca",
+          "title": {
+            "en": "Unselect Word at Caret",
+            "zh-Hans": "Unselect Word at Caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.38355ceb79",
+          "title": {
+            "en": "Select Word at Caret",
+            "zh-Hans": "Select Word at Caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.a935064b92",
+          "title": {
+            "en": "Split Line",
+            "zh-Hans": "Split 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.068e4d88f5",
+          "title": {
+            "en": "Join Lines",
+            "zh-Hans": "Join Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4608,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.a72f95ce54",
+          "title": {
+            "en": "Start New Line Before Current One",
+            "zh-Hans": "Start New Line Before Current One"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2304,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.93e9743e13",
+          "title": {
+            "en": "Start New Line",
+            "zh-Hans": "开始 New 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.ac6b6a79a4",
+          "title": {
+            "en": "Move to Code Block Start with Selection",
+            "zh-Hans": "Move to Code Block Start with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2816,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.0f9bd26dbf",
+          "title": {
+            "en": "Move to Code Block Start",
+            "zh-Hans": "Move to Code Block Start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.8801bf487f",
+          "title": {
+            "en": "Move to Code Block End with Selection",
+            "zh-Hans": "Move to Code Block End with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2816,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.bead1453f5",
+          "title": {
+            "en": "Move to Code Block End",
+            "zh-Hans": "Move to Code Block End"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.9f4e23d3fd",
+          "title": {
+            "en": "Toggle Case",
+            "zh-Hans": "切换Case"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.165c8c3f50",
+          "title": {
+            "en": "Duplicate Line or Block",
+            "zh-Hans": "Duplicate Line or Block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.d16223d557",
+          "title": {
+            "en": "Toggle Insert/Overwrite",
+            "zh-Hans": "Toggle 插入/Overwrite"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 512,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.98c6af2a05",
+          "title": {
+            "en": "Delete to Word Start",
+            "zh-Hans": "Delete to Word Start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 2048,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.53f1a96b46",
+          "title": {
+            "en": "Delete to Word End",
+            "zh-Hans": "Delete to Word End"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.0d6f57fb33",
+          "title": {
+            "en": "Delete Line at Caret",
+            "zh-Hans": "Delete Line at Caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.17d67b40b2",
+          "title": {
+            "en": "Move to Text Start with Selection.",
+            "zh-Hans": "Move to Text Start with Selection."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 768,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.d012f8e7e9",
+          "title": {
+            "en": "Move to Text Start",
+            "zh-Hans": "移动to 文本 开始"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.638ee7f2e6",
+          "title": {
+            "en": "Move to Text End with Selection",
+            "zh-Hans": "Move to Text End with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 768,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.df2eb6bd8f",
+          "title": {
+            "en": "Move to Text End",
+            "zh-Hans": "移动to 文本 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 256,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.a39726d77d",
+          "title": {
+            "en": "Move to Previous Word with Selection",
+            "zh-Hans": "Move to Previous Word with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2560,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.c372644274",
+          "title": {
+            "en": "Move to Previous Word",
+            "zh-Hans": "移动to 上一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.139991a126",
+          "title": {
+            "en": "Move to Next Word with Selection",
+            "zh-Hans": "Move to Next Word with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.20f796706f",
+          "title": {
+            "en": "Move to Next Word",
+            "zh-Hans": "移动to 下一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.c5ce369766",
+          "title": {
+            "en": "Move to Line Start with Selection",
+            "zh-Hans": "Move to Line Start with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.ef2ee3d299",
+          "title": {
+            "en": "Move to Line Start",
+            "zh-Hans": "移动to 行 开始"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.1e27231812",
+          "title": {
+            "en": "Move to Line End with Selection",
+            "zh-Hans": "Move to Line End with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 512,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.9b453fdbb2",
+          "title": {
+            "en": "Move to Line End",
+            "zh-Hans": "移动to 行 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.f8c486206c",
+          "title": {
+            "en": "Page Up with Selection",
+            "zh-Hans": "Page Up with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 512,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.12d799ede2",
+          "title": {
+            "en": "Page Up",
+            "zh-Hans": "页面 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.acf7eb49cb",
+          "title": {
+            "en": "Page Down with Selection",
+            "zh-Hans": "Page Down with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 512,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.1e98d56936",
+          "title": {
+            "en": "Page Down",
+            "zh-Hans": "页面 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.2be72a61b0",
+          "title": {
+            "en": "Go to Page Top with Selection",
+            "zh-Hans": "Go to Page Top with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 768,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.c6f33591af",
+          "title": {
+            "en": "Go to Page Top",
+            "zh-Hans": "转到Page 顶部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 256,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.58d963a58f",
+          "title": {
+            "en": "Go to Page Bottom with Selection",
+            "zh-Hans": "Go to Page Bottom with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 768,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.fb24bfd187",
+          "title": {
+            "en": "Go to Page Bottom",
+            "zh-Hans": "转到Page 底部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 256,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.d77696fe35",
+          "title": {
+            "en": "Right with Selection",
+            "zh-Hans": "Right with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.d91b3cbe5d",
+          "title": {
+            "en": "Right",
+            "zh-Hans": "右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.059225dbd4",
+          "title": {
+            "en": "Left with Selection",
+            "zh-Hans": "Left with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.1f51204ce7",
+          "title": {
+            "en": "Left",
+            "zh-Hans": "左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.0f266ab38d",
+          "title": {
+            "en": "Down with Selection",
+            "zh-Hans": "Down with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.762ccc2f9d",
+          "title": {
+            "en": "Down",
+            "zh-Hans": "下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.5bbae50346",
+          "title": {
+            "en": "Up with Selection",
+            "zh-Hans": "Up with Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.4212ab9b2c",
+          "title": {
+            "en": "Up",
+            "zh-Hans": "上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.03ebd3ae42",
+          "title": {
+            "en": "Paste from History",
+            "zh-Hans": "Paste from History"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.f50f740a50",
+          "title": {
+            "en": "Backspace",
+            "zh-Hans": "Backspace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.faf5a5c499",
+          "title": {
+            "en": "Tab",
+            "zh-Hans": "标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.pycharm.basic-editing.a3f5c8fc7b",
+          "title": {
+            "en": "Enter",
+            "zh-Hans": "Enter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.pycharm.advanced-editing",
+      "title": {
+        "en": "Advanced Editing",
+        "zh-Hans": "高级编辑"
+      },
+      "items": [
+        {
+          "id": "remote.pycharm.advanced-editing.664d00731b",
+          "title": {
+            "en": "Previous Template Variable",
+            "zh-Hans": "上一个 模板 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.386f320953",
+          "title": {
+            "en": "Next Template Variable",
+            "zh-Hans": "下一个 模板 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.8cad2cc845",
+          "title": {
+            "en": "Surround with Live Template...",
+            "zh-Hans": "Surround with Live Template..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.7b3389eccc",
+          "title": {
+            "en": "Insert Live Template...",
+            "zh-Hans": "插入 Live 模板..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.cd2905fc27",
+          "title": {
+            "en": "Expand Word",
+            "zh-Hans": "展开Word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 2048,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.ef83a1e7b5",
+          "title": {
+            "en": "SmartType Code Completion",
+            "zh-Hans": "SmartType Code Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4608,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.eb93059641",
+          "title": {
+            "en": "Basic Code Completion",
+            "zh-Hans": "Basic Code Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.077a82eb2a",
+          "title": {
+            "en": "Surround with...",
+            "zh-Hans": "Surround with..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.15b3a22b16",
+          "title": {
+            "en": "Override Methods...",
+            "zh-Hans": "Override Methods..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.664f855ca0",
+          "title": {
+            "en": "External Documentation",
+            "zh-Hans": "External Documentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 512,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.2449901d59",
+          "title": {
+            "en": "Error Description",
+            "zh-Hans": "错误 Description"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 256,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.6bb77a4f9f",
+          "title": {
+            "en": "Context Info",
+            "zh-Hans": "Context Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4608,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.6f99f656c1",
+          "title": {
+            "en": "Parameter Info",
+            "zh-Hans": "Parameter Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.71bfa8c075",
+          "title": {
+            "en": "Pop-up Hector",
+            "zh-Hans": "Pop-上 Hector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2816,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.84ee7ea55d",
+          "title": {
+            "en": "Quick Documentation",
+            "zh-Hans": "Quick Documentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.ac307833ba",
+          "title": {
+            "en": "Comment with Block Comment",
+            "zh-Hans": "Comment with Block Comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 2304,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.pycharm.advanced-editing.f00df6cf58",
+          "title": {
+            "en": "Comment with Line Comment",
+            "zh-Hans": "Comment with Line Comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1212 @@
+{
+  "bundleIdentifier": "com.lostmarble.moho",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.moho.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.moho.general-shortcuts.c5351924f2",
+          "title": {
+            "en": "Last tool used",
+            "zh-Hans": "最后一个 tool used"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 512,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.7202f5492d",
+          "title": {
+            "en": "Inverse selected",
+            "zh-Hans": "Inverse 所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.ff351690c9",
+          "title": {
+            "en": "Reset view",
+            "zh-Hans": "重置view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.fd05ca0039",
+          "title": {
+            "en": "View all",
+            "zh-Hans": "视图 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.e19c8ce134",
+          "title": {
+            "en": "Zoom",
+            "zh-Hans": "Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 2048,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.7fd8181e5f",
+          "title": {
+            "en": "Deselect",
+            "zh-Hans": "取消选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.b9275f5ce7",
+          "title": {
+            "en": "Weld points/ create shape/ bind",
+            "zh-Hans": "Weld points/ create shape/ bind"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.ae90363dfb",
+          "title": {
+            "en": "Select connected points",
+            "zh-Hans": "选择connected points"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.3015a0a52c",
+          "title": {
+            "en": "Back",
+            "zh-Hans": "后退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.7cf8dea4b8",
+          "title": {
+            "en": "Forward",
+            "zh-Hans": "前进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.ba6fa37154",
+          "title": {
+            "en": "Start",
+            "zh-Hans": "开始"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.3200d58855",
+          "title": {
+            "en": "End",
+            "zh-Hans": "结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.4a021cb1cc",
+          "title": {
+            "en": "Last keyframe",
+            "zh-Hans": "最后一个 关键帧"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.36b696d23f",
+          "title": {
+            "en": "Next keyframe",
+            "zh-Hans": "下一个 关键帧"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.c7a0ce265b",
+          "title": {
+            "en": "Play/stop",
+            "zh-Hans": "Play/stop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.8e968966cf",
+          "title": {
+            "en": "Decrease line width",
+            "zh-Hans": "Decrease 行 width"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.db932d4228",
+          "title": {
+            "en": "Increase line width",
+            "zh-Hans": "Increase 行 width"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.7b7653b9f3",
+          "title": {
+            "en": "New document",
+            "zh-Hans": "新建document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.4637343b5f",
+          "title": {
+            "en": "Preview animation",
+            "zh-Hans": "预览 动画"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.ccdde72242",
+          "title": {
+            "en": "Preview",
+            "zh-Hans": "预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.57a3cb9f16",
+          "title": {
+            "en": "Frame O jump",
+            "zh-Hans": "画框 O jump"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.63b5153070",
+          "title": {
+            "en": "Layer settings",
+            "zh-Hans": "图层 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.6908aac338",
+          "title": {
+            "en": "Refresh media",
+            "zh-Hans": "Refresh 媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.c4add3e2c1",
+          "title": {
+            "en": "Refresh brushes",
+            "zh-Hans": "Refresh brushes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2816,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.e9639e580b",
+          "title": {
+            "en": "Actions (show or hide)",
+            "zh-Hans": "Actions (show or hide)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.258c5f3be5",
+          "title": {
+            "en": "Timeline",
+            "zh-Hans": "时间线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.444a7bdeae",
+          "title": {
+            "en": "Style",
+            "zh-Hans": "样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.moho.general-shortcuts.c58871b0c7",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.moho.fill-tools",
+      "title": {
+        "en": "Fill tools",
+        "zh-Hans": "填充工具"
+      },
+      "items": [
+        {
+          "id": "remote.moho.fill-tools.10ad54fde2",
+          "title": {
+            "en": "Delete selected shape",
+            "zh-Hans": "删除 所选 形状"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.moho.fill-tools.7cf7d92dfb",
+          "title": {
+            "en": "Create shape",
+            "zh-Hans": "Create 形状"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.moho.fill-tools.52dddf81af",
+          "title": {
+            "en": "Move shape",
+            "zh-Hans": "移动shape"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.moho.fill-tools.ba5d24d319",
+          "title": {
+            "en": "Shape order",
+            "zh-Hans": "形状 order"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.moho.bones-shortcuts",
+      "title": {
+        "en": "Bones shortcuts",
+        "zh-Hans": "骨骼快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.moho.bones-shortcuts.2f8ece6a8e",
+          "title": {
+            "en": "Flexi-binding",
+            "zh-Hans": "Flexi-binding"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.moho.bones-shortcuts.ecefa89a88",
+          "title": {
+            "en": "Freeze",
+            "zh-Hans": "Freeze"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.moho.bones-shortcuts.aa2dab5c2a",
+          "title": {
+            "en": "Delete bone",
+            "zh-Hans": "删除 bone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.moho.bones-shortcuts.061f23c06c",
+          "title": {
+            "en": "Blind points",
+            "zh-Hans": "Blind points"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.moho.bones-shortcuts.20ea81b011",
+          "title": {
+            "en": "Select parent",
+            "zh-Hans": "选择parent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.moho.bones-shortcuts.218d3f7cba",
+          "title": {
+            "en": "Select child",
+            "zh-Hans": "选择child"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.moho.view-shortcuts",
+      "title": {
+        "en": "View Shortcuts",
+        "zh-Hans": "视图快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.moho.view-shortcuts.0faada6ced",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 2304,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.f9bfab6330",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2304,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.33e3b22b84",
+          "title": {
+            "en": "Grid",
+            "zh-Hans": "网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.cc7734d3ff",
+          "title": {
+            "en": "Grid settings",
+            "zh-Hans": "网格 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.7bb3e6b1e2",
+          "title": {
+            "en": "Safe zones",
+            "zh-Hans": "Safe zones"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.4a08625712",
+          "title": {
+            "en": "Show output only",
+            "zh-Hans": "显示 输出 only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.41c2e71a37",
+          "title": {
+            "en": "Unselected layers",
+            "zh-Hans": "Unselected 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.ac8738a5d0",
+          "title": {
+            "en": "Enable onion skins",
+            "zh-Hans": "启用onion skins"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.98a499cc9b",
+          "title": {
+            "en": "Tracing image",
+            "zh-Hans": "Tracing 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.4a01887de7",
+          "title": {
+            "en": "Show tracing image",
+            "zh-Hans": "显示 tracing 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.0581388a1a",
+          "title": {
+            "en": "Show curves",
+            "zh-Hans": "显示 curves"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.moho.view-shortcuts.dda671cb34",
+          "title": {
+            "en": "Hide tabs",
+            "zh-Hans": "隐藏 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.moho.graph-shortcuts",
+      "title": {
+        "en": "Graph Shortcuts",
+        "zh-Hans": "Graph快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.moho.graph-shortcuts.d6dd467723",
+          "title": {
+            "en": "Zoom(in/out)",
+            "zh-Hans": "Zoom(in/out)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.moho.graph-shortcuts.9bb9a542d5",
+          "title": {
+            "en": "Scroll(up/down)",
+            "zh-Hans": "Scroll(上/下)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.moho.graph-shortcuts.0cde0fa9f6",
+          "title": {
+            "en": "Zoom(to show all)",
+            "zh-Hans": "Zoom(to show all)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.moho.graph-shortcuts.c776ba089c",
+          "title": {
+            "en": "Zoom",
+            "zh-Hans": "Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.moho.frame-by-frame",
+      "title": {
+        "en": "Frame by Frame",
+        "zh-Hans": "逐帧"
+      },
+      "items": [
+        {
+          "id": "remote.moho.frame-by-frame.edc4277bd5",
+          "title": {
+            "en": "New frame",
+            "zh-Hans": "新建frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.moho.frame-by-frame.8fd3389222",
+          "title": {
+            "en": "Duplicate frame",
+            "zh-Hans": "创建副本 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.moho.frame-by-frame.b344800337",
+          "title": {
+            "en": "Delete frame",
+            "zh-Hans": "删除 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.moho.a-to-z-shortcuts",
+      "title": {
+        "en": "A to Z shortcuts",
+        "zh-Hans": "A-Z 快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.moho.a-to-z-shortcuts.16c1fb1da0",
+          "title": {
+            "en": "Add point or bone",
+            "zh-Hans": "Add point or bone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.bd2adcbcbe",
+          "title": {
+            "en": "Select bone",
+            "zh-Hans": "选择bone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.0596c5370b",
+          "title": {
+            "en": "Curvature/ crop video",
+            "zh-Hans": "Curvature/ crop 视频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.f261853d53",
+          "title": {
+            "en": "Delete edge",
+            "zh-Hans": "删除 edge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.e840e3f6e3",
+          "title": {
+            "en": "Eraser",
+            "zh-Hans": "Eraser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.2453baa184",
+          "title": {
+            "en": "Freehand",
+            "zh-Hans": "Freehand"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.7b27e95e6c",
+          "title": {
+            "en": "Select points (group)",
+            "zh-Hans": "Select points (编组)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.8191422fe0",
+          "title": {
+            "en": "Hide edge",
+            "zh-Hans": "隐藏 edge"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.b5b8357b6d",
+          "title": {
+            "en": "Blind points",
+            "zh-Hans": "Blind points"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.8f702eefda",
+          "title": {
+            "en": "Blob brush",
+            "zh-Hans": "Blob brush"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.7955c17145",
+          "title": {
+            "en": "Colour points",
+            "zh-Hans": "Colour points"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.0f1cb8b481",
+          "title": {
+            "en": "Eyedropper",
+            "zh-Hans": "Eyedropper"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.1725d7b362",
+          "title": {
+            "en": "Transform layer",
+            "zh-Hans": "Transform 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.dfc0d8a757",
+          "title": {
+            "en": "Noise",
+            "zh-Hans": "Noise"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.07b3db7067",
+          "title": {
+            "en": "Set origin",
+            "zh-Hans": "Set origin"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.1d648f56a0",
+          "title": {
+            "en": "Paint bucket/ Reparent bone",
+            "zh-Hans": "Paint bucket/ Reparent bone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.8f63877c23",
+          "title": {
+            "en": "Select shape",
+            "zh-Hans": "选择shape"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.a5b76931df",
+          "title": {
+            "en": "Point reduction",
+            "zh-Hans": "Point reduction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.7641841c0e",
+          "title": {
+            "en": "Draw shape/ bone strength",
+            "zh-Hans": "Draw shape/ bone strength"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.bdba4709a2",
+          "title": {
+            "en": "Transform",
+            "zh-Hans": "变换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.6ce9747716",
+          "title": {
+            "en": "Create shape",
+            "zh-Hans": "Create 形状"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.804fd300ad",
+          "title": {
+            "en": "Line width",
+            "zh-Hans": "行 width"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.ed0757693d",
+          "title": {
+            "en": "Magnet",
+            "zh-Hans": "Magnet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.moho.a-to-z-shortcuts.f17f9b99d8",
+          "title": {
+            "en": "Manipulate bones",
+            "zh-Hans": "Manipulate bones"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.moho.numeric-shortcuts",
+      "title": {
+        "en": "Numeric shortcuts",
+        "zh-Hans": "数字快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.moho.numeric-shortcuts.36b5738ccb",
+          "title": {
+            "en": "Track camera",
+            "zh-Hans": "轨道 camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 0,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.moho.numeric-shortcuts.38eac78ed6",
+          "title": {
+            "en": "Zoom camera",
+            "zh-Hans": "Zoom camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 0,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.moho.numeric-shortcuts.1e29179e6b",
+          "title": {
+            "en": "Roll camera",
+            "zh-Hans": "Roll camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 0,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.moho.numeric-shortcuts.fda8d4f772",
+          "title": {
+            "en": "Pan/ Tilt camera",
+            "zh-Hans": "Pan/ Tilt camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 0,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.moho.numeric-shortcuts.bad6282778",
+          "title": {
+            "en": "Rotate Workspace",
+            "zh-Hans": "Rotate 工作区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 0,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.moho.numeric-shortcuts.2ec7521532",
+          "title": {
+            "en": "Orbit workspace",
+            "zh-Hans": "Orbit 工作区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 0,
+            "displayKey": "9"
+          }
+        }
+      ]
+    }
+  ]
+}

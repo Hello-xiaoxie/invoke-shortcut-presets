@@ -1,0 +1,603 @@
+{
+  "bundleIdentifier": "notion.id",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.notion.most-popular",
+      "title": {
+        "en": "Most popular",
+        "zh-Hans": "最常用"
+      },
+      "items": [
+        {
+          "id": "remote.notion.most-popular.5c22d8d5cb",
+          "title": {
+            "en": "Switch to Dark Mode",
+            "zh-Hans": "切换到Dark 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.notion.most-popular.3c6d1402c3",
+          "title": {
+            "en": "Database peek view: Go to next page",
+            "zh-Hans": "Database peek view: Go to next page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4608,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.notion.most-popular.88d8ae06dc",
+          "title": {
+            "en": "Database peek view: Go to previous page",
+            "zh-Hans": "Database peek view: Go to previous page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4608,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.notion.most-popular.fc4c393654",
+          "title": {
+            "en": "Go forward a page.",
+            "zh-Hans": "Go forward a page."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.notion.most-popular.d7de65e4a3",
+          "title": {
+            "en": "Go back a page.",
+            "zh-Hans": "Go back a 页面."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.notion.most-popular.34758186e0",
+          "title": {
+            "en": "Search or jump to a recently viewed page.",
+            "zh-Hans": "Search or jump to a recently viewed page."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.notion.most-popular.39006c8b0a",
+          "title": {
+            "en": "Open a new Notion window.",
+            "zh-Hans": "Open a new Notion window."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.notion.most-popular.93a468e434",
+          "title": {
+            "en": "Create a new page (desktop apps only).",
+            "zh-Hans": "Create a new page (desktop apps only)."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.notion.edit-move-blocks",
+      "title": {
+        "en": "Edit & move blocks",
+        "zh-Hans": "编辑与移动块"
+      },
+      "items": [
+        {
+          "id": "remote.notion.edit-move-blocks.4ed8cbc56a",
+          "title": {
+            "en": "Modify the current block (open page, check/uncheck to-do, open/close list item, etc.)",
+            "zh-Hans": "Modify the current block (open page, check/uncheck to-do, open/close list item, etc.)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.746b0e5057",
+          "title": {
+            "en": "Apply the last text or highlight color you used",
+            "zh-Hans": "Apply the last text or highlight color you used"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.f1487e1db7",
+          "title": {
+            "en": "Expand or close all toggles in a toggle list",
+            "zh-Hans": "Expand or close all toggles in a toggle list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.72896c6efd",
+          "title": {
+            "en": "Move selected block down",
+            "zh-Hans": "移动selected block 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.0ba35d97be",
+          "title": {
+            "en": "Move selected block up",
+            "zh-Hans": "移动selected block 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.388b156b7e",
+          "title": {
+            "en": "Edit all selected cards at once in board view",
+            "zh-Hans": "Edit all selected cards at once in board view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.6b9610d2d7",
+          "title": {
+            "en": "Edit or change one or more selected blocks via command",
+            "zh-Hans": "Edit or change one or more selected blocks via command"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.b23a77685e",
+          "title": {
+            "en": "Edit any text inside a selected block (or open a page inside a page)",
+            "zh-Hans": "Edit any text inside a selected block (or open a page inside a page)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.a9b825cf26",
+          "title": {
+            "en": "Duplicate selected blocks",
+            "zh-Hans": "创建副本 所选 blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.6c1faa7033",
+          "title": {
+            "en": "Delete selected blocks",
+            "zh-Hans": "删除 所选 blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 0,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.77518210a2",
+          "title": {
+            "en": "Expand selection down",
+            "zh-Hans": "展开selection 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.d95d941d70",
+          "title": {
+            "en": "Expand selection up",
+            "zh-Hans": "展开selection 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.afd7d34c1a",
+          "title": {
+            "en": "Open a selected image in full-screen. Or exit full-screen.",
+            "zh-Hans": "Open a selected image in full-screen. Or exit full-screen."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.4c74fd5ee1",
+          "title": {
+            "en": "Select the block your cursor is in",
+            "zh-Hans": "Select the block your cursor is in"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.6520610b47",
+          "title": {
+            "en": "Select current block or clear selected blocks",
+            "zh-Hans": "Select current block or clear selected blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.notion.edit-move-blocks.175db1ea04",
+          "title": {
+            "en": "Move block or page",
+            "zh-Hans": "Move block or page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.notion.create-style-your-content",
+      "title": {
+        "en": "Create & style your content",
+        "zh-Hans": "创建与样式化内容"
+      },
+      "items": [
+        {
+          "id": "remote.notion.create-style-your-content.cd7e84a50b",
+          "title": {
+            "en": "Go up one level in page hierarchy",
+            "zh-Hans": "Go up one level in page hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.ecbd1dbd60",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 69,
+            "carbonModifiers": 256,
+            "displayKey": "69"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.5189738eac",
+          "title": {
+            "en": "Create a new page or turn whatever you have on a line into a page",
+            "zh-Hans": "Create a new page or turn whatever you have on a line into a page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 2304,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.74c0f8fd93",
+          "title": {
+            "en": "Create a code block",
+            "zh-Hans": "Create a code block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2304,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.6d17e46349",
+          "title": {
+            "en": "Create a toggle list",
+            "zh-Hans": "Create a toggle list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 2304,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.ef28584093",
+          "title": {
+            "en": "Create a numbered list",
+            "zh-Hans": "Create a numbered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2304,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.6f60000446",
+          "title": {
+            "en": "Create a bulleted list",
+            "zh-Hans": "Create a bulleted list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.3ac370fc23",
+          "title": {
+            "en": "Create a to-do checkbox",
+            "zh-Hans": "Create a to-do checkbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2304,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.afd434c184",
+          "title": {
+            "en": "Create a h3 heading",
+            "zh-Hans": "Create a h3 heading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.f7032c462e",
+          "title": {
+            "en": "Create a h2 heading",
+            "zh-Hans": "Create a h2 heading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.c767ec9569",
+          "title": {
+            "en": "Create a h1 heading",
+            "zh-Hans": "Create a h1 heading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.510c9be6d0",
+          "title": {
+            "en": "Create text",
+            "zh-Hans": "Create 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.d7878550c1",
+          "title": {
+            "en": "Unindent",
+            "zh-Hans": "Unindent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.4374acd8ad",
+          "title": {
+            "en": "Indent and nest under parent block",
+            "zh-Hans": "Indent and nest under parent block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.5e9c35c1f0",
+          "title": {
+            "en": "Turn selected text into inline code",
+            "zh-Hans": "Turn selected text into inline code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.17bdf7a15f",
+          "title": {
+            "en": "Add a link to selected text",
+            "zh-Hans": "Add a link to selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.4414952c92",
+          "title": {
+            "en": "Strikethrough selected text",
+            "zh-Hans": "Strikethrough 所选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.ac46c5dcee",
+          "title": {
+            "en": "Italicize selected text",
+            "zh-Hans": "Italicize 所选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.c23f9a3b61",
+          "title": {
+            "en": "Bold selected text",
+            "zh-Hans": "加粗 所选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.e465bbce96",
+          "title": {
+            "en": "Create a comment",
+            "zh-Hans": "Create a 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.d7297649cf",
+          "title": {
+            "en": "Create a line break within a block of text",
+            "zh-Hans": "Create a line break within a block of text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.notion.create-style-your-content.d711383771",
+          "title": {
+            "en": "Insert a line of text.",
+            "zh-Hans": "Insert a line of text."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    }
+  ]
+}

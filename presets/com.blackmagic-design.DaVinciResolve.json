@@ -1,0 +1,777 @@
+{
+  "bundleIdentifier": "com.blackmagic-design.DaVinciResolve",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.davinci-resolve.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.general.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.general.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.general.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.general.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.general.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.general.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.general.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.davinci-resolve.media-import",
+      "title": {
+        "en": "Media & Import",
+        "zh-Hans": "Media & 导入"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.media-import.4a1ef4dfdf",
+          "title": {
+            "en": "Import Media",
+            "zh-Hans": "导入 媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.media-import.548e3f8f81",
+          "title": {
+            "en": "New Project",
+            "zh-Hans": "新建项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.media-import.4c67927e4b",
+          "title": {
+            "en": "New Timeline",
+            "zh-Hans": "新建Timeline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.davinci-resolve.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.editing.26b5154ca7",
+          "title": {
+            "en": "Cut (Split)",
+            "zh-Hans": "剪切 (Split)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.editing.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.editing.3134c53d7b",
+          "title": {
+            "en": "Ripple Delete",
+            "zh-Hans": "Ripple 删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.editing.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.editing.3b72e2199f",
+          "title": {
+            "en": "Split Clip at Playhead",
+            "zh-Hans": "Split Clip at Playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.editing.510be5da1c",
+          "title": {
+            "en": "Join Edits",
+            "zh-Hans": "Join Edits"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.editing.6484cf3540",
+          "title": {
+            "en": "Link Clips",
+            "zh-Hans": "链接 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.editing.4158ba4665",
+          "title": {
+            "en": "Unlink Clips",
+            "zh-Hans": "Unlink 片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.davinci-resolve.playback",
+      "title": {
+        "en": "Playback",
+        "zh-Hans": "播放"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.playback.9957316a72",
+          "title": {
+            "en": "Play/Pause",
+            "zh-Hans": "播放/暂停"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.45a2ec13d9",
+          "title": {
+            "en": "Stop",
+            "zh-Hans": "停止"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.664f655127",
+          "title": {
+            "en": "Go to Start",
+            "zh-Hans": "转到Start"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.ee11819246",
+          "title": {
+            "en": "Go to End",
+            "zh-Hans": "转到结尾"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.e6a10a7e6e",
+          "title": {
+            "en": "Forward One Frame",
+            "zh-Hans": "Forward One Frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.ce26cb5369",
+          "title": {
+            "en": "Back One Frame",
+            "zh-Hans": "Back One Frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.81430f92d0",
+          "title": {
+            "en": "Forward 10 Frames",
+            "zh-Hans": "向前 10 Frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.4d5390f402",
+          "title": {
+            "en": "Back 10 Frames",
+            "zh-Hans": "Back 10 Frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.d565531ef6",
+          "title": {
+            "en": "Loop Playback",
+            "zh-Hans": "循环 Playback"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.a5f913f735",
+          "title": {
+            "en": "Shuttle Left",
+            "zh-Hans": "Shuttle 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.playback.91f65419e5",
+          "title": {
+            "en": "Shuttle Right",
+            "zh-Hans": "Shuttle 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.davinci-resolve.color-grading",
+      "title": {
+        "en": "Color Grading",
+        "zh-Hans": "调色"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.color-grading.72fd47e4ea",
+          "title": {
+            "en": "Color Wheels",
+            "zh-Hans": "颜色 Wheels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.color-grading.a2ad5f205a",
+          "title": {
+            "en": "Curves",
+            "zh-Hans": "曲线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.color-grading.d0f10e87e5",
+          "title": {
+            "en": "Color Match",
+            "zh-Hans": "颜色 Match"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.color-grading.075a077282",
+          "title": {
+            "en": "Log Wheel",
+            "zh-Hans": "日志 Wheel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.color-grading.6d5bdad5bf",
+          "title": {
+            "en": "Previous Still",
+            "zh-Hans": "上一个 Still"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.color-grading.1a09e47e4d",
+          "title": {
+            "en": "Next Still",
+            "zh-Hans": "下一个 Still"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.color-grading.032abc16b4",
+          "title": {
+            "en": "Grab Still",
+            "zh-Hans": "Grab Still"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 768,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.color-grading.6b2f6b5fb1",
+          "title": {
+            "en": "Create Node",
+            "zh-Hans": "Create 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.davinci-resolve.effects-transitions",
+      "title": {
+        "en": "Effects & Transitions",
+        "zh-Hans": "效果与转场"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.effects-transitions.09c651d3c0",
+          "title": {
+            "en": "Add Transition",
+            "zh-Hans": "添加Transition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.effects-transitions.782469fd55",
+          "title": {
+            "en": "Add Fusion Transition",
+            "zh-Hans": "添加Fusion 过渡"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.effects-transitions.9b15d3ade3",
+          "title": {
+            "en": "Add Generator",
+            "zh-Hans": "添加Generator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.effects-transitions.37179c718a",
+          "title": {
+            "en": "Open Effects Library",
+            "zh-Hans": "打开 Effects Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.davinci-resolve.fairlight-audio",
+      "title": {
+        "en": "Fairlight (Audio)",
+        "zh-Hans": "Fairlight（音频）"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.fairlight-audio.b3a7be8920",
+          "title": {
+            "en": "Open Audio Mixer",
+            "zh-Hans": "打开 音频 混音器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.fairlight-audio.ac9d7bde7f",
+          "title": {
+            "en": "Record Audio",
+            "zh-Hans": "Record 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.fairlight-audio.3504e2eb78",
+          "title": {
+            "en": "Normalize Audio",
+            "zh-Hans": "Normalize 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.fairlight-audio.e0e5136bf9",
+          "title": {
+            "en": "Add Audio Track",
+            "zh-Hans": "添加Audio 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2816,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.fairlight-audio.dabd151cec",
+          "title": {
+            "en": "Mute Track",
+            "zh-Hans": "静音轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4096,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.fairlight-audio.b26984c597",
+          "title": {
+            "en": "Solo Track",
+            "zh-Hans": "独奏轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4096,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.davinci-resolve.fusion",
+      "title": {
+        "en": "Fusion",
+        "zh-Hans": "Fusion"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.fusion.92f5322727",
+          "title": {
+            "en": "Open Fusion",
+            "zh-Hans": "打开 Fusion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.fusion.1b5c7f6d9b",
+          "title": {
+            "en": "New Connection",
+            "zh-Hans": "新建Connection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.fusion.13310505b0",
+          "title": {
+            "en": "Save Workspace",
+            "zh-Hans": "存储 工作区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.davinci-resolve.windows",
+      "title": {
+        "en": "Windows",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.davinci-resolve.windows.45a4124648",
+          "title": {
+            "en": "Media Page",
+            "zh-Hans": "媒体 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.windows.c970687bd9",
+          "title": {
+            "en": "Cut Page",
+            "zh-Hans": "剪切 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.windows.34be425fb5",
+          "title": {
+            "en": "Edit Page",
+            "zh-Hans": "编辑 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.windows.4e8eb37908",
+          "title": {
+            "en": "Color Page",
+            "zh-Hans": "颜色 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.windows.be9dd3d387",
+          "title": {
+            "en": "Fairlight Page",
+            "zh-Hans": "Fairlight 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.windows.6a96f3bf07",
+          "title": {
+            "en": "Fusion Page",
+            "zh-Hans": "Fusion 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.davinci-resolve.windows.8b1c67666d",
+          "title": {
+            "en": "Deliver Page",
+            "zh-Hans": "Deliver 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        }
+      ]
+    }
+  ]
+}

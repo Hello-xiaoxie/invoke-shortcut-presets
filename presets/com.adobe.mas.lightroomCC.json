@@ -1,0 +1,2922 @@
+{
+  "bundleIdentifier": "com.adobe.mas.lightroomCC",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-lightroom.panel-shortcuts",
+      "title": {
+        "en": "Panel Shortcuts",
+        "zh-Hans": "面板快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.18a42f9046",
+          "title": {
+            "en": "Show/ hide side panels",
+            "zh-Hans": "显示/ 隐藏 side panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.f03391dd25",
+          "title": {
+            "en": "Show/ hide all panels",
+            "zh-Hans": "显示/ 隐藏 全部 panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.2dd0f867a5",
+          "title": {
+            "en": "Show/ hide Toolbar",
+            "zh-Hans": "显示/ 隐藏 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.86deb866eb",
+          "title": {
+            "en": "Show/ hide Module Picker",
+            "zh-Hans": "显示/ 隐藏 Module Picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.f1386d5bbb",
+          "title": {
+            "en": "Show/ hide Filmstrip",
+            "zh-Hans": "显示/ 隐藏 Filmstrip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.65c621f9b9",
+          "title": {
+            "en": "Show/ hide left panels",
+            "zh-Hans": "显示/ 隐藏 左 panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.4222dddff6",
+          "title": {
+            "en": "Show/ hide right panels",
+            "zh-Hans": "显示/ 隐藏 右 panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.69be681ef4",
+          "title": {
+            "en": "Open/ close left panels, top to bottom",
+            "zh-Hans": "Open/ close left panels, top to bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4352,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.882744a401",
+          "title": {
+            "en": "Open/close right panels, Library and Develop modules, top to bottom",
+            "zh-Hans": "Open/close right panels, Library and Develop modules, top to bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.panel-shortcuts.cc13fe9af8",
+          "title": {
+            "en": "Open/close right panels, Slideshow, Print, and Web modules, top to bottom",
+            "zh-Hans": "Open/close right panels, Slideshow, Print, and Web modules, top to bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.navigating-modules",
+      "title": {
+        "en": "Navigating Modules",
+        "zh-Hans": "Modules导航"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.navigating-modules.10dfb35cb0",
+          "title": {
+            "en": "Go to Library module",
+            "zh-Hans": "转到Library module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.navigating-modules.a9dec42f1d",
+          "title": {
+            "en": "Go to Develop module",
+            "zh-Hans": "转到Develop module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.navigating-modules.649111f845",
+          "title": {
+            "en": "Go to Slideshow module",
+            "zh-Hans": "转到Slideshow module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.navigating-modules.1110d14cd0",
+          "title": {
+            "en": "Go to Print module",
+            "zh-Hans": "Go to Print module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2304,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.navigating-modules.2d01d25764",
+          "title": {
+            "en": "Go to Web module",
+            "zh-Hans": "转到Web module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.navigating-modules.64098433b6",
+          "title": {
+            "en": "Go back/ go forward",
+            "zh-Hans": "Go back/ go forward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.navigating-modules.df154a89ab",
+          "title": {
+            "en": "Go back to previous module",
+            "zh-Hans": "Go back to previous module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.changing-views-and-screen-modes",
+      "title": {
+        "en": "Changing Views and Screen Modes",
+        "zh-Hans": "切换视图和屏幕模式"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.3fbe9acec7",
+          "title": {
+            "en": "Enter Library Loupe view",
+            "zh-Hans": "Enter Library Loupe view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.2738882baa",
+          "title": {
+            "en": "Enter Library Grid view",
+            "zh-Hans": "Enter Library 网格 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.067b22acb2",
+          "title": {
+            "en": "Enter Library Compare view",
+            "zh-Hans": "Enter Library Compare view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.d16072254c",
+          "title": {
+            "en": "Enter Library Survey view",
+            "zh-Hans": "Enter Library Survey view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.cf1ea4e65d",
+          "title": {
+            "en": "Open selected photo in Develop module",
+            "zh-Hans": "Open selected photo in Develop module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.cf0e4dfdd9",
+          "title": {
+            "en": "Cycle forward/ backward through Lights Out modes",
+            "zh-Hans": "Cycle forward/ backward through Lights Out modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.5e680dce47",
+          "title": {
+            "en": "Toggle Lights Dim mode",
+            "zh-Hans": "切换Lights Dim 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.b77085ec19",
+          "title": {
+            "en": "Toggle Full screen mode",
+            "zh-Hans": "Toggle 全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.d4078ea5ce",
+          "title": {
+            "en": "Previous screen mode",
+            "zh-Hans": "上一个 screen 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.18e8b713e4",
+          "title": {
+            "en": "Toggle Screen Modes: Normal, Full screen, hide panels",
+            "zh-Hans": "Toggle Screen Modes: Normal, Full screen, hide panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.a989a62b4a",
+          "title": {
+            "en": "Go to Normal screen mode, exit Full screen",
+            "zh-Hans": "Go to Normal screen mode, exit Full screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.1483457e92",
+          "title": {
+            "en": "Cycle Info overlay",
+            "zh-Hans": "Cycle Info 覆盖层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.changing-views-and-screen-modes.bb26c0c2d0",
+          "title": {
+            "en": "Show/ hide Info overlay",
+            "zh-Hans": "显示/ 隐藏 Info 覆盖层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.using-secondary-window",
+      "title": {
+        "en": "Using Secondary Window",
+        "zh-Hans": "Using Secondary窗口"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.e6b97ba37c",
+          "title": {
+            "en": "Open secondary window",
+            "zh-Hans": "打开 secondary 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.c3e03fe9de",
+          "title": {
+            "en": "Enter Grid view",
+            "zh-Hans": "Enter 网格 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 512,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.4e17e57661",
+          "title": {
+            "en": "Enter normal Loupe view",
+            "zh-Hans": "Enter normal Loupe view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.0c499fd64d",
+          "title": {
+            "en": "Enter locked Loupe view",
+            "zh-Hans": "Enter 已锁定 Loupe 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.260f26ca3d",
+          "title": {
+            "en": "Enter Compare view",
+            "zh-Hans": "Enter Compare 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.b39987af9c",
+          "title": {
+            "en": "Enter Survey view",
+            "zh-Hans": "Enter Survey 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 512,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.397b0ed9c7",
+          "title": {
+            "en": "Enter Slideshow view",
+            "zh-Hans": "Enter Slideshow 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2816,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.7d468ba9b2",
+          "title": {
+            "en": "Enter full-screen mode with secondary monitor",
+            "zh-Hans": "Enter full-screen mode with secondary monitor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 768,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.7b592d0349",
+          "title": {
+            "en": "Show/ hide Filter bar",
+            "zh-Hans": "显示/ 隐藏 滤镜 bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 512,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.using-secondary-window.587669085c",
+          "title": {
+            "en": "Zoom in/ zoom out",
+            "zh-Hans": "放大/ 缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 768,
+            "displayKey": "="
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.managing-photos-and-catalogs",
+      "title": {
+        "en": "Managing Photos and Catalogs",
+        "zh-Hans": "Photos and Catalogs管理"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.e46abd8f87",
+          "title": {
+            "en": "Import photos from disk",
+            "zh-Hans": "Import photos from disk"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.eb5d59768c",
+          "title": {
+            "en": "Open catalog",
+            "zh-Hans": "打开 catalog"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.919dbef065",
+          "title": {
+            "en": "Open Preferences",
+            "zh-Hans": "打开 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.9f597398a9",
+          "title": {
+            "en": "Open Catalog Settings",
+            "zh-Hans": "打开 Catalog 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2304,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.9badf53544",
+          "title": {
+            "en": "Create new subfolder (segmented Tethered capture)",
+            "zh-Hans": "Create new subfolder (segmented Tethered capture)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.98d0e2ba49",
+          "title": {
+            "en": "Hide/show Tether capture bar",
+            "zh-Hans": "Hide/show Tether capture bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.56280446d9",
+          "title": {
+            "en": "Create a new folder in the Library module",
+            "zh-Hans": "Create a new folder in the Library module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.3ba02bafc2",
+          "title": {
+            "en": "Create virtual copy (Library/ Develop module)",
+            "zh-Hans": "Create virtual copy (Library/ Develop module)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.d7e6a96e1f",
+          "title": {
+            "en": "Show in Finder (Library/ Develop module)",
+            "zh-Hans": "Show in Finder (Library/ Develop module)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.d333428e2c",
+          "title": {
+            "en": "Go to next/ previous photo in Filmstrip",
+            "zh-Hans": "Go to next/ previous photo in Filmstrip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.f3257c00b1",
+          "title": {
+            "en": "Rename photo (in Library module)",
+            "zh-Hans": "Rename photo (in Library module)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.2586e2b025",
+          "title": {
+            "en": "Delete selected photo(s)",
+            "zh-Hans": "删除 所选 照片(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.cb94c36962",
+          "title": {
+            "en": "Remove selected photo(s) from catalog",
+            "zh-Hans": "Remove selected photo(s) from catalog"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.48120e823c",
+          "title": {
+            "en": "Delete selected photo(s) and move to Recycling Bin (Windows) or Trash (Mac OS)",
+            "zh-Hans": "Delete selected photo(s) and move to Recycling Bin (Windows) or Trash (Mac OS)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2816,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.7980ae37d6",
+          "title": {
+            "en": "Delete rejected photo(s)",
+            "zh-Hans": "Delete rejected photo(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.b96969837a",
+          "title": {
+            "en": "Edit in Photoshop",
+            "zh-Hans": "Edit in Photoshop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.dbaf63b374",
+          "title": {
+            "en": "Edit in other Editor",
+            "zh-Hans": "Edit in other Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.213aa7cc05",
+          "title": {
+            "en": "Export selected photo(s)",
+            "zh-Hans": "导出 所选 照片(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.2268db0a32",
+          "title": {
+            "en": "Export with previous settings",
+            "zh-Hans": "Export with previous settings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2816,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.9cad234364",
+          "title": {
+            "en": "Open plug-in manager",
+            "zh-Hans": "Open plug-in manager"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2816,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.a1f9fe2ebf",
+          "title": {
+            "en": "Print selected photo",
+            "zh-Hans": "打印 所选 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.managing-photos-and-catalogs.299ae53bc5",
+          "title": {
+            "en": "Open Page Setup dialog box",
+            "zh-Hans": "Open Page Setup dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module",
+      "title": {
+        "en": "Comparing Photos in the Library Module",
+        "zh-Hans": "在图库模块中比较照片"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.60ffb73abf",
+          "title": {
+            "en": "Switch to Loupe view",
+            "zh-Hans": "切换到Loupe 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.91adfa1579",
+          "title": {
+            "en": "Switch to Grid view",
+            "zh-Hans": "切换到Grid 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.7243fd134e",
+          "title": {
+            "en": "Switch to Compare view",
+            "zh-Hans": "切换到Compare 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.e771b7948a",
+          "title": {
+            "en": "Switch to Survey view",
+            "zh-Hans": "切换到Survey 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.9b171a2b34",
+          "title": {
+            "en": "Switch from Grid to Loupe view",
+            "zh-Hans": "Switch from Grid to Loupe view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.e97a8f0b96",
+          "title": {
+            "en": "Swap select and candidate photos in Compare view",
+            "zh-Hans": "Swap select and candidate photos in Compare view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.c858918c8e",
+          "title": {
+            "en": "Make next photos select and candidate in Compare view",
+            "zh-Hans": "Make next photos select and candidate in Compare view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.781f68379f",
+          "title": {
+            "en": "Toggle Zoom view",
+            "zh-Hans": "切换Zoom 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.cd17b71e8f",
+          "title": {
+            "en": "Zoom in/ zoom out in Loupe view",
+            "zh-Hans": "Zoom in/ zoom out in Loupe view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.c65ca5dfe7",
+          "title": {
+            "en": "Scroll up/ down zoomed photo in Loupe view",
+            "zh-Hans": "Scroll up/ down zoomed photo in Loupe view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.962022b843",
+          "title": {
+            "en": "Go to beginning/ end of Grid view",
+            "zh-Hans": "Go to beginning/ end of Grid view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.0bf5e55915",
+          "title": {
+            "en": "Play impromptu slide show",
+            "zh-Hans": "Play impromptu slide show"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.55e1710291",
+          "title": {
+            "en": "Rotate photo right/ left",
+            "zh-Hans": "Rotate 照片 右/ 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.800fb6523d",
+          "title": {
+            "en": "Increase/ decrease Grid thumbnail size",
+            "zh-Hans": "Increase/ decrease Grid thumbnail size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.275840dbd2",
+          "title": {
+            "en": "Scroll up/ down Grid thumbnails",
+            "zh-Hans": "Scroll up/ down Grid thumbnails"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.47a1e6b224",
+          "title": {
+            "en": "Toggle cell extras",
+            "zh-Hans": "切换cell extras"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.02e08ff243",
+          "title": {
+            "en": "Show/hide badges",
+            "zh-Hans": "显示/隐藏 badges"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2816,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.d48c95ef57",
+          "title": {
+            "en": "Cycle Grid views",
+            "zh-Hans": "Cycle 网格 views"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.3f40e0bd11",
+          "title": {
+            "en": "Open Library view options",
+            "zh-Hans": "Open Library view options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.ed4ccf7ff6",
+          "title": {
+            "en": "Select all photos",
+            "zh-Hans": "全选 photos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.7266dabfec",
+          "title": {
+            "en": "Deselect all photos",
+            "zh-Hans": "Deselect 全部 photos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.0018ccd5ed",
+          "title": {
+            "en": "Select only active photo",
+            "zh-Hans": "选择only 活动 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.b1a6676aba",
+          "title": {
+            "en": "Deselect active photo",
+            "zh-Hans": "Deselect 活动 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.9770255d44",
+          "title": {
+            "en": "Add previous/next photo to selection",
+            "zh-Hans": "Add previous/next photo to selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.0b432f0ab7",
+          "title": {
+            "en": "Select flagged photos",
+            "zh-Hans": "选择flagged photos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.30398b2693",
+          "title": {
+            "en": "Deselect unflagged photos",
+            "zh-Hans": "Deselect unflagged photos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.568ce281cf",
+          "title": {
+            "en": "Group into stack",
+            "zh-Hans": "编组 into stack"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.ba9f9156d5",
+          "title": {
+            "en": "Ungroup stack",
+            "zh-Hans": "取消编组 stack"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.68c67dcf26",
+          "title": {
+            "en": "Toggle stack",
+            "zh-Hans": "切换stack"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.8718291967",
+          "title": {
+            "en": "Move to top of stack",
+            "zh-Hans": "Move to top of stack"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.cdb8cc1527",
+          "title": {
+            "en": "Move up/ down in stack",
+            "zh-Hans": "Move up/ down in stack"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 512,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.rating-and-filtering-photos",
+      "title": {
+        "en": "Rating and Filtering Photos",
+        "zh-Hans": "评分与筛选照片"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.0defbccbd9",
+          "title": {
+            "en": "Set star rating",
+            "zh-Hans": "Set star rating"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.f414ac6a2b",
+          "title": {
+            "en": "Set star rating and go to next photo",
+            "zh-Hans": "Set star rating and go to next photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.b98ea07a1e",
+          "title": {
+            "en": "Remove star rating",
+            "zh-Hans": "移除star rating"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 0,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.f159d2637d",
+          "title": {
+            "en": "Remove star rating and go to next photo",
+            "zh-Hans": "Remove star rating and go to next photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 512,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.91a369822e",
+          "title": {
+            "en": "Increase/decrease rating by one star",
+            "zh-Hans": "Increase/decrease rating by one star"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.71320ba1e7",
+          "title": {
+            "en": "Assign red label",
+            "zh-Hans": "Assign red label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 0,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.7438066b69",
+          "title": {
+            "en": "Assign yellow label",
+            "zh-Hans": "Assign yellow label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 0,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.cb48f287d6",
+          "title": {
+            "en": "Assign green label",
+            "zh-Hans": "Assign green label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 0,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.1f676651b1",
+          "title": {
+            "en": "Assign blue label",
+            "zh-Hans": "Assign blue label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 0,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.5c8287cf5f",
+          "title": {
+            "en": "Assign color label and goto next photo",
+            "zh-Hans": "Assign color label and goto next photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.33cb4543df",
+          "title": {
+            "en": "Flag photo as Pick",
+            "zh-Hans": "Flag photo as Pick"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.519da9780a",
+          "title": {
+            "en": "Flag photo as Pick and goto next photo",
+            "zh-Hans": "Flag photo as Pick and goto next photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.9d1f117a0c",
+          "title": {
+            "en": "Flag photo as reject",
+            "zh-Hans": "Flag photo as reject"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.f452eaf233",
+          "title": {
+            "en": "Flag photo as reject and goto next photo",
+            "zh-Hans": "Flag photo as reject and goto next photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 512,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.827204942b",
+          "title": {
+            "en": "Unflag photo",
+            "zh-Hans": "Unflag 照片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.995195eeaf",
+          "title": {
+            "en": "Unflag photo and goto next photo",
+            "zh-Hans": "Unflag photo and goto next photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 512,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.412f00e25f",
+          "title": {
+            "en": "Increase/ decrease flag status",
+            "zh-Hans": "Increase/ decrease flag status"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.9f3f168ced",
+          "title": {
+            "en": "Cycle flag settings",
+            "zh-Hans": "Cycle flag 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.b8ca1634df",
+          "title": {
+            "en": "Refine photos",
+            "zh-Hans": "Refine photos"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.a9d2072813",
+          "title": {
+            "en": "Show/ hide Library Filter bar",
+            "zh-Hans": "Show/ hide Library Filter bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 0,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.9d621f5cfb",
+          "title": {
+            "en": "Toggle filters on/off",
+            "zh-Hans": "Toggle filters on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.rating-and-filtering-photos.5435b5e8a0",
+          "title": {
+            "en": "Find photo in the Library module",
+            "zh-Hans": "Find photo in the Library module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.collections",
+      "title": {
+        "en": "Collections",
+        "zh-Hans": "集合"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.collections.339bbc8e66",
+          "title": {
+            "en": "Create New collection in the Library module",
+            "zh-Hans": "Create New collection in the Library module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.collections.5b6160c739",
+          "title": {
+            "en": "Add to Quick Collection",
+            "zh-Hans": "Add to Quick Collection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.collections.62958481b5",
+          "title": {
+            "en": "Add to Quick Collection and go to next photo",
+            "zh-Hans": "Add to Quick Collection and go to next photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 512,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.collections.839f8e95ae",
+          "title": {
+            "en": "Show Quick Collection",
+            "zh-Hans": "显示 Quick Collection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.collections.18674b11d2",
+          "title": {
+            "en": "Save Quick Collection",
+            "zh-Hans": "存储 Quick Collection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.collections.ce506bdbd4",
+          "title": {
+            "en": "Clear Quick Collection",
+            "zh-Hans": "清除Quick Collection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.collections.54324414d4",
+          "title": {
+            "en": "Set as target collection",
+            "zh-Hans": "Set as target collection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2816,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module",
+      "title": {
+        "en": "Metadata and Keywords in Library Module",
+        "zh-Hans": "图库模块中的元数据和关键词"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.7dde532a3d",
+          "title": {
+            "en": "Add Keywords",
+            "zh-Hans": "添加Keywords"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.64b53a6ed1",
+          "title": {
+            "en": "Edit Keywords",
+            "zh-Hans": "编辑 Keywords"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.5f7ae99de6",
+          "title": {
+            "en": "Set a Keyword shortcut",
+            "zh-Hans": "Set a Keyword shortcut"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2816,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.50a80b49ed",
+          "title": {
+            "en": "Add/ remove Keyword shortcut from selected photo",
+            "zh-Hans": "Add/ remove Keyword shortcut from selected photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 512,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.69c59502d7",
+          "title": {
+            "en": "Enable painting",
+            "zh-Hans": "启用painting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.f3e6b499cf",
+          "title": {
+            "en": "Add a keyword from a keyword set to selected photo",
+            "zh-Hans": "Add a keyword from a keyword set to selected photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.b8f133869c",
+          "title": {
+            "en": "Cycle forward through keyword sets",
+            "zh-Hans": "Cycle forward through keyword sets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2048,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.4a2be5628e",
+          "title": {
+            "en": "Cycle backward through keyword sets",
+            "zh-Hans": "Cycle backward through keyword sets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2560,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.b8911f2b6f",
+          "title": {
+            "en": "Copy metadata",
+            "zh-Hans": "复制 metadata"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.5346143129",
+          "title": {
+            "en": "Paste metadata",
+            "zh-Hans": "粘贴 metadata"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.23b9d2eff2",
+          "title": {
+            "en": "Save metadata to file",
+            "zh-Hans": "Save metadata to file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.9ed9688226",
+          "title": {
+            "en": "Open Spelling dialog box",
+            "zh-Hans": "Open Spelling dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.e19da05514",
+          "title": {
+            "en": "Check spelling",
+            "zh-Hans": "Check spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.3a6f36862b",
+          "title": {
+            "en": "Open Character palette",
+            "zh-Hans": "打开 字符 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.develop-module",
+      "title": {
+        "en": "Develop Module",
+        "zh-Hans": "修改模块"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.develop-module.2403781bcc",
+          "title": {
+            "en": "Convert to grayscale",
+            "zh-Hans": "Convert to grayscale"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.4621661acb",
+          "title": {
+            "en": "Auto tone",
+            "zh-Hans": "Auto tone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.0053c8317b",
+          "title": {
+            "en": "Auto white balance",
+            "zh-Hans": "Auto white balance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.b96969837a",
+          "title": {
+            "en": "Edit in Photoshop",
+            "zh-Hans": "Edit in Photoshop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.ca8e48c8e5",
+          "title": {
+            "en": "Copy Develop settings",
+            "zh-Hans": "复制 Develop 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.786584897a",
+          "title": {
+            "en": "Paste Develop settings",
+            "zh-Hans": "粘贴 Develop 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.2a38d4a9c7",
+          "title": {
+            "en": "Paste settings from previous photo",
+            "zh-Hans": "Paste settings from previous photo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.462605778e",
+          "title": {
+            "en": "Copy After settings to Before",
+            "zh-Hans": "Copy After settings to Before"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2816,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.c4c70d4f7d",
+          "title": {
+            "en": "Copy Before settings to After",
+            "zh-Hans": "Copy Before settings to After"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2816,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.d7c35ab965",
+          "title": {
+            "en": "Swap Before and After settings",
+            "zh-Hans": "Swap Before and After settings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2816,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.a440caebe4",
+          "title": {
+            "en": "Increase/decrease selected slider in small increments",
+            "zh-Hans": "Increase/decrease selected slider in small increments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.f4ea00c976",
+          "title": {
+            "en": "Increase/decrease selected slider in larger increments",
+            "zh-Hans": "Increase/decrease selected slider in larger increments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 512,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.4961561720",
+          "title": {
+            "en": "Cycle forward/ backwards through Basic panel settings",
+            "zh-Hans": "Cycle forward/ backwards through Basic panel settings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.4052b5f171",
+          "title": {
+            "en": "Reset all settings",
+            "zh-Hans": "重置all 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.bb6afb5a70",
+          "title": {
+            "en": "Sync settings",
+            "zh-Hans": "Sync 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.cdb9722b74",
+          "title": {
+            "en": "Sync settings bypassing Synchronize Settings dialog box",
+            "zh-Hans": "Sync settings bypassing Synchronize Settings dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.77f3282bc5",
+          "title": {
+            "en": "Enable Auto Sync",
+            "zh-Hans": "启用Auto Sync"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2816,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.d91fb9d9d0",
+          "title": {
+            "en": "Match total exposures",
+            "zh-Hans": "Match total exposures"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2816,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.9abb264dd3",
+          "title": {
+            "en": "Select White Balance tool",
+            "zh-Hans": "Select White Balance tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.2770bb00d9",
+          "title": {
+            "en": "Select the Crop tool",
+            "zh-Hans": "Select the Crop tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.39d62702bc",
+          "title": {
+            "en": "Constrain Aspect ratio when Crop tool is selected",
+            "zh-Hans": "Constrain Aspect ratio when Crop tool is selected"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.7c0948107b",
+          "title": {
+            "en": "Crop to same Aspect ratio as previous crop",
+            "zh-Hans": "Crop to same Aspect ratio as previous crop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.77043c3790",
+          "title": {
+            "en": "Cycle Crop grid Overlay",
+            "zh-Hans": "Cycle Crop 网格 覆盖层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.932263af2a",
+          "title": {
+            "en": "Cycle Crop grid overlay Orientation",
+            "zh-Hans": "Cycle Crop grid overlay Orientation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.ae95411ffc",
+          "title": {
+            "en": "Switch crop between portrait and landscape orientation",
+            "zh-Hans": "Switch crop between portrait and landscape orientation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.d35af5b8ae",
+          "title": {
+            "en": "Reset crop",
+            "zh-Hans": "重置crop"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.9ce875741b",
+          "title": {
+            "en": "Select the Spot Removal tool",
+            "zh-Hans": "Select the Spot Removal tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.1c90da73b0",
+          "title": {
+            "en": "Select the Adjustment Brush tool (from any module)",
+            "zh-Hans": "Select the Adjustment Brush tool (from any module)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.b9c2b22573",
+          "title": {
+            "en": "Select the Graduated Filter tool",
+            "zh-Hans": "Select the Graduated Filter tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.833fc51417",
+          "title": {
+            "en": "Increase/ decrease brush size",
+            "zh-Hans": "Increase/ decrease brush size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.f549ee9af1",
+          "title": {
+            "en": "Increase/ decrease brush feathering",
+            "zh-Hans": "Increase/ decrease brush feathering"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 512,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.fcda0635a7",
+          "title": {
+            "en": "Switch between local adjustment brush A and B",
+            "zh-Hans": "Switch between local adjustment brush A and B"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.7bde8311a6",
+          "title": {
+            "en": "Show/ hide local adjustment pin",
+            "zh-Hans": "Show/ hide local adjustment pin"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.dd5c26a0a4",
+          "title": {
+            "en": "Show/ hide local adjustment mask Overlay",
+            "zh-Hans": "显示/ 隐藏 local adjustment 蒙版 覆盖层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.0972350fdb",
+          "title": {
+            "en": "Cycle local adjustment mask Overlay colors",
+            "zh-Hans": "Cycle local adjustment mask Overlay colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.b25d44c9db",
+          "title": {
+            "en": "Select targeted Adjustment tool to apply Tone Curve",
+            "zh-Hans": "Select targeted Adjustment tool to apply Tone Curve"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2816,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.769e076a24",
+          "title": {
+            "en": "Select Targeted Adjustment tool to apply Hue",
+            "zh-Hans": "Select Targeted Adjustment tool to apply Hue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2816,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.e51a744bb4",
+          "title": {
+            "en": "Select Targeted Adjustment tool to apply Saturation",
+            "zh-Hans": "Select Targeted Adjustment tool to apply Saturation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.565a733cf3",
+          "title": {
+            "en": "Select Targeted Adjustment tool to apply Luminance",
+            "zh-Hans": "Select Targeted Adjustment tool to apply Luminance"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2816,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.001db8636b",
+          "title": {
+            "en": "Select Targeted Adjustment tool to apply Grayscale Mix",
+            "zh-Hans": "Select Targeted Adjustment tool to apply Grayscale Mix"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.c9d8ac391f",
+          "title": {
+            "en": "Deselect Targeted Adjustment tool",
+            "zh-Hans": "Deselect Targeted Adjustment tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2816,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.12b61b2c48",
+          "title": {
+            "en": "Show clipping",
+            "zh-Hans": "显示 clipping"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.55e1710291",
+          "title": {
+            "en": "Rotate photo right/ left",
+            "zh-Hans": "Rotate 照片 右/ 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.3aca3e95a3",
+          "title": {
+            "en": "Toggle between Loupe and 1:1 Zoom preview",
+            "zh-Hans": "Toggle between Loupe and 1:1 Zoom preview"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.b36d76ab12",
+          "title": {
+            "en": "Zoom in / zoom out",
+            "zh-Hans": "放大 / 缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.0bf5e55915",
+          "title": {
+            "en": "Play impromptu slide show",
+            "zh-Hans": "Play impromptu slide show"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.11a58dc557",
+          "title": {
+            "en": "View Before and After left/ right",
+            "zh-Hans": "View Before and After left/ right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.d94ebcfb29",
+          "title": {
+            "en": "View Before and After top/ bottom",
+            "zh-Hans": "View Before and After top/ bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2048,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.bfa693331d",
+          "title": {
+            "en": "View Before and After in a split screen",
+            "zh-Hans": "View Before and After in a split screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 512,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.8872267771",
+          "title": {
+            "en": "View Before only",
+            "zh-Hans": "视图 Before only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 0,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.394196affa",
+          "title": {
+            "en": "Create a new snapshot",
+            "zh-Hans": "Create a new snapshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.422d7ff37e",
+          "title": {
+            "en": "Create a new preset",
+            "zh-Hans": "Create a new 预设"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.b2de760731",
+          "title": {
+            "en": "Create a new preset folder",
+            "zh-Hans": "Create a new 预设 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.develop-module.1b529d8cbc",
+          "title": {
+            "en": "Open Develop view options",
+            "zh-Hans": "Open Develop view options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.slideshow-module",
+      "title": {
+        "en": "Slideshow Module",
+        "zh-Hans": "幻灯片放映模块"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.3e703fbad5",
+          "title": {
+            "en": "Play slide show",
+            "zh-Hans": "Play slide 显示"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.0bf5e55915",
+          "title": {
+            "en": "Play impromptu slide show",
+            "zh-Hans": "Play impromptu slide show"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.1e75890e3a",
+          "title": {
+            "en": "Pause slide show",
+            "zh-Hans": "Pause slide 显示"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.1f4da7fccc",
+          "title": {
+            "en": "Preview slide show",
+            "zh-Hans": "预览 slide 显示"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.215d5e2338",
+          "title": {
+            "en": "End slide show",
+            "zh-Hans": "结束 slide 显示"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.bc85bb3300",
+          "title": {
+            "en": "Go to next slide",
+            "zh-Hans": "转到next slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.31da801695",
+          "title": {
+            "en": "Go to previous slide",
+            "zh-Hans": "转到previous slide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.55e1710291",
+          "title": {
+            "en": "Rotate photo right/ left",
+            "zh-Hans": "Rotate 照片 右/ 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.0ec31a8e9d",
+          "title": {
+            "en": "Show/ hide guides",
+            "zh-Hans": "显示/ 隐藏 guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.706119f7fb",
+          "title": {
+            "en": "Export PDF slide show",
+            "zh-Hans": "导出 PDF slide 显示"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.2aee44e303",
+          "title": {
+            "en": "Export JPEG slide show",
+            "zh-Hans": "导出 JPEG slide 显示"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.32c72e78ef",
+          "title": {
+            "en": "Export video slide show",
+            "zh-Hans": "导出 视频 slide 显示"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.08e111184d",
+          "title": {
+            "en": "Create a new slide show template",
+            "zh-Hans": "Create a new slide show template"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.0dfa447765",
+          "title": {
+            "en": "Create a new slide show template folder",
+            "zh-Hans": "Create a new slide show template folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.slideshow-module.915ed0ed21",
+          "title": {
+            "en": "Save slide show settings",
+            "zh-Hans": "存储 slide 显示 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.print-module",
+      "title": {
+        "en": "Print Module",
+        "zh-Hans": "打印 Module"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.print-module.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.47f3247c8b",
+          "title": {
+            "en": "Print one copy",
+            "zh-Hans": "Print one copy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.299ae53bc5",
+          "title": {
+            "en": "Open Page Setup dialog box",
+            "zh-Hans": "Open Page Setup dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.b179642230",
+          "title": {
+            "en": "Open Print Settings dialog box",
+            "zh-Hans": "打开 打印 设置 对话框 box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2816,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.e3211f1a6b",
+          "title": {
+            "en": "Go to first page/ last page",
+            "zh-Hans": "转到first 页面/ 最后一个 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.c924c7d8c6",
+          "title": {
+            "en": "Go to previous/ next page",
+            "zh-Hans": "转到previous/ 下一个 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.0ec31a8e9d",
+          "title": {
+            "en": "Show/ hide guides",
+            "zh-Hans": "显示/ 隐藏 guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.21b4cda277",
+          "title": {
+            "en": "Show/ hide rulers",
+            "zh-Hans": "显示/ 隐藏 rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.9d21120610",
+          "title": {
+            "en": "Show/ hide page bleed",
+            "zh-Hans": "显示/ 隐藏 页面 bleed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.c13d28d7a5",
+          "title": {
+            "en": "Show/ hide Margins and gutters",
+            "zh-Hans": "Show/ hide Margins and gutters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.a267324cae",
+          "title": {
+            "en": "Show/ hide image cells",
+            "zh-Hans": "显示/ 隐藏 图片 单元格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.5ae8a9fa05",
+          "title": {
+            "en": "Show/ hide dimensions",
+            "zh-Hans": "显示/ 隐藏 dimensions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.0bf5e55915",
+          "title": {
+            "en": "Play impromptu slide show",
+            "zh-Hans": "Play impromptu slide show"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.55e1710291",
+          "title": {
+            "en": "Rotate photo right/ left",
+            "zh-Hans": "Rotate 照片 右/ 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.d8e76b35fc",
+          "title": {
+            "en": "Create a new print template",
+            "zh-Hans": "Create a new 打印 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.ab639ecd67",
+          "title": {
+            "en": "Create a new print template folder",
+            "zh-Hans": "Create a new 打印 模板 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.print-module.78b0a876a7",
+          "title": {
+            "en": "Save print settings",
+            "zh-Hans": "存储 打印 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.web-module",
+      "title": {
+        "en": "Web Module",
+        "zh-Hans": "Web 模块"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.web-module.a6d8c94500",
+          "title": {
+            "en": "Reload web gallery",
+            "zh-Hans": "Reload web gallery"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.web-module.fd2127eff0",
+          "title": {
+            "en": "Preview in browser",
+            "zh-Hans": "Preview in browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.web-module.0bf5e55915",
+          "title": {
+            "en": "Play impromptu slide show",
+            "zh-Hans": "Play impromptu slide show"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.web-module.6ebe5890ae",
+          "title": {
+            "en": "Export web gallery",
+            "zh-Hans": "导出 web gallery"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.web-module.ae2a2c4a6c",
+          "title": {
+            "en": "Create a new web gallery template",
+            "zh-Hans": "Create a new web gallery template"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.web-module.12423e8171",
+          "title": {
+            "en": "Create a new web gallery template folder",
+            "zh-Hans": "Create a new web gallery template folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.web-module.6daf6fbc8e",
+          "title": {
+            "en": "Save web gallery settings",
+            "zh-Hans": "存储 web gallery 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-lightroom.help",
+      "title": {
+        "en": "Help",
+        "zh-Hans": "帮助"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-lightroom.help.51a4fd3351",
+          "title": {
+            "en": "Display current module shortcuts",
+            "zh-Hans": "Display current module shortcuts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.help.eb0513fb23",
+          "title": {
+            "en": "Go to current module Help",
+            "zh-Hans": "Go to current module Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2816,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-lightroom.help.7f1d735bcb",
+          "title": {
+            "en": "Open Community Help",
+            "zh-Hans": "打开 Community Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        }
+      ]
+    }
+  ]
+}

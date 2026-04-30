@@ -19,7 +19,7 @@
           "id": "remote.miro.tools.c87bcf867a",
           "title": {
             "en": "Select tool/hand mode",
-            "zh-Hans": "Select tool/hand mode"
+            "zh-Hans": "选择tool/hand 模式"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -43,7 +43,7 @@
           "id": "remote.miro.tools.e7b3c7174a",
           "title": {
             "en": "Sticky note",
-            "zh-Hans": "Sticky note"
+            "zh-Hans": "Sticky 笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -91,7 +91,7 @@
           "id": "remote.miro.tools.0409e1b684",
           "title": {
             "en": "Connection Line, arrow",
-            "zh-Hans": "Connection Line, arrow"
+            "zh-Hans": "Connection 行, arrow"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -187,7 +187,7 @@
           "id": "remote.miro.tools.d9b9e279de",
           "title": {
             "en": "Minimap",
-            "zh-Hans": "Minimap"
+            "zh-Hans": "迷你地图"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -352,7 +352,7 @@
           "id": "remote.miro.general.05adc25195",
           "title": {
             "en": "Edit selected item",
-            "zh-Hans": "Edit selected item"
+            "zh-Hans": "编辑 所选 项目"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -364,7 +364,7 @@
           "id": "remote.miro.general.7166018e84",
           "title": {
             "en": "Deselect, quit edit, switch to cursor",
-            "zh-Hans": "Deselect, 退出 edit, switch to cursor"
+            "zh-Hans": "Deselect, quit edit, switch to cursor"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -469,7 +469,7 @@
           "id": "remote.miro.navigation.2c64a20c3f",
           "title": {
             "en": "Move items / canvas",
-            "zh-Hans": "Move items / canvas"
+            "zh-Hans": "移动items / 画布"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -481,7 +481,7 @@
           "id": "remote.miro.navigation.fb75a74e74",
           "title": {
             "en": "Move items / canvas",
-            "zh-Hans": "Move items / canvas"
+            "zh-Hans": "移动items / 画布"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -493,7 +493,7 @@
           "id": "remote.miro.navigation.1bbea4c5df",
           "title": {
             "en": "Move items / canvas",
-            "zh-Hans": "Move items / canvas"
+            "zh-Hans": "移动items / 画布"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -505,7 +505,7 @@
           "id": "remote.miro.navigation.b75475537f",
           "title": {
             "en": "Move items / canvas",
-            "zh-Hans": "Move items / canvas"
+            "zh-Hans": "移动items / 画布"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -577,7 +577,7 @@
           "id": "remote.miro.navigation.18e419a5b4",
           "title": {
             "en": "Toggle grid",
-            "zh-Hans": "Toggle grid"
+            "zh-Hans": "切换网格"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -589,7 +589,7 @@
           "id": "remote.miro.navigation.f064aa4339",
           "title": {
             "en": "Search",
-            "zh-Hans": "Search"
+            "zh-Hans": "搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 3,

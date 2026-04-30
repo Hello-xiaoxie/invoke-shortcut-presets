@@ -1,0 +1,2049 @@
+{
+  "bundleIdentifier": "org.blenderfoundation.blender",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.blender.basics",
+      "title": {
+        "en": "Basics",
+        "zh-Hans": "基础"
+      },
+      "items": [
+        {
+          "id": "remote.blender.basics.56e5282df0",
+          "title": {
+            "en": "Add object",
+            "zh-Hans": "添加object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.basics.349add9fe3",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.blender.basics.fda61103ff",
+          "title": {
+            "en": "Search for function",
+            "zh-Hans": "Search for function"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.blender.basics.40fd72cf24",
+          "title": {
+            "en": "Toolbar",
+            "zh-Hans": "工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.blender.basics.0c32a499db",
+          "title": {
+            "en": "Properties",
+            "zh-Hans": "Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.blender.basics.df3a786d22",
+          "title": {
+            "en": "Save file",
+            "zh-Hans": "保存文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4096,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.blender.basics.e259931f45",
+          "title": {
+            "en": "Render",
+            "zh-Hans": "渲染"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.blender.basics.243c065df3",
+          "title": {
+            "en": "Render animation",
+            "zh-Hans": "Render 动画"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 4096,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.blender.basics.ec44a0b6be",
+          "title": {
+            "en": "Stop render",
+            "zh-Hans": "Stop render"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.blender.basics.ee89744568",
+          "title": {
+            "en": "Save render",
+            "zh-Hans": "存储 render"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.blender.basics.e5559c585b",
+          "title": {
+            "en": "Show last render",
+            "zh-Hans": "显示 最后一个 render"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.blender.basics.b34f97a6f3",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 4096,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.blender.basics.a0a72c3245",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 4608,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.blender.general.567d479f56",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 512,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.blender.general.95b9004545",
+          "title": {
+            "en": "Move to layer",
+            "zh-Hans": "移动to 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.blender.general.07b871bfcc",
+          "title": {
+            "en": "Mirror",
+            "zh-Hans": "Mirror"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4096,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.blender.general.3a14b1ece3",
+          "title": {
+            "en": "Hide",
+            "zh-Hans": "隐藏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.blender.general.d8c4123789",
+          "title": {
+            "en": "Unhide",
+            "zh-Hans": "Unhide"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2048,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.blender.general.b47b9808cf",
+          "title": {
+            "en": "Move to origin point",
+            "zh-Hans": "Move to origin point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6656,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.blender.general.8af30c826a",
+          "title": {
+            "en": "Parent to",
+            "zh-Hans": "Parent to"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.blender.general.349eea724c",
+          "title": {
+            "en": "Clear parent",
+            "zh-Hans": "清除parent"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2048,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.blender.general.5155b30729",
+          "title": {
+            "en": "Track to",
+            "zh-Hans": "Track to"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.blender.general.cd6b88fe9c",
+          "title": {
+            "en": "Clear track",
+            "zh-Hans": "清除track"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.blender.general.a7b97b7e2e",
+          "title": {
+            "en": "Reset 3D cursor",
+            "zh-Hans": "重置3D 光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.blender.general.69b67c75b2",
+          "title": {
+            "en": "Turn widget on/off",
+            "zh-Hans": "Turn widget on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.blender.general.c60835ff09",
+          "title": {
+            "en": "Add to group",
+            "zh-Hans": "Add to group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.movements",
+      "title": {
+        "en": "Movements",
+        "zh-Hans": "移动"
+      },
+      "items": [
+        {
+          "id": "remote.blender.movements.1cc81b6fe5",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.blender.movements.27ce253aa2",
+          "title": {
+            "en": "Rotate",
+            "zh-Hans": "旋转"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.blender.movements.4e3956b1d3",
+          "title": {
+            "en": "Scale",
+            "zh-Hans": "缩放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.blender.movements.ebe5729cd9",
+          "title": {
+            "en": "Precise movements",
+            "zh-Hans": "Precise movements"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.movements.434d0191c0",
+          "title": {
+            "en": "Increment movements",
+            "zh-Hans": "Increment movements"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.blender.navigation.45ac3cedf1",
+          "title": {
+            "en": "Top view",
+            "zh-Hans": "顶部 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 89,
+            "carbonModifiers": 0,
+            "displayKey": "89"
+          }
+        },
+        {
+          "id": "remote.blender.navigation.040b02e742",
+          "title": {
+            "en": "Front view",
+            "zh-Hans": "Front 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 83,
+            "carbonModifiers": 0,
+            "displayKey": "83"
+          }
+        },
+        {
+          "id": "remote.blender.navigation.efb01d60c3",
+          "title": {
+            "en": "Side view",
+            "zh-Hans": "Side 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 85,
+            "carbonModifiers": 0,
+            "displayKey": "85"
+          }
+        },
+        {
+          "id": "remote.blender.navigation.51333c61d3",
+          "title": {
+            "en": "Opposite view",
+            "zh-Hans": "Opposite 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 83,
+            "carbonModifiers": 4096,
+            "displayKey": "83"
+          }
+        },
+        {
+          "id": "remote.blender.navigation.4d8587d370",
+          "title": {
+            "en": "Camera view",
+            "zh-Hans": "Camera 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 82,
+            "carbonModifiers": 0,
+            "displayKey": "82"
+          }
+        },
+        {
+          "id": "remote.blender.navigation.295e82103a",
+          "title": {
+            "en": "Zoom to object",
+            "zh-Hans": "Zoom to object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65,
+            "carbonModifiers": 0,
+            "displayKey": "65"
+          }
+        },
+        {
+          "id": "remote.blender.navigation.0460dcf75f",
+          "title": {
+            "en": "Fly mode",
+            "zh-Hans": "Fly 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.selection",
+      "title": {
+        "en": "Selection",
+        "zh-Hans": "选择"
+      },
+      "items": [
+        {
+          "id": "remote.blender.selection.58621cb4e4",
+          "title": {
+            "en": "Select/deselect all",
+            "zh-Hans": "Select/deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.selection.89ad5e1e4c",
+          "title": {
+            "en": "Select linked",
+            "zh-Hans": "选择linked"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.blender.selection.50b8f0067b",
+          "title": {
+            "en": "Select all linked",
+            "zh-Hans": "全选 linked"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.blender.selection.5fc082ca23",
+          "title": {
+            "en": "Box select",
+            "zh-Hans": "Box select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.blender.selection.76ed2b4e9e",
+          "title": {
+            "en": "Circle select",
+            "zh-Hans": "Circle select"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.blender.selection.bfbd1b0244",
+          "title": {
+            "en": "Inverse selection",
+            "zh-Hans": "Inverse 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.animation",
+      "title": {
+        "en": "Animation",
+        "zh-Hans": "动画"
+      },
+      "items": [
+        {
+          "id": "remote.blender.animation.2966c29cde",
+          "title": {
+            "en": "Play/stop animation",
+            "zh-Hans": "Play/stop 动画"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2048,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.animation.858ea0648a",
+          "title": {
+            "en": "Play animation in reverse",
+            "zh-Hans": "Play animation in reverse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2560,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.animation.bf6c7a9d84",
+          "title": {
+            "en": "Next frame",
+            "zh-Hans": "下一个 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.blender.animation.5cb26efa0a",
+          "title": {
+            "en": "Previous frame",
+            "zh-Hans": "上一个 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.blender.animation.37498e792a",
+          "title": {
+            "en": "Forward 10 frames",
+            "zh-Hans": "向前 10 frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.blender.animation.b30377bcab",
+          "title": {
+            "en": "Back 10 frames",
+            "zh-Hans": "Back 10 frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.blender.animation.40882c323e",
+          "title": {
+            "en": "Jump to start point",
+            "zh-Hans": "跳转到start point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.blender.animation.61cfdbfd07",
+          "title": {
+            "en": "Jump to end point",
+            "zh-Hans": "跳转到end point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.blender.animation.2b6c35b6b1",
+          "title": {
+            "en": "Insert keyframe",
+            "zh-Hans": "插入 关键帧"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.blender.animation.d15a0bc1f7",
+          "title": {
+            "en": "Remove keyframe",
+            "zh-Hans": "移除keyframe"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2048,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.blender.animation.090a255e2f",
+          "title": {
+            "en": "Jump to next keyframe",
+            "zh-Hans": "跳转到next 关键帧"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.blender.animation.f2a82fb2c9",
+          "title": {
+            "en": "Jump to previous keyframe",
+            "zh-Hans": "跳转到previous 关键帧"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Down"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.armatures",
+      "title": {
+        "en": "Armatures",
+        "zh-Hans": "骨架"
+      },
+      "items": [
+        {
+          "id": "remote.blender.armatures.93a0200781",
+          "title": {
+            "en": "Add bone",
+            "zh-Hans": "添加bone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.4e8d811315",
+          "title": {
+            "en": "Rotate",
+            "zh-Hans": "旋转"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.2ce9720bea",
+          "title": {
+            "en": "Recalculate roll",
+            "zh-Hans": "Recalculate roll"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4096,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.9d22a2ac3c",
+          "title": {
+            "en": "Align bones",
+            "zh-Hans": "对齐 bones"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 6144,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.0042b63d89",
+          "title": {
+            "en": "Move to bone layers",
+            "zh-Hans": "移动to bone 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.8015bccf8c",
+          "title": {
+            "en": "View bone layers",
+            "zh-Hans": "视图 bone 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.1acb9eaf9d",
+          "title": {
+            "en": "Set bone flag",
+            "zh-Hans": "Set bone flag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 512,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.e3c1f3f1d0",
+          "title": {
+            "en": "Switch bone direction",
+            "zh-Hans": "Switch bone direction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2048,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.4e01cb8b41",
+          "title": {
+            "en": "Scroll hierarchy",
+            "zh-Hans": "滚动hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.cd9e369658",
+          "title": {
+            "en": "Scroll hierarchy",
+            "zh-Hans": "滚动hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.blender.armatures.315b4f5490",
+          "title": {
+            "en": "Select hierarchy",
+            "zh-Hans": "选择hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 512,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.blender.armatures.21595a56cc",
+          "title": {
+            "en": "Select hierarchy",
+            "zh-Hans": "选择hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 512,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.blender.armatures.51515e62b6",
+          "title": {
+            "en": "Select connected",
+            "zh-Hans": "选择connected"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.timeline",
+      "title": {
+        "en": "Timeline",
+        "zh-Hans": "时间线"
+      },
+      "items": [
+        {
+          "id": "remote.blender.timeline.c592e3a047",
+          "title": {
+            "en": "Set start frame",
+            "zh-Hans": "Set 开始 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.blender.timeline.fc571b8b22",
+          "title": {
+            "en": "Set end frame",
+            "zh-Hans": "Set 结束 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.blender.timeline.f38fae56d8",
+          "title": {
+            "en": "Show all frames",
+            "zh-Hans": "显示 全部 frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.blender.timeline.e880ea3d34",
+          "title": {
+            "en": "Add marker",
+            "zh-Hans": "添加marker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.blender.timeline.f8993f9220",
+          "title": {
+            "en": "Toggle frame/seconds",
+            "zh-Hans": "切换frame/seconds"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.pose-mode",
+      "title": {
+        "en": "Pose Mode",
+        "zh-Hans": "Pose模式"
+      },
+      "items": [
+        {
+          "id": "remote.blender.pose-mode.6cb50264c9",
+          "title": {
+            "en": "Apply pose",
+            "zh-Hans": "Apply pose"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.4fb713f09a",
+          "title": {
+            "en": "Clear pose rotation",
+            "zh-Hans": "清除pose rotation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.90ed53676d",
+          "title": {
+            "en": "Clear pose location",
+            "zh-Hans": "清除pose location"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2048,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.f82d8fed5b",
+          "title": {
+            "en": "Clear pose scale",
+            "zh-Hans": "清除pose scale"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2048,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.78248c5afb",
+          "title": {
+            "en": "Copy pose",
+            "zh-Hans": "复制 pose"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.30277e672e",
+          "title": {
+            "en": "Paste pose",
+            "zh-Hans": "粘贴 pose"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.1d8f5bc2b8",
+          "title": {
+            "en": "Add ik",
+            "zh-Hans": "添加ik"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 512,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.958924e913",
+          "title": {
+            "en": "Remove ik",
+            "zh-Hans": "移除ik"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6144,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.0f99634622",
+          "title": {
+            "en": "Add to bone group",
+            "zh-Hans": "Add to bone group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.blender.pose-mode.3dd6a6fd7c",
+          "title": {
+            "en": "Relax pose",
+            "zh-Hans": "Relax pose"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2048,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.video-sequence-editor",
+      "title": {
+        "en": "Video Sequence Editor",
+        "zh-Hans": "Video Sequence编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.blender.video-sequence-editor.6f7e2736d7",
+          "title": {
+            "en": "Switch to editor",
+            "zh-Hans": "切换到editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.14f0e14896",
+          "title": {
+            "en": "Next strip",
+            "zh-Hans": "下一个 strip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.9172c53115",
+          "title": {
+            "en": "Previous strip",
+            "zh-Hans": "上一个 strip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.2c84077c60",
+          "title": {
+            "en": "Split strips",
+            "zh-Hans": "Split strips"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.88220852cd",
+          "title": {
+            "en": "Lock strip",
+            "zh-Hans": "锁定 strip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.0f3cf2ce9b",
+          "title": {
+            "en": "Unlock strip",
+            "zh-Hans": "解锁 strip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2560,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.522ad486ba",
+          "title": {
+            "en": "Copy strip",
+            "zh-Hans": "复制 strip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.33d78d102a",
+          "title": {
+            "en": "Paste strip",
+            "zh-Hans": "粘贴 strip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.d687132981",
+          "title": {
+            "en": "Separate images",
+            "zh-Hans": "Separate 图片"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.blender.video-sequence-editor.89aeb8edec",
+          "title": {
+            "en": "Snap strip to scrubber",
+            "zh-Hans": "Snap strip to scrubber"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.node-editor",
+      "title": {
+        "en": "Node Editor",
+        "zh-Hans": "节点编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.blender.node-editor.f5d5505330",
+          "title": {
+            "en": "Add node",
+            "zh-Hans": "添加node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.node-editor.6a8ecb89b0",
+          "title": {
+            "en": "Hide/unhide node",
+            "zh-Hans": "隐藏/unhide 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.blender.node-editor.00b7c7852d",
+          "title": {
+            "en": "Make group",
+            "zh-Hans": "Make 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.blender.node-editor.e85fe903d0",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2048,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.blender.node-editor.db55b60d57",
+          "title": {
+            "en": "Edit group",
+            "zh-Hans": "编辑 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.blender.node-editor.92d2ba1a69",
+          "title": {
+            "en": "Zoom in background",
+            "zh-Hans": "放大 background"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.blender.node-editor.be03e1d3aa",
+          "title": {
+            "en": "Zoom out background",
+            "zh-Hans": "缩小 background"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2048,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.blender.node-editor.0c32a499db",
+          "title": {
+            "en": "Properties",
+            "zh-Hans": "Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.editing-curves",
+      "title": {
+        "en": "Editing Curves",
+        "zh-Hans": "编辑曲线"
+      },
+      "items": [
+        {
+          "id": "remote.blender.editing-curves.e5b25fce2c",
+          "title": {
+            "en": "Close path",
+            "zh-Hans": "关闭 路径"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2048,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.blender.editing-curves.2cdc8307f1",
+          "title": {
+            "en": "Subdivide",
+            "zh-Hans": "细分"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.blender.editing-curves.14b77467de",
+          "title": {
+            "en": "Tilt",
+            "zh-Hans": "Tilt"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.blender.editing-curves.8c7752af78",
+          "title": {
+            "en": "Clear tilt",
+            "zh-Hans": "清除tilt"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.blender.editing-curves.e8041390d3",
+          "title": {
+            "en": "Change handle to bezier",
+            "zh-Hans": "Change handle to bezier"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.blender.editing-curves.2996ff47f2",
+          "title": {
+            "en": "Change handle to vector",
+            "zh-Hans": "Change handle to vector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.blender.editing-curves.85950c2fe0",
+          "title": {
+            "en": "Revert to default handle",
+            "zh-Hans": "Revert to default handle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 512,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.modeling",
+      "title": {
+        "en": "Modeling",
+        "zh-Hans": "建模"
+      },
+      "items": [
+        {
+          "id": "remote.blender.modeling.6d654b702a",
+          "title": {
+            "en": "Make face",
+            "zh-Hans": "Make face"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.2cdc8307f1",
+          "title": {
+            "en": "Subdivide",
+            "zh-Hans": "细分"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.5894a363b5",
+          "title": {
+            "en": "Extrude",
+            "zh-Hans": "挤出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.56be2a68c4",
+          "title": {
+            "en": "Rip",
+            "zh-Hans": "Rip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.1aed9fbb67",
+          "title": {
+            "en": "Separate",
+            "zh-Hans": "分离"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.41c111399a",
+          "title": {
+            "en": "Create loopcut",
+            "zh-Hans": "Create loopcut"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.f9026c2766",
+          "title": {
+            "en": "Proportional editing",
+            "zh-Hans": "Proportional editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.326dd53533",
+          "title": {
+            "en": "Make seam/sharp",
+            "zh-Hans": "Make seam/sharp"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4096,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.6266776038",
+          "title": {
+            "en": "Merge vertices",
+            "zh-Hans": "Merge vertices"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2048,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.07b871bfcc",
+          "title": {
+            "en": "Mirror",
+            "zh-Hans": "Mirror"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4096,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.d1b51caf94",
+          "title": {
+            "en": "Shrink/fatten",
+            "zh-Hans": "Shrink/fatten"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2048,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.86eef0e452",
+          "title": {
+            "en": "Fill",
+            "zh-Hans": "填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2048,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.c241a21c84",
+          "title": {
+            "en": "Beauty fill",
+            "zh-Hans": "Beauty 填充"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.blender.modeling.dc136c1525",
+          "title": {
+            "en": "Add subdivision level",
+            "zh-Hans": "添加subdivision level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.sculpting",
+      "title": {
+        "en": "Sculpting",
+        "zh-Hans": "雕刻"
+      },
+      "items": [
+        {
+          "id": "remote.blender.sculpting.b5aae3c8cd",
+          "title": {
+            "en": "Change brush size",
+            "zh-Hans": "Change brush size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.blender.sculpting.3912d65c2b",
+          "title": {
+            "en": "Change brush strength",
+            "zh-Hans": "Change brush strength"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.blender.sculpting.571ac6af75",
+          "title": {
+            "en": "Rotate brush structure",
+            "zh-Hans": "Rotate brush structure"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.changing-modes",
+      "title": {
+        "en": "Changing Modes",
+        "zh-Hans": "切换模式"
+      },
+      "items": [
+        {
+          "id": "remote.blender.changing-modes.cfae34ba94",
+          "title": {
+            "en": "Edit/object mode",
+            "zh-Hans": "编辑/对象 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.7c562bfcd6",
+          "title": {
+            "en": "Vertext paint mode",
+            "zh-Hans": "Vertext paint 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.dc7c7f0742",
+          "title": {
+            "en": "Weight paint mode",
+            "zh-Hans": "Weight paint 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.caef645241",
+          "title": {
+            "en": "Cycle workspace",
+            "zh-Hans": "Cycle 工作区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4096,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.7f032a8334",
+          "title": {
+            "en": "Cycle workspace",
+            "zh-Hans": "Cycle 工作区"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4096,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.83e80c1e20",
+          "title": {
+            "en": "Logic editor",
+            "zh-Hans": "Logic 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.0bc20ba071",
+          "title": {
+            "en": "Node editor",
+            "zh-Hans": "节点 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.e546c522c1",
+          "title": {
+            "en": "Console",
+            "zh-Hans": "控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.e33ac90e06",
+          "title": {
+            "en": "3D viewport",
+            "zh-Hans": "3D viewport"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.15ea7b00a8",
+          "title": {
+            "en": "F-curve editor",
+            "zh-Hans": "F-curve 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.493f595756",
+          "title": {
+            "en": "Buttons",
+            "zh-Hans": "Buttons"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.eacbce9f01",
+          "title": {
+            "en": "Video sequence editor",
+            "zh-Hans": "视频 sequence 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.d646ab69ef",
+          "title": {
+            "en": "Outliner",
+            "zh-Hans": "Outliner"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.89bda23e25",
+          "title": {
+            "en": "Uv/image editor",
+            "zh-Hans": "Uv/图片 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 512,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.blender.changing-modes.6eccc2378b",
+          "title": {
+            "en": "Text editor",
+            "zh-Hans": "文本 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 512,
+            "displayKey": "F12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.advanced",
+      "title": {
+        "en": "Advanced",
+        "zh-Hans": "高级"
+      },
+      "items": [
+        {
+          "id": "remote.blender.advanced.a406f36cff",
+          "title": {
+            "en": "Append file",
+            "zh-Hans": "Append 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 512,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.blender.advanced.fd21ca77ce",
+          "title": {
+            "en": "Fullscreen mode",
+            "zh-Hans": "全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 2048,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.blender.advanced.79257bb940",
+          "title": {
+            "en": "Maximize subwindow",
+            "zh-Hans": "Maximize subwindow"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.blender.advanced.b1aaa5c3d3",
+          "title": {
+            "en": "Change active camera",
+            "zh-Hans": "Change 活动 camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.blender.advanced.0627ced1e7",
+          "title": {
+            "en": "Use render buffer",
+            "zh-Hans": "Use render buffer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.blender.advanced.73ee3a461b",
+          "title": {
+            "en": "Only render selected",
+            "zh-Hans": "Only render 所选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.blender.advanced.2b49efcd60",
+          "title": {
+            "en": "Only render portion",
+            "zh-Hans": "Only render portion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 512,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.blender.advanced.73968f95ff",
+          "title": {
+            "en": "Save over default scene",
+            "zh-Hans": "Save over default scene"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4096,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.blender.advanced.840b52911f",
+          "title": {
+            "en": "Make screencast",
+            "zh-Hans": "Make screencast"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 4096,
+            "displayKey": "F4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.blender.fly-mode",
+      "title": {
+        "en": "Fly Mode",
+        "zh-Hans": "Fly模式"
+      },
+      "items": [
+        {
+          "id": "remote.blender.fly-mode.9cdfa13a64",
+          "title": {
+            "en": "Start fly mode",
+            "zh-Hans": "开始 fly 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.blender.fly-mode.c1542e786a",
+          "title": {
+            "en": "Fly forward",
+            "zh-Hans": "Fly 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.blender.fly-mode.e30cd4f30a",
+          "title": {
+            "en": "Fly backwards",
+            "zh-Hans": "Fly backwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.blender.fly-mode.0ddef82155",
+          "title": {
+            "en": "Fly left",
+            "zh-Hans": "Fly 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.blender.fly-mode.404d96364d",
+          "title": {
+            "en": "Fly right",
+            "zh-Hans": "Fly 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.blender.fly-mode.80f92d8862",
+          "title": {
+            "en": "Fly up",
+            "zh-Hans": "Fly 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.blender.fly-mode.6fbbf72197",
+          "title": {
+            "en": "Fly down",
+            "zh-Hans": "Fly 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        }
+      ]
+    }
+  ]
+}

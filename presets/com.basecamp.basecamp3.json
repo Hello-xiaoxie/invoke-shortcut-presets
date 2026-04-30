@@ -1,0 +1,195 @@
+{
+  "bundleIdentifier": "com.basecamp.basecamp3",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.basecamp.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.basecamp.general.3174fb0450",
+          "title": {
+            "en": "Jump menu",
+            "zh-Hans": "Jump 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.basecamp.general.d5671ac226",
+          "title": {
+            "en": "My Stuff",
+            "zh-Hans": "My Stuff"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.basecamp.general.244d498464",
+          "title": {
+            "en": "Find/Search",
+            "zh-Hans": "查找/搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.basecamp.general.c6bd0cf508",
+          "title": {
+            "en": "Emoji",
+            "zh-Hans": "Emoji"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4352,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.basecamp.general.d1ef42d736",
+          "title": {
+            "en": "Home",
+            "zh-Hans": "主页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.basecamp.general.990566f71f",
+          "title": {
+            "en": "Latest Activity",
+            "zh-Hans": "Latest Activity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.basecamp.text-editor",
+      "title": {
+        "en": "Text editor",
+        "zh-Hans": "文本编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.basecamp.text-editor.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.basecamp.text-editor.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.basecamp.text-editor.5f6a8946c0",
+          "title": {
+            "en": "Link",
+            "zh-Hans": "链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.basecamp.text-editor.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.basecamp.text-editor.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.basecamp.basecamp-desktop-app",
+      "title": {
+        "en": "Basecamp Desktop App",
+        "zh-Hans": "Basecamp 桌面应用"
+      },
+      "items": [
+        {
+          "id": "remote.basecamp.basecamp-desktop-app.5799f368fd",
+          "title": {
+            "en": "Go Back",
+            "zh-Hans": "Go Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.basecamp.basecamp-desktop-app.61743b4794",
+          "title": {
+            "en": "Go Forward",
+            "zh-Hans": "Go 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        }
+      ]
+    }
+  ]
+}

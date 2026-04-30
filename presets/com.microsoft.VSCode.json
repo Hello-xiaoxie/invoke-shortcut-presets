@@ -1,0 +1,1563 @@
+{
+  "bundleIdentifier": "com.microsoft.VSCode",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.vscode.multi-cursor-and-selection",
+      "title": {
+        "en": "Multi-cursor and selection",
+        "zh-Hans": "多光标与选择"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.multi-cursor-and-selection.39673ec750",
+          "title": {
+            "en": "Select current line",
+            "zh-Hans": "选择当前行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.vscode.multi-cursor-and-selection.799f2cbe8c",
+          "title": {
+            "en": "Select all occurrences of current word",
+            "zh-Hans": "选择当前单词的所有匹配项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 256,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.vscode.multi-cursor-and-selection.85fedfa941",
+          "title": {
+            "en": "Select all occurrences of current selection",
+            "zh-Hans": "选择当前选择的所有匹配项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.vscode.multi-cursor-and-selection.8a692ace9d",
+          "title": {
+            "en": "Insert cursor at end of each line selected",
+            "zh-Hans": "在所选行的末尾插入光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2560,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.vscode.multi-cursor-and-selection.995215b5ed",
+          "title": {
+            "en": "Undo last cursor operation",
+            "zh-Hans": "撤消上次光标操作"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.vscode.multi-cursor-and-selection.64aaa4b1d8",
+          "title": {
+            "en": "Insert Cursor Above",
+            "zh-Hans": "插入 光标 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.vscode.multi-cursor-and-selection.061f76ae1a",
+          "title": {
+            "en": "Insert Cursor Below",
+            "zh-Hans": "插入 光标 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.debug",
+      "title": {
+        "en": "Debug",
+        "zh-Hans": "调试"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.debug.83652e4068",
+          "title": {
+            "en": "Stop",
+            "zh-Hans": "停止"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.vscode.debug.f51a867dca",
+          "title": {
+            "en": "Step Over",
+            "zh-Hans": "Step Over"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.vscode.debug.6296f4afa2",
+          "title": {
+            "en": "Step Out",
+            "zh-Hans": "Step Out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 512,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.vscode.debug.f6f9eae07b",
+          "title": {
+            "en": "Step Into",
+            "zh-Hans": "Step Into"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.vscode.debug.1eec6e0503",
+          "title": {
+            "en": "Pause",
+            "zh-Hans": "暂停"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.vscode.debug.d27c0176be",
+          "title": {
+            "en": "Start (without debugging)",
+            "zh-Hans": "开始 (without debugging)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 4096,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.vscode.debug.3c9c1e2ce6",
+          "title": {
+            "en": "Continue",
+            "zh-Hans": "继续"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.vscode.debug.49736ad861",
+          "title": {
+            "en": "Start",
+            "zh-Hans": "开始"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.vscode.debug.4304b63abd",
+          "title": {
+            "en": "Toggle Breakpoint",
+            "zh-Hans": "切换Breakpoint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.preferences",
+      "title": {
+        "en": "Preferences",
+        "zh-Hans": "偏好设置"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.preferences.3b4b6c9bec",
+          "title": {
+            "en": "Open Settings",
+            "zh-Hans": "打开 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.search-editor",
+      "title": {
+        "en": "Search Editor",
+        "zh-Hans": "搜索 Editor"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.search-editor.3455871d86",
+          "title": {
+            "en": "Delete File Results",
+            "zh-Hans": "删除 文件 Results"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 768,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.vscode.search-editor.708862686b",
+          "title": {
+            "en": "Search Again",
+            "zh-Hans": "搜索 Again"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.vscode.search-editor.316078ee9d",
+          "title": {
+            "en": "Focus Search Editor Input",
+            "zh-Hans": "Focus 搜索 编辑器 Input"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.vscode.search-editor.77837ac2cc",
+          "title": {
+            "en": "Open Results In Editor",
+            "zh-Hans": "Open Results In Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.search-and-replace",
+      "title": {
+        "en": "Search and Replace",
+        "zh-Hans": "搜索 and 替换"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.search-and-replace.7c853fa35f",
+          "title": {
+            "en": "Show Previous Search Term",
+            "zh-Hans": "显示 上一个 搜索 Term"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.1dbf16af8b",
+          "title": {
+            "en": "Show Next Search Term",
+            "zh-Hans": "显示 下一个 搜索 Term"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.18ee154541",
+          "title": {
+            "en": "Focus Previous Search Result",
+            "zh-Hans": "Focus 上一个 搜索 Result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.76cef5c3f4",
+          "title": {
+            "en": "Focus Next Search Result",
+            "zh-Hans": "Focus 下一个 搜索 Result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.014c5d6c69",
+          "title": {
+            "en": "Toggle Search Details",
+            "zh-Hans": "Toggle 搜索 Details"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.85176aab60",
+          "title": {
+            "en": "Replace in Files",
+            "zh-Hans": "Replace in Files"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.11cbf7aecd",
+          "title": {
+            "en": "Show Search",
+            "zh-Hans": "显示 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.e4fd32b5ac",
+          "title": {
+            "en": "Toggle Find Whole Word",
+            "zh-Hans": "Toggle 查找 Whole 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.78f418ab28",
+          "title": {
+            "en": "Toggle Find Regex",
+            "zh-Hans": "Toggle 查找 Regex"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.d7c6e7d496",
+          "title": {
+            "en": "Toggle Find Case Sensitive",
+            "zh-Hans": "Toggle Find Case Sensitive"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.d9642d268b",
+          "title": {
+            "en": "Add Selection To Next Find Match",
+            "zh-Hans": "Add Selection To Next Find Match"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.210dc6f766",
+          "title": {
+            "en": "Select All Occurrences of Find Match",
+            "zh-Hans": "Select All Occurrences of Find Match"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.560c6b7a8e",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.6c2531cd31",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.81d3351aa8",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.vscode.search-and-replace.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.display",
+      "title": {
+        "en": "Display",
+        "zh-Hans": "显示"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.display.e88fb89572",
+          "title": {
+            "en": "Toggle Integrated Terminal",
+            "zh-Hans": "切换Integrated 终端"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.vscode.display.6462677331",
+          "title": {
+            "en": "Toggle Markdown Preview",
+            "zh-Hans": "切换Markdown 预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.vscode.display.b905300768",
+          "title": {
+            "en": "Open New Command Prompt",
+            "zh-Hans": "Open New Command Prompt"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.vscode.display.62846d086f",
+          "title": {
+            "en": "Quick Open View",
+            "zh-Hans": "Quick 打开 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4096,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.vscode.display.f5a13260d8",
+          "title": {
+            "en": "Show Output",
+            "zh-Hans": "显示 输出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.vscode.display.1ebe50fbeb",
+          "title": {
+            "en": "Show Extensions",
+            "zh-Hans": "显示 扩展"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.vscode.display.71db910a78",
+          "title": {
+            "en": "Show Run",
+            "zh-Hans": "显示 Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.vscode.display.a042f9fb66",
+          "title": {
+            "en": "Show Source Control",
+            "zh-Hans": "显示 源 Control"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4608,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.vscode.display.11cbf7aecd",
+          "title": {
+            "en": "Show Search",
+            "zh-Hans": "显示 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.vscode.display.54915c2c42",
+          "title": {
+            "en": "Show Explorer / Toggle Focus",
+            "zh-Hans": "显示 资源管理器 / Toggle Focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.vscode.display.131f2b4809",
+          "title": {
+            "en": "Toggle Sidebar Visibility",
+            "zh-Hans": "切换侧边栏 Visibility"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.vscode.display.16ee800a57",
+          "title": {
+            "en": "Reset Zoom",
+            "zh-Hans": "重置Zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 82,
+            "carbonModifiers": 256,
+            "displayKey": "82"
+          }
+        },
+        {
+          "id": "remote.vscode.display.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.vscode.display.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.vscode.display.f7fb7d98d5",
+          "title": {
+            "en": "Toggle Full Screen",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.file-management",
+      "title": {
+        "en": "File Management",
+        "zh-Hans": "文件管理"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.file-management.e54ae0f2e3",
+          "title": {
+            "en": "Reopen Closed Editor",
+            "zh-Hans": "Reopen Closed 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.vscode.file-management.ccfdcc0e86",
+          "title": {
+            "en": "Close Others",
+            "zh-Hans": "关闭 Others"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.vscode.file-management.8b62a9c62e",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.vscode.file-management.4d60dc8e09",
+          "title": {
+            "en": "Save As...",
+            "zh-Hans": "存储 As..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.vscode.file-management.36812c54fd",
+          "title": {
+            "en": "Save All",
+            "zh-Hans": "存储 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.vscode.file-management.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.vscode.file-management.0b78e0dc5a",
+          "title": {
+            "en": "New File",
+            "zh-Hans": "新建File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.editor-window-management",
+      "title": {
+        "en": "Editor/Window Management",
+        "zh-Hans": "编辑器/窗口管理"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.editor-window-management.80c6129e07",
+          "title": {
+            "en": "Move Editor into Previous Group",
+            "zh-Hans": "Move 编辑器 into 上一个 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.vscode.editor-window-management.b7cd25c77b",
+          "title": {
+            "en": "Move Editor into Next Group",
+            "zh-Hans": "Move 编辑器 into 下一个 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.vscode.editor-window-management.421e0fe9f7",
+          "title": {
+            "en": "Focus into Third Editor Group",
+            "zh-Hans": "Focus into Third Editor Group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.vscode.editor-window-management.4e83e9636a",
+          "title": {
+            "en": "Focus into Second Editor Group",
+            "zh-Hans": "Focus into Second Editor Group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.vscode.editor-window-management.22074dc3a4",
+          "title": {
+            "en": "Focus into First Editor Group",
+            "zh-Hans": "Focus into 第一个 编辑器 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.vscode.editor-window-management.9a5c9dcd79",
+          "title": {
+            "en": "Split Editor",
+            "zh-Hans": "拆分编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.vscode.editor-window-management.db3b9c7911",
+          "title": {
+            "en": "Close Editor",
+            "zh-Hans": "关闭 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.vscode.editor-window-management.4f44d241ad",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.vscode.editor-window-management.46f65b2a8d",
+          "title": {
+            "en": "New Window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.navigation.b4e5aff9df",
+          "title": {
+            "en": "Toggle Use of Tab Key for Setting Focus",
+            "zh-Hans": "Toggle Use of Tab Key for Setting Focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4608,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.058b8b7697",
+          "title": {
+            "en": "Go Forward",
+            "zh-Hans": "Go 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4608,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.683ae632b7",
+          "title": {
+            "en": "Go back in Quick Input",
+            "zh-Hans": "Go back in Quick Input"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4096,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.2a96497156",
+          "title": {
+            "en": "Go Back",
+            "zh-Hans": "Go Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4096,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.e098d4ced1",
+          "title": {
+            "en": "Navigate Editor Group History",
+            "zh-Hans": "Navigate 编辑器 编组 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.678a3d433d",
+          "title": {
+            "en": "Show All Commands",
+            "zh-Hans": "显示 全部 Commands"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.963e5d61dd",
+          "title": {
+            "en": "Go to Previous Error or Warning",
+            "zh-Hans": "Go to Previous Error or Warning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.6b878058d7",
+          "title": {
+            "en": "Go to Next Error or Warning",
+            "zh-Hans": "Go to Next Error or Warning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.f5c102b2c2",
+          "title": {
+            "en": "Show Problems",
+            "zh-Hans": "显示 Problems"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.a202b9c732",
+          "title": {
+            "en": "Go to Symbol...",
+            "zh-Hans": "转到Symbol..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.8bdc88fa20",
+          "title": {
+            "en": "Go to File..., Quick Open",
+            "zh-Hans": "Go to File..., Quick Open"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.b02eb01909",
+          "title": {
+            "en": "Go to Line...",
+            "zh-Hans": "转到Line..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.vscode.navigation.ed34e8fb58",
+          "title": {
+            "en": "Show All Symbols",
+            "zh-Hans": "显示 全部 Symbols"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.rich-languages-editing",
+      "title": {
+        "en": "Rich Languages Editing",
+        "zh-Hans": "富语言编辑"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.rich-languages-editing.ef933b4bf9",
+          "title": {
+            "en": "Shrink AST Selection",
+            "zh-Hans": "Shrink AST 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4864,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.37fa967f4a",
+          "title": {
+            "en": "Expand AST Selection",
+            "zh-Hans": "展开AST 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4864,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.f60d9f5041",
+          "title": {
+            "en": "Replace with Previous Value",
+            "zh-Hans": "Replace with Previous Value"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.609d958b1b",
+          "title": {
+            "en": "Replace with Next Value",
+            "zh-Hans": "Replace with Next Value"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.8c31d104d1",
+          "title": {
+            "en": "Rename Symbol",
+            "zh-Hans": "重命名 符号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.ebb80696f4",
+          "title": {
+            "en": "Go to References",
+            "zh-Hans": "转到References"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 512,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.230d9345b3",
+          "title": {
+            "en": "Quick Fix",
+            "zh-Hans": "Quick Fix"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.490ecbfaa7",
+          "title": {
+            "en": "Peek Definition",
+            "zh-Hans": "Peek 定义"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 2048,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.26c09498d2",
+          "title": {
+            "en": "Go to Definition",
+            "zh-Hans": "转到Definition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.bead4dca72",
+          "title": {
+            "en": "Format Document",
+            "zh-Hans": "格式化文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.ba4da08a65",
+          "title": {
+            "en": "Trigger Parameter Hints",
+            "zh-Hans": "Trigger Parameter Hints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 768,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.vscode.rich-languages-editing.51abf6304b",
+          "title": {
+            "en": "Trigger Suggest",
+            "zh-Hans": "Trigger Suggest"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vscode.basic-editing",
+      "title": {
+        "en": "Basic Editing",
+        "zh-Hans": "基础编辑"
+      },
+      "items": [
+        {
+          "id": "remote.vscode.basic-editing.69358c4939",
+          "title": {
+            "en": "Toggle Word Wrap",
+            "zh-Hans": "切换Word Wrap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2048,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.8bcb7331cf",
+          "title": {
+            "en": "Toggle Block Comment",
+            "zh-Hans": "切换Block 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2560,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.3d2bec96e2",
+          "title": {
+            "en": "Toggle Line Comment",
+            "zh-Hans": "切换Line 评论"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.4bf1fc6a85",
+          "title": {
+            "en": "Unfold (uncollapse) region",
+            "zh-Hans": "Unfold (uncollapse) 区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.07fc0bb884",
+          "title": {
+            "en": "Fold (collapse) region",
+            "zh-Hans": "Fold (collapse) 区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.148ffb593e",
+          "title": {
+            "en": "Scroll Page Up",
+            "zh-Hans": "滚动Page 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 256,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.64976b5b00",
+          "title": {
+            "en": "Scroll Page Down",
+            "zh-Hans": "滚动Page 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 256,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.a8e43f0563",
+          "title": {
+            "en": "Scroll Line Up",
+            "zh-Hans": "滚动Line 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.7e28e6e1cd",
+          "title": {
+            "en": "Scroll Line Down",
+            "zh-Hans": "滚动Line 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 4096,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.af2665ea87",
+          "title": {
+            "en": "Go to Beginning of File",
+            "zh-Hans": "Go to Beginning of File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.7119945632",
+          "title": {
+            "en": "Go to End of File",
+            "zh-Hans": "Go to End of File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.85824d7a10",
+          "title": {
+            "en": "Go to End of Line",
+            "zh-Hans": "Go to End of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.c07a605735",
+          "title": {
+            "en": "Go to Beginning of Line",
+            "zh-Hans": "Go to Beginning of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.8865328600",
+          "title": {
+            "en": "Outdent Line",
+            "zh-Hans": "Outdent 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.584075985e",
+          "title": {
+            "en": "Indent Line",
+            "zh-Hans": "Indent 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.8d8caaa172",
+          "title": {
+            "en": "Jump to matching bracket",
+            "zh-Hans": "跳转到matching bracket"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.a4d615949b",
+          "title": {
+            "en": "Copy Line Up",
+            "zh-Hans": "复制 行 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.ab178fe593",
+          "title": {
+            "en": "Copy Line Down",
+            "zh-Hans": "复制 行 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.68ad4463f3",
+          "title": {
+            "en": "Move Line Up",
+            "zh-Hans": "移动Line 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.4b78c082d9",
+          "title": {
+            "en": "Move Line Down",
+            "zh-Hans": "移动Line 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.5d31edcb73",
+          "title": {
+            "en": "Insert Line Above",
+            "zh-Hans": "插入 行 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.b82c180e51",
+          "title": {
+            "en": "Insert Line Below",
+            "zh-Hans": "插入 行 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.d081d822df",
+          "title": {
+            "en": "Delete Line",
+            "zh-Hans": "删除 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.f87b26d5b2",
+          "title": {
+            "en": "Copy line (empty selection)",
+            "zh-Hans": "复制 行 (empty 选择)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.vscode.basic-editing.16abc7b55c",
+          "title": {
+            "en": "Cut line (empty selection)",
+            "zh-Hans": "剪切 行 (empty 选择)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        }
+      ]
+    }
+  ]
+}

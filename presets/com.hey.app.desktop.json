@@ -1,0 +1,324 @@
+{
+  "bundleIdentifier": "com.hey.app.desktop",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.hey.compose",
+      "title": {
+        "en": "Compose",
+        "zh-Hans": "撰写"
+      },
+      "items": [
+        {
+          "id": "remote.hey.compose.c07d344284",
+          "title": {
+            "en": "Send",
+            "zh-Hans": "Send"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.hey.compose.2a0b6485d1",
+          "title": {
+            "en": "Insert a link",
+            "zh-Hans": "Insert a link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.hey.compose.34e63a8c88",
+          "title": {
+            "en": "Italics",
+            "zh-Hans": "Italics"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.hey.compose.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.hey.imbox-paper-trail",
+      "title": {
+        "en": "Imbox & Paper Trail",
+        "zh-Hans": "收件箱与消息记录"
+      },
+      "items": [
+        {
+          "id": "remote.hey.imbox-paper-trail.0bc1294642",
+          "title": {
+            "en": "The Screener",
+            "zh-Hans": "The Screener"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.hey.imbox-paper-trail.1a9ace5bb9",
+          "title": {
+            "en": "Compose message",
+            "zh-Hans": "Compose message"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.hey.imbox-paper-trail.83132e54c5",
+          "title": {
+            "en": "Focus actions menu",
+            "zh-Hans": "聚焦actions 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.hey.imbox-paper-trail.28c6e5abfb",
+          "title": {
+            "en": "Open thread",
+            "zh-Hans": "打开 thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.hey.imbox-paper-trail.33ff5d10ed",
+          "title": {
+            "en": "Previous thread",
+            "zh-Hans": "上一个 thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.hey.imbox-paper-trail.f4be643776",
+          "title": {
+            "en": "Next thread",
+            "zh-Hans": "下一个 thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.hey.imbox-paper-trail.1c494aaba0",
+          "title": {
+            "en": "Select thread",
+            "zh-Hans": "选择thread"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.hey.search",
+      "title": {
+        "en": "Search",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.hey.search.203dd9d5cc",
+          "title": {
+            "en": "Open result",
+            "zh-Hans": "打开 result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.hey.search.fe4751a532",
+          "title": {
+            "en": "Previous result",
+            "zh-Hans": "上一个 result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.hey.search.f5af52436d",
+          "title": {
+            "en": "Next result",
+            "zh-Hans": "下一个 result"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.hey.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.hey.navigation.b2d9c8a1b5",
+          "title": {
+            "en": "HEY menu",
+            "zh-Hans": "HEY 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.hey.navigation.9fb63c1e02",
+          "title": {
+            "en": "Search",
+            "zh-Hans": "搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.hey.navigation.94471ccc19",
+          "title": {
+            "en": "All Files",
+            "zh-Hans": "全部 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 0,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.hey.navigation.3b1b076c55",
+          "title": {
+            "en": "Set Aside",
+            "zh-Hans": "Set Aside"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 0,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.hey.navigation.4c8887b9a0",
+          "title": {
+            "en": "Reply Later",
+            "zh-Hans": "Reply Later"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 0,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.hey.navigation.85ab8955a2",
+          "title": {
+            "en": "Paper Trail",
+            "zh-Hans": "Paper Trail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.hey.navigation.11621ee7f6",
+          "title": {
+            "en": "The Feed",
+            "zh-Hans": "The Feed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.hey.navigation.e54581552d",
+          "title": {
+            "en": "Imbox",
+            "zh-Hans": "Imbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.hey.navigation.df0f3ba282",
+          "title": {
+            "en": "Show Keyboard shortcuts",
+            "zh-Hans": "显示 Keyboard shortcuts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        }
+      ]
+    }
+  ]
+}

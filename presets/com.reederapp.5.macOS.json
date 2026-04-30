@@ -1,0 +1,279 @@
+{
+  "bundleIdentifier": "com.reederapp.5.macOS",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.reeder.accounts",
+      "title": {
+        "en": "Accounts",
+        "zh-Hans": "账户"
+      },
+      "items": [
+        {
+          "id": "remote.reeder.accounts.fdee35fefc",
+          "title": {
+            "en": "Sync All",
+            "zh-Hans": "Sync 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.reeder.accounts.d5f8cca653",
+          "title": {
+            "en": "Show Accounts",
+            "zh-Hans": "显示 Accounts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.reeder.subscriptions",
+      "title": {
+        "en": "Subscriptions",
+        "zh-Hans": "订阅"
+      },
+      "items": [
+        {
+          "id": "remote.reeder.subscriptions.7cfc5ac7c8",
+          "title": {
+            "en": "Sync",
+            "zh-Hans": "Sync"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.reeder.subscriptions.c9a8dc77b1",
+          "title": {
+            "en": "Previous Subscription",
+            "zh-Hans": "上一个 Subscription"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.reeder.subscriptions.3fb400badd",
+          "title": {
+            "en": "Next Subscription",
+            "zh-Hans": "下一个 Subscription"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.reeder.subscriptions.c2a5ce1309",
+          "title": {
+            "en": "Toggle Folder",
+            "zh-Hans": "切换Folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.reeder.subscriptions.1ce4ae94bb",
+          "title": {
+            "en": "Add Subscription...",
+            "zh-Hans": "添加Subscription..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.reeder.item",
+      "title": {
+        "en": "Item",
+        "zh-Hans": "项目"
+      },
+      "items": [
+        {
+          "id": "remote.reeder.item.41d7fdf7fa",
+          "title": {
+            "en": "Previous Item",
+            "zh-Hans": "上一个 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.reeder.item.82fa6a306c",
+          "title": {
+            "en": "Next Item",
+            "zh-Hans": "下一个 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.reeder.item.9f26285601",
+          "title": {
+            "en": "Toggle Read",
+            "zh-Hans": "切换Read"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.reeder.item.9623465746",
+          "title": {
+            "en": "Toggle Starred",
+            "zh-Hans": "切换Starred"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.reeder.item.369a0f48c7",
+          "title": {
+            "en": "Tags...",
+            "zh-Hans": "标签..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.reeder.item.1c57ecce66",
+          "title": {
+            "en": "View Article",
+            "zh-Hans": "视图 Article"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.reeder.item.8a9a2ca3ff",
+          "title": {
+            "en": "Toggle Reader View",
+            "zh-Hans": "切换Reader 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.reeder.item.64dc80e90f",
+          "title": {
+            "en": "Toggle Bionic Reader View",
+            "zh-Hans": "切换Bionic Reader 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 512,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.reeder.item.54e857fc6c",
+          "title": {
+            "en": "View in Browser",
+            "zh-Hans": "View in Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.reeder.item.08d24262c2",
+          "title": {
+            "en": "Open in Default Browser",
+            "zh-Hans": "Open in Default Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.reeder.item.fd90bb373c",
+          "title": {
+            "en": "Filter",
+            "zh-Hans": "筛选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.reeder.item.bebced4325",
+          "title": {
+            "en": "Clear",
+            "zh-Hans": "Clear"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.reeder.item.c99229b0eb",
+          "title": {
+            "en": "Mark All as Read...",
+            "zh-Hans": "Mark 全部 as 已读..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "bundleIdentifier": "com.atlassian.trello",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.trello.autocomplete",
+      "title": {
+        "en": "Autocomplete",
+        "zh-Hans": "自动补全"
+      },
+      "items": [
+        {
+          "id": "remote.trello.autocomplete.4606ae8fae",
+          "title": {
+            "en": "Autocomplete Position",
+            "zh-Hans": "Autocomplete Position"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.trello.autocomplete.a338e88e32",
+          "title": {
+            "en": "Autocomplete Labels",
+            "zh-Hans": "Autocomplete Labels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.trello.autocomplete.57a46763ea",
+          "title": {
+            "en": "Autocomplete Members",
+            "zh-Hans": "Autocomplete Members"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.trello.labels",
+      "title": {
+        "en": "Labels",
+        "zh-Hans": "标签"
+      },
+      "items": [
+        {
+          "id": "remote.trello.labels.e644c2deb2",
+          "title": {
+            "en": "Toggle Label Names",
+            "zh-Hans": "切换Label Names"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.trello.labels.2d480e26d1",
+          "title": {
+            "en": "Toggle Black Label",
+            "zh-Hans": "切换Black Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 0,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.trello.labels.3b9ce6d2d2",
+          "title": {
+            "en": "Toggle Pink Label",
+            "zh-Hans": "切换Pink Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 0,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.trello.labels.0328c5babe",
+          "title": {
+            "en": "Toggle Lime Label",
+            "zh-Hans": "切换Lime Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 0,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.trello.labels.07eefd9cf4",
+          "title": {
+            "en": "Toggle Sky Label",
+            "zh-Hans": "切换Sky Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 0,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.trello.labels.3f833cee4b",
+          "title": {
+            "en": "Toggle Blue Label",
+            "zh-Hans": "切换Blue Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 0,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.trello.labels.edce967cee",
+          "title": {
+            "en": "Toggle Purple Label",
+            "zh-Hans": "切换Purple Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 0,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.trello.labels.a747f73a01",
+          "title": {
+            "en": "Toggle Red Label",
+            "zh-Hans": "切换Red Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 0,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.trello.labels.712e304640",
+          "title": {
+            "en": "Toggle Orange Label",
+            "zh-Hans": "切换Orange Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 0,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.trello.labels.33782441e5",
+          "title": {
+            "en": "Toggle Yellow Label",
+            "zh-Hans": "切换Yellow Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 0,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.trello.labels.e84673b664",
+          "title": {
+            "en": "Toggle Green Label",
+            "zh-Hans": "切换Green Label"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 0,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.trello.labels.22bcc040fb",
+          "title": {
+            "en": "Open Label Pop-over",
+            "zh-Hans": "Open Label Pop-over"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.trello.card-actions",
+      "title": {
+        "en": "Card Actions",
+        "zh-Hans": "Card操作"
+      },
+      "items": [
+        {
+          "id": "remote.trello.card-actions.a8b4ca1f1a",
+          "title": {
+            "en": "Cut Card",
+            "zh-Hans": "剪切 Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.c982aa0636",
+          "title": {
+            "en": "Paste Copied Card",
+            "zh-Hans": "粘贴 Copied Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.dc7045a326",
+          "title": {
+            "en": "Copy Card",
+            "zh-Hans": "复制 Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.51dd58b263",
+          "title": {
+            "en": "My Cards Filter",
+            "zh-Hans": "My Cards 滤镜"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.0b37d47752",
+          "title": {
+            "en": "Move card to top of list to the right",
+            "zh-Hans": "Move card to top of list to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.eea12e9ea5",
+          "title": {
+            "en": "Move card to top of list to the left",
+            "zh-Hans": "Move card to top of list to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.40c05a2847",
+          "title": {
+            "en": "Move card to bottom of list to the right",
+            "zh-Hans": "Move card to bottom of list to the right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.ccb9d25bf3",
+          "title": {
+            "en": "Move card to bottom list to the left",
+            "zh-Hans": "Move card to bottom list to the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.8f2f01290f",
+          "title": {
+            "en": "Insert New Card",
+            "zh-Hans": "插入 New Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.371761aec9",
+          "title": {
+            "en": "Vote",
+            "zh-Hans": "Vote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.e5934370e8",
+          "title": {
+            "en": "Edit Title",
+            "zh-Hans": "编辑 Title"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.30c3e4e5e4",
+          "title": {
+            "en": "Assign Self",
+            "zh-Hans": "Assign Self"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.75b3515c04",
+          "title": {
+            "en": "Watch",
+            "zh-Hans": "Watch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.13819783c2",
+          "title": {
+            "en": "Add / Remove Members",
+            "zh-Hans": "添加/ Remove Members"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.29c2e99a3a",
+          "title": {
+            "en": "Open Card Filter Menu",
+            "zh-Hans": "打开 Card 滤镜 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.06c139594c",
+          "title": {
+            "en": "Open Card",
+            "zh-Hans": "打开 Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.c0c3f8741f",
+          "title": {
+            "en": "Save Text",
+            "zh-Hans": "存储 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.9718733e94",
+          "title": {
+            "en": "Close Menu / Cancel Editing",
+            "zh-Hans": "关闭 菜单 / Cancel Editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.932df555ce",
+          "title": {
+            "en": "Quick Edit Mode",
+            "zh-Hans": "Quick 编辑 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.8ab7d2dbd3",
+          "title": {
+            "en": "Add Checklist",
+            "zh-Hans": "添加Checklist"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 0,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.cd7161b1c7",
+          "title": {
+            "en": "Due Date",
+            "zh-Hans": "Due Date"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.trello.card-actions.b00eec77d3",
+          "title": {
+            "en": "Archive Card",
+            "zh-Hans": "Archive Card"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.trello.card-navigation",
+      "title": {
+        "en": "Card Navigation",
+        "zh-Hans": "卡片导航"
+      },
+      "items": [
+        {
+          "id": "remote.trello.card-navigation.652c7df830",
+          "title": {
+            "en": "Select card above",
+            "zh-Hans": "选择card 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.trello.card-navigation.bbf0274c71",
+          "title": {
+            "en": "Select card below",
+            "zh-Hans": "选择card 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.trello.card-navigation.4248b0e5d2",
+          "title": {
+            "en": "Select card to left",
+            "zh-Hans": "Select card to left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.trello.card-navigation.34020c9ddd",
+          "title": {
+            "en": "Select card to right",
+            "zh-Hans": "Select card to right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.trello.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.trello.general.39a6732c50",
+          "title": {
+            "en": "Clear All Filters",
+            "zh-Hans": "清除All Filters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.trello.general.c1782c7ffd",
+          "title": {
+            "en": "Toggle Board Menu",
+            "zh-Hans": "切换Board 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.trello.general.8b416fd58f",
+          "title": {
+            "en": "Repeat Action",
+            "zh-Hans": "Repeat Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.trello.general.aa1b190781",
+          "title": {
+            "en": "Redo Action",
+            "zh-Hans": "Redo Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 512,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.trello.general.08eeffbb21",
+          "title": {
+            "en": "Undo Action",
+            "zh-Hans": "Undo Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.trello.general.3295da7994",
+          "title": {
+            "en": "Focus Search Box",
+            "zh-Hans": "Focus 搜索 Box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.trello.general.e7a50e0957",
+          "title": {
+            "en": "Open Header Boards Menu",
+            "zh-Hans": "打开 页头 Boards 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.trello.general.bb4b707306",
+          "title": {
+            "en": "Open Shortcuts Page",
+            "zh-Hans": "打开 Shortcuts 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        }
+      ]
+    }
+  ]
+}

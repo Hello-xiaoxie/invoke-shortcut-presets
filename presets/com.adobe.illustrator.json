@@ -1,0 +1,1569 @@
+{
+  "bundleIdentifier": "com.adobe.illustrator",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-illustrator.function-keys",
+      "title": {
+        "en": "Function Keys",
+        "zh-Hans": "功能键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.function-keys.9f4dad6270",
+          "title": {
+            "en": "Help",
+            "zh-Hans": "Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.81a49f9319",
+          "title": {
+            "en": "Cut / Copy / Paste",
+            "zh-Hans": "剪切 / 复制 / 粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.58ddad8c93",
+          "title": {
+            "en": "Show/hide Brushes panel",
+            "zh-Hans": "显示/隐藏 Brushes 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.372e7b0747",
+          "title": {
+            "en": "Show/hide Color panel",
+            "zh-Hans": "显示/隐藏 颜色 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.2c4065bab4",
+          "title": {
+            "en": "Show/hide Layers panel",
+            "zh-Hans": "显示/隐藏 图层 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.3c9f9fa009",
+          "title": {
+            "en": "Create new symbol",
+            "zh-Hans": "Create new 符号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.c4f6943285",
+          "title": {
+            "en": "Show/hide Info panel",
+            "zh-Hans": "显示/隐藏 Info 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.fac91bf462",
+          "title": {
+            "en": "Show/hide Gradient panel",
+            "zh-Hans": "显示/隐藏 渐变 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.c95b9718f6",
+          "title": {
+            "en": "Show/hide Stroke panel",
+            "zh-Hans": "显示/隐藏 描边 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 256,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.5fcba3eee7",
+          "title": {
+            "en": "Show/hide Attributes panel",
+            "zh-Hans": "显示/隐藏 Attributes 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.bfb2fa8ca4",
+          "title": {
+            "en": "Revert",
+            "zh-Hans": "Revert"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.6b470e755c",
+          "title": {
+            "en": "Show/hide Graphic Styles panel",
+            "zh-Hans": "显示/隐藏 Graphic Styles 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.ea94302f43",
+          "title": {
+            "en": "Show/hide Appearance panel",
+            "zh-Hans": "显示/隐藏 Appearance 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.49215e8ffe",
+          "title": {
+            "en": "Show/hide Align panel",
+            "zh-Hans": "显示/隐藏 对齐 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 512,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.676999840c",
+          "title": {
+            "en": "Show/hide Transform panel",
+            "zh-Hans": "显示/隐藏 Transform 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.df219a4301",
+          "title": {
+            "en": "Show/hide Pathfinder panel",
+            "zh-Hans": "显示/隐藏 Pathfinder 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 768,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.4048ee48fd",
+          "title": {
+            "en": "Show/hide Transparency panel",
+            "zh-Hans": "显示/隐藏 Transparency 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 768,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.9dc36d3f47",
+          "title": {
+            "en": "Show/hide Symbols panel",
+            "zh-Hans": "显示/隐藏 Symbols 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 768,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.function-keys.e78dbbfa80",
+          "title": {
+            "en": "Show/hide perspective grid",
+            "zh-Hans": "显示/隐藏 perspective 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-illustrator.selecting-tools",
+      "title": {
+        "en": "Selecting Tools",
+        "zh-Hans": "Selecting工具"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.4314a4145d",
+          "title": {
+            "en": "Artboard tool",
+            "zh-Hans": "画板工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.d3891ba1c3",
+          "title": {
+            "en": "Selection tool",
+            "zh-Hans": "选择工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.12ff70728e",
+          "title": {
+            "en": "Direct Selection tool",
+            "zh-Hans": "直接选择工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.48dc3a1731",
+          "title": {
+            "en": "Magic Wand tool",
+            "zh-Hans": "魔棒工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.70a844bd19",
+          "title": {
+            "en": "Lasso tool",
+            "zh-Hans": "套索工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.cac2569b34",
+          "title": {
+            "en": "Pen tool",
+            "zh-Hans": "钢笔工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.fefbb247b8",
+          "title": {
+            "en": "Blob Brush tool",
+            "zh-Hans": "Blob Brush tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 512,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.d9f96bd7b2",
+          "title": {
+            "en": "Add Anchor Point tool",
+            "zh-Hans": "Add Anchor Point tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.e0bf84497b",
+          "title": {
+            "en": "Delete Anchor Point tool",
+            "zh-Hans": "删除 锚点 Point tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.df898826cb",
+          "title": {
+            "en": "C onvert Anchor Point tool",
+            "zh-Hans": "C onvert Anchor Point tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.c27507ab73",
+          "title": {
+            "en": "Type tool",
+            "zh-Hans": "文字工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.cc6ad832df",
+          "title": {
+            "en": "Line Segment tool",
+            "zh-Hans": "行 Segment tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 0,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.82f9168042",
+          "title": {
+            "en": "Rectangle tool",
+            "zh-Hans": "矩形工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.aa8cbcf115",
+          "title": {
+            "en": "Ellipse tool",
+            "zh-Hans": "椭圆工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.2dfce86a71",
+          "title": {
+            "en": "Paintbrush tool",
+            "zh-Hans": "Paintbrush tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.c94b94f956",
+          "title": {
+            "en": "Pencil tool",
+            "zh-Hans": "铅笔工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.ce82791ff7",
+          "title": {
+            "en": "Rotate tool",
+            "zh-Hans": "旋转工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.85009e18b1",
+          "title": {
+            "en": "Reflect tool",
+            "zh-Hans": "镜像工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.26fe7c5084",
+          "title": {
+            "en": "Scale tool",
+            "zh-Hans": "缩放工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.b3dc9d040b",
+          "title": {
+            "en": "Warp tool",
+            "zh-Hans": "变形工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.551eaafa79",
+          "title": {
+            "en": "Width tool",
+            "zh-Hans": "宽度工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 512,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.0466461605",
+          "title": {
+            "en": "Free Transform tool",
+            "zh-Hans": "Free Transform tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.bbc4d1d8c8",
+          "title": {
+            "en": "Shape Builder tool",
+            "zh-Hans": "形状 Builder tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.ff4a0ba34e",
+          "title": {
+            "en": "Perspective Grid tool",
+            "zh-Hans": "Perspective 网格 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.d111186371",
+          "title": {
+            "en": "Perspective Selection tool",
+            "zh-Hans": "Perspective 选择 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.1b71260037",
+          "title": {
+            "en": "Symbol Sprayer tool",
+            "zh-Hans": "符号喷枪工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.8b53561500",
+          "title": {
+            "en": "Column Graph tool",
+            "zh-Hans": "柱形图工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.096e0bf161",
+          "title": {
+            "en": "Mesh tool",
+            "zh-Hans": "网格工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.92a8be086d",
+          "title": {
+            "en": "Gradient tool",
+            "zh-Hans": "渐变工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.7154b7553b",
+          "title": {
+            "en": "Eyedropper tool",
+            "zh-Hans": "吸管工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.24e761c5ac",
+          "title": {
+            "en": "Blend tool",
+            "zh-Hans": "混合工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.5310da7dbf",
+          "title": {
+            "en": "Live Paint Bucket tool",
+            "zh-Hans": "实时上色油漆桶工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.a72f7375d6",
+          "title": {
+            "en": "Live Paint Selection tool",
+            "zh-Hans": "Live Paint Selection tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.bb60d6e18a",
+          "title": {
+            "en": "Slice tool",
+            "zh-Hans": "切片工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 512,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.494e509cb4",
+          "title": {
+            "en": "Eraser tool",
+            "zh-Hans": "橡皮擦工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.f6654561d4",
+          "title": {
+            "en": "Scissors tool",
+            "zh-Hans": "剪刀工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.44cbba7f31",
+          "title": {
+            "en": "Hand tool",
+            "zh-Hans": "抓手工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.126d6e1208",
+          "title": {
+            "en": "Zoom tool",
+            "zh-Hans": "缩放工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.selecting-tools.7cf9107017",
+          "title": {
+            "en": "Switch to Smooth tool while using Blob Brush tool",
+            "zh-Hans": "Switch to Smooth tool while using Blob Brush tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-illustrator.viewing-artwork",
+      "title": {
+        "en": "Viewing Artwork",
+        "zh-Hans": "查看作品"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.10e1d987d9",
+          "title": {
+            "en": "Toggle between screen modes: Normal Screen Mode, Full Screen Mode with Menu Bar, Full Screen Mode",
+            "zh-Hans": "Toggle between screen modes: Normal Screen Mode, Full Screen Mode with Menu Bar, Full Screen Mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.233296c3e2",
+          "title": {
+            "en": "Switch to Hand tool (when not in text-edit mode)",
+            "zh-Hans": "Switch to Hand tool (when not in text-edit mode)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.93d8caa738",
+          "title": {
+            "en": "Switch to Zoom tool in magnify mode",
+            "zh-Hans": "Switch to Zoom tool in magnify mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.53181b0c91",
+          "title": {
+            "en": "Switch to Zoom tool in reduce mode",
+            "zh-Hans": "Switch to Zoom tool in reduce mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2304,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.be68858bbf",
+          "title": {
+            "en": "Hide unselected artwork",
+            "zh-Hans": "隐藏 unselected artwork"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2816,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.f492ff6cf4",
+          "title": {
+            "en": "Show/Hide artboards",
+            "zh-Hans": "显示/隐藏 artboards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2560,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.7c9d53c7de",
+          "title": {
+            "en": "Show/Hide artboard rulers",
+            "zh-Hans": "显示/隐藏 画板 rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.21d3177a8e",
+          "title": {
+            "en": "View all artboards in window",
+            "zh-Hans": "View all artboards in window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.986d046d06",
+          "title": {
+            "en": "Paste in place on the active artboard",
+            "zh-Hans": "Paste in place on the active artboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.a6d9dc307c",
+          "title": {
+            "en": "Exit Artboard tool mode",
+            "zh-Hans": "Exit 画板 tool 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.54eee683bf",
+          "title": {
+            "en": "Navigate to next document",
+            "zh-Hans": "导航到next 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.9afdceef5f",
+          "title": {
+            "en": "Navigate to previous document",
+            "zh-Hans": "导航到previous 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 768,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.e3474626b3",
+          "title": {
+            "en": "Navigate to next document group",
+            "zh-Hans": "Navigate to next document group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 2304,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.7e5caae3f4",
+          "title": {
+            "en": "Navigate to previous document group",
+            "zh-Hans": "Navigate to previous document group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 2816,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.viewing-artwork.5b93465fb8",
+          "title": {
+            "en": "Exit Full Screen mode",
+            "zh-Hans": "Exit 全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-illustrator.drawing-in-perspective",
+      "title": {
+        "en": "Drawing in perspective",
+        "zh-Hans": "透视绘图"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.drawing-in-perspective.858593e3a3",
+          "title": {
+            "en": "Perspective Grid Tool",
+            "zh-Hans": "Perspective 网格 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.drawing-in-perspective.9d34e821f4",
+          "title": {
+            "en": "Perspective Selection Tool",
+            "zh-Hans": "Perspective 选择 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 512,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.drawing-in-perspective.6a9e541924",
+          "title": {
+            "en": "Perspective Grid",
+            "zh-Hans": "Perspective 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.drawing-in-perspective.3aff98d0a8",
+          "title": {
+            "en": "Switching perspective planes 1 for left grid, 2 for horizontal grid, 3 for right grid, or 4 for no active grid",
+            "zh-Hans": "Switching perspective planes 1 for left grid, 2 for horizontal grid, 3 for right grid, or 4 for no active grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.drawing-in-perspective.78d84261bb",
+          "title": {
+            "en": "Repeat transforming objects in perspective",
+            "zh-Hans": "Repeat transforming objects in perspective"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.drawing-in-perspective.81ab73c89c",
+          "title": {
+            "en": "Switching between drawing modes",
+            "zh-Hans": "Switching between drawing modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 512,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-illustrator.keys-for-selecting",
+      "title": {
+        "en": "Keys for selecting",
+        "zh-Hans": "选择按键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.keys-for-selecting.f1f151fa1e",
+          "title": {
+            "en": "Switch to last-used selection tool (Selection tool, Direct Selection tool, or Group Selection tool)",
+            "zh-Hans": "Switch to last-used selection tool (Selection tool, Direct Selection tool, or Group Selection tool)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.keys-for-selecting.580c01ed14",
+          "title": {
+            "en": "Switch between Direct Selection tool and Group Selection tool",
+            "zh-Hans": "Switch between Direct Selection tool and Group Selection tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.keys-for-selecting.87a2850594",
+          "title": {
+            "en": "Change pointer to cross hair for Lasso tool",
+            "zh-Hans": "Change pointer to cross hair for Lasso tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.keys-for-selecting.3f57cbd933",
+          "title": {
+            "en": "Select artwork in active artboard",
+            "zh-Hans": "Select artwork in active artboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.keys-for-selecting.75b7d2178b",
+          "title": {
+            "en": "Create crop marks around selected object",
+            "zh-Hans": "Create crop marks around selected object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2048,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-illustrator.moving-selection",
+      "title": {
+        "en": "Moving Selection",
+        "zh-Hans": "移动选区"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.moving-selection.4e0a6a13b9",
+          "title": {
+            "en": "Move selection in user-defined increments",
+            "zh-Hans": "Move selection in user-defined increments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.moving-selection.e466acbed6",
+          "title": {
+            "en": "Move selection in 10x user-defined increments",
+            "zh-Hans": "Move selection in 10x user-defined increments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.moving-selection.cd75cbbc98",
+          "title": {
+            "en": "Lock all deselected artwork",
+            "zh-Hans": "锁定 全部 deselected artwork"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2816,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.moving-selection.648950fd6f",
+          "title": {
+            "en": "Constrain movement to 45° angle (except when using Reflect tool)",
+            "zh-Hans": "Constrain movement to 45° angle (except when using Reflect tool)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-illustrator.painting-objects",
+      "title": {
+        "en": "Painting Objects",
+        "zh-Hans": "绘制对象"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.painting-objects.a70b640dc4",
+          "title": {
+            "en": "Toggle between fill and stroke",
+            "zh-Hans": "Toggle between fill and stroke"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.87a82d40f2",
+          "title": {
+            "en": "Set fill and stroke to default",
+            "zh-Hans": "Set fill and stroke to default"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.66e8338d85",
+          "title": {
+            "en": "Swap fill and stroke",
+            "zh-Hans": "Swap fill and stroke"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 512,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.794b38e067",
+          "title": {
+            "en": "Select gradient fill mode",
+            "zh-Hans": "选择gradient 填充 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.975e05219f",
+          "title": {
+            "en": "Select color fill mode",
+            "zh-Hans": "选择color 填充 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.c7c33dc2bd",
+          "title": {
+            "en": "Select no stroke/fill mode",
+            "zh-Hans": "选择no 描边/填充 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.00f20bfbb1",
+          "title": {
+            "en": "Sample color from an image or intermediate color from gradient",
+            "zh-Hans": "Sample color from an image or intermediate color from gradient"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.7009937a2f",
+          "title": {
+            "en": "Open Mosaic options for selected raster object",
+            "zh-Hans": "Open Mosaic options for selected raster object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2048,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.12e6ab1025",
+          "title": {
+            "en": "Decrease Bristle brush size / Increase Bristle brush size",
+            "zh-Hans": "Decrease Bristle brush size / Increase Bristle brush size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.painting-objects.f77c9ef345",
+          "title": {
+            "en": "Set Bristle brush paint opacity value to 10%, 20% etc. 0 increases to 100%",
+            "zh-Hans": "Set Bristle brush paint opacity value to 10%, 20% etc. 0 increases to 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-illustrator.working-with-type",
+      "title": {
+        "en": "Working with Type",
+        "zh-Hans": "Type操作"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.working-with-type.171b774c2f",
+          "title": {
+            "en": "Move one character right or left",
+            "zh-Hans": "Move one character right or left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.6bc2e494b3",
+          "title": {
+            "en": "Move up or down one line",
+            "zh-Hans": "Move up or down one line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.3eff432a7d",
+          "title": {
+            "en": "Move one word right or left",
+            "zh-Hans": "Move one word right or left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.b0c6428557",
+          "title": {
+            "en": "Move up or down one paragraph",
+            "zh-Hans": "Move up or down one paragraph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.599b924c9a",
+          "title": {
+            "en": "Select one word right or left",
+            "zh-Hans": "Select one word right or left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.311faa22f4",
+          "title": {
+            "en": "Select one paragraph before or after",
+            "zh-Hans": "Select one paragraph before or after"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.42efbdc945",
+          "title": {
+            "en": "Align paragraph left, right, or center",
+            "zh-Hans": "Align paragraph left, right, or center"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.0178cd5282",
+          "title": {
+            "en": "Justify paragraph",
+            "zh-Hans": "Justify 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.8fb8128167",
+          "title": {
+            "en": "Insert soft return",
+            "zh-Hans": "插入 soft return"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.77661a1509",
+          "title": {
+            "en": "Highlight kerning",
+            "zh-Hans": "Highlight kerning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.89a824a173",
+          "title": {
+            "en": "Reset horizontal scale to 100%",
+            "zh-Hans": "Reset horizontal scale to 100%"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.85668f5536",
+          "title": {
+            "en": "Increase type size / decrease type size",
+            "zh-Hans": "Increase type size / decrease type size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.e677df6a76",
+          "title": {
+            "en": "Increase or decrease leading (for horizontal text, vor vertical text use Option →/←)",
+            "zh-Hans": "Increase or decrease leading (for horizontal text, vor vertical text use Option →/←)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.586305d367",
+          "title": {
+            "en": "Reset tracking/kerning to 0",
+            "zh-Hans": "Reset tracking/kerning to 0"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2304,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.09c90fbdfa",
+          "title": {
+            "en": "Increase or decrease kerning and tracking (for horizontal text, vor vertical text use Option ↑/↓)",
+            "zh-Hans": "Increase or decrease kerning and tracking (for horizontal text, vor vertical text use Option ↑/↓)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.60011f4d67",
+          "title": {
+            "en": "Increase or decrease kerning and tracking by five times(for horizontal text, vor vertical text use ⌘ Option ↑/↓)",
+            "zh-Hans": "Increase or decrease kerning and tracking by five times(for horizontal text, vor vertical text use ⌘ Option ↑/↓)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.49afb8f65a",
+          "title": {
+            "en": "Increase or decrease baseline shift (for horizontal text, vor vertical text use Option Shift →/←)",
+            "zh-Hans": "Increase or decrease baseline shift (for horizontal text, vor vertical text use Option Shift →/←)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.249079e9ad",
+          "title": {
+            "en": "Switch between Type and Vertical Type, Area Type and Vertical Area Type, and Path Type and Vertical Path Type tools",
+            "zh-Hans": "Switch between Type and Vertical Type, Area Type and Vertical Area Type, and Path Type and Vertical Path Type tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.working-with-type.cb4a92a964",
+          "title": {
+            "en": "Switch between Area Type and Path Type, Vertical Area Type and Vertical Path Type tools",
+            "zh-Hans": "Switch between Area Type and Path Type, Vertical Area Type and Vertical Path Type tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-illustrator.panel-shortcuts",
+      "title": {
+        "en": "Panel Shortcuts",
+        "zh-Hans": "面板快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-illustrator.panel-shortcuts.b3fc65020d",
+          "title": {
+            "en": "Increase/decrease the selected value by a small increment",
+            "zh-Hans": "Increase/decrease the selected value by a small increment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.panel-shortcuts.6742001751",
+          "title": {
+            "en": "Increase/decreases the selected value by a large increment",
+            "zh-Hans": "Increase/decreases the selected value by a large increment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.panel-shortcuts.aee2a53c4a",
+          "title": {
+            "en": "Highlight the font name field in the Character panel",
+            "zh-Hans": "Highlight the font name field in the Character panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2816,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.panel-shortcuts.0a579c3194",
+          "title": {
+            "en": "Apply a value and keep focus in edit field",
+            "zh-Hans": "Apply a value and keep focus in edit field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.panel-shortcuts.b6ec731310",
+          "title": {
+            "en": "Apply a value and copy object",
+            "zh-Hans": "Apply a value and copy object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 2048,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-illustrator.panel-shortcuts.bdf768829b",
+          "title": {
+            "en": "Apply a value and scale option proportionately for width or height",
+            "zh-Hans": "Apply a value and scale option proportionately for width or height"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        }
+      ]
+    }
+  ]
+}

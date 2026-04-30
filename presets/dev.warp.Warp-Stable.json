@@ -1,0 +1,264 @@
+{
+  "bundleIdentifier": "dev.warp.Warp-Stable",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.warp.tabs-panes",
+      "title": {
+        "en": "Tabs & Panes",
+        "zh-Hans": "标签页与窗格"
+      },
+      "items": [
+        {
+          "id": "remote.warp.tabs-panes.26ef4c66c1",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.warp.tabs-panes.c7885432cf",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.warp.tabs-panes.e713e91eef",
+          "title": {
+            "en": "Split Pane Right",
+            "zh-Hans": "Split 窗格 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.warp.tabs-panes.3d644ac665",
+          "title": {
+            "en": "Split Pane Down",
+            "zh-Hans": "Split 窗格 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.warp.tabs-panes.b0871f4c70",
+          "title": {
+            "en": "Maximize/Restore Pane",
+            "zh-Hans": "Maximize/Restore 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.warp.tabs-panes.82f1db7b5a",
+          "title": {
+            "en": "Previous Tab",
+            "zh-Hans": "上一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.warp.tabs-panes.0cdf70bbec",
+          "title": {
+            "en": "Next Tab",
+            "zh-Hans": "下一个 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.warp.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.warp.navigation.8e310f8924",
+          "title": {
+            "en": "Previous Block",
+            "zh-Hans": "上一个 Block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.warp.navigation.c623f31447",
+          "title": {
+            "en": "Next Block",
+            "zh-Hans": "下一个 Block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.warp.navigation.c9dcde95ab",
+          "title": {
+            "en": "Previous Pane",
+            "zh-Hans": "上一个 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.warp.navigation.99e3ae96f2",
+          "title": {
+            "en": "Next Pane",
+            "zh-Hans": "下一个 窗格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.warp.terminal",
+      "title": {
+        "en": "Terminal",
+        "zh-Hans": "终端"
+      },
+      "items": [
+        {
+          "id": "remote.warp.terminal.eb2c820e6b",
+          "title": {
+            "en": "Clear Terminal",
+            "zh-Hans": "清除Terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.warp.terminal.c1b3190daa",
+          "title": {
+            "en": "Search Command History",
+            "zh-Hans": "搜索 Command 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.warp.terminal.264c38ef3c",
+          "title": {
+            "en": "Cancel/Interrupt",
+            "zh-Hans": "Cancel/Interrupt"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.warp.terminal.a4f0a234fa",
+          "title": {
+            "en": "Find in Terminal",
+            "zh-Hans": "Find in Terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.warp.terminal.99d9823f60",
+          "title": {
+            "en": "Focus Input",
+            "zh-Hans": "聚焦Input"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.warp.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.warp.general.23bd666b5f",
+          "title": {
+            "en": "Command Palette",
+            "zh-Hans": "命令面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.warp.general.db0ba4f72d",
+          "title": {
+            "en": "Bookmark Block",
+            "zh-Hans": "书签 Block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    }
+  ]
+}

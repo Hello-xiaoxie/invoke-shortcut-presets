@@ -1,0 +1,444 @@
+{
+  "bundleIdentifier": "com.apple.Music",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.apple-music.playback-shortcuts",
+      "title": {
+        "en": "Playback Shortcuts",
+        "zh-Hans": "播放快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-music.playback-shortcuts.9cd0cc19a4",
+          "title": {
+            "en": "Play or pause",
+            "zh-Hans": "Play or pause"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.26c522f495",
+          "title": {
+            "en": "Play the next song",
+            "zh-Hans": "Play the next song"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.d0cdf73bf3",
+          "title": {
+            "en": "Play the previous song",
+            "zh-Hans": "Play the previous song"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.a128ed2bc2",
+          "title": {
+            "en": "Restart current song",
+            "zh-Hans": "Restart 当前 song"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.60f3e2252c",
+          "title": {
+            "en": "Fast-forward",
+            "zh-Hans": "Fast-向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.6649ae70ce",
+          "title": {
+            "en": "Rewind",
+            "zh-Hans": "快退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.d8967fe431",
+          "title": {
+            "en": "Increase volume",
+            "zh-Hans": "Increase volume"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.8622da1208",
+          "title": {
+            "en": "Decrease volume",
+            "zh-Hans": "Decrease volume"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.c35795b532",
+          "title": {
+            "en": "Toggle shuffle",
+            "zh-Hans": "切换shuffle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.apple-music.playback-shortcuts.734f7777f1",
+          "title": {
+            "en": "Toggle repeat",
+            "zh-Hans": "切换repeat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-music.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-music.general-shortcuts.80342148eb",
+          "title": {
+            "en": "Create a new playlist",
+            "zh-Hans": "Create a new playlist"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-music.general-shortcuts.3a83f50d5c",
+          "title": {
+            "en": "Create a new smart playlist",
+            "zh-Hans": "Create a new smart playlist"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.apple-music.general-shortcuts.dd9af1906f",
+          "title": {
+            "en": "Add to library",
+            "zh-Hans": "添加to library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.apple-music.general-shortcuts.5d63bd2f24",
+          "title": {
+            "en": "Add to playlist",
+            "zh-Hans": "添加to playlist"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.apple-music.general-shortcuts.2bbf6590fc",
+          "title": {
+            "en": "Get info",
+            "zh-Hans": "Get info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.apple-music.general-shortcuts.11eddedb00",
+          "title": {
+            "en": "Show window",
+            "zh-Hans": "显示 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.apple-music.general-shortcuts.d94258f711",
+          "title": {
+            "en": "Minimize window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.apple-music.general-shortcuts.494ef91b17",
+          "title": {
+            "en": "Close window",
+            "zh-Hans": "关闭 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-music.edit-shortcuts",
+      "title": {
+        "en": "Edit Shortcuts",
+        "zh-Hans": "编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-music.edit-shortcuts.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-music.edit-shortcuts.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.apple-music.edit-shortcuts.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.apple-music.edit-shortcuts.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.apple-music.edit-shortcuts.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.apple-music.edit-shortcuts.d20b297676",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.apple-music.edit-shortcuts.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.apple-music.edit-shortcuts.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.apple-music.navigation-shortcuts",
+      "title": {
+        "en": "Navigation Shortcuts",
+        "zh-Hans": "导航快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.apple-music.navigation-shortcuts.85f3dbdea1",
+          "title": {
+            "en": "Go to library",
+            "zh-Hans": "转到library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.apple-music.navigation-shortcuts.0867876e03",
+          "title": {
+            "en": "Go to browse",
+            "zh-Hans": "转到browse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.apple-music.navigation-shortcuts.3a549924ff",
+          "title": {
+            "en": "Go to radio",
+            "zh-Hans": "转到radio"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.apple-music.navigation-shortcuts.d6e4877ee5",
+          "title": {
+            "en": "Go to search",
+            "zh-Hans": "Go to search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-music.navigation-shortcuts.a61874ed82",
+          "title": {
+            "en": "Go to currently playing",
+            "zh-Hans": "转到currently playing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.apple-music.navigation-shortcuts.57608d826b",
+          "title": {
+            "en": "Collapse or expand the selected list",
+            "zh-Hans": "Collapse or expand the selected list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.apple-music.navigation-shortcuts.e435d6959e",
+          "title": {
+            "en": "Expand the selected list",
+            "zh-Hans": "Expand the selected list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        }
+      ]
+    }
+  ]
+}

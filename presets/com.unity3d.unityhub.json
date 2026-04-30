@@ -1,0 +1,726 @@
+{
+  "bundleIdentifier": "com.unity3d.unityhub",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.unity3d.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.unity3d.tools.a2108e6bdf",
+          "title": {
+            "en": "Pan",
+            "zh-Hans": "Pan"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.unity3d.tools.e54fdd385a",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.unity3d.tools.d3cf133898",
+          "title": {
+            "en": "Rotate",
+            "zh-Hans": "旋转"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.unity3d.tools.bf510414d2",
+          "title": {
+            "en": "Scale",
+            "zh-Hans": "缩放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.unity3d.tools.ee467ac76d",
+          "title": {
+            "en": "Rect Tool",
+            "zh-Hans": "Rect Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.unity3d.tools.797a95b8b4",
+          "title": {
+            "en": "Pivot Mode toggle",
+            "zh-Hans": "Pivot 模式 toggle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.unity3d.tools.7f11a79d14",
+          "title": {
+            "en": "Pivot Rotation Toggle",
+            "zh-Hans": "Pivot Rotation Toggle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.unity3d.tools.e82d1e0c35",
+          "title": {
+            "en": "Vertex Snap",
+            "zh-Hans": "Vertex Snap"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.unity3d.game-object",
+      "title": {
+        "en": "Game Object",
+        "zh-Hans": "游戏对象"
+      },
+      "items": [
+        {
+          "id": "remote.unity3d.game-object.9a49421214",
+          "title": {
+            "en": "New Empty Game Object",
+            "zh-Hans": "新建Empty Game 对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.unity3d.game-object.37ea298cab",
+          "title": {
+            "en": "New Empty Child to Selected Game Object",
+            "zh-Hans": "New Empty Child to Selected Game Object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 512,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.unity3d.game-object.169b7279d6",
+          "title": {
+            "en": "Move to View",
+            "zh-Hans": "移动to 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.unity3d.game-object.a11bf5e6fc",
+          "title": {
+            "en": "Align with View",
+            "zh-Hans": "Align with View"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.unity3d.game-object.296617c009",
+          "title": {
+            "en": "Locks Scene View Camera to the Selected Game Object",
+            "zh-Hans": "Locks Scene View Camera to the Selected Game Object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.unity3d.window",
+      "title": {
+        "en": "Window",
+        "zh-Hans": "窗口"
+      },
+      "items": [
+        {
+          "id": "remote.unity3d.window.0ac1904740",
+          "title": {
+            "en": "Scene",
+            "zh-Hans": "Scene"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.d3638f9ebc",
+          "title": {
+            "en": "Game",
+            "zh-Hans": "Game"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.f636c10ae9",
+          "title": {
+            "en": "Inspector",
+            "zh-Hans": "Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.c909ca123d",
+          "title": {
+            "en": "Hierarchy",
+            "zh-Hans": "Hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.645fa44ea1",
+          "title": {
+            "en": "Project",
+            "zh-Hans": "项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.69595bfe7f",
+          "title": {
+            "en": "Animation",
+            "zh-Hans": "动画"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.191483c06d",
+          "title": {
+            "en": "Profiler",
+            "zh-Hans": "Profiler"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.4d98c0ba39",
+          "title": {
+            "en": "Asset store",
+            "zh-Hans": "Asset store"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.7012c2fe73",
+          "title": {
+            "en": "Version Control",
+            "zh-Hans": "Version Control"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.unity3d.window.c79dfd8413",
+          "title": {
+            "en": "Console",
+            "zh-Hans": "控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.unity3d.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.unity3d.edit.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.4b0a69d0f6",
+          "title": {
+            "en": "Delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.22856080aa",
+          "title": {
+            "en": "Frame(Centre) Selection",
+            "zh-Hans": "画框(Centre) 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.9678cea89c",
+          "title": {
+            "en": "Play",
+            "zh-Hans": "播放"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.cc70372bd0",
+          "title": {
+            "en": "Pause",
+            "zh-Hans": "暂停"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.unity3d.edit.9b370c1476",
+          "title": {
+            "en": "Step",
+            "zh-Hans": "Step"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.unity3d.selection",
+      "title": {
+        "en": "Selection",
+        "zh-Hans": "选择"
+      },
+      "items": [
+        {
+          "id": "remote.unity3d.selection.d43c8d681b",
+          "title": {
+            "en": "Load Selection 1",
+            "zh-Hans": "Load 选择 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 768,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.2eeab9d71b",
+          "title": {
+            "en": "Load Selection 2",
+            "zh-Hans": "Load 选择 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 768,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.c2684d8519",
+          "title": {
+            "en": "Load Selection 3",
+            "zh-Hans": "Load 选择 3"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 768,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.fa17db2f0d",
+          "title": {
+            "en": "Load Selection 4",
+            "zh-Hans": "Load 选择 4"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 768,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.b10ec740e0",
+          "title": {
+            "en": "Load Selection 5",
+            "zh-Hans": "Load 选择 5"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 768,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.70558d7e53",
+          "title": {
+            "en": "Load Selection 6",
+            "zh-Hans": "Load 选择 6"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 768,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.5154f5b90f",
+          "title": {
+            "en": "Load Selection 7",
+            "zh-Hans": "Load 选择 7"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 768,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.4d0237467c",
+          "title": {
+            "en": "Load Selection 8",
+            "zh-Hans": "Load 选择 8"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 768,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.db034c4278",
+          "title": {
+            "en": "Load Selection 9",
+            "zh-Hans": "Load 选择 9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 768,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.078b93ff75",
+          "title": {
+            "en": "Save Selection 1",
+            "zh-Hans": "存储 选择 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.0b3c0b6379",
+          "title": {
+            "en": "Save Selection 2",
+            "zh-Hans": "存储 选择 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.dd2f84504a",
+          "title": {
+            "en": "Save Selection 3",
+            "zh-Hans": "存储 选择 3"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.2354d13d3b",
+          "title": {
+            "en": "Save Selection 4",
+            "zh-Hans": "存储 选择 4"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.93ce44209d",
+          "title": {
+            "en": "Save Selection 5",
+            "zh-Hans": "存储 选择 5"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.1044a48445",
+          "title": {
+            "en": "Save Selection 6",
+            "zh-Hans": "存储 选择 6"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.bf6166b495",
+          "title": {
+            "en": "Save Selection 7",
+            "zh-Hans": "存储 选择 7"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.fa0a75878e",
+          "title": {
+            "en": "Save Selection 8",
+            "zh-Hans": "存储 选择 8"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.unity3d.selection.0420584e26",
+          "title": {
+            "en": "Save Selection 9",
+            "zh-Hans": "存储 选择 9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.unity3d.assets",
+      "title": {
+        "en": "Assets",
+        "zh-Hans": "资产"
+      },
+      "items": [
+        {
+          "id": "remote.unity3d.assets.75aab72d27",
+          "title": {
+            "en": "Refresh",
+            "zh-Hans": "刷新"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        }
+      ]
+    }
+  ]
+}

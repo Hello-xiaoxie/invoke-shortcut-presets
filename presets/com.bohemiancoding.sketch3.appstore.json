@@ -1,0 +1,963 @@
+{
+  "bundleIdentifier": "com.bohemiancoding.sketch3.appstore",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.sketch.insert-shape",
+      "title": {
+        "en": "Insert Shape",
+        "zh-Hans": "插入 Shape"
+      },
+      "items": [
+        {
+          "id": "remote.sketch.insert-shape.2efa522ab0",
+          "title": {
+            "en": "New Artboard",
+            "zh-Hans": "新建Artboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.sketch.insert-shape.5bb7381136",
+          "title": {
+            "en": "Line",
+            "zh-Hans": "行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sketch.insert-shape.d9502720d5",
+          "title": {
+            "en": "Oval",
+            "zh-Hans": "Oval"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.sketch.insert-shape.3100f826b8",
+          "title": {
+            "en": "Pencil",
+            "zh-Hans": "Pencil"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sketch.insert-shape.aa54a8dbef",
+          "title": {
+            "en": "Rectangle",
+            "zh-Hans": "Rectangle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sketch.insert-shape.4f0192ada1",
+          "title": {
+            "en": "Slice",
+            "zh-Hans": "Slice"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sketch.insert-shape.703d441f0a",
+          "title": {
+            "en": "Text",
+            "zh-Hans": "文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sketch.insert-shape.a19cb4a711",
+          "title": {
+            "en": "Rounded Rectangle",
+            "zh-Hans": "Rounded Rectangle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.sketch.insert-shape.e04933724a",
+          "title": {
+            "en": "Vector Point",
+            "zh-Hans": "Vector Point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sketch.font-editing",
+      "title": {
+        "en": "Font Editing",
+        "zh-Hans": "字体编辑"
+      },
+      "items": [
+        {
+          "id": "remote.sketch.font-editing.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.9c7e5326bd",
+          "title": {
+            "en": "Change Font",
+            "zh-Hans": "Change 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.b72e35dfbe",
+          "title": {
+            "en": "Increase font size",
+            "zh-Hans": "Increase 字体 size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.1d5ac0711d",
+          "title": {
+            "en": "Decrease font size",
+            "zh-Hans": "Decrease 字体 size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 2304,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.5527434977",
+          "title": {
+            "en": "Increase Character Spacing",
+            "zh-Hans": "Increase 字符 间距"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 6144,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.255ac7efc6",
+          "title": {
+            "en": "Decrease Character Spacing",
+            "zh-Hans": "Decrease 字符 间距"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 6144,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.456bacff7a",
+          "title": {
+            "en": "Convert text to outlines",
+            "zh-Hans": "Convert text to outlines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.162985bee5",
+          "title": {
+            "en": "Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.7dec141e96",
+          "title": {
+            "en": "Align Center",
+            "zh-Hans": "居中对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.96815b16f6",
+          "title": {
+            "en": "Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.sketch.font-editing.dedaf0ea9e",
+          "title": {
+            "en": "Special Character",
+            "zh-Hans": "Special 字符"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4352,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sketch.canvas-view",
+      "title": {
+        "en": "Canvas View",
+        "zh-Hans": "画布视图"
+      },
+      "items": [
+        {
+          "id": "remote.sketch.canvas-view.080f1d99ce",
+          "title": {
+            "en": "Zoom in/Zoom out",
+            "zh-Hans": "放大/缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.eedfae2fca",
+          "title": {
+            "en": "Actual Size",
+            "zh-Hans": "Actual Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.01d00656e2",
+          "title": {
+            "en": "Center Canvas",
+            "zh-Hans": "中心 画布"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.ca4616fc71",
+          "title": {
+            "en": "Zoom Selection",
+            "zh-Hans": "Zoom 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.c7b915ef92",
+          "title": {
+            "en": "Center Selection",
+            "zh-Hans": "中心 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.ca9e185509",
+          "title": {
+            "en": "Focus oon first input field",
+            "zh-Hans": "Focus oon first input field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 2048,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.549bf0d642",
+          "title": {
+            "en": "Toggle Rulers",
+            "zh-Hans": "切换Rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.1274cda34b",
+          "title": {
+            "en": "Toggle Pixels",
+            "zh-Hans": "切换Pixels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.620eca4933",
+          "title": {
+            "en": "Toggle Grids",
+            "zh-Hans": "切换Grids"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.a2dbda03f9",
+          "title": {
+            "en": "Toggle Layer Guides",
+            "zh-Hans": "切换Layer Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.fd8e6b35a6",
+          "title": {
+            "en": "Toggle Selection Handling",
+            "zh-Hans": "切换Selection Handling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.sketch.canvas-view.36e9626ab6",
+          "title": {
+            "en": "Toggle Pixel Grid",
+            "zh-Hans": "切换Pixel 网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 4096,
+            "displayKey": "X"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sketch.window-shortcuts",
+      "title": {
+        "en": "Window Shortcuts",
+        "zh-Hans": "窗口快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.sketch.window-shortcuts.703050cd68",
+          "title": {
+            "en": "Toggle between Documents",
+            "zh-Hans": "切换between 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sketch.window-shortcuts.09d6acdf6d",
+          "title": {
+            "en": "Toggle Layers List",
+            "zh-Hans": "切换Layers List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.sketch.window-shortcuts.7156cba28e",
+          "title": {
+            "en": "Toggle Inspector",
+            "zh-Hans": "切换Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.sketch.window-shortcuts.3a4111a3d7",
+          "title": {
+            "en": "Toggle Layers.Inspector",
+            "zh-Hans": "切换Layers.Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.sketch.window-shortcuts.3cc318a968",
+          "title": {
+            "en": "Toggle Toolbar",
+            "zh-Hans": "切换Toolbar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sketch.window-shortcuts.ba481b557b",
+          "title": {
+            "en": "Presentation Mode",
+            "zh-Hans": "Presentation 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.sketch.window-shortcuts.658c3bcc6b",
+          "title": {
+            "en": "Enter Fullscreen",
+            "zh-Hans": "Enter 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sketch.editing-shapes",
+      "title": {
+        "en": "Editing Shapes",
+        "zh-Hans": "编辑图形"
+      },
+      "items": [
+        {
+          "id": "remote.sketch.editing-shapes.dae5671b06",
+          "title": {
+            "en": "Keep Current Selection",
+            "zh-Hans": "Keep 当前 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sketch.editing-shapes.bd3f1abc61",
+          "title": {
+            "en": "Use as Mask Span",
+            "zh-Hans": "Use as Mask Span"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4352,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-shapes.2f21b73c6d",
+          "title": {
+            "en": "Union",
+            "zh-Hans": "Union"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-shapes.1ffc3918d9",
+          "title": {
+            "en": "Subtract",
+            "zh-Hans": "Subtract"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-shapes.0b505063d7",
+          "title": {
+            "en": "Intersect",
+            "zh-Hans": "Intersect"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-shapes.89682c2946",
+          "title": {
+            "en": "Difference",
+            "zh-Hans": "Difference"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2304,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-shapes.3bfa883db1",
+          "title": {
+            "en": "Change Object Size",
+            "zh-Hans": "Change 对象 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sketch.editing-shapes.609d0f6cc5",
+          "title": {
+            "en": "Change Units by 10",
+            "zh-Hans": "Change Units by 10"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sketch.editing-shapes.fe9495a32f",
+          "title": {
+            "en": "Change Vector Point Style",
+            "zh-Hans": "Change Vector Point Style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sketch.editing-layers",
+      "title": {
+        "en": "Editing Layers",
+        "zh-Hans": "编辑图层"
+      },
+      "items": [
+        {
+          "id": "remote.sketch.editing-layers.9093522242",
+          "title": {
+            "en": "Show Distance to Other Layers",
+            "zh-Hans": "Show Distance to Other Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sketch.editing-layers.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-layers.2ae9046732",
+          "title": {
+            "en": "Copy Style",
+            "zh-Hans": "复制 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-layers.3b10406511",
+          "title": {
+            "en": "Paste Style",
+            "zh-Hans": "粘贴 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-layers.e5c750dbe8",
+          "title": {
+            "en": "Color Picker",
+            "zh-Hans": "颜色 Picker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-layers.684ae1e4f4",
+          "title": {
+            "en": "Transform",
+            "zh-Hans": "变换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-layers.7503a5d610",
+          "title": {
+            "en": "Rotate",
+            "zh-Hans": "旋转"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-layers.1b28dec2bd",
+          "title": {
+            "en": "Toggle Fill",
+            "zh-Hans": "切换Fill"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sketch.editing-layers.e0dcd052a5",
+          "title": {
+            "en": "Toggle Border",
+            "zh-Hans": "切换Border"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sketch.arranging-layers-groups-and-artboards",
+      "title": {
+        "en": "Arranging Layers,Groups and Artboards",
+        "zh-Hans": "排列图层、编组和画板"
+      },
+      "items": [
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.ed9574a5cb",
+          "title": {
+            "en": "Bring Forward",
+            "zh-Hans": "前移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.5c428a55da",
+          "title": {
+            "en": "Send Backward",
+            "zh-Hans": "后移一层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.de8e65b07e",
+          "title": {
+            "en": "Bring to Front",
+            "zh-Hans": "置于顶层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6400,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.b076cf837c",
+          "title": {
+            "en": "Sent to Back",
+            "zh-Hans": "Sent to Back"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6400,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.61600175cf",
+          "title": {
+            "en": "Hide",
+            "zh-Hans": "隐藏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.c4698ae771",
+          "title": {
+            "en": "Lock",
+            "zh-Hans": "锁定"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.f438823733",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.a3af3e8ba4",
+          "title": {
+            "en": "Group Layers",
+            "zh-Hans": "编组图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.684921c34b",
+          "title": {
+            "en": "Ungroup Layers",
+            "zh-Hans": "取消编组图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.a88977cf68",
+          "title": {
+            "en": "Select Above Layer",
+            "zh-Hans": "选择Above 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.6ee01ad651",
+          "title": {
+            "en": "Select Layer Below",
+            "zh-Hans": "选择Layer 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.113842f93a",
+          "title": {
+            "en": "Select Parent Artboard",
+            "zh-Hans": "选择Parent 画板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.73229369a4",
+          "title": {
+            "en": "Select Page Above",
+            "zh-Hans": "选择Page 上方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.0344338c83",
+          "title": {
+            "en": "Select Page Below",
+            "zh-Hans": "选择Page 下方"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sketch.arranging-layers-groups-and-artboards.2c35424e5e",
+          "title": {
+            "en": "Find Layer By Name",
+            "zh-Hans": "Find Layer By Name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    }
+  ]
+}

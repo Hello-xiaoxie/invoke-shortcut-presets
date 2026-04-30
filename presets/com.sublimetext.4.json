@@ -1,0 +1,981 @@
+{
+  "bundleIdentifier": "com.sublimetext.4",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.sublime-text.general-editing-shortcuts",
+      "title": {
+        "en": "General Editing Shortcuts",
+        "zh-Hans": "通用编辑快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.ed783949cf",
+          "title": {
+            "en": "Insert Line After",
+            "zh-Hans": "插入 行 After"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.c61870b314",
+          "title": {
+            "en": "Insert Line Before",
+            "zh-Hans": "插入 行 Before"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.a90e3b7ab8",
+          "title": {
+            "en": "Move line Up",
+            "zh-Hans": "移动line 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.5ed66ca490",
+          "title": {
+            "en": "Move line Down",
+            "zh-Hans": "移动line 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.347f9cb130",
+          "title": {
+            "en": "Select Line(Repeat to select next lines)",
+            "zh-Hans": "Select Line(Repeat to select next lines)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.29779cf83e",
+          "title": {
+            "en": "Select All Occurencs of Current Section",
+            "zh-Hans": "Select All Occurencs of Current Section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4352,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.47902c1b9e",
+          "title": {
+            "en": "Select Word(Repeat select other Occurences",
+            "zh-Hans": "Select Word(Repeat select other Occurences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.f99785ea0a",
+          "title": {
+            "en": "Selection Up",
+            "zh-Hans": "选择 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.e6eb9d2637",
+          "title": {
+            "en": "Selection Down",
+            "zh-Hans": "选择 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.f4bcd11293",
+          "title": {
+            "en": "Cut Line",
+            "zh-Hans": "剪切 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.d081d822df",
+          "title": {
+            "en": "Delete Line",
+            "zh-Hans": "删除 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.e52b300789",
+          "title": {
+            "en": "Delete from cursor to End of Line",
+            "zh-Hans": "Delete from cursor to End of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.5ebbc013a3",
+          "title": {
+            "en": "Delete from cursor to start of Line",
+            "zh-Hans": "Delete from cursor to start of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.fb4cc43ac8",
+          "title": {
+            "en": "Indent Current Lines",
+            "zh-Hans": "Indent 当前 Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.67291c9a41",
+          "title": {
+            "en": "Unindent Current Lines",
+            "zh-Hans": "Unindent 当前 Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.23d9c0ab77",
+          "title": {
+            "en": "Paste and Indent Correctly",
+            "zh-Hans": "Paste and Indent Correctly"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.fb9a1e1c68",
+          "title": {
+            "en": "Paste Line",
+            "zh-Hans": "粘贴 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.57206a32d6",
+          "title": {
+            "en": "Wrap Selection in HTML Tag",
+            "zh-Hans": "Wrap Selection in HTML Tag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2560,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.b87e8735e8",
+          "title": {
+            "en": "Close Current HTML Tag",
+            "zh-Hans": "关闭 当前 HTML 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2048,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.2e8c1545c6",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.18b504f461",
+          "title": {
+            "en": "Select Next AutoComplete Suggestion",
+            "zh-Hans": "Select Next AutoComplete Suggestion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.860595d5a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.e68a92946f",
+          "title": {
+            "en": "Duplicate Lines",
+            "zh-Hans": "创建副本 Lines"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.5b4147a133",
+          "title": {
+            "en": "Join Line below to end of current line",
+            "zh-Hans": "Join Line below to end of current line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.5bbbbac19d",
+          "title": {
+            "en": "Comment/Uncomment Current Line",
+            "zh-Hans": "评论/Uncomment 当前 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.5bb003c4c5",
+          "title": {
+            "en": "Block Comment Current Selection",
+            "zh-Hans": "Block 评论 当前 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.593a778671",
+          "title": {
+            "en": "Convert to Uppercase",
+            "zh-Hans": "Convert to Uppercase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.d90f209416",
+          "title": {
+            "en": "Convert to Lowercase",
+            "zh-Hans": "Convert to Lowercase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.91fa1a45c4",
+          "title": {
+            "en": "Select all occurrences of current selection",
+            "zh-Hans": "选择当前选择的所有匹配项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4352,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.aca0a8fd2b",
+          "title": {
+            "en": "Extra cursor on the line above",
+            "zh-Hans": "Extra cursor on the line above"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4608,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.632e2d630d",
+          "title": {
+            "en": "Extra cursor on the line below",
+            "zh-Hans": "Extra cursor on the line below"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4608,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.af9f8f482a",
+          "title": {
+            "en": "Jump to closing parentheses Repeat to jump to opening parentheses",
+            "zh-Hans": "Jump to closing parentheses Repeat to jump to opening parentheses"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4096,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.0d391728a4",
+          "title": {
+            "en": "Select all contents of the current parentheses",
+            "zh-Hans": "Select all contents of the current parentheses"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4608,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.dbdb97a9bc",
+          "title": {
+            "en": "Move to beginning of line",
+            "zh-Hans": "Move to beginning of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.dd46e9ec24",
+          "title": {
+            "en": "Move to beginning of text on line",
+            "zh-Hans": "Move to beginning of text on line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.637c5bfed2",
+          "title": {
+            "en": "Move to end of line",
+            "zh-Hans": "Move to end of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.069a42c38f",
+          "title": {
+            "en": "Command Palette",
+            "zh-Hans": "命令面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.fa209a6fe7",
+          "title": {
+            "en": "Python Console",
+            "zh-Hans": "Python 控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.fa6010c56d",
+          "title": {
+            "en": "Switch FullScreen Mode",
+            "zh-Hans": "Switch 全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.3169996cca",
+          "title": {
+            "en": "Switch DistractionFree Mode",
+            "zh-Hans": "Switch DistractionFree 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4864,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sublime-text.general-editing-shortcuts.1a00005d34",
+          "title": {
+            "en": "Switch Side bar",
+            "zh-Hans": "Switch Side bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sublime-text.column-selection-shortcuts",
+      "title": {
+        "en": "Column Selection Shortcuts",
+        "zh-Hans": "列选择快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.column-selection-shortcuts.2b87b5f9a8",
+          "title": {
+            "en": "Column Selection Up",
+            "zh-Hans": "列 选择 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sublime-text.column-selection-shortcuts.677e8f7e8f",
+          "title": {
+            "en": "Column Selection Down",
+            "zh-Hans": "列 选择 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sublime-text.navigation-shortcuts",
+      "title": {
+        "en": "Navigation Shortcuts",
+        "zh-Hans": "导航快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.navigation-shortcuts.f41697f189",
+          "title": {
+            "en": "Go to line",
+            "zh-Hans": "转到line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.sublime-text.navigation-shortcuts.0c23c7c6f0",
+          "title": {
+            "en": "Go to Word",
+            "zh-Hans": "转到Word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sublime-text.navigation-shortcuts.7bd748183f",
+          "title": {
+            "en": "Go to Symbol",
+            "zh-Hans": "转到Symbol"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sublime-text.navigation-shortcuts.017a0819ad",
+          "title": {
+            "en": "Immediately Open Files by Name",
+            "zh-Hans": "Immediately Open Files by Name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sublime-text.find-and-replace-shortcuts",
+      "title": {
+        "en": "Find and Replace Shortcuts",
+        "zh-Hans": "查找 and 替换 Shortcuts"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.find-and-replace-shortcuts.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sublime-text.find-and-replace-shortcuts.81d3351aa8",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sublime-text.find-and-replace-shortcuts.7c0d8e1b2b",
+          "title": {
+            "en": "Find in Files",
+            "zh-Hans": "Find in Files"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sublime-text.navigation-through-tabs",
+      "title": {
+        "en": "Navigation through Tabs",
+        "zh-Hans": "标签页导航"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.navigation-through-tabs.0c2bb4b6b4",
+          "title": {
+            "en": "Cycle Up through Tabs",
+            "zh-Hans": "Cycle 上 through 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sublime-text.navigation-through-tabs.c96366cb75",
+          "title": {
+            "en": "Cycle Down through Tabs",
+            "zh-Hans": "Cycle 下 through 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sublime-text.navigation-through-tabs.b7c1915f3a",
+          "title": {
+            "en": "Find in Files",
+            "zh-Hans": "Find in Files"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.sublime-text.navigation-through-tabs.26f9191247",
+          "title": {
+            "en": "Close Current Tab",
+            "zh-Hans": "关闭 当前 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.sublime-text.navigation-through-tabs.826acba4ec",
+          "title": {
+            "en": "Switch to Tab Number",
+            "zh-Hans": "切换到Tab Number"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sublime-text.split-windows-shortcuts",
+      "title": {
+        "en": "Split Windows Shortcuts",
+        "zh-Hans": "Split Windows快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.split-windows-shortcuts.804ab80f1b",
+          "title": {
+            "en": "Revert view to single column",
+            "zh-Hans": "Revert view to single column"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.sublime-text.split-windows-shortcuts.e311abed51",
+          "title": {
+            "en": "Split view into two columns",
+            "zh-Hans": "Split view into two columns"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.sublime-text.split-windows-shortcuts.c03dc1588e",
+          "title": {
+            "en": "Split view into three columns",
+            "zh-Hans": "Split view into three columns"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.sublime-text.split-windows-shortcuts.e937af9233",
+          "title": {
+            "en": "Split view into four columns",
+            "zh-Hans": "Split view into four columns"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2304,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.sublime-text.split-windows-shortcuts.ef0a153b95",
+          "title": {
+            "en": "Set view to Grid",
+            "zh-Hans": "Set view to Grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.sublime-text.split-windows-shortcuts.11697f1818",
+          "title": {
+            "en": "Split view into two rows",
+            "zh-Hans": "Split view into two rows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2304,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.sublime-text.split-windows-shortcuts.d14ed461d4",
+          "title": {
+            "en": "Jump to group where num is 1..4",
+            "zh-Hans": "Jump to group where num is 1..4"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.sublime-text.split-windows-shortcuts.9de1693d42",
+          "title": {
+            "en": "Move file to specified group where num is 1..4",
+            "zh-Hans": "Move file to specified group where num is 1..4"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sublime-text.bookmarks-shortcuts",
+      "title": {
+        "en": "Bookmarks Shortcuts",
+        "zh-Hans": "书签快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.bookmarks-shortcuts.be11fb35ff",
+          "title": {
+            "en": "Next Bookmark",
+            "zh-Hans": "下一个 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.sublime-text.bookmarks-shortcuts.2309a1b3e9",
+          "title": {
+            "en": "Previous Bookmark",
+            "zh-Hans": "上一个 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.sublime-text.bookmarks-shortcuts.7e99476de5",
+          "title": {
+            "en": "Switch Bookmark",
+            "zh-Hans": "Switch 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 256,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.sublime-text.bookmarks-shortcuts.69003afb0b",
+          "title": {
+            "en": "Clear Bookmarks",
+            "zh-Hans": "清除Bookmarks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 768,
+            "displayKey": "F2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sublime-text.other-shortcuts",
+      "title": {
+        "en": "Other Shortcuts",
+        "zh-Hans": "其他快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.other-shortcuts.5ec0c12ac1",
+          "title": {
+            "en": "Toggle Side Bar",
+            "zh-Hans": "切换Side Bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sublime-text.other-shortcuts.49e2a8dba0",
+          "title": {
+            "en": "Show Scope in status bar",
+            "zh-Hans": "Show Scope in status bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4608,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sublime-text.other-shortcuts.342c5fa783",
+          "title": {
+            "en": "Clip text Upwards/Downwards",
+            "zh-Hans": "片段 文本 Upwards/Downwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sublime-text.scrolling-shortcuts",
+      "title": {
+        "en": "Scrolling Shortcuts",
+        "zh-Hans": "Scrolling快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.sublime-text.scrolling-shortcuts.da0f8d211a",
+          "title": {
+            "en": "Scroll down one page",
+            "zh-Hans": "Scroll down one page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.sublime-text.scrolling-shortcuts.1f63e19254",
+          "title": {
+            "en": "Center current line vertically in page",
+            "zh-Hans": "Center current line vertically in page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sublime-text.scrolling-shortcuts.8bbd32d35b",
+          "title": {
+            "en": "Scroll to end of file",
+            "zh-Hans": "Scroll to end of file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sublime-text.scrolling-shortcuts.c99987805f",
+          "title": {
+            "en": "Scroll to start of file",
+            "zh-Hans": "Scroll to start of file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    }
+  ]
+}

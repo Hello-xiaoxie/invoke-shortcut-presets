@@ -1,0 +1,678 @@
+{
+  "bundleIdentifier": "com.roam-research.desktop-app",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.roam-research.other",
+      "title": {
+        "en": "Other",
+        "zh-Hans": "其他"
+      },
+      "items": [
+        {
+          "id": "remote.roam-research.other.721155e257",
+          "title": {
+            "en": "Move character under cursor forward",
+            "zh-Hans": "移动character under 光标 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.roam-research.other.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.roam-research.other.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.roam-research.other.2757fb1b82",
+          "title": {
+            "en": "Toggle help popup visibility",
+            "zh-Hans": "Toggle help popup visibility"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2560,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.roam-research.sidebar",
+      "title": {
+        "en": "Sidebar",
+        "zh-Hans": "侧边栏"
+      },
+      "items": [
+        {
+          "id": "remote.roam-research.sidebar.1504f141da",
+          "title": {
+            "en": "Open link in sidebar (when editing)",
+            "zh-Hans": "Open link in sidebar (when editing)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4608,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.roam-research.sidebar.562f2eabd1",
+          "title": {
+            "en": "Create page in sidebar (from search)",
+            "zh-Hans": "Create page in sidebar (from search)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.roam-research.sidebar.770288d206",
+          "title": {
+            "en": "Toggle right sidebar visibility",
+            "zh-Hans": "Toggle right sidebar visibility"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.roam-research.sidebar.065dc9f2ab",
+          "title": {
+            "en": "Toggle left sidebar visibility",
+            "zh-Hans": "Toggle left sidebar visibility"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.roam-research.blocks",
+      "title": {
+        "en": "Blocks",
+        "zh-Hans": "块"
+      },
+      "items": [
+        {
+          "id": "remote.roam-research.blocks.a4598e0f33",
+          "title": {
+            "en": "Select text in current block",
+            "zh-Hans": "Select text in current block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.e4750d0487",
+          "title": {
+            "en": "Open block search",
+            "zh-Hans": "打开 block 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 4608,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.37559968d6",
+          "title": {
+            "en": "Cycle TODO state of current / selected blocks",
+            "zh-Hans": "Cycle TODO state of current / selected blocks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.68e1df6793",
+          "title": {
+            "en": "Copy block reference(s) of selected block(s)",
+            "zh-Hans": "Copy block reference(s) of selected block(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.408b6c35cc",
+          "title": {
+            "en": "Select all blocks on page",
+            "zh-Hans": "Select all blocks on page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.33f62ab6e7",
+          "title": {
+            "en": "Select block below (when block selected)",
+            "zh-Hans": "Select block below (when block selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.8c982cb8b7",
+          "title": {
+            "en": "Select block above (when block selected)",
+            "zh-Hans": "Select block above (when block selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.9bd9c3584f",
+          "title": {
+            "en": "Select current block and children",
+            "zh-Hans": "Select current block and children"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.3d4ee824d2",
+          "title": {
+            "en": "Select current block",
+            "zh-Hans": "选择current block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.c5a2041820",
+          "title": {
+            "en": "Collapse block",
+            "zh-Hans": "折叠block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.7887d9402f",
+          "title": {
+            "en": "Expand block",
+            "zh-Hans": "展开block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.4682ebd152",
+          "title": {
+            "en": "New line within block",
+            "zh-Hans": "New line within block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 512,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.72ef9ff4b3",
+          "title": {
+            "en": "Move block down",
+            "zh-Hans": "移动block 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.roam-research.blocks.ac9a43ca37",
+          "title": {
+            "en": "Move block up",
+            "zh-Hans": "移动block 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.roam-research.navigating",
+      "title": {
+        "en": "Navigating",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.roam-research.navigating.809a930bb7",
+          "title": {
+            "en": "Move cursor backward",
+            "zh-Hans": "移动cursor 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4096,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.93d8c657df",
+          "title": {
+            "en": "Move cursor forward",
+            "zh-Hans": "移动cursor 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.0734fce6db",
+          "title": {
+            "en": "Jump to end of block",
+            "zh-Hans": "Jump to end of block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4096,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.a24963d0b6",
+          "title": {
+            "en": "Jump to start of block",
+            "zh-Hans": "Jump to start of block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.0a620621fb",
+          "title": {
+            "en": "Open link under cursor in sidebar",
+            "zh-Hans": "Open link under cursor in sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4608,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.b6ac799caf",
+          "title": {
+            "en": "Follow link under cursor",
+            "zh-Hans": "Follow 链接 under 光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.999d856abb",
+          "title": {
+            "en": "Go to last block on page (when nothing is selected)",
+            "zh-Hans": "Go to last block on page (when nothing is selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 768,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.e6486b895d",
+          "title": {
+            "en": "Go to first block on page (when nothing is selected)",
+            "zh-Hans": "Go to first block on page (when nothing is selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.d3ec34d33d",
+          "title": {
+            "en": "Go to previous day (when on daily page)",
+            "zh-Hans": "Go to previous day (when on daily page)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6144,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.638907ab7f",
+          "title": {
+            "en": "Go to next day (when on daily page)",
+            "zh-Hans": "Go to next day (when on daily page)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 6144,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.5db8285474",
+          "title": {
+            "en": "Zoom out to parent block",
+            "zh-Hans": "Zoom out to parent block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.02683376d7",
+          "title": {
+            "en": "Zoom in to current block",
+            "zh-Hans": "Zoom in to current block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 768,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.01918c5d94",
+          "title": {
+            "en": "Go to Daily Notes page",
+            "zh-Hans": "转到Daily 笔记 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4608,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.0a7610c5e9",
+          "title": {
+            "en": "Move cursor to previous block",
+            "zh-Hans": "Move cursor to previous block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.roam-research.navigating.8836e5e100",
+          "title": {
+            "en": "Move cursor to next block",
+            "zh-Hans": "Move cursor to next block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.roam-research.formatting",
+      "title": {
+        "en": "Formatting",
+        "zh-Hans": "格式化"
+      },
+      "items": [
+        {
+          "id": "remote.roam-research.formatting.e146b43f36",
+          "title": {
+            "en": "Heading level 3 (Shortcut)",
+            "zh-Hans": "Heading level 3 (Shortcut)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.roam-research.formatting.a888fd02e4",
+          "title": {
+            "en": "Heading level 2 (Shortcut)",
+            "zh-Hans": "Heading level 2 (Shortcut)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.roam-research.formatting.195405ea17",
+          "title": {
+            "en": "Heading level 1 (Shortcut)",
+            "zh-Hans": "Heading level 1 (Shortcut)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.roam-research.formatting.2d94cbf8ee",
+          "title": {
+            "en": "Create Link",
+            "zh-Hans": "Create 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.roam-research.formatting.eb9d66d032",
+          "title": {
+            "en": "Highlight text",
+            "zh-Hans": "Highlight 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.roam-research.formatting.6cbdfccd48",
+          "title": {
+            "en": "Cross out text",
+            "zh-Hans": "Cross out 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.roam-research.formatting.e837538b7f",
+          "title": {
+            "en": "Make text italic",
+            "zh-Hans": "Make 文本 斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.roam-research.formatting.68f66f31f8",
+          "title": {
+            "en": "Make text bold",
+            "zh-Hans": "Make 文本 加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.roam-research.the-basics",
+      "title": {
+        "en": "The Basics",
+        "zh-Hans": "基础"
+      },
+      "items": [
+        {
+          "id": "remote.roam-research.the-basics.4499f0fcb0",
+          "title": {
+            "en": "Move up in autocomplete and search dropdowns",
+            "zh-Hans": "Move up in autocomplete and search dropdowns"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4096,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.roam-research.the-basics.2785085108",
+          "title": {
+            "en": "Move down in autocomplete and search dropdowns",
+            "zh-Hans": "Move down in autocomplete and search dropdowns"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 4096,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.roam-research.the-basics.07fe7cd6b5",
+          "title": {
+            "en": "Unindent block",
+            "zh-Hans": "Unindent block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.roam-research.the-basics.20bc424eeb",
+          "title": {
+            "en": "Indent block",
+            "zh-Hans": "Indent block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.roam-research.the-basics.70f533f7e6",
+          "title": {
+            "en": "New block",
+            "zh-Hans": "新建block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.roam-research.the-basics.90eb8478bc",
+          "title": {
+            "en": "Find or create new page",
+            "zh-Hans": "Find or create new page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        }
+      ]
+    }
+  ]
+}

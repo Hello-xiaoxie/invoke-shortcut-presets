@@ -1,0 +1,432 @@
+{
+  "bundleIdentifier": "com.jetbrains.WebStorm",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.webstorm.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.webstorm.navigation.18e58e783e",
+          "title": {
+            "en": "Recent files",
+            "zh-Hans": "Recent 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.05178d79a4",
+          "title": {
+            "en": "Recent locations",
+            "zh-Hans": "Recent locations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.856ef7371c",
+          "title": {
+            "en": "Open file",
+            "zh-Hans": "打开文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.48a0fbb327",
+          "title": {
+            "en": "Create scratch file",
+            "zh-Hans": "Create scratch 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.d953a0d278",
+          "title": {
+            "en": "Toggle Project panel",
+            "zh-Hans": "切换Project 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.edb802f7cb",
+          "title": {
+            "en": "Select file in Project (customised)",
+            "zh-Hans": "Select file in Project (customised)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 768,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.ae4c16d6f8",
+          "title": {
+            "en": "Go to current file in project, explorer, changes, browser, etc",
+            "zh-Hans": "Go to current file in project, explorer, changes, browser, etc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 2048,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.50890566eb",
+          "title": {
+            "en": "Show the Switcher popup",
+            "zh-Hans": "Show the Switcher popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.5774725853",
+          "title": {
+            "en": "Recent projects",
+            "zh-Hans": "Recent projects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.webstorm.navigation.33481aadde",
+          "title": {
+            "en": "Close project (customised)",
+            "zh-Hans": "关闭 项目 (customised)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.webstorm.editor",
+      "title": {
+        "en": "Editor",
+        "zh-Hans": "编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.webstorm.editor.88f38064aa",
+          "title": {
+            "en": "Go to declaration / find usages",
+            "zh-Hans": "Go to declaration / find usages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.webstorm.editor.8bc42680e5",
+          "title": {
+            "en": "Go to previous edit point",
+            "zh-Hans": "Go to previous edit point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.webstorm.editor.b8f9be2368",
+          "title": {
+            "en": "Go to next edit point",
+            "zh-Hans": "Go to next edit point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.webstorm.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.webstorm.editing.2831d3215d",
+          "title": {
+            "en": "Select next same word (forward)",
+            "zh-Hans": "选择next same 单词 (向前)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.webstorm.editing.fe95077363",
+          "title": {
+            "en": "Deselect next same word (backward)",
+            "zh-Hans": "Deselect 下一个 same 单词 (向后)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4608,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.webstorm.assistance",
+      "title": {
+        "en": "Assistance",
+        "zh-Hans": "辅助"
+      },
+      "items": [
+        {
+          "id": "remote.webstorm.assistance.c681219771",
+          "title": {
+            "en": "Find text in path",
+            "zh-Hans": "Find text in path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.webstorm.assistance.35381529aa",
+          "title": {
+            "en": "Replace text in path",
+            "zh-Hans": "Replace text in path"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.webstorm.assistance.91fc373228",
+          "title": {
+            "en": "Find class",
+            "zh-Hans": "查找 类"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.webstorm.application",
+      "title": {
+        "en": "Application",
+        "zh-Hans": "应用"
+      },
+      "items": [
+        {
+          "id": "remote.webstorm.application.f6370a3a00",
+          "title": {
+            "en": "Find action",
+            "zh-Hans": "查找 action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.webstorm.application.790f8533ed",
+          "title": {
+            "en": "Find anything",
+            "zh-Hans": "查找 anything"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.webstorm.application.429d7922c1",
+          "title": {
+            "en": "Show preferences dialog",
+            "zh-Hans": "显示 偏好设置 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.webstorm.coding-assistance",
+      "title": {
+        "en": "Coding Assistance",
+        "zh-Hans": "编码辅助"
+      },
+      "items": [
+        {
+          "id": "remote.webstorm.coding-assistance.d331589132",
+          "title": {
+            "en": "Show function parameters",
+            "zh-Hans": "显示 函数 parameters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.webstorm.coding-assistance.556b9b0c54",
+          "title": {
+            "en": "Show completions",
+            "zh-Hans": "显示 completions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.webstorm.coding-assistance.aa858fb788",
+          "title": {
+            "en": "Show intentions",
+            "zh-Hans": "显示 intentions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.webstorm.code-refactoring",
+      "title": {
+        "en": "Code Refactoring",
+        "zh-Hans": "代码重构"
+      },
+      "items": [
+        {
+          "id": "remote.webstorm.code-refactoring.69d10e6726",
+          "title": {
+            "en": "Refactor this…",
+            "zh-Hans": "Refactor this…"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.webstorm.code-refactoring.19ce705234",
+          "title": {
+            "en": "Extract variable",
+            "zh-Hans": "Extract 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.webstorm.code-refactoring.da1186e07b",
+          "title": {
+            "en": "Extract constant",
+            "zh-Hans": "Extract constant"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.webstorm.general-refactoring",
+      "title": {
+        "en": "General Refactoring",
+        "zh-Hans": "通用重构"
+      },
+      "items": [
+        {
+          "id": "remote.webstorm.general-refactoring.513039cfd7",
+          "title": {
+            "en": "Move file / namespace / function / variable",
+            "zh-Hans": "移动file / namespace / 函数 / 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.webstorm.general-refactoring.bcdf7f88df",
+          "title": {
+            "en": "Rename file / namespace / function / variable",
+            "zh-Hans": "重命名 文件 / namespace / 函数 / 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 512,
+            "displayKey": "F2"
+          }
+        }
+      ]
+    }
+  ]
+}

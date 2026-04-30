@@ -1,0 +1,273 @@
+{
+  "bundleIdentifier": "com.postmanlabs.mac",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.postman.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.postman.general.6c0deafd80",
+          "title": {
+            "en": "focus sidebar",
+            "zh-Hans": "focus 侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.postman.general.2608cccd09",
+          "title": {
+            "en": "focus builder",
+            "zh-Hans": "focus builder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.postman.general.36802f62eb",
+          "title": {
+            "en": "move to next item",
+            "zh-Hans": "move to next item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.postman.general.7c015fb400",
+          "title": {
+            "en": "move to previous item",
+            "zh-Hans": "move to previous item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.postman.general.94cac30347",
+          "title": {
+            "en": "expand collection / folder",
+            "zh-Hans": "expand collection / 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.postman.general.ef1db8ba6e",
+          "title": {
+            "en": "collapse collection / folder",
+            "zh-Hans": "collapse collection / 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.postman.general.53bf76ef65",
+          "title": {
+            "en": "select current and next item",
+            "zh-Hans": "select current and next item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.postman.general.787fbaf508",
+          "title": {
+            "en": "select current and previous item",
+            "zh-Hans": "select current and previous item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.postman.general.ab34f69307",
+          "title": {
+            "en": "search sidebar",
+            "zh-Hans": "搜索 侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.postman.general.b610a56c12",
+          "title": {
+            "en": "open request in a tab",
+            "zh-Hans": "open request in a tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.postman.general.8f1b5fc578",
+          "title": {
+            "en": "copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.postman.general.74d3dca831",
+          "title": {
+            "en": "paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.postman.general.52d88c08da",
+          "title": {
+            "en": "delete",
+            "zh-Hans": "删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.postman.general.9590f4efc3",
+          "title": {
+            "en": "duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.postman.general.c3e5354612",
+          "title": {
+            "en": "edit / rename",
+            "zh-Hans": "编辑 / 重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.postman.general.d86efdfbde",
+          "title": {
+            "en": "save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.postman.general.ab92d5eacf",
+          "title": {
+            "en": "save as",
+            "zh-Hans": "存储 as"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.postman.general.3499d518da",
+          "title": {
+            "en": "send request",
+            "zh-Hans": "send request"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.postman.general.7babbadd83",
+          "title": {
+            "en": "toggle the sidebar",
+            "zh-Hans": "toggle the sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.postman.general.737108d98f",
+          "title": {
+            "en": "jump to url",
+            "zh-Hans": "jump to URL"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.postman.general.763f3dbcd2",
+          "title": {
+            "en": "open console",
+            "zh-Hans": "打开 控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        }
+      ]
+    }
+  ]
+}

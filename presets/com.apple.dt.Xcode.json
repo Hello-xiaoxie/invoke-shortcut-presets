@@ -1,0 +1,780 @@
+{
+  "bundleIdentifier": "com.apple.dt.Xcode",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.xcode.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.xcode.general-shortcuts.17bcf963f3",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.xcode.general-shortcuts.c79dfd8413",
+          "title": {
+            "en": "Console",
+            "zh-Hans": "控制台"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.xcode.general-shortcuts.5f6cfcd7d7",
+          "title": {
+            "en": "Documentation",
+            "zh-Hans": "Documentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 768,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.xcode.general-shortcuts.bea44913d9",
+          "title": {
+            "en": "Documentation fo Selected Text",
+            "zh-Hans": "Documentation fo 所选 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 4352,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.xcode.general-shortcuts.65aa031787",
+          "title": {
+            "en": "Quick Help",
+            "zh-Hans": "Quick Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.xcode.code-editing",
+      "title": {
+        "en": "Code Editing",
+        "zh-Hans": "代码编辑"
+      },
+      "items": [
+        {
+          "id": "remote.xcode.code-editing.7bce8c5eb7",
+          "title": {
+            "en": "Comment Selection",
+            "zh-Hans": "评论 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.xcode.code-editing.9110b7ff47",
+          "title": {
+            "en": "Fold Method/Class",
+            "zh-Hans": "Fold 方法/类"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.xcode.code-editing.e32460701b",
+          "title": {
+            "en": "Unfold Method/Class",
+            "zh-Hans": "Unfold 方法/类"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2304,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.xcode.code-editing.30cf020be9",
+          "title": {
+            "en": "Edit All in Scope",
+            "zh-Hans": "Edit All in Scope"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4352,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.xcode.code-editing.469cf5dddd",
+          "title": {
+            "en": "Show Completions",
+            "zh-Hans": "显示 Completions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.xcode.code-editing.7d83c14d14",
+          "title": {
+            "en": "Next Completion",
+            "zh-Hans": "下一个 Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 4096,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.xcode.code-editing.60c26aecad",
+          "title": {
+            "en": "Accept Completion",
+            "zh-Hans": "Accept Completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.xcode.code-editing.5fa9d1756b",
+          "title": {
+            "en": "Next Placeholder",
+            "zh-Hans": "下一个 Placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.xcode.code-editing.3d92ecac66",
+          "title": {
+            "en": "Previous Placeholder",
+            "zh-Hans": "上一个 Placeholder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4608,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.xcode.build-and-run",
+      "title": {
+        "en": "Build and Run",
+        "zh-Hans": "构建与运行"
+      },
+      "items": [
+        {
+          "id": "remote.xcode.build-and-run.586df9267f",
+          "title": {
+            "en": "Build",
+            "zh-Hans": "Build"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.xcode.build-and-run.2d23220b96",
+          "title": {
+            "en": "Analyse",
+            "zh-Hans": "Analyse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.xcode.build-and-run.1d7aee4fb0",
+          "title": {
+            "en": "Run",
+            "zh-Hans": "Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.xcode.build-and-run.d7a3becc0c",
+          "title": {
+            "en": "Profile",
+            "zh-Hans": "Profile"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.xcode.build-and-run.7f6a2a6893",
+          "title": {
+            "en": "Test",
+            "zh-Hans": "Test"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.xcode.build-and-run.13b213de12",
+          "title": {
+            "en": "Clear Console",
+            "zh-Hans": "清除Console"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.xcode.build-and-run.0311bf7858",
+          "title": {
+            "en": "Clean",
+            "zh-Hans": "Clean"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.xcode.file-navigation",
+      "title": {
+        "en": "File Navigation",
+        "zh-Hans": "文件导航"
+      },
+      "items": [
+        {
+          "id": "remote.xcode.file-navigation.cc3ae9ba45",
+          "title": {
+            "en": "Go Forward",
+            "zh-Hans": "Go 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.xcode.file-navigation.7aa1c3386e",
+          "title": {
+            "en": "Go Backward",
+            "zh-Hans": "Go 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.xcode.file-navigation.0407db33e7",
+          "title": {
+            "en": "Open Quickly",
+            "zh-Hans": "打开 Quickly"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.xcode.file-navigation.603e9f6203",
+          "title": {
+            "en": "Show Related Items",
+            "zh-Hans": "显示 Related Items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 4096,
+            "displayKey": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.xcode.debugging",
+      "title": {
+        "en": "Debugging",
+        "zh-Hans": "调试"
+      },
+      "items": [
+        {
+          "id": "remote.xcode.debugging.fe60517766",
+          "title": {
+            "en": "Next Issue",
+            "zh-Hans": "下一个 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.xcode.debugging.d633327957",
+          "title": {
+            "en": "Previous Issue",
+            "zh-Hans": "上一个 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.xcode.debugging.b1ab029f13",
+          "title": {
+            "en": "Fix Next Issue",
+            "zh-Hans": "Fix 下一个 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4352,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.xcode.debugging.9e03311520",
+          "title": {
+            "en": "Fix Previous Issue",
+            "zh-Hans": "Fix 上一个 事项"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4352,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.xcode.debugging.9579e3bfe2",
+          "title": {
+            "en": "Add BreakPoint",
+            "zh-Hans": "添加BreakPoint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.xcode.debugging.eae80b0fbe",
+          "title": {
+            "en": "Activate Breakpoint",
+            "zh-Hans": "Activate 断点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.xcode.code-navigation",
+      "title": {
+        "en": "Code Navigation",
+        "zh-Hans": "代码导航"
+      },
+      "items": [
+        {
+          "id": "remote.xcode.code-navigation.3a7ae68fa8",
+          "title": {
+            "en": "Beginning of Line",
+            "zh-Hans": "Beginning of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.a941169497",
+          "title": {
+            "en": "End of Line",
+            "zh-Hans": "End of Line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.77c11ded85",
+          "title": {
+            "en": "Top of File",
+            "zh-Hans": "Top of File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.d41218a2ec",
+          "title": {
+            "en": "End of File",
+            "zh-Hans": "End of File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.7105abc4fd",
+          "title": {
+            "en": "Previous Word",
+            "zh-Hans": "上一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.694049e768",
+          "title": {
+            "en": "Next Word",
+            "zh-Hans": "下一个 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.172d7fb07c",
+          "title": {
+            "en": "Previous SubWord",
+            "zh-Hans": "上一个 SubWord"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4096,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.1a05aa3272",
+          "title": {
+            "en": "Next SubWord",
+            "zh-Hans": "下一个 SubWord"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4096,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.1a68fcc68d",
+          "title": {
+            "en": "Go to Liner",
+            "zh-Hans": "转到Liner"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.9a42a8bb74",
+          "title": {
+            "en": "Find in File",
+            "zh-Hans": "Find in File"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.51dfda5644",
+          "title": {
+            "en": "Find in Project",
+            "zh-Hans": "Find in Project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.xcode.code-navigation.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.xcode.libraries",
+      "title": {
+        "en": "Libraries",
+        "zh-Hans": "资源库"
+      },
+      "items": [
+        {
+          "id": "remote.xcode.libraries.50320842c8",
+          "title": {
+            "en": "File Template",
+            "zh-Hans": "文件 模板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 6400,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.xcode.libraries.31ece86c96",
+          "title": {
+            "en": "Code Snippet",
+            "zh-Hans": "Code 代码片段"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 6400,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.xcode.libraries.5fb1c9b8dd",
+          "title": {
+            "en": "Object",
+            "zh-Hans": "对象"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 6400,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.xcode.libraries.6f22d5c95d",
+          "title": {
+            "en": "Media",
+            "zh-Hans": "媒体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 6400,
+            "displayKey": "4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.xcode.other-shortcuts",
+      "title": {
+        "en": "Other Shortcuts",
+        "zh-Hans": "其他快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.xcode.other-shortcuts.bd610a55a4",
+          "title": {
+            "en": "Switch Inspector",
+            "zh-Hans": "Switch Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.956d905754",
+          "title": {
+            "en": "Toggle Utilities",
+            "zh-Hans": "切换Utilities"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.721ebe5b2c",
+          "title": {
+            "en": "Filter in Library",
+            "zh-Hans": "Filter in Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.9ae53d5b0a",
+          "title": {
+            "en": "Show Assistant Editor",
+            "zh-Hans": "显示 Assistant 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2304,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.15ca893012",
+          "title": {
+            "en": "Show Version Editor",
+            "zh-Hans": "显示 Version 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2816,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.dc4cec8c1c",
+          "title": {
+            "en": "Show Standard Editor",
+            "zh-Hans": "显示 Standard 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.000cae775d",
+          "title": {
+            "en": "Toggle Debug Area",
+            "zh-Hans": "切换Debug Area"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.84eb5b883a",
+          "title": {
+            "en": "Switch Navigators",
+            "zh-Hans": "Switch Navigators"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.58566c8674",
+          "title": {
+            "en": "Toggle Navigators",
+            "zh-Hans": "切换Navigators"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.xcode.other-shortcuts.a64662cb3d",
+          "title": {
+            "en": "Filter in Navigator",
+            "zh-Hans": "Filter in Navigator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2304,
+            "displayKey": "J"
+          }
+        }
+      ]
+    }
+  ]
+}

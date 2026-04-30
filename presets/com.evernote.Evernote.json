@@ -1,0 +1,618 @@
+{
+  "bundleIdentifier": "com.evernote.Evernote",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.evernote.general-shortcuts",
+      "title": {
+        "en": "General Shortcuts",
+        "zh-Hans": "通用快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.evernote.general-shortcuts.8c9ab6d041",
+          "title": {
+            "en": "New Note",
+            "zh-Hans": "新建Note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.f8026b30a5",
+          "title": {
+            "en": "New Notebook",
+            "zh-Hans": "新建Notebook"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.3acbfdba62",
+          "title": {
+            "en": "New Tag",
+            "zh-Hans": "新建Tag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.436fd4f26a",
+          "title": {
+            "en": "New Evernote Window",
+            "zh-Hans": "新建Evernote 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.8b62a9c62e",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.7d091b72a3",
+          "title": {
+            "en": "Page Setup",
+            "zh-Hans": "页面 Setup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.93bcaef6db",
+          "title": {
+            "en": "Merge Notes",
+            "zh-Hans": "Merge 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.f5ae68c214",
+          "title": {
+            "en": "Search Notes",
+            "zh-Hans": "搜索 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.b741495fee",
+          "title": {
+            "en": "Save Search",
+            "zh-Hans": "存储 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.17c8c8b22b",
+          "title": {
+            "en": "Reset Search",
+            "zh-Hans": "Reset 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.d277ebff34",
+          "title": {
+            "en": "Show Toolbar",
+            "zh-Hans": "显示 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.05e4b8e57c",
+          "title": {
+            "en": "List View",
+            "zh-Hans": "列表视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.ae941f18fd",
+          "title": {
+            "en": "Mixed View",
+            "zh-Hans": "Mixed 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.36d2d0973f",
+          "title": {
+            "en": "Thumbnail View",
+            "zh-Hans": "Thumbnail 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.3179cd0bc7",
+          "title": {
+            "en": "Minimize Window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.evernote.general-shortcuts.b3b196047a",
+          "title": {
+            "en": "Activity",
+            "zh-Hans": "Activity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.evernote.note-editor",
+      "title": {
+        "en": "Note Editor",
+        "zh-Hans": "Note编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.evernote.note-editor.79daecdd78",
+          "title": {
+            "en": "Quick Look Attachments",
+            "zh-Hans": "Quick Look Attachments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.80543c2a32",
+          "title": {
+            "en": "Cut / Copy / Paste",
+            "zh-Hans": "剪切 / 复制 / 粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2048,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.768c6d962d",
+          "title": {
+            "en": "Paste Without Formatting",
+            "zh-Hans": "粘贴 Without Formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.ddf99312ff",
+          "title": {
+            "en": "Find in Note",
+            "zh-Hans": "Find in Note"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.72c0f04a7a",
+          "title": {
+            "en": "Find Next / Find Previous",
+            "zh-Hans": "查找 下一个 / 查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.9d135fc5b0",
+          "title": {
+            "en": "Jump to Selection",
+            "zh-Hans": "跳转到Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.2f83419c50",
+          "title": {
+            "en": "Show Spelling and Grammar",
+            "zh-Hans": "Show Spelling and Grammar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.80861dc524",
+          "title": {
+            "en": "Show Fonts",
+            "zh-Hans": "显示 Fonts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.ec1c15ce8b",
+          "title": {
+            "en": "Show Colors",
+            "zh-Hans": "显示 Colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.ed2a2e1056",
+          "title": {
+            "en": "Insert To-do",
+            "zh-Hans": "Insert To-do"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.4b88c61c9e",
+          "title": {
+            "en": "Insert Table",
+            "zh-Hans": "插入 表格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.8b4ab1babc",
+          "title": {
+            "en": "Insert Horizontal Rule",
+            "zh-Hans": "插入 水平 Rule"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.2537754ac5",
+          "title": {
+            "en": "Simplify Formatting",
+            "zh-Hans": "Simplify Formatting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.7796c10750",
+          "title": {
+            "en": "Toggle Ordered List",
+            "zh-Hans": "切换Ordered List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.0613e3e2d8",
+          "title": {
+            "en": "Toggle Bulleted List",
+            "zh-Hans": "切换Bulleted List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.bc6fd0263e",
+          "title": {
+            "en": "Increase List Level / Decrease List Level",
+            "zh-Hans": "Increase List Level / Decrease List Level"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 768,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.4fca156fcf",
+          "title": {
+            "en": "Add Hyperlink",
+            "zh-Hans": "添加Hyperlink"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.76d53c44ac",
+          "title": {
+            "en": "Remove Hyperlink",
+            "zh-Hans": "移除Hyperlink"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.4fe649c4a8",
+          "title": {
+            "en": "Make selection bold",
+            "zh-Hans": "Make 选择 加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.84b235611f",
+          "title": {
+            "en": "Make selection italic",
+            "zh-Hans": "Make 选择 斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.d42923112c",
+          "title": {
+            "en": "Make selection underlined",
+            "zh-Hans": "Make 选择 underlined"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.e8dbf639f7",
+          "title": {
+            "en": "Make selection strikethrough",
+            "zh-Hans": "Make 选择 strikethrough"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4352,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.977cc3872a",
+          "title": {
+            "en": "Increase / Decrease Text Size",
+            "zh-Hans": "Increase / Decrease Text Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.5957516809",
+          "title": {
+            "en": "Align Left",
+            "zh-Hans": "左对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.f48020f1ce",
+          "title": {
+            "en": "Align Right",
+            "zh-Hans": "右对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.0063838bd8",
+          "title": {
+            "en": "Center",
+            "zh-Hans": "中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.175551622b",
+          "title": {
+            "en": "Insert Date at Cursor",
+            "zh-Hans": "Insert Date at Cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.evernote.note-editor.bf8234b188",
+          "title": {
+            "en": "Insert Time at Cursor",
+            "zh-Hans": "Insert Time at Cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2816,
+            "displayKey": "D"
+          }
+        }
+      ]
+    }
+  ]
+}

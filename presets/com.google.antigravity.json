@@ -1,0 +1,861 @@
+{
+  "bundleIdentifier": "com.google.antigravity",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.antigravity.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.file.75675133c3",
+          "title": {
+            "en": "New file",
+            "zh-Hans": "新建文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.antigravity.file.b099ed37b0",
+          "title": {
+            "en": "New window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.antigravity.file.2de243e436",
+          "title": {
+            "en": "Open file",
+            "zh-Hans": "打开文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.antigravity.file.3c64eeb6eb",
+          "title": {
+            "en": "Open folder",
+            "zh-Hans": "打开 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.antigravity.file.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.antigravity.file.02e854c5f9",
+          "title": {
+            "en": "Save as",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.antigravity.file.1dd5b8b393",
+          "title": {
+            "en": "Save all",
+            "zh-Hans": "全部保存"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.antigravity.file.0247b5c420",
+          "title": {
+            "en": "Close editor",
+            "zh-Hans": "关闭编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.antigravity.edit",
+      "title": {
+        "en": "Edit",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.edit.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.fa24de616d",
+          "title": {
+            "en": "Copy line up",
+            "zh-Hans": "向上复制行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.613df702bc",
+          "title": {
+            "en": "Copy line down",
+            "zh-Hans": "向下复制行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.7026095e08",
+          "title": {
+            "en": "Move line up",
+            "zh-Hans": "向上移动行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2048,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.738b519e95",
+          "title": {
+            "en": "Move line down",
+            "zh-Hans": "向下移动行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.c64c27d26a",
+          "title": {
+            "en": "Delete line",
+            "zh-Hans": "删除行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.antigravity.edit.63d2ef29f2",
+          "title": {
+            "en": "Insert line below",
+            "zh-Hans": "在下方插入行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.antigravity.ai-coding",
+      "title": {
+        "en": "AI Coding",
+        "zh-Hans": "AI 编码"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.ai-coding.3074fdf473",
+          "title": {
+            "en": "Open AI chat",
+            "zh-Hans": "打开 AI chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.antigravity.ai-coding.5efb743e2f",
+          "title": {
+            "en": "Inline AI chat",
+            "zh-Hans": "Inline AI chat"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.antigravity.ai-coding.5824d5866c",
+          "title": {
+            "en": "Accept completion",
+            "zh-Hans": "Accept completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.antigravity.ai-coding.bbe2f4e168",
+          "title": {
+            "en": "Trigger suggestion",
+            "zh-Hans": "触发建议"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.antigravity.ai-coding.e92c2f9503",
+          "title": {
+            "en": "Go to next problem",
+            "zh-Hans": "转到next 问题"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.antigravity.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.navigation.e7bca7f9e5",
+          "title": {
+            "en": "Go to file",
+            "zh-Hans": "转到file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.antigravity.navigation.90876893ae",
+          "title": {
+            "en": "Go to line",
+            "zh-Hans": "转到line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.antigravity.navigation.c9a5e7ad0b",
+          "title": {
+            "en": "Go to bracket",
+            "zh-Hans": "转到bracket"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 768,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.antigravity.navigation.29a05f2b48",
+          "title": {
+            "en": "Navigate back",
+            "zh-Hans": "向后导航"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4096,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.antigravity.navigation.0f8abde7cc",
+          "title": {
+            "en": "Navigate forward",
+            "zh-Hans": "向前导航"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 4608,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.antigravity.navigation.79259f098b",
+          "title": {
+            "en": "Go to last edit",
+            "zh-Hans": "转到last 编辑"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.antigravity.search",
+      "title": {
+        "en": "Search",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.search.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.antigravity.search.81d3351aa8",
+          "title": {
+            "en": "Replace",
+            "zh-Hans": "替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.antigravity.search.8a2e98778d",
+          "title": {
+            "en": "Find in files",
+            "zh-Hans": "在文件中查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.antigravity.search.86d8806ca1",
+          "title": {
+            "en": "Replace in files",
+            "zh-Hans": "在文件中替换"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.antigravity.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.view.5671763937",
+          "title": {
+            "en": "Command palette",
+            "zh-Hans": "Command 面板"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.antigravity.view.377f91d86e",
+          "title": {
+            "en": "Toggle sidebar",
+            "zh-Hans": "切换侧边栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.antigravity.view.22ca403042",
+          "title": {
+            "en": "Toggle terminal",
+            "zh-Hans": "切换terminal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.antigravity.view.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.antigravity.view.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.antigravity.view.b5c4e9f7f1",
+          "title": {
+            "en": "Reset zoom",
+            "zh-Hans": "重置zoom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.antigravity.view.e46eeeb3eb",
+          "title": {
+            "en": "Toggle panel",
+            "zh-Hans": "切换panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.antigravity.code-editing",
+      "title": {
+        "en": "Code Editing",
+        "zh-Hans": "代码编辑"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.code-editing.54942da9a3",
+          "title": {
+            "en": "Toggle line comment",
+            "zh-Hans": "切换行注释"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.07c4f57de6",
+          "title": {
+            "en": "Toggle comment selection",
+            "zh-Hans": "切换comment 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.ee52d936a0",
+          "title": {
+            "en": "Indent line",
+            "zh-Hans": "Indent 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.e940577170",
+          "title": {
+            "en": "Outdent line",
+            "zh-Hans": "Outdent 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.eb6f2fc96a",
+          "title": {
+            "en": "Format document",
+            "zh-Hans": "格式化文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2560,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.37d1db8ac2",
+          "title": {
+            "en": "Format selection",
+            "zh-Hans": "格式化选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.95d8849651",
+          "title": {
+            "en": "Rename symbol",
+            "zh-Hans": "重命名符号"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.9f7c0d1144",
+          "title": {
+            "en": "Quick fix",
+            "zh-Hans": "快速修复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.201505a31d",
+          "title": {
+            "en": "Go to definition",
+            "zh-Hans": "转到定义"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.7202adf67d",
+          "title": {
+            "en": "Peek definition",
+            "zh-Hans": "速览定义"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2048,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.antigravity.code-editing.89a2043194",
+          "title": {
+            "en": "Find references",
+            "zh-Hans": "查找 references"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.antigravity.multi-cursor",
+      "title": {
+        "en": "Multi-Cursor",
+        "zh-Hans": "多光标"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.multi-cursor.4a535d5ecd",
+          "title": {
+            "en": "Insert cursor",
+            "zh-Hans": "插入 光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2048,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.antigravity.multi-cursor.f9a7df655a",
+          "title": {
+            "en": "Insert cursor above",
+            "zh-Hans": "在上方插入光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2560,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.antigravity.multi-cursor.8c478d7502",
+          "title": {
+            "en": "Insert cursor below",
+            "zh-Hans": "在下方插入光标"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.antigravity.multi-cursor.18a93746b3",
+          "title": {
+            "en": "Select next occurrence",
+            "zh-Hans": "选择next occurrence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.antigravity.multi-cursor.7091ccd2a7",
+          "title": {
+            "en": "Select all occurrences",
+            "zh-Hans": "全选 occurrences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.antigravity.multi-cursor.47abce4ab8",
+          "title": {
+            "en": "Column selection up",
+            "zh-Hans": "列 选择 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 2304,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.antigravity.multi-cursor.ee1414a6e2",
+          "title": {
+            "en": "Column selection down",
+            "zh-Hans": "列 选择 下"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.antigravity.git",
+      "title": {
+        "en": "Git",
+        "zh-Hans": "Git"
+      },
+      "items": [
+        {
+          "id": "remote.antigravity.git.6322831292",
+          "title": {
+            "en": "Open Git",
+            "zh-Hans": "打开 Git"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4608,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.antigravity.git.65026abd6b",
+          "title": {
+            "en": "Stage changes",
+            "zh-Hans": "Stage changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.antigravity.git.8a3528acb3",
+          "title": {
+            "en": "Commit",
+            "zh-Hans": "提交"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.antigravity.git.1d30284274",
+          "title": {
+            "en": "Sync changes",
+            "zh-Hans": "Sync changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        }
+      ]
+    }
+  ]
+}

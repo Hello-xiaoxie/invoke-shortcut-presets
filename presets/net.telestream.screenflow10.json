@@ -1,0 +1,498 @@
+{
+  "bundleIdentifier": "net.telestream.screenflow10",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.screenflow.recording-file",
+      "title": {
+        "en": "Recording & File",
+        "zh-Hans": "录制与文件"
+      },
+      "items": [
+        {
+          "id": "remote.screenflow.recording-file.5741c34a3a",
+          "title": {
+            "en": "New Recording",
+            "zh-Hans": "新建Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.screenflow.recording-file.e2fffecfdd",
+          "title": {
+            "en": "Start/Stop Recording",
+            "zh-Hans": "开始/Stop Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 768,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.screenflow.recording-file.4b5369e6b1",
+          "title": {
+            "en": "Add Recording to Document",
+            "zh-Hans": "Add Recording to Document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.screenflow.recording-file.b59d332d1b",
+          "title": {
+            "en": "Export",
+            "zh-Hans": "导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.screenflow.recording-file.452e58aeb5",
+          "title": {
+            "en": "Open Document",
+            "zh-Hans": "打开 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.screenflow.recording-file.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.screenflow.playback-timeline",
+      "title": {
+        "en": "Playback & Timeline",
+        "zh-Hans": "播放与时间轴"
+      },
+      "items": [
+        {
+          "id": "remote.screenflow.playback-timeline.9957316a72",
+          "title": {
+            "en": "Play/Pause",
+            "zh-Hans": "播放/暂停"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.screenflow.playback-timeline.7d2d851fbd",
+          "title": {
+            "en": "Move One Frame Forward",
+            "zh-Hans": "移动One 画框 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.screenflow.playback-timeline.0ade936fa6",
+          "title": {
+            "en": "Move One Frame Backward",
+            "zh-Hans": "移动One 画框 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.screenflow.playback-timeline.2e68261849",
+          "title": {
+            "en": "Jump One Second Forward",
+            "zh-Hans": "Jump One Second Forward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.screenflow.playback-timeline.f687b6ae33",
+          "title": {
+            "en": "Jump One Second Backward",
+            "zh-Hans": "Jump One Second Backward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 512,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.screenflow.playback-timeline.b6166ca9a2",
+          "title": {
+            "en": "Jump to Beginning of Clip",
+            "zh-Hans": "Jump to Beginning of Clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.screenflow.playback-timeline.a1e0850b4d",
+          "title": {
+            "en": "Jump to End of Clip",
+            "zh-Hans": "Jump to End of Clip"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.screenflow.editing",
+      "title": {
+        "en": "Editing",
+        "zh-Hans": "编辑"
+      },
+      "items": [
+        {
+          "id": "remote.screenflow.editing.576e24f231",
+          "title": {
+            "en": "Split Clip at Scrubber",
+            "zh-Hans": "Split Clip at Scrubber"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.screenflow.editing.15c3c2808e",
+          "title": {
+            "en": "Split All Tracks at Scrubber",
+            "zh-Hans": "Split All Tracks at Scrubber"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.screenflow.editing.cdb613beaa",
+          "title": {
+            "en": "Split and Select Right",
+            "zh-Hans": "Split and Select Right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 512,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.screenflow.editing.f9928a577b",
+          "title": {
+            "en": "Ripple Delete",
+            "zh-Hans": "Ripple 删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.screenflow.editing.f7de5259e3",
+          "title": {
+            "en": "Add Freeze Frame",
+            "zh-Hans": "添加Freeze 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.screenflow.editing.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.screenflow.editing.9cd0b6e6bf",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.screenflow.actions-properties",
+      "title": {
+        "en": "Actions & Properties",
+        "zh-Hans": "操作与属性"
+      },
+      "items": [
+        {
+          "id": "remote.screenflow.actions-properties.b26c005d1d",
+          "title": {
+            "en": "Add Video Action",
+            "zh-Hans": "添加Video Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.screenflow.actions-properties.1390ffcd54",
+          "title": {
+            "en": "Add Audio Action",
+            "zh-Hans": "添加Audio Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.screenflow.actions-properties.fa5c7b19fa",
+          "title": {
+            "en": "Show Video Properties",
+            "zh-Hans": "显示 视频 Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.screenflow.actions-properties.f5b5b682b5",
+          "title": {
+            "en": "Show Audio Properties",
+            "zh-Hans": "显示 音频 Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.screenflow.actions-properties.ccf4ee3531",
+          "title": {
+            "en": "Show Callout Properties",
+            "zh-Hans": "显示 Callout Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.screenflow.actions-properties.ce2eaa821a",
+          "title": {
+            "en": "Show Annotations Properties",
+            "zh-Hans": "显示 Annotations Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.screenflow.actions-properties.14318e7956",
+          "title": {
+            "en": "Show Text Properties",
+            "zh-Hans": "显示 文本 Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.screenflow.actions-properties.d7557c42a0",
+          "title": {
+            "en": "Show Media Library",
+            "zh-Hans": "显示 媒体 Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.screenflow.transitions-effects",
+      "title": {
+        "en": "Transitions & Effects",
+        "zh-Hans": "转场与效果"
+      },
+      "items": [
+        {
+          "id": "remote.screenflow.transitions-effects.f1497d4f6a",
+          "title": {
+            "en": "Add Starting Transition",
+            "zh-Hans": "添加Starting 过渡"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2304,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.screenflow.transitions-effects.d4ab4c4fab",
+          "title": {
+            "en": "Add Ending Transition",
+            "zh-Hans": "添加Ending 过渡"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2304,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.screenflow.transitions-effects.835829e7f8",
+          "title": {
+            "en": "Add Both Transitions",
+            "zh-Hans": "添加Both Transitions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 2304,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.screenflow.transitions-effects.33c7d20e5b",
+          "title": {
+            "en": "Add Chapter Mark",
+            "zh-Hans": "添加Chapter Mark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 0,
+            "displayKey": "`"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.screenflow.standard-operations",
+      "title": {
+        "en": "Standard Operations",
+        "zh-Hans": "标准操作"
+      },
+      "items": [
+        {
+          "id": "remote.screenflow.standard-operations.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.screenflow.standard-operations.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.screenflow.standard-operations.eb4de86b2a",
+          "title": {
+            "en": "Zoom In Timeline",
+            "zh-Hans": "放大 时间线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.screenflow.standard-operations.05bca626f8",
+          "title": {
+            "en": "Zoom Out Timeline",
+            "zh-Hans": "缩小 时间线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        }
+      ]
+    }
+  ]
+}

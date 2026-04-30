@@ -1,0 +1,429 @@
+{
+  "bundleIdentifier": "com.hegenberg.BetterTouchTool",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.bettertouchtool.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.bettertouchtool.general.919dbef065",
+          "title": {
+            "en": "Open Preferences",
+            "zh-Hans": "打开 偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.general.b756df69ea",
+          "title": {
+            "en": "Quit BetterTouchTool",
+            "zh-Hans": "退出 BetterTouchTool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.general.4f44d241ad",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.general.8ec15e4e19",
+          "title": {
+            "en": "Hide BetterTouchTool",
+            "zh-Hans": "隐藏 BetterTouchTool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.general.3179cd0bc7",
+          "title": {
+            "en": "Minimize Window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.general.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.general.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bettertouchtool.configuration",
+      "title": {
+        "en": "Configuration",
+        "zh-Hans": "配置"
+      },
+      "items": [
+        {
+          "id": "remote.bettertouchtool.configuration.abf12ccb91",
+          "title": {
+            "en": "Copy selected trigger as JSON",
+            "zh-Hans": "Copy selected trigger as JSON"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.configuration.4770d49d1d",
+          "title": {
+            "en": "Paste trigger from clipboard",
+            "zh-Hans": "Paste trigger from clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.configuration.6ac8539915",
+          "title": {
+            "en": "Duplicate selected trigger",
+            "zh-Hans": "创建副本 所选 trigger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.configuration.e77819b5c2",
+          "title": {
+            "en": "Search and filter triggers",
+            "zh-Hans": "Search and filter triggers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.configuration.5fb885fdf4",
+          "title": {
+            "en": "New trigger",
+            "zh-Hans": "新建trigger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.configuration.9bbaffa0fe",
+          "title": {
+            "en": "Delete selected trigger",
+            "zh-Hans": "删除 所选 trigger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.configuration.69c8a15c28",
+          "title": {
+            "en": "Save current configuration",
+            "zh-Hans": "存储 当前 configuration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bettertouchtool.window-snapping",
+      "title": {
+        "en": "Window Snapping",
+        "zh-Hans": "窗口吸附"
+      },
+      "items": [
+        {
+          "id": "remote.bettertouchtool.window-snapping.897f3238e7",
+          "title": {
+            "en": "Maximize Window",
+            "zh-Hans": "Maximize 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-snapping.40818241ca",
+          "title": {
+            "en": "Maximize Window Left Half",
+            "zh-Hans": "Maximize 窗口 左 Half"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-snapping.98000c5ce1",
+          "title": {
+            "en": "Maximize Window Right Half",
+            "zh-Hans": "Maximize 窗口 右 Half"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-snapping.a42adfef5c",
+          "title": {
+            "en": "Restore Old Window Size",
+            "zh-Hans": "Restore Old Window Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-snapping.586709182e",
+          "title": {
+            "en": "Center Window",
+            "zh-Hans": "中心 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4352,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-snapping.3993ccc35c",
+          "title": {
+            "en": "Move Window to Next Monitor",
+            "zh-Hans": "Move Window to Next Monitor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 4352,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-snapping.7648db6277",
+          "title": {
+            "en": "Maximize Window Top Half",
+            "zh-Hans": "Maximize 窗口 顶部 Half"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 6144,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-snapping.181046d677",
+          "title": {
+            "en": "Maximize Window Bottom Half",
+            "zh-Hans": "Maximize 窗口 底部 Half"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 6144,
+            "displayKey": "↓"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bettertouchtool.window-quarters-thirds",
+      "title": {
+        "en": "Window Quarters & Thirds",
+        "zh-Hans": "窗口四分与三分"
+      },
+      "items": [
+        {
+          "id": "remote.bettertouchtool.window-quarters-thirds.6e23f374d7",
+          "title": {
+            "en": "Resize to Top Left Quarter",
+            "zh-Hans": "Resize to Top Left Quarter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 6144,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-quarters-thirds.548b58d06e",
+          "title": {
+            "en": "Resize to Top Right Quarter",
+            "zh-Hans": "Resize to Top Right Quarter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 6144,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-quarters-thirds.f18f3bcfa6",
+          "title": {
+            "en": "Resize to Bottom Left Quarter",
+            "zh-Hans": "Resize to Bottom Left Quarter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4608,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-quarters-thirds.f87c555014",
+          "title": {
+            "en": "Resize to Bottom Right Quarter",
+            "zh-Hans": "Resize to Bottom Right Quarter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4608,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-quarters-thirds.ff3e4a0087",
+          "title": {
+            "en": "Resize to Left Third",
+            "zh-Hans": "Resize to Left Third"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 6144,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-quarters-thirds.86007edac7",
+          "title": {
+            "en": "Resize to Center Third",
+            "zh-Hans": "Resize to Center Third"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 6144,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-quarters-thirds.e02a14a57d",
+          "title": {
+            "en": "Resize to Right Third",
+            "zh-Hans": "Resize to Right Third"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 6144,
+            "displayKey": "3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.bettertouchtool.window-spaces",
+      "title": {
+        "en": "Window Spaces",
+        "zh-Hans": "窗口空间"
+      },
+      "items": [
+        {
+          "id": "remote.bettertouchtool.window-spaces.0210c2fee8",
+          "title": {
+            "en": "Move Window to Left Space",
+            "zh-Hans": "Move Window to Left Space"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4864,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.bettertouchtool.window-spaces.1014c0b1fe",
+          "title": {
+            "en": "Move Window to Right Space",
+            "zh-Hans": "Move Window to Right Space"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4864,
+            "displayKey": "→"
+          }
+        }
+      ]
+    }
+  ]
+}

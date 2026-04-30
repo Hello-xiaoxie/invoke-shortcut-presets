@@ -1,0 +1,498 @@
+{
+  "bundleIdentifier": "com.soulmen.ulysses3",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.ulysses.sheets-groups",
+      "title": {
+        "en": "Sheets & Groups",
+        "zh-Hans": "工作表与编组"
+      },
+      "items": [
+        {
+          "id": "remote.ulysses.sheets-groups.6f92808038",
+          "title": {
+            "en": "New Sheet",
+            "zh-Hans": "新建Sheet"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ulysses.sheets-groups.b82c1dcc2c",
+          "title": {
+            "en": "New Group",
+            "zh-Hans": "New 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ulysses.sheets-groups.ff1a9cd09a",
+          "title": {
+            "en": "New Filter",
+            "zh-Hans": "新建Filter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ulysses.sheets-groups.6ca0e3dde7",
+          "title": {
+            "en": "Move Sheet to Trash",
+            "zh-Hans": "Move Sheet to Trash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.ulysses.sheets-groups.106e50071c",
+          "title": {
+            "en": "Split Sheet at Cursor",
+            "zh-Hans": "Split Sheet at Cursor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.ulysses.sheets-groups.ed25fc5ab5",
+          "title": {
+            "en": "Create New Version",
+            "zh-Hans": "Create New Version"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ulysses.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.ulysses.navigation.b03eb305aa",
+          "title": {
+            "en": "Toggle Library",
+            "zh-Hans": "切换Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.ulysses.navigation.f8820815f5",
+          "title": {
+            "en": "Toggle Sheet List",
+            "zh-Hans": "切换Sheet List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.ulysses.navigation.83c66c877e",
+          "title": {
+            "en": "Toggle Editor",
+            "zh-Hans": "切换Editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.ulysses.navigation.bddddc2240",
+          "title": {
+            "en": "Toggle Dashboard",
+            "zh-Hans": "切换Dashboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.ulysses.navigation.4e4a8b15f9",
+          "title": {
+            "en": "Show Quick Export",
+            "zh-Hans": "显示 Quick 导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.ulysses.navigation.9e93bc7091",
+          "title": {
+            "en": "Show Statistics",
+            "zh-Hans": "显示 Statistics"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.ulysses.navigation.adab5b6744",
+          "title": {
+            "en": "Go Back in History",
+            "zh-Hans": "Go Back in History"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.ulysses.navigation.1076aba6db",
+          "title": {
+            "en": "Go Forward in History",
+            "zh-Hans": "Go Forward in History"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ulysses.search",
+      "title": {
+        "en": "Search",
+        "zh-Hans": "搜索"
+      },
+      "items": [
+        {
+          "id": "remote.ulysses.search.ba2c33b29a",
+          "title": {
+            "en": "Quick Open",
+            "zh-Hans": "快速打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.ulysses.search.05285457b4",
+          "title": {
+            "en": "Quick Open Current Section",
+            "zh-Hans": "Quick 打开 当前 Section"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.ulysses.search.4e56b53072",
+          "title": {
+            "en": "Find in Text",
+            "zh-Hans": "Find in Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ulysses.search.ef9d8ce653",
+          "title": {
+            "en": "Find ",
+            "zh-Hans": "查找 "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ulysses.search.7a3304b4bd",
+          "title": {
+            "en": "Focus Group Search",
+            "zh-Hans": "Focus 编组 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ulysses.formatting",
+      "title": {
+        "en": "Formatting",
+        "zh-Hans": "格式化"
+      },
+      "items": [
+        {
+          "id": "remote.ulysses.formatting.85f6542321",
+          "title": {
+            "en": "Heading",
+            "zh-Hans": "Heading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.ulysses.formatting.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.ulysses.formatting.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.ulysses.formatting.e43cdeeff3",
+          "title": {
+            "en": "Insert Link",
+            "zh-Hans": "插入 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.ulysses.formatting.0b95f64609",
+          "title": {
+            "en": "Remove Markup",
+            "zh-Hans": "移除Markup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ulysses.view",
+      "title": {
+        "en": "View",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.ulysses.view.38f9f71bcc",
+          "title": {
+            "en": "Toggle Dark Theme",
+            "zh-Hans": "切换Dark Theme"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.ulysses.view.f7fb7d98d5",
+          "title": {
+            "en": "Toggle Full Screen",
+            "zh-Hans": "切换全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.ulysses.view.765dadf1a2",
+          "title": {
+            "en": "Hide Interface",
+            "zh-Hans": "隐藏 Interface"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.ulysses.view.f00c35ca3d",
+          "title": {
+            "en": "Toggle Second Editor",
+            "zh-Hans": "切换Second 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.ulysses.view.4ba3848468",
+          "title": {
+            "en": "Increase Font Size",
+            "zh-Hans": "Increase 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.ulysses.view.93c306d59e",
+          "title": {
+            "en": "Decrease Font Size",
+            "zh-Hans": "Decrease 字体 Size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.ulysses.tabs-windows",
+      "title": {
+        "en": "Tabs & Windows",
+        "zh-Hans": "标签页与窗口"
+      },
+      "items": [
+        {
+          "id": "remote.ulysses.tabs-windows.26ef4c66c1",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.ulysses.tabs-windows.4f44d241ad",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.ulysses.tabs-windows.3f8c2479ec",
+          "title": {
+            "en": "New Window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.ulysses.tabs-windows.b5cd542cee",
+          "title": {
+            "en": "Preview",
+            "zh-Hans": "预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.ulysses.tabs-windows.8c3d4696f9",
+          "title": {
+            "en": "Add to Favorites",
+            "zh-Hans": "添加to Favorites"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4352,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.ulysses.tabs-windows.1873e6c607",
+          "title": {
+            "en": "Smart Paste",
+            "zh-Hans": "Smart 粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        }
+      ]
+    }
+  ]
+}

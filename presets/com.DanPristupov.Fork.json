@@ -1,0 +1,243 @@
+{
+  "bundleIdentifier": "com.DanPristupov.Fork",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.fork.git-actions",
+      "title": {
+        "en": "Git Actions",
+        "zh-Hans": "Git操作"
+      },
+      "items": [
+        {
+          "id": "remote.fork.git-actions.8a3528acb3",
+          "title": {
+            "en": "Commit",
+            "zh-Hans": "提交"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.fork.git-actions.25a08f336e",
+          "title": {
+            "en": "Commit and Push",
+            "zh-Hans": "Commit and Push"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 768,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.fork.git-actions.42ad6d829e",
+          "title": {
+            "en": "Fetch",
+            "zh-Hans": "Fetch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.fork.git-actions.b172721c35",
+          "title": {
+            "en": "Pull",
+            "zh-Hans": "Pull"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.fork.git-actions.fbb1688d6a",
+          "title": {
+            "en": "Push",
+            "zh-Hans": "Push"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.fork.git-actions.8385fe74f5",
+          "title": {
+            "en": "New Branch",
+            "zh-Hans": "新建Branch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.fork.git-actions.da969f1918",
+          "title": {
+            "en": "Create Stash",
+            "zh-Hans": "Create Stash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.fork.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.fork.navigation.9354e4edb1",
+          "title": {
+            "en": "Show Changes",
+            "zh-Hans": "显示 Changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.fork.navigation.fc99b3b706",
+          "title": {
+            "en": "Show All Commits",
+            "zh-Hans": "显示 全部 Commits"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.fork.navigation.a6fafa578a",
+          "title": {
+            "en": "Reveal HEAD",
+            "zh-Hans": "Reveal HEAD"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.fork.navigation.b0999f6a74",
+          "title": {
+            "en": "Quick Launch",
+            "zh-Hans": "Quick Launch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.fork.navigation.2e2b9bee0e",
+          "title": {
+            "en": "Search Commits",
+            "zh-Hans": "搜索 Commits"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.fork.repository",
+      "title": {
+        "en": "Repository",
+        "zh-Hans": "仓库"
+      },
+      "items": [
+        {
+          "id": "remote.fork.repository.60bc77c417",
+          "title": {
+            "en": "Open Repository",
+            "zh-Hans": "打开 仓库"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.fork.repository.75aab72d27",
+          "title": {
+            "en": "Refresh",
+            "zh-Hans": "刷新"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.fork.repository.80e2a0caad",
+          "title": {
+            "en": "Checkout Branch",
+            "zh-Hans": "Checkout 分支"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.fork.repository.26ef4c66c1",
+          "title": {
+            "en": "New Tab",
+            "zh-Hans": "新建标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.fork.repository.c7885432cf",
+          "title": {
+            "en": "Close Tab",
+            "zh-Hans": "关闭标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        }
+      ]
+    }
+  ]
+}

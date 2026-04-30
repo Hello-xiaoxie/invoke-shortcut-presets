@@ -19,7 +19,7 @@
           "id": "remote.rive.tools.07d0ec5ba4",
           "title": {
             "en": "Select Tool",
-            "zh-Hans": "Select Tool"
+            "zh-Hans": "选择Tool"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -103,7 +103,7 @@
           "id": "remote.rive.tools.9102217573",
           "title": {
             "en": "Artboard Tool",
-            "zh-Hans": "Artboard Tool"
+            "zh-Hans": "画板 Tool"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -127,7 +127,7 @@
           "id": "remote.rive.tools.dda3ef69ee",
           "title": {
             "en": "Group Tool",
-            "zh-Hans": "Group Tool"
+            "zh-Hans": "编组 Tool"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -160,7 +160,7 @@
           "id": "remote.rive.editor.e8214265ab",
           "title": {
             "en": "Switch Mode",
-            "zh-Hans": "Switch Mode"
+            "zh-Hans": "Switch 模式"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -172,7 +172,7 @@
           "id": "remote.rive.editor.2a73d32fe2",
           "title": {
             "en": "Select Behind",
-            "zh-Hans": "Select Behind"
+            "zh-Hans": "选择Behind"
           },
           "shortcutConfiguration": {
             "keyCode": 58,
@@ -184,7 +184,7 @@
           "id": "remote.rive.editor.a3550e777c",
           "title": {
             "en": "Edit Vertices",
-            "zh-Hans": "Edit Vertices"
+            "zh-Hans": "编辑 Vertices"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -196,7 +196,7 @@
           "id": "remote.rive.editor.e437c3fcf0",
           "title": {
             "en": "Group selection",
-            "zh-Hans": "Group selection"
+            "zh-Hans": "编组 选择"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -208,7 +208,7 @@
           "id": "remote.rive.editor.2100bf62c3",
           "title": {
             "en": "Ungroup selection",
-            "zh-Hans": "Ungroup selection"
+            "zh-Hans": "Ungroup 选择"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -244,7 +244,7 @@
           "id": "remote.rive.editor.48cab712cc",
           "title": {
             "en": "Layer forward",
-            "zh-Hans": "Layer forward"
+            "zh-Hans": "图层 向前"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -256,7 +256,7 @@
           "id": "remote.rive.editor.a2fea77a25",
           "title": {
             "en": "Layer backward",
-            "zh-Hans": "Layer backward"
+            "zh-Hans": "图层 向后"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -292,7 +292,7 @@
           "id": "remote.rive.editor.1d2820004a",
           "title": {
             "en": "Move timeline playhead",
-            "zh-Hans": "Move timeline playhead"
+            "zh-Hans": "移动timeline 播放头"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -304,7 +304,7 @@
           "id": "remote.rive.editor.73a7a75df8",
           "title": {
             "en": "Move selected keys",
-            "zh-Hans": "Move selected keys"
+            "zh-Hans": "移动selected keys"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -328,7 +328,7 @@
           "id": "remote.rive.editor.e5c750dbe8",
           "title": {
             "en": "Color Picker",
-            "zh-Hans": "Color Picker"
+            "zh-Hans": "颜色 Picker"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -340,7 +340,7 @@
           "id": "remote.rive.editor.fa1f914ea0",
           "title": {
             "en": "Search",
-            "zh-Hans": "Search"
+            "zh-Hans": "搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -454,7 +454,7 @@
           "id": "remote.rive.hierarchy.4915199e01",
           "title": {
             "en": "Select parent",
-            "zh-Hans": "Select parent"
+            "zh-Hans": "选择parent"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -466,7 +466,7 @@
           "id": "remote.rive.hierarchy.ec148e828f",
           "title": {
             "en": "Select 1st child",
-            "zh-Hans": "Select 1st child"
+            "zh-Hans": "选择1st child"
           },
           "shortcutConfiguration": {
             "keyCode": 36,

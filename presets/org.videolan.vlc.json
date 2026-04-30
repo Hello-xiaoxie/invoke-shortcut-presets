@@ -1,0 +1,696 @@
+{
+  "bundleIdentifier": "org.videolan.vlc",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.vlc-media-player.most-used",
+      "title": {
+        "en": "Most used",
+        "zh-Hans": "最常用"
+      },
+      "items": [
+        {
+          "id": "remote.vlc-media-player.most-used.46f6b354d5",
+          "title": {
+            "en": "Fullscreen",
+            "zh-Hans": "全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.6bb37a8221",
+          "title": {
+            "en": "Pause or play movie",
+            "zh-Hans": "Pause or play movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.3c321bfe5f",
+          "title": {
+            "en": "Subtitles on/off",
+            "zh-Hans": "Subtitles on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.e54738907d",
+          "title": {
+            "en": "Audio track cycle",
+            "zh-Hans": "音频 轨道 cycle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.e9c502d1e5",
+          "title": {
+            "en": "Next subtitle track",
+            "zh-Hans": "下一个 subtitle 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.626c4f1228",
+          "title": {
+            "en": "Subtitle delay -50ms",
+            "zh-Hans": "Subtitle delay -50ms"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.4540ae0d2e",
+          "title": {
+            "en": "Subtitle delay  50ms",
+            "zh-Hans": "Subtitle delay  50ms"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.b2aa6b6860",
+          "title": {
+            "en": "Audio delay -50ms",
+            "zh-Hans": "音频 delay -50ms"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.880e4bb466",
+          "title": {
+            "en": "Audio delay  50ms",
+            "zh-Hans": "音频 delay  50ms"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.most-used.945436026a",
+          "title": {
+            "en": "Volume",
+            "zh-Hans": "Volume"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vlc-media-player.movie-navigation",
+      "title": {
+        "en": "Movie Navigation",
+        "zh-Hans": "影片导航"
+      },
+      "items": [
+        {
+          "id": "remote.vlc-media-player.movie-navigation.8442887de4",
+          "title": {
+            "en": "Open disc menu",
+            "zh-Hans": "打开 disc 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.e31e26c325",
+          "title": {
+            "en": "Open folder (browse folder menu)",
+            "zh-Hans": "打开 文件夹 (browse 文件夹 菜单)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.5be0476bf2",
+          "title": {
+            "en": "Advanced open file",
+            "zh-Hans": "Advanced 打开 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.b48ab9fb2d",
+          "title": {
+            "en": "Open single file(s)",
+            "zh-Hans": "Open single file(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.e0339368ab",
+          "title": {
+            "en": "Mute and unmute audio",
+            "zh-Hans": "Mute and unmute audio"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.0e0104722b",
+          "title": {
+            "en": "Play movie (from the very beginning)",
+            "zh-Hans": "Play movie (from the very beginning)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.2fd8159e4f",
+          "title": {
+            "en": "Stop movie",
+            "zh-Hans": "Stop movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.b93fbf90c3",
+          "title": {
+            "en": "Exit full screen mode",
+            "zh-Hans": "Exit 全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.2aa92638d6",
+          "title": {
+            "en": "Faster, slower, normal",
+            "zh-Hans": "Faster, slower, normal"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 0,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.b716bf9740",
+          "title": {
+            "en": "Aspect ratio",
+            "zh-Hans": "Aspect ratio"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.ad6649412f",
+          "title": {
+            "en": "Crop screen",
+            "zh-Hans": "Crop screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.778484462b",
+          "title": {
+            "en": "Decrease subtitle delay / Increase subtitle delay",
+            "zh-Hans": "Decrease subtitle delay / Increase subtitle delay"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.df7dd9be6d",
+          "title": {
+            "en": "Decrease audio delay  / Increase audio delay",
+            "zh-Hans": "Decrease audio delay  / Increase audio delay"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.c585edbfe1",
+          "title": {
+            "en": "Change zoom mode",
+            "zh-Hans": "Change zoom 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.94ea40adca",
+          "title": {
+            "en": "Recent media (in Media - Recent media menu)",
+            "zh-Hans": "Recent media (in Media - Recent media menu)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 4096,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.eaaa1df9bc",
+          "title": {
+            "en": "Show time",
+            "zh-Hans": "显示 time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.3ecea763e6",
+          "title": {
+            "en": "Goto time",
+            "zh-Hans": "Goto time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.movie-navigation.4f6496f664",
+          "title": {
+            "en": "Next Frame. Advance forward frame-by-frame",
+            "zh-Hans": "Next Frame. Advance forward frame-by-frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vlc-media-player.jump-in-playback",
+      "title": {
+        "en": "Jump in playback",
+        "zh-Hans": "播放跳转"
+      },
+      "items": [
+        {
+          "id": "remote.vlc-media-player.jump-in-playback.47543517c8",
+          "title": {
+            "en": "Very short jump (3 seconds)  default ",
+            "zh-Hans": "Very short jump (3 seconds)  default "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.jump-in-playback.156c414e5b",
+          "title": {
+            "en": "Short jump (10 seconds)  default ",
+            "zh-Hans": "Short jump (10 seconds)  default "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.jump-in-playback.7aa686c909",
+          "title": {
+            "en": "Medium jump (1 minute)  default ",
+            "zh-Hans": "Medium jump (1 minute)  default "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.jump-in-playback.2ec58f4252",
+          "title": {
+            "en": "Long jump (5 minutes)  default ",
+            "zh-Hans": "Long jump (5 minutes)  default "
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 768,
+            "displayKey": "←"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands",
+      "title": {
+        "en": "Manage VLC, Playlists, and Special Commands",
+        "zh-Hans": "Manage VLC, Playlists, and Special命令"
+      },
+      "items": [
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.68dcb35401",
+          "title": {
+            "en": "Hide / unhide controls",
+            "zh-Hans": "隐藏 / unhide controls"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.626a73c42b",
+          "title": {
+            "en": "Preferences/ interface settings",
+            "zh-Hans": "偏好设置/ interface 设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.e6c9dc602b",
+          "title": {
+            "en": "Adjustments and audio/video effects",
+            "zh-Hans": "Adjustments and audio/video effects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4096,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.93c245a62d",
+          "title": {
+            "en": "Edit bookmarks",
+            "zh-Hans": "编辑 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4096,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.04ad4962cf",
+          "title": {
+            "en": "Open messages",
+            "zh-Hans": "打开 messages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4096,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.da1034e087",
+          "title": {
+            "en": "Open network",
+            "zh-Hans": "打开 network"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4096,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.a1fac62380",
+          "title": {
+            "en": "Open captue device",
+            "zh-Hans": "打开 captue device"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.8a0f3653a9",
+          "title": {
+            "en": "Open playlist",
+            "zh-Hans": "打开 playlist"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.7f2b0736a7",
+          "title": {
+            "en": "Save playlist",
+            "zh-Hans": "存储 playlist"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 4096,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.96e1b7b1d0",
+          "title": {
+            "en": "Media information",
+            "zh-Hans": "媒体 information"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.0d1f33d96b",
+          "title": {
+            "en": "Open audio menu",
+            "zh-Hans": "打开 音频 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.915b220ea7",
+          "title": {
+            "en": "Open help menu",
+            "zh-Hans": "打开 help 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.06af93338c",
+          "title": {
+            "en": "Open media menu",
+            "zh-Hans": "打开 媒体 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.d12731edba",
+          "title": {
+            "en": "Open playlist menu",
+            "zh-Hans": "打开 playlist 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.55975f9bd9",
+          "title": {
+            "en": "Open tool menu",
+            "zh-Hans": "打开 tool 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.eaf09e319a",
+          "title": {
+            "en": "Open video menu",
+            "zh-Hans": "打开 视频 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.6558fb0003",
+          "title": {
+            "en": "Open playback menu",
+            "zh-Hans": "打开 playback 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.30751d0827",
+          "title": {
+            "en": "Show movie path",
+            "zh-Hans": "显示 movie 路径"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.358996ab0c",
+          "title": {
+            "en": "Play next movie from playlist",
+            "zh-Hans": "Play next movie from playlist"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.811a7b8c47",
+          "title": {
+            "en": "Show Help",
+            "zh-Hans": "显示 Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.465a7a9e6f",
+          "title": {
+            "en": "Window full-screen (not equal to pressing F)",
+            "zh-Hans": "Window full-screen (not equal to pressing F)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.af4245031d",
+          "title": {
+            "en": "Quit VLC",
+            "zh-Hans": "退出 VLC"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    }
+  ]
+}

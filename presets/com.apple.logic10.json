@@ -1,0 +1,2124 @@
+{
+  "bundleIdentifier": "com.apple.logic10",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.logic-pro.general-controls",
+      "title": {
+        "en": "General Controls",
+        "zh-Hans": "通用控制"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.general-controls.7eb1379a81",
+          "title": {
+            "en": "Record",
+            "zh-Hans": "录制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.b129302557",
+          "title": {
+            "en": "Discard Recording and Return to Last Play Position",
+            "zh-Hans": "Discard Recording and Return to Last Play Position"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 256,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.7c8bd8fc13",
+          "title": {
+            "en": "Capture as Recording",
+            "zh-Hans": "Capture as Recording"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 512,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.a98fb7d0f5",
+          "title": {
+            "en": "Pause",
+            "zh-Hans": "暂停"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.eede0f1f3a",
+          "title": {
+            "en": "Stop",
+            "zh-Hans": "停止"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 0,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.1857dd61f2",
+          "title": {
+            "en": "Rewind",
+            "zh-Hans": "快退"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 0,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.28bcb09d89",
+          "title": {
+            "en": "Fast Rewind",
+            "zh-Hans": "Fast Rewind"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 512,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.1aa114ed56",
+          "title": {
+            "en": "Fast forward",
+            "zh-Hans": "Fast 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 512,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.9b38cea049",
+          "title": {
+            "en": "Go to Position",
+            "zh-Hans": "转到位置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.a6ac740480",
+          "title": {
+            "en": "Set Punch in locator by Playhead",
+            "zh-Hans": "Set Punch in locator by Playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 6400,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.b05e8b8cd5",
+          "title": {
+            "en": "Set Punch out locator by Playhead",
+            "zh-Hans": "Set Punch out locator by Playhead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 6400,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.103e7bbcaa",
+          "title": {
+            "en": "Set Rounded Locators by Regions/Events",
+            "zh-Hans": "Set Rounded Locators by Regions/Events"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.9bc83ddcc9",
+          "title": {
+            "en": "Swap Left and Right Locator",
+            "zh-Hans": "Swap Left and Right Locator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.1c0d2d4d02",
+          "title": {
+            "en": "Create Marker",
+            "zh-Hans": "Create 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.a1213860cb",
+          "title": {
+            "en": "Delete Marker",
+            "zh-Hans": "删除 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 2048,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.a58a2b9422",
+          "title": {
+            "en": "Go to Previous Marker",
+            "zh-Hans": "转到Previous 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2048,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.b706648eb3",
+          "title": {
+            "en": "Go to Next Marker",
+            "zh-Hans": "转到Next 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2048,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.b2ff86f734",
+          "title": {
+            "en": "Rename Marker",
+            "zh-Hans": "重命名 标记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.891ea2cf93",
+          "title": {
+            "en": "Go to Marker Number 1..9",
+            "zh-Hans": "转到Marker Number 1..9"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.f49bf8f7e2",
+          "title": {
+            "en": "Go to Marker Number 10..19",
+            "zh-Hans": "转到Marker Number 10..19"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.b8511dd4d5",
+          "title": {
+            "en": "Cycle Mode",
+            "zh-Hans": "循环模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.b4e00bca81",
+          "title": {
+            "en": "Solo Mode",
+            "zh-Hans": "Solo 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4096,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.84f7af42a5",
+          "title": {
+            "en": "Set Solo Lock Mode",
+            "zh-Hans": "Set Solo 锁定 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2048,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.ca7d23f983",
+          "title": {
+            "en": "Solo Off for All",
+            "zh-Hans": "Solo Off for All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 6400,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.32101128d8",
+          "title": {
+            "en": "Mute Off for All",
+            "zh-Hans": "Mute Off for All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 6400,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.6b061cf346",
+          "title": {
+            "en": "Autopunch Mode",
+            "zh-Hans": "Autopunch 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 6400,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.521ddc4163",
+          "title": {
+            "en": "Open Main window",
+            "zh-Hans": "打开 Main 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.90b15e00eb",
+          "title": {
+            "en": "Open Mixer",
+            "zh-Hans": "打开 混音器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.db1e963c68",
+          "title": {
+            "en": "Open Smart Controls",
+            "zh-Hans": "打开 Smart Controls"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.18354d435c",
+          "title": {
+            "en": "Open Piano Roll",
+            "zh-Hans": "打开 Piano Roll"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.fd804be600",
+          "title": {
+            "en": "Open Score Editor",
+            "zh-Hans": "打开 Score 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.8c3fd2bde1",
+          "title": {
+            "en": "Open Audio File Editor",
+            "zh-Hans": "打开 音频 文件 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.ace7117262",
+          "title": {
+            "en": "Open Event List",
+            "zh-Hans": "打开 Event List"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.8297440c2b",
+          "title": {
+            "en": "Open Project Audio",
+            "zh-Hans": "打开 项目 音频"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.eff152ec96",
+          "title": {
+            "en": "Open Transform",
+            "zh-Hans": "打开 Transform"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.9799f59c44",
+          "title": {
+            "en": "Show/hide Smart Controls",
+            "zh-Hans": "显示/隐藏 Smart Controls"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.a3b99b3b62",
+          "title": {
+            "en": "Sho/hide Mixer",
+            "zh-Hans": "Sho/隐藏 混音器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.2aaf745ff2",
+          "title": {
+            "en": "Show/hide Score Editor",
+            "zh-Hans": "显示/隐藏 Score 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.9ee66110ad",
+          "title": {
+            "en": "Show/hide Piano Roll",
+            "zh-Hans": "显示/隐藏 Piano Roll"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.45cc4d9d46",
+          "title": {
+            "en": "Show/hide Loop Browser",
+            "zh-Hans": "显示/隐藏 循环 Browser"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.a658bddbcf",
+          "title": {
+            "en": "Show/hide Library",
+            "zh-Hans": "显示/隐藏 Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.db5aa6a58e",
+          "title": {
+            "en": "Show/hide Audio File Editor",
+            "zh-Hans": "显示/隐藏 音频 文件 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.1c3da268b5",
+          "title": {
+            "en": "Show Detailed Help",
+            "zh-Hans": "显示 Detailed Help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.cac9218d19",
+          "title": {
+            "en": "show/Hide colors",
+            "zh-Hans": "显示/隐藏 colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2048,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.83f44969ce",
+          "title": {
+            "en": "Open Movie",
+            "zh-Hans": "打开 Movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.faf81553ec",
+          "title": {
+            "en": "Open",
+            "zh-Hans": "打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.5a75539ce2",
+          "title": {
+            "en": "Save",
+            "zh-Hans": "存储"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.60d62e26e9",
+          "title": {
+            "en": "Import",
+            "zh-Hans": "导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.c58871b0c7",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.3179cd0bc7",
+          "title": {
+            "en": "Minimize Window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.bcff90bc2a",
+          "title": {
+            "en": "Save Project As..",
+            "zh-Hans": "存储 项目 As.."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.general-controls.4f44d241ad",
+          "title": {
+            "en": "Close Window",
+            "zh-Hans": "关闭窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.global-control-surface",
+      "title": {
+        "en": "Global Control Surface",
+        "zh-Hans": "全局控制界面"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.global-control-surface.69337b8414",
+          "title": {
+            "en": "Open Controller Assignments",
+            "zh-Hans": "打开 Controller Assignments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2560,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.logic-pro.global-control-surface.994e4bd695",
+          "title": {
+            "en": "Learn new controller assignment",
+            "zh-Hans": "Learn new controller assignment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.various-editors",
+      "title": {
+        "en": "Various Editors",
+        "zh-Hans": "各种编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.various-editors.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.660afc4728",
+          "title": {
+            "en": "Undo History..",
+            "zh-Hans": "Undo 历史记录.."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 2304,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.1f9560e2dc",
+          "title": {
+            "en": "Show Tool Menu",
+            "zh-Hans": "显示 Tool 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.e7344223ee",
+          "title": {
+            "en": "Show/hide movie track only",
+            "zh-Hans": "Show/hide movie track only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.ab276efaf0",
+          "title": {
+            "en": "Show/hide Tempo Track only",
+            "zh-Hans": "显示/隐藏 速度 轨道 only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.080f1d99ce",
+          "title": {
+            "en": "Zoom in/Zoom out",
+            "zh-Hans": "放大/缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.29e45acdc8",
+          "title": {
+            "en": "Recall Zoom 1..3",
+            "zh-Hans": "Recall Zoom 1..3"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6400,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.c12a3e2cf1",
+          "title": {
+            "en": "Show/Hide Inspector",
+            "zh-Hans": "显示/隐藏检查器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.logic-pro.various-editors.45827ea34d",
+          "title": {
+            "en": "Grid",
+            "zh-Hans": "网格"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.windows-showing-audio-files",
+      "title": {
+        "en": "Windows Showing Audio Files",
+        "zh-Hans": "音频文件窗口"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.windows-showing-audio-files.1543b2ee23",
+          "title": {
+            "en": "Cycle Audition",
+            "zh-Hans": "Cycle Audition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.windows-showing-audio-files.7b3f1257d8",
+          "title": {
+            "en": "Add to track",
+            "zh-Hans": "添加to 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.windows-showing-audio-files.e718271e0f",
+          "title": {
+            "en": "Snap edit to Zero crossing",
+            "zh-Hans": "Snap edit to Zero crossing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4096,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.logic-pro.windows-showing-audio-files.fdb8af2bee",
+          "title": {
+            "en": "Show Files in Folder",
+            "zh-Hans": "Show Files in Folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.main-window",
+      "title": {
+        "en": "Main Window",
+        "zh-Hans": "主要窗口"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.main-window.80053211b4",
+          "title": {
+            "en": "New Tracks",
+            "zh-Hans": "新建Tracks"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.61c437598b",
+          "title": {
+            "en": "New Audio Track",
+            "zh-Hans": "新建Audio 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.50851a376e",
+          "title": {
+            "en": "New Software Instrumentt Track",
+            "zh-Hans": "新建Software Instrumentt 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.e5832de1c2",
+          "title": {
+            "en": "New External MIDI Track",
+            "zh-Hans": "新建External MIDI 轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2304,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.d48608f89f",
+          "title": {
+            "en": "Delete Track",
+            "zh-Hans": "删除轨道"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.6a024aea32",
+          "title": {
+            "en": "Deselect all",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2560,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.4dbfe12fba",
+          "title": {
+            "en": "Invert Selection",
+            "zh-Hans": "Invert 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 512,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.901b67070b",
+          "title": {
+            "en": "Select All Following",
+            "zh-Hans": "全选 Following"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.7ecff731cb",
+          "title": {
+            "en": "Select All Inside Locators",
+            "zh-Hans": "全选 Inside Locators"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 512,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.cc398a347f",
+          "title": {
+            "en": "Select Overlapped Regions/Events",
+            "zh-Hans": "Select Overlapped Regions/Events"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.793e7ad01d",
+          "title": {
+            "en": "Select Same Subpositions",
+            "zh-Hans": "选择Same Subpositions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.33b1ddc29a",
+          "title": {
+            "en": "Select Muted Regions/Events",
+            "zh-Hans": "Select Muted Regions/Events"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.83158e44be",
+          "title": {
+            "en": "Select Equal Colored Regions/Events",
+            "zh-Hans": "Select Equal Colored Regions/Events"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.4ff8926f0e",
+          "title": {
+            "en": "Loop Regions/Folders on/off",
+            "zh-Hans": "Loop Regions/Folders on/off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.d65743d3a6",
+          "title": {
+            "en": "Delete Duplicated Events",
+            "zh-Hans": "删除 Duplicated Events"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2048,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.logic-pro.main-window.6c3e5704b5",
+          "title": {
+            "en": "Bounce",
+            "zh-Hans": "混缩导出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.mixer",
+      "title": {
+        "en": "Mixer",
+        "zh-Hans": "混音器"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.mixer.1ae37629c1",
+          "title": {
+            "en": "Cycle through Mixer Nodes",
+            "zh-Hans": "Cycle through Mixer Nodes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 512,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.logic-pro.mixer.e988882816",
+          "title": {
+            "en": "Select Audio Channel Strips",
+            "zh-Hans": "Select Audio Channel Strips"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 512,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.logic-pro.mixer.27e5407d13",
+          "title": {
+            "en": "Select Instrument Channel Strips",
+            "zh-Hans": "Select Instrument Channel Strips"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.mixer.887b58b3f4",
+          "title": {
+            "en": "Select Auxiliary Channel Strips",
+            "zh-Hans": "Select Auxiliary Channel Strips"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.logic-pro.mixer.240e7dd43e",
+          "title": {
+            "en": "Select Output Channel Strips",
+            "zh-Hans": "Select Output Channel Strips"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 512,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.mixer.c0e4887287",
+          "title": {
+            "en": "Select MIDI Channel Strips",
+            "zh-Hans": "Select MIDI Channel Strips"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 512,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.logic-pro.mixer.8315c990b7",
+          "title": {
+            "en": "Select Equal Colored Channel Strips",
+            "zh-Hans": "Select Equal Colored Channel Strips"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 512,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.mixer.8e853680a8",
+          "title": {
+            "en": "Select Muted Channel Strips",
+            "zh-Hans": "Select Muted Channel Strips"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.environment",
+      "title": {
+        "en": "Environment",
+        "zh-Hans": "环境"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.environment.899ef10021",
+          "title": {
+            "en": "Clear cables only",
+            "zh-Hans": "清除cables only"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 4096,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.logic-pro.environment.66b2805ff5",
+          "title": {
+            "en": "Object Movement",
+            "zh-Hans": "对象 Movement"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.environment.4dbfe12fba",
+          "title": {
+            "en": "Invert Selection",
+            "zh-Hans": "Invert 选择"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 512,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.logic-pro.environment.4054e6a789",
+          "title": {
+            "en": "Send Selected Fader Values",
+            "zh-Hans": "Send 所选 推子 Values"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.logic-pro.environment.4d4bef282a",
+          "title": {
+            "en": "Delete Layer",
+            "zh-Hans": "删除 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 256,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.logic-pro.environment.ae8116d466",
+          "title": {
+            "en": "Cable Serially",
+            "zh-Hans": "Cable Serially"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4096,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.environment.e8f8d87c40",
+          "title": {
+            "en": "Select Unused Instruments",
+            "zh-Hans": "选择Unused Instruments"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 512,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.logic-pro.environment.004fb5a6e9",
+          "title": {
+            "en": "Show/Hide Cables",
+            "zh-Hans": "显示/隐藏 Cables"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.environment.1271198e8b",
+          "title": {
+            "en": "Protect cabling/Positions",
+            "zh-Hans": "Protect cabling/Positions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.score-editor",
+      "title": {
+        "en": "Score Editor",
+        "zh-Hans": "Score编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.score-editor.c2bf1c20c5",
+          "title": {
+            "en": "Page View",
+            "zh-Hans": "页面 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.eff2bcd5b6",
+          "title": {
+            "en": "Explore Folders",
+            "zh-Hans": "Explore 文件夹"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.54485114ec",
+          "title": {
+            "en": "Explore Polyphony",
+            "zh-Hans": "Explore Polyphony"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 4096,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.65ae4389e1",
+          "title": {
+            "en": "Hide/show Instrument Names",
+            "zh-Hans": "隐藏/显示 Instrument Names"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4608,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.5ce2845810",
+          "title": {
+            "en": "Hide/Show Page Rulers",
+            "zh-Hans": "隐藏/显示 页面 Rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4608,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.75373c0950",
+          "title": {
+            "en": "Next/Previous Event",
+            "zh-Hans": "下一个/上一个 Event"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.1ce070e4a7",
+          "title": {
+            "en": "Next/Previous Staff",
+            "zh-Hans": "下一个/上一个 Staff"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.548e66e4f2",
+          "title": {
+            "en": "Defeat Interpretation",
+            "zh-Hans": "Defeat Interpretation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 4096,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.9841b0bf9f",
+          "title": {
+            "en": "Beam Selected Notes",
+            "zh-Hans": "Beam 所选 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4096,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.08d0bf4ba9",
+          "title": {
+            "en": "Unbeam Selected Notes",
+            "zh-Hans": "Unbeam 所选 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4096,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.c8c0ec7fcb",
+          "title": {
+            "en": "Default Beams",
+            "zh-Hans": "Default Beams"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.logic-pro.score-editor.0872f5d4f6",
+          "title": {
+            "en": "Set MainFinger 1..5",
+            "zh-Hans": "Set MainFinger 1..5"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6656,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.step-editor",
+      "title": {
+        "en": "Step Editor",
+        "zh-Hans": "Step编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.step-editor.614b7eae1b",
+          "title": {
+            "en": "Create Lane",
+            "zh-Hans": "Create Lane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-editor.c16bacc111",
+          "title": {
+            "en": "Copy Lane",
+            "zh-Hans": "复制 Lane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 4096,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-editor.c8ed44dcc5",
+          "title": {
+            "en": "Paste Lane",
+            "zh-Hans": "粘贴 Lane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-editor.5e185567d2",
+          "title": {
+            "en": "Toggle Auto Define",
+            "zh-Hans": "切换Auto Define"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.project-audio",
+      "title": {
+        "en": "Project Audio",
+        "zh-Hans": "项目音频"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.project-audio.77c67fe415",
+          "title": {
+            "en": "Add Audio Files",
+            "zh-Hans": "添加Audio 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.b1b7c27e62",
+          "title": {
+            "en": "Add Region",
+            "zh-Hans": "添加Region"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.4f6b55b5a2",
+          "title": {
+            "en": "Optimize Files",
+            "zh-Hans": "Optimize 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.30435acbab",
+          "title": {
+            "en": "Backup Files",
+            "zh-Hans": "Backup 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4096,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.996f7fb004",
+          "title": {
+            "en": "Copy/Convert Files",
+            "zh-Hans": "复制/Convert 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4096,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.b4f7ddc090",
+          "title": {
+            "en": "Select Unused",
+            "zh-Hans": "选择Unused"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 512,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.226109f2aa",
+          "title": {
+            "en": "Strip Silence",
+            "zh-Hans": "Strip Silence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 4096,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.fab0a291a6",
+          "title": {
+            "en": "Create Group",
+            "zh-Hans": "Create 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.7b77d2ef14",
+          "title": {
+            "en": "Import Region Info",
+            "zh-Hans": "导入 区域 Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.2de1dc70f4",
+          "title": {
+            "en": "Export Region Info",
+            "zh-Hans": "导出 区域 Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4096,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.logic-pro.project-audio.f9b6d67aeb",
+          "title": {
+            "en": "Select Previos/Next Audio Files",
+            "zh-Hans": "选择Previos/下一个 音频 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.audio-file-editor",
+      "title": {
+        "en": "Audio File Editor",
+        "zh-Hans": "音频文件编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.audio-file-editor.d4a479b97f",
+          "title": {
+            "en": "New Zone",
+            "zh-Hans": "新建Zone"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 4096,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.2ba037549b",
+          "title": {
+            "en": "New Group",
+            "zh-Hans": "New 编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.5ecb2b0040",
+          "title": {
+            "en": "Create New Region",
+            "zh-Hans": "Create New 区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.0389d15422",
+          "title": {
+            "en": "Normalize",
+            "zh-Hans": "标准化"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4096,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.c4272cbd81",
+          "title": {
+            "en": "Fade In",
+            "zh-Hans": "淡入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4096,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.f0f05505e6",
+          "title": {
+            "en": "Fade Out",
+            "zh-Hans": "淡出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.123110b949",
+          "title": {
+            "en": "Silence",
+            "zh-Hans": "Silence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 4096,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.4cd5acf50e",
+          "title": {
+            "en": "Remove DC Offset",
+            "zh-Hans": "移除DC Offset"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.eab5c75464",
+          "title": {
+            "en": "Search Peak",
+            "zh-Hans": "搜索 Peak"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 512,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.f986e7269f",
+          "title": {
+            "en": "Search Silence",
+            "zh-Hans": "搜索 Silence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 512,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.d9b90c514b",
+          "title": {
+            "en": "Invert",
+            "zh-Hans": "反相"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4608,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.logic-pro.audio-file-editor.65d54fd80c",
+          "title": {
+            "en": "Reverse",
+            "zh-Hans": "Reverse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4608,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.logic-pro.step-input",
+      "title": {
+        "en": "Step Input",
+        "zh-Hans": "步进输入"
+      },
+      "items": [
+        {
+          "id": "remote.logic-pro.step-input.d5f40b0fb1",
+          "title": {
+            "en": "Note C",
+            "zh-Hans": "笔记 C"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.64e1d33a0a",
+          "title": {
+            "en": "Note C#",
+            "zh-Hans": "笔记 C#"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.46c54d57c8",
+          "title": {
+            "en": "Note D",
+            "zh-Hans": "笔记 D"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.fafe787122",
+          "title": {
+            "en": "Note D#",
+            "zh-Hans": "笔记 D#"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.e5887603d5",
+          "title": {
+            "en": "Note E",
+            "zh-Hans": "笔记 E"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.004f235448",
+          "title": {
+            "en": "Note F",
+            "zh-Hans": "笔记 F"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.e90b30029f",
+          "title": {
+            "en": "Note F#",
+            "zh-Hans": "笔记 F#"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.956dfa7ab9",
+          "title": {
+            "en": "Note G",
+            "zh-Hans": "笔记 G"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.72b91f643d",
+          "title": {
+            "en": "Note G#",
+            "zh-Hans": "笔记 G#"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.690b8066d0",
+          "title": {
+            "en": "Note A",
+            "zh-Hans": "笔记 A"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.c908861180",
+          "title": {
+            "en": "Note A#",
+            "zh-Hans": "笔记 A#"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.145727353c",
+          "title": {
+            "en": "Note B",
+            "zh-Hans": "笔记 B"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.26b9aa527d",
+          "title": {
+            "en": "Octave -1",
+            "zh-Hans": "Octave -1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.5e714e194a",
+          "title": {
+            "en": "Octave  1",
+            "zh-Hans": "Octave  1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.a8ebb02402",
+          "title": {
+            "en": "Octave -2",
+            "zh-Hans": "Octave -2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 512,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.f6b020a277",
+          "title": {
+            "en": "Octave  2",
+            "zh-Hans": "Octave  2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 512,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.4c3fa96bef",
+          "title": {
+            "en": "1/1,2,4..128 Note",
+            "zh-Hans": "1/1,2,4..128 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.cee2824bb3",
+          "title": {
+            "en": "Velocity 16 (PPP)",
+            "zh-Hans": "Velocity 16 (PPP)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.f3ca8436d9",
+          "title": {
+            "en": "Velocity 32 (PP)",
+            "zh-Hans": "Velocity 32 (PP)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.bc06da706d",
+          "title": {
+            "en": "Velocity 48 (P)",
+            "zh-Hans": "Velocity 48 (P)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.7488f06cd1",
+          "title": {
+            "en": "Velocity 64 (MP)",
+            "zh-Hans": "Velocity 64 (MP)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.logic-pro.step-input.1c72382435",
+          "title": {
+            "en": "Quantize Note Start On/Off",
+            "zh-Hans": "Quantize Note Start On/Off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "bundleIdentifier": "com.automattic.wordpress",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.wordpress.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.wordpress.general.8f1b5fc578",
+          "title": {
+            "en": "copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.74d3dca831",
+          "title": {
+            "en": "paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.b33a9ba077",
+          "title": {
+            "en": "select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.4cd0e3883b",
+          "title": {
+            "en": "cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.a9a0d4ea0c",
+          "title": {
+            "en": "undo",
+            "zh-Hans": "undo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.59f9fee22d",
+          "title": {
+            "en": "redo",
+            "zh-Hans": "redo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.61671aa66b",
+          "title": {
+            "en": "bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.30f67635b2",
+          "title": {
+            "en": "italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.940521d2d5",
+          "title": {
+            "en": "underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.wordpress.general.2f9293f268",
+          "title": {
+            "en": "insert or edit a link",
+            "zh-Hans": "insert or edit a link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wordpress.alignment",
+      "title": {
+        "en": "Alignment",
+        "zh-Hans": "对齐"
+      },
+      "items": [
+        {
+          "id": "remote.wordpress.alignment.401b5fb9ff",
+          "title": {
+            "en": "align text left",
+            "zh-Hans": "对齐 文本 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2560,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.wordpress.alignment.9a5017fa08",
+          "title": {
+            "en": "justify text",
+            "zh-Hans": "justify 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2560,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.wordpress.alignment.5c2d0c5982",
+          "title": {
+            "en": "align text center",
+            "zh-Hans": "对齐 文本 中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.wordpress.alignment.47b02b1a46",
+          "title": {
+            "en": "align text right",
+            "zh-Hans": "对齐 文本 右"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2560,
+            "displayKey": "R"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.wordpress.insert",
+      "title": {
+        "en": "Insert",
+        "zh-Hans": "插入"
+      },
+      "items": [
+        {
+          "id": "remote.wordpress.insert.b4c56d47eb",
+          "title": {
+            "en": "unordered list",
+            "zh-Hans": "unordered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2560,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.9ddf3a5547",
+          "title": {
+            "en": "insert a link",
+            "zh-Hans": "insert a link"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2560,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.4230f46c36",
+          "title": {
+            "en": "ordered list",
+            "zh-Hans": "ordered list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2560,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.bfc54c4924",
+          "title": {
+            "en": "remove a link",
+            "zh-Hans": "remove a 链接"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2560,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.92147e3fa9",
+          "title": {
+            "en": "quote",
+            "zh-Hans": "quote"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2560,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.b23dd95c02",
+          "title": {
+            "en": "insert an image",
+            "zh-Hans": "insert an image"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2560,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.86617d1fe0",
+          "title": {
+            "en": "distraction free writing mode",
+            "zh-Hans": "distraction free writing mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2560,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.6dc49b832b",
+          "title": {
+            "en": "insert a more tag",
+            "zh-Hans": "insert a more tag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2560,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.5cbddd066b",
+          "title": {
+            "en": "insert a page break tag",
+            "zh-Hans": "insert a page break tag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2560,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.1611592666",
+          "title": {
+            "en": "help",
+            "zh-Hans": "help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2560,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.c3213746a7",
+          "title": {
+            "en": "add or remove a code tag",
+            "zh-Hans": "add or remove a code tag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2560,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.39f7fc5995",
+          "title": {
+            "en": "heading one",
+            "zh-Hans": "heading one"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2560,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.d92893d0eb",
+          "title": {
+            "en": "heading two",
+            "zh-Hans": "heading two"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2560,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.ab895d7b5a",
+          "title": {
+            "en": "heading three",
+            "zh-Hans": "heading three"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2560,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.3cd608dfe3",
+          "title": {
+            "en": "heading four",
+            "zh-Hans": "heading four"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2560,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.5699387ce2",
+          "title": {
+            "en": "heading five",
+            "zh-Hans": "heading five"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2560,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.9dc9f83ab8",
+          "title": {
+            "en": "heading six",
+            "zh-Hans": "heading six"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2560,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.wordpress.insert.8b10476ca9",
+          "title": {
+            "en": "insert an address",
+            "zh-Hans": "插入 an address"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 2560,
+            "displayKey": "9"
+          }
+        }
+      ]
+    }
+  ]
+}

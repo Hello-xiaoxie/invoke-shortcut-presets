@@ -1,0 +1,522 @@
+{
+  "bundleIdentifier": "com.fournova.Tower3",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.tower.creating-branches-tags",
+      "title": {
+        "en": "Creating Branches & Tags",
+        "zh-Hans": "Branches & Tags创建"
+      },
+      "items": [
+        {
+          "id": "remote.tower.creating-branches-tags.537bae67cc",
+          "title": {
+            "en": "Create new tag",
+            "zh-Hans": "Create new 标签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.tower.creating-branches-tags.a26f83780c",
+          "title": {
+            "en": "Create new branch",
+            "zh-Hans": "Create new 分支"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.tower.merging-rebasing",
+      "title": {
+        "en": "Merging & Rebasing",
+        "zh-Hans": "合并与变基"
+      },
+      "items": [
+        {
+          "id": "remote.tower.merging-rebasing.27e8e39fb1",
+          "title": {
+            "en": "Rebase",
+            "zh-Hans": "Rebase"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.tower.merging-rebasing.d86d9e508c",
+          "title": {
+            "en": "Merge",
+            "zh-Hans": "合并"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.tower.remote",
+      "title": {
+        "en": "Remote",
+        "zh-Hans": "远程"
+      },
+      "items": [
+        {
+          "id": "remote.tower.remote.264c52aa9b",
+          "title": {
+            "en": "Collapse all diffs in changeset",
+            "zh-Hans": "Collapse all diffs in changeset"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.tower.remote.d0226e9d40",
+          "title": {
+            "en": "Expand all diffs in changeset",
+            "zh-Hans": "Expand all diffs in changeset"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4352,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.tower.remote.ea99d7673b",
+          "title": {
+            "en": "Copy SHA-1 hashes of selected commits to clipboard",
+            "zh-Hans": "Copy SHA-1 hashes of selected commits to clipboard"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.tower.remote.a79402cabd",
+          "title": {
+            "en": "Show / hide commit tree graph",
+            "zh-Hans": "显示 / 隐藏 提交 tree graph"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4352,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.tower.remote.0bdf63e6c2",
+          "title": {
+            "en": "Push HEAD",
+            "zh-Hans": "Push HEAD"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.tower.remote.252fe67ed9",
+          "title": {
+            "en": "Pull",
+            "zh-Hans": "Pull"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.tower.remote.42ad6d829e",
+          "title": {
+            "en": "Fetch",
+            "zh-Hans": "Fetch"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.tower.working-copy-local-changes",
+      "title": {
+        "en": "Working Copy & Local Changes",
+        "zh-Hans": "Working 复制 & Local Changes"
+      },
+      "items": [
+        {
+          "id": "remote.tower.working-copy-local-changes.5316ff5169",
+          "title": {
+            "en": "Show / hide files that are marked \"assume-unchanged\"",
+            "zh-Hans": "Show / hide files that are marked \"assume-unchanged\""
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 4352,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.4d2507da54",
+          "title": {
+            "en": "Show / hide ignored files",
+            "zh-Hans": "显示 / 隐藏 ignored 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 4352,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.65e9a26153",
+          "title": {
+            "en": "Show / hide non-modified files (i.e. all of the project's files)",
+            "zh-Hans": "Show / hide non-modified files (i.e. all of the project's files)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4352,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.30de0d8000",
+          "title": {
+            "en": "Discard local changes in selected file",
+            "zh-Hans": "Discard local changes in selected file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 117,
+            "carbonModifiers": 768,
+            "displayKey": "117"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.4383573cde",
+          "title": {
+            "en": "Apply Stash",
+            "zh-Hans": "Apply Stash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.2e512fcbf6",
+          "title": {
+            "en": "Save to Stash",
+            "zh-Hans": "Save to Stash"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.b422177d3e",
+          "title": {
+            "en": "Unstage all current changes",
+            "zh-Hans": "Unstage 全部 当前 changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2816,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.9a811870fd",
+          "title": {
+            "en": "Stage all current changes",
+            "zh-Hans": "Stage 全部 当前 changes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.48c081706e",
+          "title": {
+            "en": "Stage/unstage selected file(s)",
+            "zh-Hans": "Stage/unstage 所选 文件(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.e47c27fdad",
+          "title": {
+            "en": "Confirm commit dialog",
+            "zh-Hans": "Confirm 提交 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 256,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.dce0cdcee2",
+          "title": {
+            "en": "Activate commit dialog",
+            "zh-Hans": "Activate 提交 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.tower.working-copy-local-changes.b32e16e23e",
+          "title": {
+            "en": "Check out revision",
+            "zh-Hans": "Check out revision"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.tower.moving-between-views",
+      "title": {
+        "en": "Moving Between Views",
+        "zh-Hans": "在视图间移动"
+      },
+      "items": [
+        {
+          "id": "remote.tower.moving-between-views.ec73a3e103",
+          "title": {
+            "en": "Show HEAD branch",
+            "zh-Hans": "显示 HEAD 分支"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.tower.moving-between-views.e52d9e01bd",
+          "title": {
+            "en": "Show Reflog view",
+            "zh-Hans": "显示 Reflog 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.tower.moving-between-views.032e9b1fde",
+          "title": {
+            "en": "Show Pull Request view",
+            "zh-Hans": "显示 Pull Request 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.tower.moving-between-views.d5cd80ced3",
+          "title": {
+            "en": "Show Stashes view",
+            "zh-Hans": "显示 Stashes 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.tower.moving-between-views.561f282af6",
+          "title": {
+            "en": "Show History view",
+            "zh-Hans": "显示 历史记录 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.tower.moving-between-views.18b0c1744c",
+          "title": {
+            "en": "Show Working Copy view",
+            "zh-Hans": "显示 Working 复制 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.tower.moving-between-views.060653ee56",
+          "title": {
+            "en": "Show Repositories view",
+            "zh-Hans": "显示 Repositories 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4352,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.tower.moving-between-views.dc40599ec4",
+          "title": {
+            "en": "Show Services view",
+            "zh-Hans": "显示 Services 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4352,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.tower.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.tower.general.49e3aa336e",
+          "title": {
+            "en": "Refresh / reload data",
+            "zh-Hans": "Refresh / reload data"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.tower.general.ee6d68d40e",
+          "title": {
+            "en": "Full screen mode",
+            "zh-Hans": "全屏 模式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.tower.general.51a2cf743a",
+          "title": {
+            "en": "Show Activity window",
+            "zh-Hans": "显示 Activity 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4352,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.tower.general.90a351ca6c",
+          "title": {
+            "en": "Open external diff tool for current view",
+            "zh-Hans": "Open external diff tool for current view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.tower.general.45b30a5e4b",
+          "title": {
+            "en": "Show \"Quick Actions\" dialog",
+            "zh-Hans": "显示 \"Quick Actions\" 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.tower.general.d84683a1cb",
+          "title": {
+            "en": "Show \"Quick Open\" dialog",
+            "zh-Hans": "显示 \"Quick 打开\" 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.tower.general.dc0dadf1fc",
+          "title": {
+            "en": "Open new window",
+            "zh-Hans": "打开新窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        }
+      ]
+    }
+  ]
+}

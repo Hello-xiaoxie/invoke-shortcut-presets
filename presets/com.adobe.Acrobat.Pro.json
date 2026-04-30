@@ -1,0 +1,1341 @@
+{
+  "bundleIdentifier": "com.adobe.Acrobat.Pro",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-acrobat-pro.accessibility",
+      "title": {
+        "en": "Accessibility",
+        "zh-Hans": "辅助功能"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-acrobat-pro.accessibility.30dd5f2c4a",
+          "title": {
+            "en": "Change reading settings for the current document",
+            "zh-Hans": "Change reading settings for the current document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 768,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.accessibility.b104ac8b3b",
+          "title": {
+            "en": "Reflow a tagged PDF, and return to unreflowed view",
+            "zh-Hans": "Reflow a tagged PDF, and return to unreflowed view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.accessibility.de3a9cf54e",
+          "title": {
+            "en": "Activate and deactivate Read Out Loud",
+            "zh-Hans": "Activate and deactivate Read Out Loud"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.accessibility.2654417182",
+          "title": {
+            "en": "Read only the current page out loud",
+            "zh-Hans": "Read only the current page out loud"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.accessibility.22bc6b1fde",
+          "title": {
+            "en": "Read out loud from the current page to the end of the document",
+            "zh-Hans": "Read out loud from the current page to the end of the document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.accessibility.db8c01ef9d",
+          "title": {
+            "en": "Pause reading out loud",
+            "zh-Hans": "Pause reading out loud"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.accessibility.b95e2c1f64",
+          "title": {
+            "en": "Stop reading out loud",
+            "zh-Hans": "Stop reading out loud"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-acrobat-pro.comments",
+      "title": {
+        "en": "Comments",
+        "zh-Hans": "注释"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-acrobat-pro.comments.abdc0f3bab",
+          "title": {
+            "en": "Sticky Note tool",
+            "zh-Hans": "Sticky 笔记 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.24122ce6ff",
+          "title": {
+            "en": "Text Edits tool",
+            "zh-Hans": "文本 Edits tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.7f846edd92",
+          "title": {
+            "en": "Stamp tool",
+            "zh-Hans": "Stamp tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 0,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.c6ec772561",
+          "title": {
+            "en": "Current highlighting tool",
+            "zh-Hans": "当前 highlighting tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.eebde7ec14",
+          "title": {
+            "en": "Cycle through highlighting tools: Highlighter,Underline Text, Cross Out Text",
+            "zh-Hans": "Cycle through highlighting tools: Highlighter,Underline Text, Cross Out Text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 512,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.33df3c2b9e",
+          "title": {
+            "en": "Current drawing markup tool",
+            "zh-Hans": "Current drawing markup tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.73b2ea33db",
+          "title": {
+            "en": "Cycle through drawing markup tools: Cloud, Arrow, Line, Rectangle, Oval, Polygon Line, Polygon, Pencil Tool, Eraser Tool",
+            "zh-Hans": "Cycle through drawing markup tools: Cloud, Arrow, Line, Rectangle, Oval, Polygon Line, Polygon, Pencil Tool, Eraser Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 512,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.fd6815fcbc",
+          "title": {
+            "en": "Cloud tool",
+            "zh-Hans": "Cloud tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.b9a7abff7d",
+          "title": {
+            "en": "Text Box tool",
+            "zh-Hans": "文本 Box tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.cd18446885",
+          "title": {
+            "en": "Current Stamp or Attach tool",
+            "zh-Hans": "Current Stamp or Attach tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.6717d7312c",
+          "title": {
+            "en": "Cycle through Stamp, Attach File, Record Audio Comment",
+            "zh-Hans": "Cycle through Stamp, Attach File, Record Audio Comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 512,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.9072bad4a9",
+          "title": {
+            "en": "Move focus to next comment or form field",
+            "zh-Hans": "Move focus to next comment or form field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.b74a4d732b",
+          "title": {
+            "en": "Move focus to previous comment or form field",
+            "zh-Hans": "Move focus to previous comment or form field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.d58640a2a6",
+          "title": {
+            "en": "Open pop-up note (or text field in Comments List) for comment that has focus",
+            "zh-Hans": "Open pop-up note (or text field in Comments List) for comment that has focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.comments.579427f817",
+          "title": {
+            "en": "Closes pop-up (or text field in Comments List) for comment that has focus",
+            "zh-Hans": "Closes pop-up (or text field in Comments List) for comment that has focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-acrobat-pro.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.6ffdd7e88e",
+          "title": {
+            "en": "Previous Screen",
+            "zh-Hans": "上一个 Screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.d966c3b45d",
+          "title": {
+            "en": "Next screen",
+            "zh-Hans": "下一个 screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.a286e1ee4a",
+          "title": {
+            "en": "First page",
+            "zh-Hans": "第一个 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.0e9fecda39",
+          "title": {
+            "en": "Last page",
+            "zh-Hans": "最后一个 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.a76c504ab6",
+          "title": {
+            "en": "Previous page",
+            "zh-Hans": "上一个 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.b486f63db3",
+          "title": {
+            "en": "Next page",
+            "zh-Hans": "下一个 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.039e404961",
+          "title": {
+            "en": "Previous open document",
+            "zh-Hans": "上一个 打开 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 256,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.31ac273413",
+          "title": {
+            "en": "Next open document",
+            "zh-Hans": "下一个 打开 文档"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 768,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.3e07f443fd",
+          "title": {
+            "en": "Scroll up",
+            "zh-Hans": "滚动up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.a42b9bfb3d",
+          "title": {
+            "en": "Scroll down",
+            "zh-Hans": "滚动down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.cc045612bf",
+          "title": {
+            "en": "Scroll (when Hand tool is selected)",
+            "zh-Hans": "Scroll (when Hand tool is selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.e4a221a9a6",
+          "title": {
+            "en": "Zoom in",
+            "zh-Hans": "放大"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.9b361287d7",
+          "title": {
+            "en": "Zoom out",
+            "zh-Hans": "缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.b9d16abd08",
+          "title": {
+            "en": "Move focus to the next item among Document pane, Task panes, Message bar, and Navigation bar",
+            "zh-Hans": "Move focus to the next item among Document pane, Task panes, Message bar, and Navigation bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.af8f892b9d",
+          "title": {
+            "en": "Move focus to the previous item among Document pane, Task panes, message bar, and Navigation bar",
+            "zh-Hans": "Move focus to the previous item among Document pane, Task panes, message bar, and Navigation bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.4e4e3d5d07",
+          "title": {
+            "en": "Move focus to the next panel in the Task pane",
+            "zh-Hans": "Move focus to the next panel in the Task pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.f8b4cb2f17",
+          "title": {
+            "en": "Move focus to the previous panel in the Task pane",
+            "zh-Hans": "Move focus to the previous panel in the Task pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 768,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.84aa195e57",
+          "title": {
+            "en": "Navigate to the next panel and panel control within an open Task pane",
+            "zh-Hans": "Navigate to the next panel and panel control within an open Task pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.8dd14483db",
+          "title": {
+            "en": "Navigate to the previous panel and panel control within an open Task pane",
+            "zh-Hans": "Navigate to the previous panel and panel control within an open Task pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.9021d71b8d",
+          "title": {
+            "en": "Navigate to the next command button within a panel",
+            "zh-Hans": "Navigate to the next command button within a panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.314fd479ae",
+          "title": {
+            "en": "Navigate to the previous command button within a panel",
+            "zh-Hans": "Navigate to the previous command button within a panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.691c345d24",
+          "title": {
+            "en": "Expand or collapse panel in focus (press F6 to move focus to Tools pane, then tab to desired panel)",
+            "zh-Hans": "Expand or collapse panel in focus (press F6 to move focus to Tools pane, then tab to desired panel)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.17b388c526",
+          "title": {
+            "en": "Open or close the Task pane",
+            "zh-Hans": "Open or close the Task pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.07a6d3d67e",
+          "title": {
+            "en": "Close the pane that lists the tasks of an Action",
+            "zh-Hans": "Close the pane that lists the tasks of an Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 768,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.e768e36a32",
+          "title": {
+            "en": "Open the menu and move the focus to the first menu option when focus is on a command with a submenu or submenu element with a flyout",
+            "zh-Hans": "Open the menu and move the focus to the first menu option when focus is on a command with a submenu or submenu element with a flyout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.ddb313e3c3",
+          "title": {
+            "en": "Move the focus back to the parent command button with a submenu or submenu element with a flyout",
+            "zh-Hans": "Move the focus back to the parent command button with a submenu or submenu element with a flyout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.56cecb6ca5",
+          "title": {
+            "en": "Run the command in focus",
+            "zh-Hans": "Run the command in focus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.be4ee9937b",
+          "title": {
+            "en": "Navigate to the next item in the active panel in the Create New Action, Edit Action, Create Custom Tool, or the Edit Custom Tool dialog boxes",
+            "zh-Hans": "Navigate to the next item in the active panel in the Create New Action, Edit Action, Create Custom Tool, or the Edit Custom Tool dialog boxes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.ac21e0ad77",
+          "title": {
+            "en": "Navigate to the previous item in the active panel in the Create New Action, Edit Action, Create Custom Tool, or the Edit Custom Tool dialog boxes",
+            "zh-Hans": "Navigate to the previous item in the active panel in the Create New Action, Edit Action, Create Custom Tool, or the Edit Custom Tool dialog boxes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.5995ef3b58",
+          "title": {
+            "en": "Open and move focus to navigation pane",
+            "zh-Hans": "Open and move focus to navigation pane"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 768,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.60fd5dc84a",
+          "title": {
+            "en": "Move focus among the document, message bar, and navigation panels",
+            "zh-Hans": "Move focus among the document, message bar, and navigation panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.eff5757bfc",
+          "title": {
+            "en": "Move focus to previous pane or panel",
+            "zh-Hans": "Move focus to previous pane or panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.6cb8da95e9",
+          "title": {
+            "en": "Move among the elements of the active navigation panel",
+            "zh-Hans": "Move among the elements of the active navigation panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.c2eaf27a2e",
+          "title": {
+            "en": "Move to previous or next navigation panel and make it active (when focus is on the panel button)",
+            "zh-Hans": "Move to previous or next navigation panel and make it active (when focus is on the panel button)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.7e9e7e06cb",
+          "title": {
+            "en": "Move to next navigation panel and make it active (when focus is anywhere in the navigation pane)",
+            "zh-Hans": "Move to next navigation panel and make it active (when focus is anywhere in the navigation pane)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.efaf43614f",
+          "title": {
+            "en": "Expand the current bookmark (focus on Bookmarks panel)",
+            "zh-Hans": "Expand the current bookmark (focus on Bookmarks panel)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 0,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.4e1a370df3",
+          "title": {
+            "en": "Collapse the current bookmark (focus on Bookmarks panel)",
+            "zh-Hans": "Collapse the current bookmark (focus on Bookmarks panel)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.eaeb711eef",
+          "title": {
+            "en": "Expand all bookmarks",
+            "zh-Hans": "展开all 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.f12b93ee69",
+          "title": {
+            "en": "Collapse selected bookmark",
+            "zh-Hans": "折叠selected 书签"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.86ce0e744d",
+          "title": {
+            "en": "Move focus to next item in a navigation panel",
+            "zh-Hans": "Move focus to next item in a navigation panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 0,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.309105a1bc",
+          "title": {
+            "en": "Move focus to previous item in a navigation panel",
+            "zh-Hans": "Move focus to previous item in a navigation panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.9e09d2634e",
+          "title": {
+            "en": "Open Help window",
+            "zh-Hans": "打开 Help 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.cee7f2ff08",
+          "title": {
+            "en": "Close Help window",
+            "zh-Hans": "关闭 Help 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.578c053bdc",
+          "title": {
+            "en": "Move back to previously opened topic",
+            "zh-Hans": "Move back to previously opened topic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.168001c6c6",
+          "title": {
+            "en": "Move forward to next topic",
+            "zh-Hans": "Move forward to next topic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.navigation.067ce3bc7c",
+          "title": {
+            "en": "Print Help topic",
+            "zh-Hans": "打印 Help topic"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-acrobat-pro.pdf-portfolios",
+      "title": {
+        "en": "PDF Portfolios",
+        "zh-Hans": "PDF 作品集"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.e12a787fff",
+          "title": {
+            "en": "Move forward or backward among the current column header selected for sorting, the current row with focus, and the Go Back button if in a folder",
+            "zh-Hans": "Move forward or backward among the current column header selected for sorting, the current row with focus, and the Go Back button if in a folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.7b6762a7cf",
+          "title": {
+            "en": "Move focus to the next or previous row when in the body of the file list on the left",
+            "zh-Hans": "Move focus to the next or previous row when in the body of the file list on the left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.8673be3cee",
+          "title": {
+            "en": "Selects the next or previous column header for sorting",
+            "zh-Hans": "Selects the next or previous column header for sorting"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 0,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.0b8289aa84",
+          "title": {
+            "en": "If pressed in the body of the file list, navigate one level up from within a folder",
+            "zh-Hans": "If pressed in the body of the file list, navigate one level up from within a folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.8ca8e62e4f",
+          "title": {
+            "en": "Press the Go Back button in a folder if focus is on the button.",
+            "zh-Hans": "Press the Go Back button in a folder if focus is on the button."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.52f726e025",
+          "title": {
+            "en": "If pressed when focus is on a row in the file list representing a subfolder, navigate to a subfolder, or open an attachment in Preview mode.",
+            "zh-Hans": "If pressed when focus is on a row in the file list representing a subfolder, navigate to a subfolder, or open an attachment in Preview mode."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.2fac7006b4",
+          "title": {
+            "en": "If in the body of the file list, move to the first or last row",
+            "zh-Hans": "If in the body of the file list, move to the first or last row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.081291b0a4",
+          "title": {
+            "en": "If in the body of the file list, move to the next or last set of rows to fit the screen",
+            "zh-Hans": "If in the body of the file list, move to the next or last set of rows to fit the screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.8e0bc9b2c9",
+          "title": {
+            "en": "Select or deselect all files",
+            "zh-Hans": "选择or deselect 全部 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.f18990e76a",
+          "title": {
+            "en": "If in the body of the file list, extend the selection by adding the next row above or below the selected row",
+            "zh-Hans": "If in the body of the file list, extend the selection by adding the next row above or below the selected row"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.7b351ac4de",
+          "title": {
+            "en": "Change whether the row with focus is in the selection",
+            "zh-Hans": "Change whether the row with focus is in the selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.d8c23f2e50",
+          "title": {
+            "en": "Move focus up or down one row without changing the selection",
+            "zh-Hans": "Move focus up or down one row without changing the selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.pdf-portfolios.4688ba1399",
+          "title": {
+            "en": "Reverse the sort order when focus is on a column header",
+            "zh-Hans": "Reverse the sort order when focus is on a column header"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-acrobat-pro.tools",
+      "title": {
+        "en": "Tools",
+        "zh-Hans": "工具"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-acrobat-pro.tools.44cbba7f31",
+          "title": {
+            "en": "Hand tool",
+            "zh-Hans": "抓手工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.a8147aea01",
+          "title": {
+            "en": "Temporarily select Hand tool",
+            "zh-Hans": "Temporarily select Hand tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.495e463c12",
+          "title": {
+            "en": "Select tool",
+            "zh-Hans": "选择tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.44012b56e8",
+          "title": {
+            "en": "Marquee Zoom tool",
+            "zh-Hans": "Marquee Zoom tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.fee05b93ce",
+          "title": {
+            "en": "Cycle through zoom tools: Marquee Zoom,Dynamic Zoom, Loupe",
+            "zh-Hans": "Cycle through zoom tools: Marquee Zoom,Dynamic Zoom, Loupe"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 512,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.e0ba01539f",
+          "title": {
+            "en": "Temporarily select Dynamic Zoom tool (when Marquee Zoom tool is selected)",
+            "zh-Hans": "Temporarily select Dynamic Zoom tool (when Marquee Zoom tool is selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 512,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.e0b7158bd5",
+          "title": {
+            "en": "Temporarily zoom out (when Marquee Zoom tool is selected)",
+            "zh-Hans": "Temporarily zoom out (when Marquee Zoom tool is selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.0a935b2ac0",
+          "title": {
+            "en": "Temporarily select Zoom In tool",
+            "zh-Hans": "Temporarily select Zoom In tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 256,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.a2f8379ead",
+          "title": {
+            "en": "Select Object tool",
+            "zh-Hans": "选择Object tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.2c3fc1e1d9",
+          "title": {
+            "en": "Edit Object tool",
+            "zh-Hans": "编辑 对象 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 0,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.07121bb257",
+          "title": {
+            "en": "Return/Exit Forms editing",
+            "zh-Hans": "Return/Exit Forms editing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.3806f5a66d",
+          "title": {
+            "en": "Crop tool",
+            "zh-Hans": "裁剪工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.871308b30e",
+          "title": {
+            "en": "Link tool",
+            "zh-Hans": "链接 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.b3f5962272",
+          "title": {
+            "en": "Text Field tool",
+            "zh-Hans": "文本 Field tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.3ca539bb30",
+          "title": {
+            "en": "Cycle through tools in forms authoring mode: Text Field, Check Box, Radio Button, List Box, Dropdown Box, Button, Digital Signature, Barcode",
+            "zh-Hans": "Cycle through tools in forms authoring mode: Text Field, Check Box, Radio Button, List Box, Dropdown Box, Button, Digital Signature, Barcode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 512,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.7131ff845e",
+          "title": {
+            "en": "3D tool",
+            "zh-Hans": "3D tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.bc2847066f",
+          "title": {
+            "en": "Cycle through Multimedia tools: 3D object, SWF, Sound, Video",
+            "zh-Hans": "Cycle through Multimedia tools: 3D object, SWF, Sound, Video"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 512,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.dd716cb921",
+          "title": {
+            "en": "Edit Document Text tool",
+            "zh-Hans": "编辑 文档 文本 tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.2ceb9ce46c",
+          "title": {
+            "en": "Cycle through Touch Up tools: Touch Up Text, Touch Up Reading Order, Touch Up Object",
+            "zh-Hans": "Cycle through Touch Up tools: Touch Up Text, Touch Up Reading Order, Touch Up Object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 512,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.42402eba91",
+          "title": {
+            "en": "Redaction",
+            "zh-Hans": "Redaction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 512,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.1344da871b",
+          "title": {
+            "en": "JavaScript Debugger",
+            "zh-Hans": "JavaScript Debugger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.137fb05461",
+          "title": {
+            "en": "Insert Blank Pages tool",
+            "zh-Hans": "Insert Blank Pages tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.f043e1b472",
+          "title": {
+            "en": "Insert Files",
+            "zh-Hans": "插入 文件"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.7161b753cf",
+          "title": {
+            "en": "Delete pages",
+            "zh-Hans": "删除 页面"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.517088f45c",
+          "title": {
+            "en": "Open Output Preview",
+            "zh-Hans": "打开 输出 预览"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-acrobat-pro.tools.971a33a5d7",
+          "title": {
+            "en": "Touch Up Reading Order tool (or if already selected, return focus to dialog box)",
+            "zh-Hans": "Touch Up Reading Order tool (or if already selected, return focus to dialog box)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 768,
+            "displayKey": "U"
+          }
+        }
+      ]
+    }
+  ]
+}

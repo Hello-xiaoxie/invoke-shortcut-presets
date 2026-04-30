@@ -1,0 +1,717 @@
+{
+  "bundleIdentifier": "com.adobe.animate",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-animate.file",
+      "title": {
+        "en": "File",
+        "zh-Hans": "文件"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-animate.file.a42a2c7f54",
+          "title": {
+            "en": "Import Image/Sound etc..",
+            "zh-Hans": "导入 图片/Sound etc.."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.file.616e3e2373",
+          "title": {
+            "en": "Export to .swf/.gif etc..",
+            "zh-Hans": "Export to .swf/.gif etc.."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.file.4b98a8f8fb",
+          "title": {
+            "en": "Open as Library",
+            "zh-Hans": "打开 as Library"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-animate.view-shortcuts",
+      "title": {
+        "en": "View Shortcuts",
+        "zh-Hans": "视图快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-animate.view-shortcuts.8c3b82dc8f",
+          "title": {
+            "en": "Full Size View",
+            "zh-Hans": "Full Size 视图"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.view-shortcuts.56cc9e1f08",
+          "title": {
+            "en": "Show Frame",
+            "zh-Hans": "显示 画框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.view-shortcuts.1232deab07",
+          "title": {
+            "en": "Show All",
+            "zh-Hans": "显示 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-animate.windows-shortcuts",
+      "title": {
+        "en": "Windows Shortcuts",
+        "zh-Hans": "Windows快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-animate.windows-shortcuts.77ff83341d",
+          "title": {
+            "en": "Modify Movie Properties",
+            "zh-Hans": "Modify Movie Properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.windows-shortcuts.ebd101224c",
+          "title": {
+            "en": "Show/Hide Libraries",
+            "zh-Hans": "显示/隐藏 Libraries"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.windows-shortcuts.31db1a9463",
+          "title": {
+            "en": "Toggle between Edit Movie and Edit Symbol Mode",
+            "zh-Hans": "Toggle between Edit Movie and Edit Symbol Mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.windows-shortcuts.92a5313797",
+          "title": {
+            "en": "Show/Hide Work Area",
+            "zh-Hans": "显示/隐藏 Work Area"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.windows-shortcuts.ebfdba473f",
+          "title": {
+            "en": "Show/Hide Timeline",
+            "zh-Hans": "显示/隐藏 时间线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-animate.edit-and-modify",
+      "title": {
+        "en": "Edit and Modify",
+        "zh-Hans": "编辑与修改"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-animate.edit-and-modify.b0fb87819e",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.3c9bfe6737",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.79536258d3",
+          "title": {
+            "en": "Break Apart",
+            "zh-Hans": "Break Apart"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.69d69ad9b6",
+          "title": {
+            "en": "Paste in Place",
+            "zh-Hans": "Paste in Place"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.9cd0b6e6bf",
+          "title": {
+            "en": "Deselect All",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.f24e5e2cc3",
+          "title": {
+            "en": "Align Window",
+            "zh-Hans": "对齐 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.8148d3f823",
+          "title": {
+            "en": "Scale and Rotate",
+            "zh-Hans": "Scale and Rotate"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.4f65bb2bac",
+          "title": {
+            "en": "Remove Transform",
+            "zh-Hans": "移除Transform"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.e7e75c0d6f",
+          "title": {
+            "en": "Move Ahead",
+            "zh-Hans": "移动Ahead"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 256,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.2c4715772b",
+          "title": {
+            "en": "Move Behind",
+            "zh-Hans": "移动Behind"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.d9254b53e0",
+          "title": {
+            "en": "Bring to Front",
+            "zh-Hans": "置于顶层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.c540d3129f",
+          "title": {
+            "en": "Send to Back",
+            "zh-Hans": "置于底层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.69501e1f1a",
+          "title": {
+            "en": "Modift Font",
+            "zh-Hans": "Modift 字体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.0f7c47043b",
+          "title": {
+            "en": "Modify Paragraph",
+            "zh-Hans": "Modify 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.0850ebad2a",
+          "title": {
+            "en": "Narrower Letterspacing",
+            "zh-Hans": "Narrower Letterspacing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.edit-and-modify.42c082939b",
+          "title": {
+            "en": "Wider Letterspacing",
+            "zh-Hans": "Wider Letterspacing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-animate.miscellaneous-action",
+      "title": {
+        "en": "Miscellaneous Action",
+        "zh-Hans": "其他操作"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.5086618415",
+          "title": {
+            "en": "Remove rotation or scaling from the selected objects",
+            "zh-Hans": "Remove rotation or scaling from the selected objects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.f92b641bf3",
+          "title": {
+            "en": "Rotate the selection to 90 degrees left",
+            "zh-Hans": "Rotate the selection to 90 degrees left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 768,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.d521145bc2",
+          "title": {
+            "en": "Scale and/or rotate the selection using numeric values",
+            "zh-Hans": "Scale and/or rotate the selection using numeric values"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.78bd2e76ae",
+          "title": {
+            "en": "Auto formats the editor code",
+            "zh-Hans": "Auto formats the editor code"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.37949b61db",
+          "title": {
+            "en": "Show hidden characters",
+            "zh-Hans": "显示 隐藏 characters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 768,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.ed86bc69a9",
+          "title": {
+            "en": "Suppresses highlighting of selected items",
+            "zh-Hans": "Suppresses highlighting of selected items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.d5cb9da682",
+          "title": {
+            "en": "Show or hide the pasteboard that surrounds the stage",
+            "zh-Hans": "Show or hide the pasteboard that surrounds the stage"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.07bb7a9329",
+          "title": {
+            "en": "Show or hide the rulers",
+            "zh-Hans": "Show or hide the rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2816,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.eddfc1c3f5",
+          "title": {
+            "en": "Show Frame Script Navigator",
+            "zh-Hans": "显示 画框 Script Navigator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.20e1447235",
+          "title": {
+            "en": "Show or hide the tweening shape hints",
+            "zh-Hans": "Show or hide the tweening shape hints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.d054a82e74",
+          "title": {
+            "en": "Show or hide the Color panel",
+            "zh-Hans": "Show or hide the Color panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 768,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.22a60371e5",
+          "title": {
+            "en": "Show or hide the Compiler Errors panel",
+            "zh-Hans": "Show or hide the Compiler Errors panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 2304,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.0a386b006e",
+          "title": {
+            "en": "Open a new window in the front most simulation that is a duplicate of the active window",
+            "zh-Hans": "Open a new window in the front most simulation that is a duplicate of the active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.bb63aaf9e5",
+          "title": {
+            "en": "Show or change a list of the scenes in the current movie",
+            "zh-Hans": "Show or change a list of the scenes in the current movie"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 768,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.577f5bdc6b",
+          "title": {
+            "en": "Show or hide the animation timeline and layers controls",
+            "zh-Hans": "Show or hide the animation timeline and layers controls"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.487f45e00a",
+          "title": {
+            "en": "Show a smaller area of the drawing with more detail",
+            "zh-Hans": "Show a smaller area of the drawing with more detail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.6b73b41a60",
+          "title": {
+            "en": "Show a larger area of the drawing with less detail",
+            "zh-Hans": "Show a larger area of the drawing with less detail"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.94dc0f85f4",
+          "title": {
+            "en": "Show or hide the Align panel",
+            "zh-Hans": "Show or hide the Align panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.d093f0ef5a",
+          "title": {
+            "en": "Add Component Widgets",
+            "zh-Hans": "添加Component Widgets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.5803ae7571",
+          "title": {
+            "en": "Show or hide the History panel",
+            "zh-Hans": "Show or hide the History panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.9ccfa30848",
+          "title": {
+            "en": "Show or change the properties and position of the selected object",
+            "zh-Hans": "Show or change the properties and position of the selected object"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.8f924667df",
+          "title": {
+            "en": "Show or hide the Library panel for this document",
+            "zh-Hans": "Show or hide the Library panel for this document"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.ff7428f649",
+          "title": {
+            "en": "Show or hide the Property Inspector",
+            "zh-Hans": "Show or hide the Property Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.281a59ee2e",
+          "title": {
+            "en": "Select colors from swatches and manage swatches",
+            "zh-Hans": "Select colors from swatches and manage swatches"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.91e870b47f",
+          "title": {
+            "en": "Show or hide the drawing toolbar",
+            "zh-Hans": "Show or hide the drawing toolbar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-animate.miscellaneous-action.ff190fb486",
+          "title": {
+            "en": "Scale and/or rotate the selection using numeric values",
+            "zh-Hans": "Scale and/or rotate the selection using numeric values"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        }
+      ]
+    }
+  ]
+}

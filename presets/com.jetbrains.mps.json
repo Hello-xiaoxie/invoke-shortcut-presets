@@ -1,0 +1,1359 @@
+{
+  "bundleIdentifier": "com.jetbrains.mps",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.mps.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.mps.general.f5aa6c8766",
+          "title": {
+            "en": "Model Checker",
+            "zh-Hans": "Model Checker"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.mps.general.a1ab5b8c5c",
+          "title": {
+            "en": "Open Settings dialog",
+            "zh-Hans": "打开 设置 对话框"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.mps.general.d127b421d6",
+          "title": {
+            "en": "Quick switch current scheme",
+            "zh-Hans": "Quick switch current scheme"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 4096,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.mps.general.0cf8b5a3dd",
+          "title": {
+            "en": "Save all",
+            "zh-Hans": "全部保存"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.vcs-local-history",
+      "title": {
+        "en": "VCS/Local History",
+        "zh-Hans": "版本控制/本地历史"
+      },
+      "items": [
+        {
+          "id": "remote.mps.vcs-local-history.10173859f9",
+          "title": {
+            "en": "Show differences",
+            "zh-Hans": "显示 differences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.mps.vcs-local-history.5d76cbbdba",
+          "title": {
+            "en": "Browse history",
+            "zh-Hans": "Browse 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.mps.vcs-local-history.7cbaf7b5b6",
+          "title": {
+            "en": "Add to VCS",
+            "zh-Hans": "添加to VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.mps.vcs-local-history.3a94140472",
+          "title": {
+            "en": "VCS operations popup",
+            "zh-Hans": "VCS operations popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.mps.vcs-local-history.2d918902df",
+          "title": {
+            "en": "Update project from VCS",
+            "zh-Hans": "Update project from VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.mps.vcs-local-history.515ebfe02c",
+          "title": {
+            "en": "Commit project to VCS",
+            "zh-Hans": "Commit project to VCS"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.debugger",
+      "title": {
+        "en": "Debugger",
+        "zh-Hans": "调试器"
+      },
+      "items": [
+        {
+          "id": "remote.mps.debugger.a855d669ad",
+          "title": {
+            "en": "View breakpoints",
+            "zh-Hans": "视图 breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 768,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.mps.debugger.f3f7913aa8",
+          "title": {
+            "en": "Toggle breakpoints",
+            "zh-Hans": "切换breakpoints"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 256,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.mps.debugger.78d89a955d",
+          "title": {
+            "en": "Evaluate expression",
+            "zh-Hans": "Evaluate expression"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 2048,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.mps.debugger.3bb07400d3",
+          "title": {
+            "en": "Resume",
+            "zh-Hans": "Resume"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.mps.debugger.57177a5867",
+          "title": {
+            "en": "Step out",
+            "zh-Hans": "单步跳出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 512,
+            "displayKey": "F8"
+          }
+        },
+        {
+          "id": "remote.mps.debugger.fc0ed9c336",
+          "title": {
+            "en": "Step into",
+            "zh-Hans": "单步调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 0,
+            "displayKey": "F7"
+          }
+        },
+        {
+          "id": "remote.mps.debugger.fc8dd72b83",
+          "title": {
+            "en": "Step over",
+            "zh-Hans": "单步跳过"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 100,
+            "carbonModifiers": 0,
+            "displayKey": "F8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.generation-compilation-and-run",
+      "title": {
+        "en": "Generation, Compilation and Run",
+        "zh-Hans": "生成、编译与运行"
+      },
+      "items": [
+        {
+          "id": "remote.mps.generation-compilation-and-run.83fd2e1bf5",
+          "title": {
+            "en": "Show type-system trace",
+            "zh-Hans": "Show type-system trace"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.206b02f5b2",
+          "title": {
+            "en": "Preview generated text",
+            "zh-Hans": "预览 generated 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2816,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.be5c9187d6",
+          "title": {
+            "en": "Select and debug a configuration",
+            "zh-Hans": "Select and debug a configuration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 2560,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.5123e58452",
+          "title": {
+            "en": "Debug context configuration",
+            "zh-Hans": "调试 context configuration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 768,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.1a7af10267",
+          "title": {
+            "en": "Select and run a configuration",
+            "zh-Hans": "Select and run a configuration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 2560,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.2413495dd7",
+          "title": {
+            "en": "Run context configuration",
+            "zh-Hans": "Run context configuration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 768,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.2085075dce",
+          "title": {
+            "en": "Debug",
+            "zh-Hans": "调试"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.951672b3a1",
+          "title": {
+            "en": "Run",
+            "zh-Hans": "Run"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 512,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.7735f79116",
+          "title": {
+            "en": "Generate current model",
+            "zh-Hans": "Generate 当前 model"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 768,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.mps.generation-compilation-and-run.15bf0e3f78",
+          "title": {
+            "en": "Generate current module",
+            "zh-Hans": "Generate 当前 module"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 256,
+            "displayKey": "F9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.baselanguage-refactoring",
+      "title": {
+        "en": "BaseLanguage refactoring",
+        "zh-Hans": "BaseLanguage 重构"
+      },
+      "items": [
+        {
+          "id": "remote.mps.baselanguage-refactoring.1c558ac1d5",
+          "title": {
+            "en": "Extract method",
+            "zh-Hans": "Extract 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.328bfb50a0",
+          "title": {
+            "en": "Introduce parameter",
+            "zh-Hans": "Introduce parameter"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.3f99dafbe1",
+          "title": {
+            "en": "Introduce field",
+            "zh-Hans": "Introduce field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.bd8f33997d",
+          "title": {
+            "en": "Introduce constant",
+            "zh-Hans": "Introduce constant"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.921360ec53",
+          "title": {
+            "en": "Introduce Variable",
+            "zh-Hans": "Introduce 变量"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.5de98fb942",
+          "title": {
+            "en": "Extract Method",
+            "zh-Hans": "Extract 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2304,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.7f54b87a47",
+          "title": {
+            "en": "Inline",
+            "zh-Hans": "Inline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.cd507db358",
+          "title": {
+            "en": "Safe Delete",
+            "zh-Hans": "Safe 删除"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.caf60fc1ab",
+          "title": {
+            "en": "Rename",
+            "zh-Hans": "重命名"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 512,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-refactoring.1a2fcd6c38",
+          "title": {
+            "en": "Move",
+            "zh-Hans": "Move"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.baselanguage-editing",
+      "title": {
+        "en": "BaseLanguage Editing",
+        "zh-Hans": "BaseLanguage 编辑"
+      },
+      "items": [
+        {
+          "id": "remote.mps.baselanguage-editing.8988213800",
+          "title": {
+            "en": "Go to super method",
+            "zh-Hans": "转到super 方法"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-editing.7fac6b2b80",
+          "title": {
+            "en": "Go to overriding methods / Go to inherited classifiers",
+            "zh-Hans": "Go to overriding methods / Go to inherited classifiers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-editing.8386c6cecc",
+          "title": {
+            "en": "Create new ...",
+            "zh-Hans": "Create new ..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4096,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-editing.82dc895976",
+          "title": {
+            "en": "Show node information",
+            "zh-Hans": "显示 节点 information"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4096,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-editing.44805fbb9f",
+          "title": {
+            "en": "Show parameters",
+            "zh-Hans": "显示 parameters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-editing.3aab52e717",
+          "title": {
+            "en": "Show nodes",
+            "zh-Hans": "显示 nodes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 256,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-editing.868ff6d4f3",
+          "title": {
+            "en": "Comment/uncomment with block comment",
+            "zh-Hans": "Comment/uncomment with block comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-editing.cb0fc06ce8",
+          "title": {
+            "en": "Implement methods",
+            "zh-Hans": "Implement methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.mps.baselanguage-editing.ee5b022744",
+          "title": {
+            "en": "Override methods",
+            "zh-Hans": "Override methods"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.navigation",
+      "title": {
+        "en": "Navigation",
+        "zh-Hans": "导航"
+      },
+      "items": [
+        {
+          "id": "remote.mps.navigation.4e3efb87b6",
+          "title": {
+            "en": "Inspect node",
+            "zh-Hans": "Inspect 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.eeaaded1ad",
+          "title": {
+            "en": "Show in hierarchy view",
+            "zh-Hans": "Show in hierarchy view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.23f4fdbc40",
+          "title": {
+            "en": "Show type",
+            "zh-Hans": "显示 type"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4608,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.328b21733b",
+          "title": {
+            "en": "Go to type-system rules",
+            "zh-Hans": "Go to type-system rules"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2816,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.6909c2ab7a",
+          "title": {
+            "en": "Go to previous aspect tab",
+            "zh-Hans": "转到previous aspect 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4608,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.8b9f4e9196",
+          "title": {
+            "en": "Go to next aspect tab",
+            "zh-Hans": "转到next aspect 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4608,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.c25ca03b39",
+          "title": {
+            "en": "Go to previous project window",
+            "zh-Hans": "转到previous 项目 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2304,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.mps.navigation.a8462d6941",
+          "title": {
+            "en": "Go to next project window",
+            "zh-Hans": "转到next 项目 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2304,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.159f7a0d83",
+          "title": {
+            "en": "Show structure",
+            "zh-Hans": "显示 structure"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 256,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.7c27b111ad",
+          "title": {
+            "en": "Go to inspector",
+            "zh-Hans": "转到inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.a989ac47f6",
+          "title": {
+            "en": "Close active editor tab",
+            "zh-Hans": "关闭 活动 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 256,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.28b702c694",
+          "title": {
+            "en": "Edit source / View source",
+            "zh-Hans": "编辑 源 / 视图 源"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.804b8e2fa2",
+          "title": {
+            "en": "Concept/Class hierarchy",
+            "zh-Hans": "Concept/类 hierarchy"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.b4981adf02",
+          "title": {
+            "en": "Select current node in any view",
+            "zh-Hans": "Select current node in any view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 2048,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.1fd0677f6b",
+          "title": {
+            "en": "Navigate back/forward",
+            "zh-Hans": "Navigate back/向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.mps.navigation.d752efbba6",
+          "title": {
+            "en": "Recent locations popup",
+            "zh-Hans": "Recent locations popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.68bfe7688b",
+          "title": {
+            "en": "Recent nodes popup",
+            "zh-Hans": "Recent nodes popup"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.2a3272d074",
+          "title": {
+            "en": "Jump to the last tool window",
+            "zh-Hans": "Jump to the last tool window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.2ccc71bc2c",
+          "title": {
+            "en": "Hide all tool windows",
+            "zh-Hans": "隐藏 全部 tool windows"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 768,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.c758c5fc7e",
+          "title": {
+            "en": "Restore default window layout",
+            "zh-Hans": "Restore default window layout"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 512,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.641cb02822",
+          "title": {
+            "en": "Hide active or last active window",
+            "zh-Hans": "Hide active or last active window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.199d3f47fc",
+          "title": {
+            "en": "Go to editor (from tool window)",
+            "zh-Hans": "Go to editor (from tool window)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.e872131181",
+          "title": {
+            "en": "Go to previous editor tab",
+            "zh-Hans": "转到previous 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4096,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.edc86e8f88",
+          "title": {
+            "en": "Go to next editor tab",
+            "zh-Hans": "转到next 编辑器 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 4096,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.55cce09b76",
+          "title": {
+            "en": "Go to concept editor declaration",
+            "zh-Hans": "Go to concept editor declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2560,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.33cc53eec6",
+          "title": {
+            "en": "Go to concept declaration",
+            "zh-Hans": "转到concept declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.e0ab3b2a15",
+          "title": {
+            "en": "Go to solution",
+            "zh-Hans": "转到solution"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.4f06e9a289",
+          "title": {
+            "en": "Go to model",
+            "zh-Hans": "转到model"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2816,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.1755df176d",
+          "title": {
+            "en": "Go to action by name",
+            "zh-Hans": "Go to action by name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4608,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.5944e59d1f",
+          "title": {
+            "en": "Go to node by id",
+            "zh-Hans": "Go to node by id"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.7df1ffee35",
+          "title": {
+            "en": "Go to file by name",
+            "zh-Hans": "Go to file by name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4608,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.904455bbff",
+          "title": {
+            "en": "Go to root node by name",
+            "zh-Hans": "Go to root node by name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4096,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.mps.navigation.c307f91b24",
+          "title": {
+            "en": "Go to declaration",
+            "zh-Hans": "转到declaration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4096,
+            "displayKey": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.find-usages-and-search",
+      "title": {
+        "en": "Find usages and Search",
+        "zh-Hans": "查找 usages and 搜索"
+      },
+      "items": [
+        {
+          "id": "remote.mps.find-usages-and-search.f4ace1dcb9",
+          "title": {
+            "en": "Find previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.mps.find-usages-and-search.3f91f6d26b",
+          "title": {
+            "en": "Find next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 0,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.mps.find-usages-and-search.c350cd17c5",
+          "title": {
+            "en": "Find text",
+            "zh-Hans": "查找 文本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.mps.find-usages-and-search.d80629a740",
+          "title": {
+            "en": "Highlight instances",
+            "zh-Hans": "Highlight instances"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 768,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.mps.find-usages-and-search.46c8af7a2a",
+          "title": {
+            "en": "Highlight cell dependencies",
+            "zh-Hans": "Highlight 单元格 dependencies"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2816,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.mps.find-usages-and-search.e622b005ff",
+          "title": {
+            "en": "Find concept instances",
+            "zh-Hans": "查找 concept instances"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 2048,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.mps.find-usages-and-search.19faf5044a",
+          "title": {
+            "en": "Find usages",
+            "zh-Hans": "查找 usages"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 98,
+            "carbonModifiers": 2048,
+            "displayKey": "F7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.set-dependencies-on-models-import-used-languages",
+      "title": {
+        "en": "Set dependencies on models, import used languages",
+        "zh-Hans": "Set dependencies on models, 导入 used languages"
+      },
+      "items": [
+        {
+          "id": "remote.mps.set-dependencies-on-models-import-used-languages.0bf5cd2124",
+          "title": {
+            "en": "Import model by a root name",
+            "zh-Hans": "Import model by a root name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.mps.set-dependencies-on-models-import-used-languages.9255937656",
+          "title": {
+            "en": "Import language",
+            "zh-Hans": "导入 language"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.mps.set-dependencies-on-models-import-used-languages.00b3cbd5e5",
+          "title": {
+            "en": "Import model",
+            "zh-Hans": "导入 model"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 4352,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.general-editing",
+      "title": {
+        "en": "General editing",
+        "zh-Hans": "通用编辑"
+      },
+      "items": [
+        {
+          "id": "remote.mps.general-editing.c12fef044e",
+          "title": {
+            "en": "Show descriptions of error or warning at caret",
+            "zh-Hans": "Show descriptions of error or warning at caret"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 4096,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.f82f938afa",
+          "title": {
+            "en": "Expand all",
+            "zh-Hans": "展开all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.f5b66a7ee8",
+          "title": {
+            "en": "Expand",
+            "zh-Hans": "扩展"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.0616ace863",
+          "title": {
+            "en": "Collapse all",
+            "zh-Hans": "折叠all"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.04cb5d47fb",
+          "title": {
+            "en": "Collapse",
+            "zh-Hans": "Collapse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.6ace13cba2",
+          "title": {
+            "en": "Refresh the error messages in the editor",
+            "zh-Hans": "Refresh the error messages in the editor"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.b3e4996a88",
+          "title": {
+            "en": "Delete line",
+            "zh-Hans": "删除行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 4096,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.06e7755aae",
+          "title": {
+            "en": "Extend the selected region to siblings",
+            "zh-Hans": "Extend the selected region to siblings"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.92adc0904c",
+          "title": {
+            "en": "Shrink block selection region",
+            "zh-Hans": "Shrink block 选择 区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4608,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.75ae4a5682",
+          "title": {
+            "en": "Expand/Shrink block selection region",
+            "zh-Hans": "Expand/Shrink block selection region"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4096,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.dacb2e6427",
+          "title": {
+            "en": "Duplicate current line or selected block",
+            "zh-Hans": "Duplicate current line or selected block"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.mps.general-editing.3364cf6a98",
+          "title": {
+            "en": "Surround with...",
+            "zh-Hans": "Surround with..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 6144,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.mps.core-of-editing",
+      "title": {
+        "en": "Core of editing",
+        "zh-Hans": "编辑核心"
+      },
+      "items": [
+        {
+          "id": "remote.mps.core-of-editing.426c56808b",
+          "title": {
+            "en": "Move to the previous cell",
+            "zh-Hans": "Move to the previous cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.mps.core-of-editing.7ada654218",
+          "title": {
+            "en": "Move to the next cell",
+            "zh-Hans": "Move to the next cell"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.mps.core-of-editing.39ddf50f3f",
+          "title": {
+            "en": "Code completion",
+            "zh-Hans": "Code completion"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4096,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    }
+  ]
+}

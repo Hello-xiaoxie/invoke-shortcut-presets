@@ -1,0 +1,828 @@
+{
+  "bundleIdentifier": "com.sequelpro.SequelPro",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.sequel-pro.table-and-database-management",
+      "title": {
+        "en": "Table and Database Management",
+        "zh-Hans": "表格与数据库管理"
+      },
+      "items": [
+        {
+          "id": "remote.sequel-pro.table-and-database-management.1c1b3b510b",
+          "title": {
+            "en": "Table structure",
+            "zh-Hans": "表格 structure"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.table-and-database-management.b5361286f5",
+          "title": {
+            "en": "Table content",
+            "zh-Hans": "表格 content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.table-and-database-management.d77475ed20",
+          "title": {
+            "en": "Table relations",
+            "zh-Hans": "表格 relations"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.table-and-database-management.a17d3b5027",
+          "title": {
+            "en": "Table info",
+            "zh-Hans": "表格 info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.table-and-database-management.8d2144194f",
+          "title": {
+            "en": "Custom query",
+            "zh-Hans": "Custom query"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.table-and-database-management.4cdfb3b1ac",
+          "title": {
+            "en": "Table triggers",
+            "zh-Hans": "表格 triggers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sequel-pro.file-and-tab-management",
+      "title": {
+        "en": "File and Tab Management",
+        "zh-Hans": "文件与标签页管理"
+      },
+      "items": [
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.83bd9f8adc",
+          "title": {
+            "en": "New window (connection file)",
+            "zh-Hans": "新建窗口 (connection 文件)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.9508dd4fe3",
+          "title": {
+            "en": "New tab (connection file)",
+            "zh-Hans": "新建标签页 (connection 文件)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.ce9ba53a30",
+          "title": {
+            "en": "Add connection to favorites",
+            "zh-Hans": "Add connection to favorites"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.4d6da56466",
+          "title": {
+            "en": "Open (connection file or SQL file)",
+            "zh-Hans": "Open (connection file or SQL file)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.9c1753180e",
+          "title": {
+            "en": "Open current connection file in new window",
+            "zh-Hans": "Open current connection file in new window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2304,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.33917fbfeb",
+          "title": {
+            "en": "Save (connection file)",
+            "zh-Hans": "存储 (connection 文件)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.4030c7dc7e",
+          "title": {
+            "en": "Save as (connection file)",
+            "zh-Hans": "存储 as (connection 文件)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.e746e378d4",
+          "title": {
+            "en": "Save query",
+            "zh-Hans": "存储 query"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4352,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.025304fb6a",
+          "title": {
+            "en": "Close (connection file)",
+            "zh-Hans": "关闭 (connection 文件)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.c8df87a65b",
+          "title": {
+            "en": "Close all (connection file)",
+            "zh-Hans": "关闭 全部 (connection 文件)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2304,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.1d7c70fbb4",
+          "title": {
+            "en": "Import",
+            "zh-Hans": "导入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.ec77ccd10a",
+          "title": {
+            "en": "Show console window",
+            "zh-Hans": "显示 控制台 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.file-and-tab-management.510fb25a91",
+          "title": {
+            "en": "Clear console",
+            "zh-Hans": "清除console"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sequel-pro.history-and-navigation",
+      "title": {
+        "en": "History and Navigation",
+        "zh-Hans": "历史与导航"
+      },
+      "items": [
+        {
+          "id": "remote.sequel-pro.history-and-navigation.0c322c68f3",
+          "title": {
+            "en": "Back in history",
+            "zh-Hans": "Back in history"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 6144,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.9f9e1dceab",
+          "title": {
+            "en": "Forward in history",
+            "zh-Hans": "Forward in history"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 6144,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.22ca503e49",
+          "title": {
+            "en": "Select next tab",
+            "zh-Hans": "选择next 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4096,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.b2fd0f07bf",
+          "title": {
+            "en": "Select previous tab",
+            "zh-Hans": "选择previous 标签页"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 4608,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.215d0eea85",
+          "title": {
+            "en": "Insert null value",
+            "zh-Hans": "插入 null value"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4608,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.e363eb7b64",
+          "title": {
+            "en": "Copy create table syntax",
+            "zh-Hans": "Copy create table syntax"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.b895475659",
+          "title": {
+            "en": "Show create table syntax",
+            "zh-Hans": "Show create table syntax"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.3cfd310b46",
+          "title": {
+            "en": "Refresh databases",
+            "zh-Hans": "Refresh databases"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.4512b68d1f",
+          "title": {
+            "en": "Choose database",
+            "zh-Hans": "Choose database"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.80fae56236",
+          "title": {
+            "en": "Show server variables",
+            "zh-Hans": "显示 server variables"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.2e217eb2dd",
+          "title": {
+            "en": "Show server processes",
+            "zh-Hans": "显示 server processes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.2e0c21284f",
+          "title": {
+            "en": "Refresh tables",
+            "zh-Hans": "Refresh tables"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4352,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.0bf3a1b172",
+          "title": {
+            "en": "Flush privileges",
+            "zh-Hans": "Flush privileges"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.be5487e7c5",
+          "title": {
+            "en": "User accounts...",
+            "zh-Hans": "User accounts..."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.7cf0700fb3",
+          "title": {
+            "en": "Copy selection or selected row(s)",
+            "zh-Hans": "Copy selection or selected row(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.a035a4c196",
+          "title": {
+            "en": "Copy selected row(s) with column names",
+            "zh-Hans": "Copy selected row(s) with column names"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.27d00fb955",
+          "title": {
+            "en": "Copy selected row(s) as SQL INSERT",
+            "zh-Hans": "复制 所选 行(s) as SQL 插入"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 6400,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.17067562cb",
+          "title": {
+            "en": "Show/hide toolbar",
+            "zh-Hans": "显示/隐藏 工具栏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.ba317beb60",
+          "title": {
+            "en": "Filter table content",
+            "zh-Hans": "滤镜 表格 content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.5934623f41",
+          "title": {
+            "en": "Filter tables",
+            "zh-Hans": "滤镜 tables"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6400,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.919daf5268",
+          "title": {
+            "en": "Bundle editor",
+            "zh-Hans": "Bundle 编辑器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 6400,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.ed14009abc",
+          "title": {
+            "en": "Navigator",
+            "zh-Hans": "Navigator"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 6400,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.7a1c9fca15",
+          "title": {
+            "en": "Select current word",
+            "zh-Hans": "选择current 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4096,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.8b6353fe31",
+          "title": {
+            "en": "Select current line",
+            "zh-Hans": "选择当前行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.6acf2225a3",
+          "title": {
+            "en": "Select enclosing brackets",
+            "zh-Hans": "选择enclosing brackets"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.ad35b7c00b",
+          "title": {
+            "en": "Add a new field / row",
+            "zh-Hans": "添加a new field / 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.3e5018d1c3",
+          "title": {
+            "en": "Delete selected field / row(s)",
+            "zh-Hans": "Delete selected field / row(s)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.86935c8b2a",
+          "title": {
+            "en": "Duplicate selected field / row",
+            "zh-Hans": "创建副本 所选 field / 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.6ba591b82c",
+          "title": {
+            "en": "Run all queries (1.0 ) / run current query or selection (<=0.9.9.1)",
+            "zh-Hans": "Run all queries (1.0 ) / run current query or selection (<=0.9.9.1)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.b8d4c5c5ca",
+          "title": {
+            "en": "Refresh table contents / run current query or selection",
+            "zh-Hans": "Refresh table contents / run current query or selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.b4651d57ca",
+          "title": {
+            "en": "Shift line or selection rightwards",
+            "zh-Hans": "Shift line or selection rightwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.c0aa296b3d",
+          "title": {
+            "en": "Shift line or selection leftwards",
+            "zh-Hans": "Shift line or selection leftwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.008edbe974",
+          "title": {
+            "en": "Toggle comment line or selection",
+            "zh-Hans": "Toggle comment line or selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 256,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.82a14eb101",
+          "title": {
+            "en": "Toggle comment current query",
+            "zh-Hans": "Toggle comment current query"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 2304,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.06030744d2",
+          "title": {
+            "en": "Spell checker completion (narrow-down list)",
+            "zh-Hans": "Spell checker completion (narrow-down list)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.6b503b0e92",
+          "title": {
+            "en": "Select current query",
+            "zh-Hans": "选择current query"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 4096,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.history-and-navigation.22d02b1bca",
+          "title": {
+            "en": "Show MySQL help for current word or selection",
+            "zh-Hans": "Show MySQL help for current word or selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.sequel-pro.database-commands",
+      "title": {
+        "en": "Database commands",
+        "zh-Hans": "数据库命令"
+      },
+      "items": [
+        {
+          "id": "remote.sequel-pro.database-commands.fdfa0472cf",
+          "title": {
+            "en": "open query favorites popup menu",
+            "zh-Hans": "open query favorites popup menu"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.database-commands.d84b0316d2",
+          "title": {
+            "en": "open query history popup menu",
+            "zh-Hans": "open query history popup menu"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.database-commands.c906cf3915",
+          "title": {
+            "en": "insert previous history item (successively)",
+            "zh-Hans": "插入 上一个 历史记录 项目 (successively)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4096,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.database-commands.4837122c97",
+          "title": {
+            "en": "insert next history item (successively)",
+            "zh-Hans": "插入 下一个 历史记录 项目 (successively)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4096,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.database-commands.e2cfb4cf55",
+          "title": {
+            "en": "show all database names as completion list",
+            "zh-Hans": "show all database names as completion list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.database-commands.9a6069140c",
+          "title": {
+            "en": "show all table and view names as completion list",
+            "zh-Hans": "show all table and view names as completion list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.sequel-pro.database-commands.1037fd537e",
+          "title": {
+            "en": "Show all table names from current database as completion list",
+            "zh-Hans": "Show all table names from current database as completion list"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1320 @@
+{
+  "bundleIdentifier": "org.gnu.Emacs",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.emacs.info",
+      "title": {
+        "en": "Info",
+        "zh-Hans": "信息"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.info.eb5aa595fd",
+          "title": {
+            "en": "quit Info",
+            "zh-Hans": "退出 Info"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.emacs.info.6f1f77e8ce",
+          "title": {
+            "en": "search nodes for regexp",
+            "zh-Hans": "search nodes for regexp"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.emacs.info.5fd53255c3",
+          "title": {
+            "en": "look up a subject in the indices",
+            "zh-Hans": "look up a subject in the indices"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.emacs.info.efb58bb50c",
+          "title": {
+            "en": "run Info tutorial",
+            "zh-Hans": "run Info tutorial"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.emacs.info.de0ec9b71b",
+          "title": {
+            "en": "go to any node by name",
+            "zh-Hans": "go to any node by name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.emacs.info.d36bc6c053",
+          "title": {
+            "en": "go to top node of Info file",
+            "zh-Hans": "go to top node of Info file"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.emacs.info.2bd8f7a591",
+          "title": {
+            "en": "return to directory node",
+            "zh-Hans": "return to directory node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.emacs.info.01af16553c",
+          "title": {
+            "en": "return to last node you saw",
+            "zh-Hans": "return to last node you saw"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.emacs.info.0eb6cc1bfb",
+          "title": {
+            "en": "follow cross reference (return with l)",
+            "zh-Hans": "follow cross reference (return with l)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.emacs.info.6fb7fab56a",
+          "title": {
+            "en": "select nth menu item by number (1–9)",
+            "zh-Hans": "select nth menu item by number (1–9)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.emacs.info.a36cb3da68",
+          "title": {
+            "en": "select menu item by name",
+            "zh-Hans": "select menu item by name"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.emacs.info.eb75cd7eac",
+          "title": {
+            "en": "move up",
+            "zh-Hans": "move 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.emacs.info.5e85d5b8c6",
+          "title": {
+            "en": "previous node",
+            "zh-Hans": "上一个 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.emacs.info.97f504d99d",
+          "title": {
+            "en": "next node",
+            "zh-Hans": "下一个 节点"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 0,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.emacs.info.c161495a4e",
+          "title": {
+            "en": "move to beginning of node",
+            "zh-Hans": "move to beginning of node"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.emacs.info.6fb8b1ff60",
+          "title": {
+            "en": "scroll reverse",
+            "zh-Hans": "scroll reverse"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.emacs.info.4ffa70fb31",
+          "title": {
+            "en": "scroll forward",
+            "zh-Hans": "scroll 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.transposing",
+      "title": {
+        "en": "Transposing",
+        "zh-Hans": "移调"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.transposing.2c2c763673",
+          "title": {
+            "en": "transpose sexps",
+            "zh-Hans": "transpose sexps"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 6144,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.emacs.transposing.1093a00391",
+          "title": {
+            "en": "transpose words",
+            "zh-Hans": "transpose words"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2048,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.emacs.transposing.02bc03fc52",
+          "title": {
+            "en": "transpose characters",
+            "zh-Hans": "transpose characters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 4096,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.the-minibuffer",
+      "title": {
+        "en": "The Minibuffer",
+        "zh-Hans": "迷你缓冲区"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.the-minibuffer.24e6f836d7",
+          "title": {
+            "en": "activate menu bar items on text terminals",
+            "zh-Hans": "activate menu bar items on text terminals"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.8da60ad040",
+          "title": {
+            "en": "abort command",
+            "zh-Hans": "abort command"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.533d70c55f",
+          "title": {
+            "en": "regexp search forward through history",
+            "zh-Hans": "regexp 搜索 向前 through 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2048,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.94927ed82f",
+          "title": {
+            "en": "regexp search backward through history",
+            "zh-Hans": "regexp 搜索 向后 through 历史记录"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2048,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.6d115dbd96",
+          "title": {
+            "en": "fetch later minibuffer input or default",
+            "zh-Hans": "fetch later minibuffer input or default"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2048,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.5b00e71010",
+          "title": {
+            "en": "fetch previous minibuffer input",
+            "zh-Hans": "fetch previous minibuffer input"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2048,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.c79c5ead9f",
+          "title": {
+            "en": "show possible completions",
+            "zh-Hans": "显示 possible completions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.0421ae219b",
+          "title": {
+            "en": "complete and execute",
+            "zh-Hans": "complete and execute"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.b20c62d592",
+          "title": {
+            "en": "complete up to one word",
+            "zh-Hans": "complete up to one word"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.emacs.the-minibuffer.585ee730c9",
+          "title": {
+            "en": "complete as much as possible",
+            "zh-Hans": "complete as much as possible"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.case-change",
+      "title": {
+        "en": "Case Change",
+        "zh-Hans": "大小写转换"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.case-change.c9797222da",
+          "title": {
+            "en": "capitalize word",
+            "zh-Hans": "capitalize 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2048,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.emacs.case-change.db9b5c81a4",
+          "title": {
+            "en": "lowercase word",
+            "zh-Hans": "lowercase 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2048,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.emacs.case-change.465f1b8d44",
+          "title": {
+            "en": "uppercase word",
+            "zh-Hans": "uppercase 单词"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2048,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.formatting",
+      "title": {
+        "en": "Formatting",
+        "zh-Hans": "格式化"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.formatting.a68ffa0ca5",
+          "title": {
+            "en": "set face",
+            "zh-Hans": "set face"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 2048,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.dc90b7f25f",
+          "title": {
+            "en": "fill paragraph",
+            "zh-Hans": "填充 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 2048,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.085b745cc0",
+          "title": {
+            "en": "put exactly one space at point",
+            "zh-Hans": "put exactly one space at point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 2048,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.17f58916ba",
+          "title": {
+            "en": "delete all white space around point",
+            "zh-Hans": "delete all white space around point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 2048,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.22f9c448b3",
+          "title": {
+            "en": "join line with previous (with arg, next)",
+            "zh-Hans": "join line with previous (with arg, next)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 58,
+            "carbonModifiers": 6144,
+            "displayKey": "58"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.cf551eecb9",
+          "title": {
+            "en": "move rest of line vertically down",
+            "zh-Hans": "move rest of line vertically down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 6144,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.61fc08ec91",
+          "title": {
+            "en": "insert newline after point",
+            "zh-Hans": "insert newline after point"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 4096,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.ae0926d3f6",
+          "title": {
+            "en": "indent for comment",
+            "zh-Hans": "indent for comment"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.d15ef0e6c2",
+          "title": {
+            "en": "indent sexp (mode-dependent)",
+            "zh-Hans": "indent sexp (mode-dependent)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 6144,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.9a71d7fd43",
+          "title": {
+            "en": "indent region (mode-dependent)",
+            "zh-Hans": "indent 区域 (模式-dependent)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 6144,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.emacs.formatting.6c141e7a06",
+          "title": {
+            "en": "indent current line (mode-dependent)",
+            "zh-Hans": "indent 当前 行 (模式-dependent)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.marking",
+      "title": {
+        "en": "Marking",
+        "zh-Hans": "标记"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.marking.d7a2ac86a2",
+          "title": {
+            "en": "mark function",
+            "zh-Hans": "mark 函数"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 6144,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.emacs.marking.46b8fcfd0d",
+          "title": {
+            "en": "mark sexp",
+            "zh-Hans": "mark sexp"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 6144,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.emacs.marking.9ab111c0fd",
+          "title": {
+            "en": "mark paragraph",
+            "zh-Hans": "mark 段落"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2048,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.emacs.marking.a11061f143",
+          "title": {
+            "en": "set mark arg words away",
+            "zh-Hans": "set mark arg words away"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2048,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.emacs.marking.10b9c3539c",
+          "title": {
+            "en": "exchange point and mark",
+            "zh-Hans": "exchange point and mark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 4096,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.emacs.marking.c421f12d36",
+          "title": {
+            "en": "set mark here",
+            "zh-Hans": "set mark here"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4096,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.killing-and-deleting",
+      "title": {
+        "en": "Killing and Deleting",
+        "zh-Hans": "删除与清除"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.killing-and-deleting.916acca1e2",
+          "title": {
+            "en": "replace last yank with previous kill",
+            "zh-Hans": "replace last yank with previous kill"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2048,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.a876024a6e",
+          "title": {
+            "en": "yank back last thing killed",
+            "zh-Hans": "yank back last thing killed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 4096,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.f5f59e14e9",
+          "title": {
+            "en": "copy region to kill ring",
+            "zh-Hans": "copy region to kill ring"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2048,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.ebfc0a897d",
+          "title": {
+            "en": "kill region",
+            "zh-Hans": "kill 区域"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 4096,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.bcce2c580a",
+          "title": {
+            "en": "delete sexp to end",
+            "zh-Hans": "delete sexp to end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 6144,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.6f25151d8c",
+          "title": {
+            "en": "delete sexp to beginning",
+            "zh-Hans": "delete sexp to beginning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 6144,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.fab3d64006",
+          "title": {
+            "en": "delete sentence to end",
+            "zh-Hans": "delete sentence to end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2048,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.ae3842c050",
+          "title": {
+            "en": "delete line to end",
+            "zh-Hans": "delete line to end"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 4096,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.6983e1c334",
+          "title": {
+            "en": "delete line to beginning",
+            "zh-Hans": "delete line to beginning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 6144,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.bd4c6d702c",
+          "title": {
+            "en": "delete word forward",
+            "zh-Hans": "删除 单词 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 2048,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.efb400442d",
+          "title": {
+            "en": "delete word backward",
+            "zh-Hans": "删除 单词 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 2048,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.7d7faf054c",
+          "title": {
+            "en": "delete character forward",
+            "zh-Hans": "删除 字符 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 4096,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.emacs.killing-and-deleting.43b7ce6a55",
+          "title": {
+            "en": "delete character backward",
+            "zh-Hans": "删除 字符 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.motion",
+      "title": {
+        "en": "Motion",
+        "zh-Hans": "运动"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.motion.8b39ed59d3",
+          "title": {
+            "en": "back to indentation",
+            "zh-Hans": "back to indentation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 2048,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.e6ee64c594",
+          "title": {
+            "en": "scroll current line to center, top, bottom",
+            "zh-Hans": "scroll current line to center, top, bottom"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.38806fefe3",
+          "title": {
+            "en": "scroll to previous screen",
+            "zh-Hans": "scroll to previous screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2048,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.cb06ab11a1",
+          "title": {
+            "en": "scroll to next screen",
+            "zh-Hans": "scroll to next screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 4096,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.426d194108",
+          "title": {
+            "en": "Move to buffer beginning",
+            "zh-Hans": "移动to buffer 开头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 2048,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.emacs.motion.888edd2dcd",
+          "title": {
+            "en": "Move to buffer beginning",
+            "zh-Hans": "移动to buffer 开头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2048,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.emacs.motion.3715b82105",
+          "title": {
+            "en": "Move to function end",
+            "zh-Hans": "移动to 函数 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 6144,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.e8be4ca415",
+          "title": {
+            "en": "Move to function beginning",
+            "zh-Hans": "移动to 函数 开头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 6144,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.d9ac238e41",
+          "title": {
+            "en": "Move to sexp end",
+            "zh-Hans": "移动to sexp 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 6144,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.c53450307a",
+          "title": {
+            "en": "Move to sexp beginning",
+            "zh-Hans": "移动to sexp 开头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 6144,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.ec298b11a0",
+          "title": {
+            "en": "Move to paragraph end",
+            "zh-Hans": "移动to 段落 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 2048,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.a840b01791",
+          "title": {
+            "en": "Move to paragraph beginning",
+            "zh-Hans": "移动to 段落 开头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2048,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.emacs.motion.9b6c97eef2",
+          "title": {
+            "en": "Move to sentence end",
+            "zh-Hans": "移动to sentence 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2048,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.1c8eec3d1d",
+          "title": {
+            "en": "Move to sentence beginning",
+            "zh-Hans": "移动to sentence 开头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2048,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.a6babc19b2",
+          "title": {
+            "en": "Move to line end",
+            "zh-Hans": "移动to 行 结束"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 4096,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.40257c5f9e",
+          "title": {
+            "en": "Move to line beginning",
+            "zh-Hans": "移动to 行 开头"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 4096,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.bb3c8da602",
+          "title": {
+            "en": "Move over line backward",
+            "zh-Hans": "移动over 行 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4096,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.6edd732330",
+          "title": {
+            "en": "Move over line forward",
+            "zh-Hans": "移动over 行 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4096,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.70bf2f9179",
+          "title": {
+            "en": "Move over word forward",
+            "zh-Hans": "移动over 单词 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2048,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.fe9ded554b",
+          "title": {
+            "en": "Move over word backward",
+            "zh-Hans": "移动over 单词 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2048,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.8fe03b57ff",
+          "title": {
+            "en": "Move over character backward",
+            "zh-Hans": "移动over 字符 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 4096,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.emacs.motion.3819ca53f2",
+          "title": {
+            "en": "Move over character forward",
+            "zh-Hans": "移动over 字符 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4096,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.incremental-search",
+      "title": {
+        "en": "Incremental Search",
+        "zh-Hans": "Incremental 搜索"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.incremental-search.b867813589",
+          "title": {
+            "en": "abort current search",
+            "zh-Hans": "abort 当前 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.emacs.incremental-search.fec6931fbb",
+          "title": {
+            "en": "undo effect of last character",
+            "zh-Hans": "undo effect of last character"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.emacs.incremental-search.210f062270",
+          "title": {
+            "en": "exit incremental search",
+            "zh-Hans": "exit incremental 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.emacs.incremental-search.32047899cd",
+          "title": {
+            "en": "select next later search string",
+            "zh-Hans": "select 下一个 later 搜索 字符串"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2048,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.emacs.incremental-search.6d30dbbe1a",
+          "title": {
+            "en": "select previous search string",
+            "zh-Hans": "select 上一个 搜索 字符串"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2048,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.emacs.incremental-search.70e2b5cae7",
+          "title": {
+            "en": "reverse regular expression search",
+            "zh-Hans": "reverse regular expression search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 6144,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.emacs.incremental-search.b2a7994747",
+          "title": {
+            "en": "regular expression search",
+            "zh-Hans": "regular expression 搜索"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 6144,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.emacs.incremental-search.e2aad63902",
+          "title": {
+            "en": "search backward",
+            "zh-Hans": "搜索 向后"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 4096,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.emacs.incremental-search.0b2af2433f",
+          "title": {
+            "en": "search forward",
+            "zh-Hans": "搜索 向前"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 4096,
+            "displayKey": "S"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.error-recovery",
+      "title": {
+        "en": "Error Recovery",
+        "zh-Hans": "错误恢复"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.error-recovery.6b2cd23914",
+          "title": {
+            "en": "redraw garbaged screen",
+            "zh-Hans": "redraw garbaged screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 4096,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.emacs.error-recovery.4b00d55237",
+          "title": {
+            "en": "abort partially typed or executing command",
+            "zh-Hans": "abort partially typed or executing command"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 4096,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.getting-help",
+      "title": {
+        "en": "Getting Help",
+        "zh-Hans": "获取帮助"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.getting-help.a9963d3a2a",
+          "title": {
+            "en": "scroll help window",
+            "zh-Hans": "scroll help 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 6144,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.emacs.getting-help.14359589fd",
+          "title": {
+            "en": "Show help",
+            "zh-Hans": "显示 help"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 4096,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.emacs.general",
+      "title": {
+        "en": "General",
+        "zh-Hans": "通用"
+      },
+      "items": [
+        {
+          "id": "remote.emacs.general.8965b32c5d",
+          "title": {
+            "en": "suspend Emacs (or iconify it under X)",
+            "zh-Hans": "suspend Emacs (or iconify it under X)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 4096,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.emacs.general.3f9524e9ec",
+          "title": {
+            "en": "execute extended command",
+            "zh-Hans": "execute extended command"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2048,
+            "displayKey": "X"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3177 @@
+{
+  "bundleIdentifier": "com.adobe.AfterEffects",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.adobe-after-effects.basics",
+      "title": {
+        "en": "Basics",
+        "zh-Hans": "基础"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.basics.ae99da7148",
+          "title": {
+            "en": "Select all",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.2b8d8c5872",
+          "title": {
+            "en": "Deselect all",
+            "zh-Hans": "Deselect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 120,
+            "carbonModifiers": 0,
+            "displayKey": "F2"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.e24c031a06",
+          "title": {
+            "en": "Rename selected Layer, Composition, Folder, etc",
+            "zh-Hans": "Rename selected Layer, Composition, Folder, etc"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 76,
+            "carbonModifiers": 0,
+            "displayKey": "↩"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.fcc17dd4c1",
+          "title": {
+            "en": "Move selected Layers or other elements backwards / forwards in stacking order",
+            "zh-Hans": "Move selected Layers or other elements backwards / forwards in stacking order"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.9cd0c5e63e",
+          "title": {
+            "en": "Move selected Layers or other elements backwards / forwards in stacking order",
+            "zh-Hans": "Move selected Layers or other elements backwards / forwards in stacking order"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2816,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.8238b9eb27",
+          "title": {
+            "en": "Extend selection to next item / to previous item in Project Panel and other Panels",
+            "zh-Hans": "Extend selection to next item / to previous item in Project Panel and other Panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 512,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.f83bd8611c",
+          "title": {
+            "en": "Duplicate selected Layers, Masks, effects, etc.",
+            "zh-Hans": "Duplicate selected Layers, Masks, effects, etc."
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.c58871b0c7",
+          "title": {
+            "en": "Quit",
+            "zh-Hans": "退出"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 256,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.2e2d0a735f",
+          "title": {
+            "en": "Undo / Redo",
+            "zh-Hans": "Undo / Redo"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.64abfe6dc8",
+          "title": {
+            "en": "Interrupt running a script",
+            "zh-Hans": "Interrupt running a script"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.e39826c5d9",
+          "title": {
+            "en": "Display filename corresponding to Frame at current time in Info Panel",
+            "zh-Hans": "Display filename corresponding to Frame at current time in Info Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2304,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.82365755bc",
+          "title": {
+            "en": "Open Preferences dialog box",
+            "zh-Hans": "打开 偏好设置 对话框 box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 2304,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.basics.189040de63",
+          "title": {
+            "en": "Restore default preferences settings (hold while starting ae)",
+            "zh-Hans": "Restore default preferences settings (hold while starting ae)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2816,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.projects",
+      "title": {
+        "en": "Projects",
+        "zh-Hans": "项目"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.projects.ff4d559836",
+          "title": {
+            "en": "New Project",
+            "zh-Hans": "新建项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.projects.2d95d9e8fb",
+          "title": {
+            "en": "Open Project",
+            "zh-Hans": "打开 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.projects.ec96a2d5e0",
+          "title": {
+            "en": "Open most recent Project",
+            "zh-Hans": "打开 most recent 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2816,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.projects.25ef4d3f84",
+          "title": {
+            "en": "New Folder in Project Panel",
+            "zh-Hans": "New Folder in Project Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2816,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.projects.299b8892ae",
+          "title": {
+            "en": "Open Project Settings dialog box",
+            "zh-Hans": "打开 项目 设置 对话框 box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2816,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.projects.bd3853cf8b",
+          "title": {
+            "en": "Find in Project Panel",
+            "zh-Hans": "Find in Project Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows",
+      "title": {
+        "en": "Panels, Viewers, Workspaces, and Windows",
+        "zh-Hans": "面板、查看器、工作区和窗口"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.42d29d2802",
+          "title": {
+            "en": "Open or close Project Panel",
+            "zh-Hans": "Open or close Project Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.c02626dfa8",
+          "title": {
+            "en": "Open or close Render Queue Panel",
+            "zh-Hans": "Open or close Render Queue Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 2304,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.3eedbaa881",
+          "title": {
+            "en": "Open or close Tools Panel",
+            "zh-Hans": "Open or close Tools Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.c300a2e30b",
+          "title": {
+            "en": "Open or close Info Panel",
+            "zh-Hans": "Open or close Info Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.5a692c7ffd",
+          "title": {
+            "en": "Open or close Preview Panel",
+            "zh-Hans": "Open or close Preview Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.1c9be1b2a2",
+          "title": {
+            "en": "Open or close Audio Panel",
+            "zh-Hans": "Open or close Audio Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.a68b1b698b",
+          "title": {
+            "en": "Open or close Effects and Presets Panel",
+            "zh-Hans": "Open or close Effects and Presets Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.b7279521e4",
+          "title": {
+            "en": "Open or close Character Panel",
+            "zh-Hans": "Open or close Character Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.60fc9f97e3",
+          "title": {
+            "en": "Open or close Paragraph Panel",
+            "zh-Hans": "Open or close Paragraph Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.5cbe99644c",
+          "title": {
+            "en": "Open or close Paint Panel",
+            "zh-Hans": "Open or close Paint Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.7058d26ad3",
+          "title": {
+            "en": "Open or close Brushes Panel",
+            "zh-Hans": "Open or close Brushes Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.7c39b44aa2",
+          "title": {
+            "en": "Open Flowchart Panel for Project flowchart",
+            "zh-Hans": "Open Flowchart Panel for Project flowchart"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 256,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.48f1df9d43",
+          "title": {
+            "en": "Switch between Workspaces",
+            "zh-Hans": "Switch between Workspaces"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 512,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.51f9d5670b",
+          "title": {
+            "en": "Close active Viewer or Panel (closes content first)",
+            "zh-Hans": "Close active Viewer or Panel (closes content first)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.486b9654a8",
+          "title": {
+            "en": "Close active Panel or all Viewers of type of active Viewer",
+            "zh-Hans": "Close active Panel or all Viewers of type of active Viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.892053cd1a",
+          "title": {
+            "en": "Split the Frame containing the active Viewer and create a new Viewer with opposite locked/unlocked state",
+            "zh-Hans": "Split the Frame containing the active Viewer and create a new Viewer with opposite locked/unlocked state"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2816,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.bf4775522d",
+          "title": {
+            "en": "Maximize or restore Panel under pointer",
+            "zh-Hans": "Maximize or restore Panel under pointer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 0,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.9cc2378511",
+          "title": {
+            "en": "Resize application (floating) window to fit screen. Press again to resize window for contents to fill screen",
+            "zh-Hans": "Resize application (floating) window to fit screen. Press again to resize window for contents to fill screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 256,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.d3618e7152",
+          "title": {
+            "en": "Move (floating) window to main monitor; resize window to fit screen. Press again to resize window for contents to fill screen",
+            "zh-Hans": "Move (floating) window to main monitor; resize window to fit screen. Press again to resize window for contents to fill screen"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 2304,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.6164f61725",
+          "title": {
+            "en": "Toggle activation between Composition Panel and Timeline Panel for current Composition",
+            "zh-Hans": "Toggle activation between Composition Panel and Timeline Panel for current Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 0,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.8b9611090e",
+          "title": {
+            "en": "Cycle to previous / next item in active Viewer",
+            "zh-Hans": "Cycle to previous / next item in active Viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 512,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.ff9d46270e",
+          "title": {
+            "en": "Cycle to previous / next Panel in active Frame",
+            "zh-Hans": "Cycle to previous / next Panel in active Frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2560,
+            "displayKey": ","
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.activating-tools",
+      "title": {
+        "en": "Activating Tools",
+        "zh-Hans": "Activating工具"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.activating-tools.68ba7d19b0",
+          "title": {
+            "en": "Activate Selection Tool",
+            "zh-Hans": "Activate 选择 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 0,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.64e4961c48",
+          "title": {
+            "en": "Activate Hand Tool",
+            "zh-Hans": "Activate Hand Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 0,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.ae0e0d344e",
+          "title": {
+            "en": "Temporarily activate Hand Tool",
+            "zh-Hans": "Temporarily activate Hand Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.b61453697c",
+          "title": {
+            "en": "Activate Zoom In / Zoom Out Tool",
+            "zh-Hans": "Activate 放大 / 缩小 Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 0,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.b05b1e5c7d",
+          "title": {
+            "en": "Activate Rotation Tool",
+            "zh-Hans": "Activate Rotation Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 0,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.9a459ee49e",
+          "title": {
+            "en": "Activate Roto Brush Tool",
+            "zh-Hans": "Activate Roto Brush Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 2048,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.822af6a048",
+          "title": {
+            "en": "Activate and cycle through Camera Tools",
+            "zh-Hans": "Activate and cycle through Camera Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 0,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.d71819662b",
+          "title": {
+            "en": "Activate Pan Behind Tool",
+            "zh-Hans": "Activate Pan Behind Tool"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 0,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.f4dfa88ce7",
+          "title": {
+            "en": "Activate and cycle through Mask and Shape Tools",
+            "zh-Hans": "Activate and cycle through Mask and Shape Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 0,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.274f3506b8",
+          "title": {
+            "en": "Activate and cycle through Type Tools",
+            "zh-Hans": "Activate and cycle through Type Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.07efa5e3a8",
+          "title": {
+            "en": "Activate and cycle between the Pen and Mask Feather Tools",
+            "zh-Hans": "Activate and cycle between the Pen and Mask Feather Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 0,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.96c81dd129",
+          "title": {
+            "en": "Activate and cycle through Brush, Clone Stamp, and Eraser Tools",
+            "zh-Hans": "Activate and cycle through Brush, Clone Stamp, and Eraser Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.activating-tools.dc351f9b2f",
+          "title": {
+            "en": "Activate and cycle through Puppet Tools",
+            "zh-Hans": "Activate and cycle through Puppet Tools"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.compositions-and-work-area",
+      "title": {
+        "en": "Compositions and Work Area",
+        "zh-Hans": "合成与工作区"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.compositions-and-work-area.aa2c0f670a",
+          "title": {
+            "en": "New Composition",
+            "zh-Hans": "新建Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.compositions-and-work-area.8df2ec1a13",
+          "title": {
+            "en": "Open Composition Settings dialog box for selected Composition",
+            "zh-Hans": "Open Composition Settings dialog box for selected Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.compositions-and-work-area.71f7f471bd",
+          "title": {
+            "en": "Set beginning / set end of work area to current time",
+            "zh-Hans": "Set beginning / set end of work area to current time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 0,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.compositions-and-work-area.10af49fff4",
+          "title": {
+            "en": "Set work area to duration of selected Layers or to Composition duration if no Layers selected",
+            "zh-Hans": "Set work area to duration of selected Layers or to Composition duration if no Layers selected"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2304,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.compositions-and-work-area.d26389535e",
+          "title": {
+            "en": "Open Composition Mini-Flowchart for active Composition",
+            "zh-Hans": "Open Composition Mini-Flowchart for active Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.compositions-and-work-area.4cc683ca5e",
+          "title": {
+            "en": "Activate the most recently active Composition that is in the same Composition hierarchy as the currently active Composition",
+            "zh-Hans": "Activate the most recently active Composition that is in the same Composition hierarchy as the currently active Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.time-navigation",
+      "title": {
+        "en": "Time Navigation",
+        "zh-Hans": "时间导航"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.time-navigation.5179af90ef",
+          "title": {
+            "en": "Go to specific time",
+            "zh-Hans": "转到specific time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2560,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.time-navigation.5a150a5e1c",
+          "title": {
+            "en": "Go to beginning or end of work area",
+            "zh-Hans": "Go to beginning or end of work area"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.time-navigation.566bd3f3a3",
+          "title": {
+            "en": "Go to previous / go to next visible item in time ruler",
+            "zh-Hans": "Go to previous / go to next visible item in time ruler"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 0,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.time-navigation.11fdbcf47d",
+          "title": {
+            "en": "Go to beginning / go to end of Composition, Layer, or footage item (or Command Option ←/→)",
+            "zh-Hans": "Go to beginning / go to end of Composition, Layer, or footage item (or Command Option ←/→)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.time-navigation.8feddf7861",
+          "title": {
+            "en": "Go forward / backwards 1 Frame (or Command →/←)",
+            "zh-Hans": "Go forward / backwards 1 Frame (or Command →/←)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 0,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.time-navigation.963c4f1f6a",
+          "title": {
+            "en": "Go forward / backwards 10 Frames",
+            "zh-Hans": "Go forward / backwards 10 Frames"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 121,
+            "carbonModifiers": 512,
+            "displayKey": "Page Down"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.time-navigation.25e96b9234",
+          "title": {
+            "en": "Go to Layer InPoint / Layer OutPoint",
+            "zh-Hans": "Go to Layer InPoint / Layer OutPoint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 0,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.time-navigation.66f8cd3e85",
+          "title": {
+            "en": "Go to previous / next InPoint or OutPoint",
+            "zh-Hans": "Go to previous / next InPoint or OutPoint"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2816,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.time-navigation.cdc30f1767",
+          "title": {
+            "en": "Scroll to current time in Timeline Panel",
+            "zh-Hans": "Scroll to current time in Timeline Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.previews",
+      "title": {
+        "en": "Previews",
+        "zh-Hans": "预览"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.previews.587fe46613",
+          "title": {
+            "en": "Start or stop preview",
+            "zh-Hans": "Start or stop preview"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.previews.e90f81a76b",
+          "title": {
+            "en": "Take Snapshot",
+            "zh-Hans": "Take Snapshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 512,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.previews.4b98fcf1f9",
+          "title": {
+            "en": "Display Snapshot in active Viewer",
+            "zh-Hans": "Display Snapshot in active Viewer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 0,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.previews.c6ceb676e5",
+          "title": {
+            "en": "Purge snapshot",
+            "zh-Hans": "Purge snapshot"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 96,
+            "carbonModifiers": 768,
+            "displayKey": "F5"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.previews.8d0f872fd9",
+          "title": {
+            "en": "Fast Previews > Off",
+            "zh-Hans": "Fast Previews > Off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.previews.9b66455f24",
+          "title": {
+            "en": "Fast Previews > Adaptive Resolution",
+            "zh-Hans": "Fast Previews > Adaptive Resolution"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.previews.3044eb7b45",
+          "title": {
+            "en": "Fast Previews > Draft",
+            "zh-Hans": "Fast Previews > Draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.previews.b48db8731e",
+          "title": {
+            "en": "Fast Previews > Fast Draft",
+            "zh-Hans": "Fast Previews > Fast Draft"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2304,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.previews.4cff98dbc3",
+          "title": {
+            "en": "Fast Previews > WireFrame",
+            "zh-Hans": "Fast Previews > WireFrame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2304,
+            "displayKey": "5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.views",
+      "title": {
+        "en": "Views",
+        "zh-Hans": "视图"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.views.68bd8e455f",
+          "title": {
+            "en": "Turn display color management on or off for active view",
+            "zh-Hans": "Turn display color management on or off for active view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 512,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.784dca295f",
+          "title": {
+            "en": "Show red, green, blue, or alpha channel as grayscale",
+            "zh-Hans": "Show red, green, blue, or alpha channel as grayscale"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2048,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.4b17b39528",
+          "title": {
+            "en": "Show colorized red, green, or blue channel",
+            "zh-Hans": "Show colorized red, green, or blue channel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2560,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.1b5d11423d",
+          "title": {
+            "en": "Toggle showing straight RGB color",
+            "zh-Hans": "Toggle showing straight RGB color"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 2560,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.56763b57a9",
+          "title": {
+            "en": "Show alpha boundary in Layer Panel",
+            "zh-Hans": "Show alpha boundary in Layer Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 2048,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.b2f1bd1342",
+          "title": {
+            "en": "Show alpha overlay in Layer Panel",
+            "zh-Hans": "Show alpha overlay in Layer Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 2048,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.71b9893de5",
+          "title": {
+            "en": "Show Refine Edge X-ray",
+            "zh-Hans": "Show Refine Edge X-ray"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2048,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.26b9c3a3ab",
+          "title": {
+            "en": "Zoom in / Zoom out in Composition, Layer, or Footage Panel",
+            "zh-Hans": "Zoom in / Zoom out in Composition, Layer, or Footage Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 47,
+            "carbonModifiers": 0,
+            "displayKey": "."
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.f90cbe7f56",
+          "title": {
+            "en": "Zoom to 100% in Composition, Layer, or Footage Panel",
+            "zh-Hans": "Zoom to 100% in Composition, Layer, or Footage Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 44,
+            "carbonModifiers": 0,
+            "displayKey": "/"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.514c981617",
+          "title": {
+            "en": "Set resolution to Full, Half, or Custom in Composition Panel",
+            "zh-Hans": "Set resolution to Full, Half, or Custom in Composition Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.367974d04d",
+          "title": {
+            "en": "Open View Options dialog box for active Composition Panel",
+            "zh-Hans": "Open View Options dialog box for active Composition Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.d3ffd738a0",
+          "title": {
+            "en": "Zoom in / zoom out time",
+            "zh-Hans": "放大 / 缩小 time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 0,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.9477704be0",
+          "title": {
+            "en": "Zoom in / zoom out Timeline Panel to single-Frame units",
+            "zh-Hans": "Zoom in / zoom out Timeline Panel to single-Frame units"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 0,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.a7713080ac",
+          "title": {
+            "en": "Prevent images from being rendered for previews in Viewer Panels",
+            "zh-Hans": "Prevent images from being rendered for previews in Viewer Panels"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 57,
+            "carbonModifiers": 0,
+            "displayKey": "57"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.07471711ca",
+          "title": {
+            "en": "Show or hide safe zones",
+            "zh-Hans": "Show or hide safe zones"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 0,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.63099a8465",
+          "title": {
+            "en": "Show or hide Grid",
+            "zh-Hans": "Show or hide Grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 256,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.8946725cf8",
+          "title": {
+            "en": "Show or hide proportional Grid",
+            "zh-Hans": "Show or hide proportional Grid"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 2048,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.0dff5184f0",
+          "title": {
+            "en": "Show or hide Rulers",
+            "zh-Hans": "Show or hide Rulers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.326fa89425",
+          "title": {
+            "en": "Show or hide Guides",
+            "zh-Hans": "Show or hide Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 256,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.ec47da95c4",
+          "title": {
+            "en": "Turn snapping to Grid on or off",
+            "zh-Hans": "Turn snapping to Grid on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 39,
+            "carbonModifiers": 768,
+            "displayKey": "39"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.f4ac3cca51",
+          "title": {
+            "en": "Turn snapping to Guides on or off",
+            "zh-Hans": "Turn snapping to Guides on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 768,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.c08917707a",
+          "title": {
+            "en": "Lock or unlock Guides",
+            "zh-Hans": "Lock or unlock Guides"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 41,
+            "carbonModifiers": 2816,
+            "displayKey": ";"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.views.82448a89a0",
+          "title": {
+            "en": "Show or hide Layer controls",
+            "zh-Hans": "Show or hide Layer controls"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 768,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.footage",
+      "title": {
+        "en": "Footage",
+        "zh-Hans": "素材"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.footage.6569c8c9b0",
+          "title": {
+            "en": "Import one file or image sequence",
+            "zh-Hans": "Import one file or image sequence"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.footage.af52845d00",
+          "title": {
+            "en": "Import multiple files or image sequences",
+            "zh-Hans": "Import multiple files or image sequences"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.footage.3f906105af",
+          "title": {
+            "en": "Delete a Footage item without a warning",
+            "zh-Hans": "Delete a Footage item without a warning"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 256,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.footage.97241261a7",
+          "title": {
+            "en": "Open Interpret Footage dialog box for selected Footage item",
+            "zh-Hans": "Open Interpret Footage dialog box for selected Footage item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.footage.2f050cc01f",
+          "title": {
+            "en": "Remember Footage interpretation",
+            "zh-Hans": "Remember Footage interpretation"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.footage.ea11907639",
+          "title": {
+            "en": "Edit selected Footage item",
+            "zh-Hans": "编辑 所选 Footage 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.footage.fe03dab140",
+          "title": {
+            "en": "Replace selected Footage item",
+            "zh-Hans": "替换 所选 Footage 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.footage.d5d3441cf7",
+          "title": {
+            "en": "Reload selected Footage items",
+            "zh-Hans": "Reload selected Footage items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2304,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.footage.150c6b297a",
+          "title": {
+            "en": "Set proxy for selected Footage item",
+            "zh-Hans": "Set proxy for selected Footage item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 2304,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.effects-and-animation-presets",
+      "title": {
+        "en": "Effects and Animation Presets",
+        "zh-Hans": "效果与动画预设"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.effects-and-animation-presets.ca23e9c4fe",
+          "title": {
+            "en": "Delete all effects from selected Layers",
+            "zh-Hans": "Delete all effects from selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 768,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.effects-and-animation-presets.edea71128b",
+          "title": {
+            "en": "Apply most recently applied effect to selected Layers",
+            "zh-Hans": "Apply most recently applied effect to selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 2816,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.effects-and-animation-presets.a597c47f5f",
+          "title": {
+            "en": "Apply most recently applied animation preset to selected Layers",
+            "zh-Hans": "Apply most recently applied animation preset to selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2816,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.layers",
+      "title": {
+        "en": "Layers",
+        "zh-Hans": "图层"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.layers.17fedb5de0",
+          "title": {
+            "en": "New solid Layer",
+            "zh-Hans": "新建solid 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 256,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.4fa6713494",
+          "title": {
+            "en": "New null Layer",
+            "zh-Hans": "新建null 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2816,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.a06acd34da",
+          "title": {
+            "en": "New adjustment Layer",
+            "zh-Hans": "新建adjustment 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 2304,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.5669b86e57",
+          "title": {
+            "en": "Select next Layer / previous Layer in stacking order",
+            "zh-Hans": "Select next Layer / previous Layer in stacking order"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 256,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.f3a72577e6",
+          "title": {
+            "en": "Extend selection to next Layer / previous Layer in stacking order",
+            "zh-Hans": "Extend selection to next Layer / previous Layer in stacking order"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 768,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.6648a63029",
+          "title": {
+            "en": "Deselect all Layers",
+            "zh-Hans": "Deselect 全部 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.0f9cfa973b",
+          "title": {
+            "en": "Scroll topmost selected Layer to top of Timeline Panel",
+            "zh-Hans": "Scroll topmost selected Layer to top of Timeline Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.3ffa0bb0d9",
+          "title": {
+            "en": "Show or hide Parent column",
+            "zh-Hans": "Show or hide Parent column"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 512,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.e6c1f48eeb",
+          "title": {
+            "en": "Show or hide Layer Switches and Modes columns",
+            "zh-Hans": "Show or hide Layer Switches and Modes columns"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 0,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.f5adb97d2c",
+          "title": {
+            "en": "Setting sampling method for selected Layers (Best/Bilinear)",
+            "zh-Hans": "Setting sampling method for selected Layers (Best/Bilinear)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2048,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.1ed6670572",
+          "title": {
+            "en": "Setting sampling method for selected Layers (Best/Bicubic)",
+            "zh-Hans": "Setting sampling method for selected Layers (Best/Bicubic)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 2560,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.4cd81e0373",
+          "title": {
+            "en": "Turn Video switch on/off for selected Layers",
+            "zh-Hans": "Turn Video switch on/off for selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.66aeecc141",
+          "title": {
+            "en": "Turn off Video switch for all video Layers other than selected Layers",
+            "zh-Hans": "Turn off Video switch for all video Layers other than selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.d550e581a2",
+          "title": {
+            "en": "Open settings dialog box for selected solid, light, camera, null, or adjustment layers",
+            "zh-Hans": "Open settings dialog box for selected solid, light, camera, null, or adjustment layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 16,
+            "carbonModifiers": 768,
+            "displayKey": "Y"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.79137b7292",
+          "title": {
+            "en": "Paste Layers at current time",
+            "zh-Hans": "Paste Layers at current time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.002e7769d7",
+          "title": {
+            "en": "Split selected Layers (If no Layers are selected, split all Layers.)",
+            "zh-Hans": "Split selected Layers (If no Layers are selected, split all Layers.)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.b2dc87a36a",
+          "title": {
+            "en": "Precompose selected Layers",
+            "zh-Hans": "Precompose 所选 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.c2ec18757b",
+          "title": {
+            "en": "Open Effect Controls Panel for selected Layers",
+            "zh-Hans": "Open Effect Controls Panel for selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.6daeb81c87",
+          "title": {
+            "en": "Reverse selected Layers in time",
+            "zh-Hans": "Reverse selected Layers in time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.1febc169ca",
+          "title": {
+            "en": "Enable time remapping for selected Layers",
+            "zh-Hans": "Enable time remapping for selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2304,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.76df162ec6",
+          "title": {
+            "en": "Move selected Layers for InPoint / OutPoint to current time",
+            "zh-Hans": "Move selected Layers for InPoint / OutPoint to current time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 0,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.34dd5caf46",
+          "title": {
+            "en": "Trim InPoint / OutPoint of selected Layers to current time",
+            "zh-Hans": "Trim InPoint / OutPoint of selected Layers to current time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 2048,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.60755b416c",
+          "title": {
+            "en": "Set InPoint or OutPoint by time-stretching (or Command Option ,)",
+            "zh-Hans": "Set InPoint or OutPoint by time-stretching (or Command Option ,)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.dd4d249062",
+          "title": {
+            "en": "Move selected Layers so that their InPoint is at beginning of Composition",
+            "zh-Hans": "Move selected Layers so that their InPoint is at beginning of Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 2048,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.cd1379fe14",
+          "title": {
+            "en": "Move selected Layers so that their OutPoint is at end of Composition",
+            "zh-Hans": "Move selected Layers so that their OutPoint is at end of Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 2048,
+            "displayKey": "End"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.751b7c39e9",
+          "title": {
+            "en": "Lock / Unlock all Layers",
+            "zh-Hans": "锁定 / 解锁 全部 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.0d4b9968b4",
+          "title": {
+            "en": "Set Quality to Best, Draft, or WireFrame for selected Layers",
+            "zh-Hans": "Set Quality to Best, Draft, or WireFrame for selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.00e97866db",
+          "title": {
+            "en": "Cycle forward / backward through blending Modes for selected Layers",
+            "zh-Hans": "Cycle forward / backward through blending Modes for selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 512,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.layers.39b17a1d87",
+          "title": {
+            "en": "Find in Timeline Panel",
+            "zh-Hans": "Find in Timeline Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel",
+      "title": {
+        "en": "Properties and Groups in Timeline Panel",
+        "zh-Hans": "Properties and Groups in Timeline面板"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.39b17a1d87",
+          "title": {
+            "en": "Find in Timeline Panel",
+            "zh-Hans": "Find in Timeline Panel"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.8ac6839b9d",
+          "title": {
+            "en": "Toggle expansion of selected Layers to show all properties",
+            "zh-Hans": "Toggle expansion of selected Layers to show all properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.6133becb68",
+          "title": {
+            "en": "Show only Anchor Point property (for lights and cameras, Point Of Interest)",
+            "zh-Hans": "Show only Anchor Point property (for lights and cameras, Point Of Interest)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 0,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.b06ed3ffc5",
+          "title": {
+            "en": "Show only Audio Levels property",
+            "zh-Hans": "Show only Audio Levels property"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 0,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.d5571b2541",
+          "title": {
+            "en": "Show only Mask Feather property",
+            "zh-Hans": "Show only Mask Feather property"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.2abc2c7008",
+          "title": {
+            "en": "Show only Mask Path property",
+            "zh-Hans": "Show only Mask Path property"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 0,
+            "displayKey": "M"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.05eae48c04",
+          "title": {
+            "en": "Show only Opacity property for lights and Intensity",
+            "zh-Hans": "Show only Opacity property for lights and Intensity"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 0,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.d6bf08e075",
+          "title": {
+            "en": "Show only Position property",
+            "zh-Hans": "Show only Position property"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 0,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.a24bf67424",
+          "title": {
+            "en": "Show only Rotation and Orientation properties",
+            "zh-Hans": "Show only Rotation and Orientation properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 0,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.6936f6c136",
+          "title": {
+            "en": "Show only Scale property",
+            "zh-Hans": "Show only Scale property"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 0,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.19b76b9437",
+          "title": {
+            "en": "Show only Time Remap property",
+            "zh-Hans": "Show only Time Remap property"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.5ea4a79c13",
+          "title": {
+            "en": "Show only instances of missing effects",
+            "zh-Hans": "Show only instances of missing effects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.490eeac22e",
+          "title": {
+            "en": "Show only Effects property group",
+            "zh-Hans": "Show only Effects property group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 0,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.bb87e73b01",
+          "title": {
+            "en": "Show only mask property groups",
+            "zh-Hans": "Show only mask property groups"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.503e98290b",
+          "title": {
+            "en": "Show only Material Options property group",
+            "zh-Hans": "Show only Material Options property group"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.61f9489c17",
+          "title": {
+            "en": "Show only expressions",
+            "zh-Hans": "显示 only expressions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.e04e27d527",
+          "title": {
+            "en": "Show only modified properties",
+            "zh-Hans": "Show only modified properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.96b94bc19c",
+          "title": {
+            "en": "Show only paint strokes, Roto Brush strokes, and Puppet pins",
+            "zh-Hans": "Show only paint strokes, Roto Brush strokes, and Puppet pins"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.7df53e69cd",
+          "title": {
+            "en": "Show only audio waveform",
+            "zh-Hans": "Show only audio waveform"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.ff828ecd5f",
+          "title": {
+            "en": "Show only properties with Keyframes or expressions",
+            "zh-Hans": "Show only properties with Keyframes or expressions"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 0,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-timeline-panel.148c278840",
+          "title": {
+            "en": "Show only selected properties and groups",
+            "zh-Hans": "Show only selected properties and groups"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.properties-and-groups-in-effects-controls-panel",
+      "title": {
+        "en": "Properties and Groups in Effects Controls Panel",
+        "zh-Hans": "Properties and Groups in Effects Controls面板"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.properties-and-groups-in-effects-controls-panel.8c9740dfcc",
+          "title": {
+            "en": "Toggle expansion of selected effects to show all properties",
+            "zh-Hans": "Toggle expansion of selected effects to show all properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 256,
+            "displayKey": "`"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.modify-layer-properties",
+      "title": {
+        "en": "Modify Layer Properties",
+        "zh-Hans": "修改图层属性"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.687203f781",
+          "title": {
+            "en": "Open Auto-Orientation dialog box for selected Layers",
+            "zh-Hans": "Open Auto-Orientation dialog box for selected Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.0f5b2f9cea",
+          "title": {
+            "en": "Open Opacity dialog box for Layers",
+            "zh-Hans": "Open Opacity dialog box for Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 768,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.f58336f91a",
+          "title": {
+            "en": "Open Rotation dialog box for Layers",
+            "zh-Hans": "Open Rotation dialog box for Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.17566f82d0",
+          "title": {
+            "en": "Open Position dialog box for Layers",
+            "zh-Hans": "Open Position dialog box for Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.bd536e0cfe",
+          "title": {
+            "en": "Center Layers in view",
+            "zh-Hans": "Center Layers in view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 256,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.fbcf258271",
+          "title": {
+            "en": "Move Layers 1 Frame earlier / later",
+            "zh-Hans": "Move Layers 1 Frame earlier / later"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 2048,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.16778ff2b8",
+          "title": {
+            "en": "Move Layers 10 Frames earlier / later",
+            "zh-Hans": "Move Layers 10 Frames earlier / later"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 2560,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.75f3c1341e",
+          "title": {
+            "en": "Scale and reposition Layers to fit Composition",
+            "zh-Hans": "Scale and reposition Layers to fit Composition"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.ceb17305f5",
+          "title": {
+            "en": "Scale and reposition Layers to fit Composition width, preserving aspect ratio",
+            "zh-Hans": "Scale and reposition Layers to fit Composition width, preserving aspect ratio"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2816,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.modify-layer-properties.fff82a121a",
+          "title": {
+            "en": "Scale and reposition Layers to fit Composition height, preserving aspect ratio",
+            "zh-Hans": "Scale and reposition Layers to fit Composition height, preserving aspect ratio"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2816,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.3d-layers",
+      "title": {
+        "en": "3D Layers",
+        "zh-Hans": "3D 图层"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.3d-layers.a40c739f2d",
+          "title": {
+            "en": "Switch to 3D view 1 (defaults to Front)",
+            "zh-Hans": "Switch to 3D view 1 (defaults to Front)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.e989b3ef3e",
+          "title": {
+            "en": "Switch to 3D view 2 (defaults to Custom View 1)",
+            "zh-Hans": "Switch to 3D view 2 (defaults to Custom View 1)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.f2c4d1c077",
+          "title": {
+            "en": "Switch to 3D view 3 (defaults to Active Camera)",
+            "zh-Hans": "Switch to 3D view 3 (defaults to Active Camera)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 111,
+            "carbonModifiers": 0,
+            "displayKey": "F12"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.cf99ba76fc",
+          "title": {
+            "en": "Return to previous view",
+            "zh-Hans": "Return to previous view"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.0a936831be",
+          "title": {
+            "en": "New Light",
+            "zh-Hans": "新建Light"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 2816,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.9d8c37a5d7",
+          "title": {
+            "en": "New Camera",
+            "zh-Hans": "新建Camera"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2816,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.f6d3659197",
+          "title": {
+            "en": "Move the camera and its point of interest to look at selected 3D Layers",
+            "zh-Hans": "Move the camera and its point of interest to look at selected 3D Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 42,
+            "carbonModifiers": 2816,
+            "displayKey": "\\"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.85d7945dc3",
+          "title": {
+            "en": "Look at selected 3D Layers (with a camera Tool selected)",
+            "zh-Hans": "Look at selected 3D Layers (with a camera Tool selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 0,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.6adecc8e65",
+          "title": {
+            "en": "Look at all 3D Layers (with a camera Tool selected)",
+            "zh-Hans": "Look at all 3D Layers (with a camera Tool selected)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.3d-layers.f9a932780c",
+          "title": {
+            "en": "Turn Casts Shadows property on / off for selected 3D Layers",
+            "zh-Hans": "Turn Casts Shadows property on / off for selected 3D Layers"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2560,
+            "displayKey": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.keyframes-and-graph-editor",
+      "title": {
+        "en": "Keyframes and Graph Editor",
+        "zh-Hans": "Keyframes and Graph编辑器"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.d1dc27d6a1",
+          "title": {
+            "en": "Toggle between Graph Editor and Layer bar Modes",
+            "zh-Hans": "Toggle between Graph Editor and Layer bar Modes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 99,
+            "carbonModifiers": 512,
+            "displayKey": "F3"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.c474e08363",
+          "title": {
+            "en": "Select all visible Keyframes and properties",
+            "zh-Hans": "Select all visible Keyframes and properties"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2304,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.3250b5d2a0",
+          "title": {
+            "en": "Deselect all Keyframes, properties, and property groups",
+            "zh-Hans": "Deselect all Keyframes, properties, and property groups"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2816,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.9fa205fa7b",
+          "title": {
+            "en": "Move Keyframe 1 Frame later / earlier",
+            "zh-Hans": "Move Keyframe 1 Frame later / earlier"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.d98f010e81",
+          "title": {
+            "en": "Move Keyframe 10 Frames later / earlier",
+            "zh-Hans": "Move Keyframe 10 Frames later / earlier"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2560,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.d11604622e",
+          "title": {
+            "en": "Set interpolation for selected Keyframes",
+            "zh-Hans": "Set interpolation for selected Keyframes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2304,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.8fc37968b4",
+          "title": {
+            "en": "Set Keyframe interpolation method to hold or Auto Bezier",
+            "zh-Hans": "Set Keyframe interpolation method to hold or Auto Bezier"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.b1c11f3be9",
+          "title": {
+            "en": "Easy ease selected Keyframes",
+            "zh-Hans": "Easy ease selected Keyframes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 0,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.59eb1999c8",
+          "title": {
+            "en": "Easy ease selected Keyframes in / out",
+            "zh-Hans": "Easy ease selected Keyframes in / out"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 101,
+            "carbonModifiers": 512,
+            "displayKey": "F9"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.keyframes-and-graph-editor.d3bdf09ad1",
+          "title": {
+            "en": "Set velocity for selected Keyframes",
+            "zh-Hans": "Set velocity for selected Keyframes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.text",
+      "title": {
+        "en": "Text",
+        "zh-Hans": "文本"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.text.7b93847c76",
+          "title": {
+            "en": "New text Layer",
+            "zh-Hans": "新建text 图层"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2816,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.715b71a85b",
+          "title": {
+            "en": "Align horizontal text Left",
+            "zh-Hans": "对齐 水平 文本 左"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.c8efb80e11",
+          "title": {
+            "en": "Align horizontal text Center",
+            "zh-Hans": "对齐 水平 文本 中心"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.9dd871ee6f",
+          "title": {
+            "en": "Align horizontal text Right align",
+            "zh-Hans": "对齐 水平 文本 右 对齐"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.1fd70a7bab",
+          "title": {
+            "en": "Align vertical text Top",
+            "zh-Hans": "对齐 垂直 文本 顶部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.14e7ff86d0",
+          "title": {
+            "en": "Align vertical text Bottom",
+            "zh-Hans": "对齐 垂直 文本 底部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.87acdfb40f",
+          "title": {
+            "en": "Extend selection one character to the right / left",
+            "zh-Hans": "Extend selection one character to the right / left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.08364c9ccb",
+          "title": {
+            "en": "Extend selection one word to right / left",
+            "zh-Hans": "Extend selection one word to right / left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 768,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.21f4f660e9",
+          "title": {
+            "en": "Extend selection one line up / down in horizontal text",
+            "zh-Hans": "Extend selection one line up / down in horizontal text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.195ee8ac10",
+          "title": {
+            "en": "Extend selection one line to the right / left in vertical text",
+            "zh-Hans": "Extend selection one line to the right / left in vertical text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 512,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.b4ddbf5f07",
+          "title": {
+            "en": "Extend selection one word up / down in vertical text",
+            "zh-Hans": "Extend selection one word up / down in vertical text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 768,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.da39b38701",
+          "title": {
+            "en": "Extend selection one character up / down in vertical text",
+            "zh-Hans": "Extend selection one character up / down in vertical text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 512,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.597475c9eb",
+          "title": {
+            "en": "Select text from insertion point to beginning / end of line",
+            "zh-Hans": "Select text from insertion point to beginning / end of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 512,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.aaa3b3cf47",
+          "title": {
+            "en": "Move cursor to beginning / end of line",
+            "zh-Hans": "Move cursor to beginning / end of line"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.7a7e39381b",
+          "title": {
+            "en": "Select text from cursor to beginning / end of text Frame",
+            "zh-Hans": "Select text from cursor to beginning / end of text Frame"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 768,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.2555d10e60",
+          "title": {
+            "en": "Turn All Caps on or off for selected text",
+            "zh-Hans": "Turn All Caps on or off for selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 768,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.f19e8428be",
+          "title": {
+            "en": "Turn Small Caps on or off for selected text",
+            "zh-Hans": "Turn Small Caps on or off for selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 2816,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.d8cf843959",
+          "title": {
+            "en": "Turn Superscript on or off for selected text",
+            "zh-Hans": "Turn Superscript on or off for selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 768,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.d9ac435500",
+          "title": {
+            "en": "Turn Subscript on or off for selected text",
+            "zh-Hans": "Turn Subscript on or off for selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 2816,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.e996b47c5d",
+          "title": {
+            "en": "Set horizontal scale to 100% for selected text",
+            "zh-Hans": "Set horizontal scale to 100% for selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 768,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.1cc085c398",
+          "title": {
+            "en": "Set vertical scale to 100% for selected text",
+            "zh-Hans": "Set vertical scale to 100% for selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 2816,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.4d5649bfde",
+          "title": {
+            "en": "Auto leading for selected text",
+            "zh-Hans": "Auto leading for selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 2816,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.b1c2aacc1d",
+          "title": {
+            "en": "Reset tracking to 0 for selected text",
+            "zh-Hans": "Reset tracking to 0 for selected text"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 4864,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.fe9b897b80",
+          "title": {
+            "en": "Justify paragraph; left align last line",
+            "zh-Hans": "Justify 段落; 左 对齐 最后一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.0def554aaa",
+          "title": {
+            "en": "Justify paragraph; right align last line",
+            "zh-Hans": "Justify 段落; 右 对齐 最后一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 2816,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.ca70d9ef6b",
+          "title": {
+            "en": "Justify paragraph; force last line",
+            "zh-Hans": "Justify 段落; force 最后一个 行"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.d07e7e153a",
+          "title": {
+            "en": "Decrease / increase font size of selected text by 2 units",
+            "zh-Hans": "Decrease / increase font size of selected text by 2 units"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 768,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.85a1b50ccb",
+          "title": {
+            "en": "Decrease / increase font size of selected text by 10 units",
+            "zh-Hans": "Decrease / increase font size of selected text by 10 units"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 2816,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.0fc3653bc9",
+          "title": {
+            "en": "Increase or decrease leading by 2 units",
+            "zh-Hans": "Increase or decrease leading by 2 units"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2048,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.16342b02e6",
+          "title": {
+            "en": "Increase or decrease leading by 10 units",
+            "zh-Hans": "Increase or decrease leading by 10 units"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2304,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.6cf30aa1ee",
+          "title": {
+            "en": "Decrease / increase baseline shift by 2 units",
+            "zh-Hans": "Decrease / increase baseline shift by 2 units"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2560,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.09b9cdcb1b",
+          "title": {
+            "en": "Decrease / increase baseline shift by 10 units",
+            "zh-Hans": "Decrease / increase baseline shift by 10 units"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 2816,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.1ed45ef821",
+          "title": {
+            "en": "Decrease / increase kerning or tracking 20 units (20/1000 ems)",
+            "zh-Hans": "Decrease / increase kerning or tracking 20 units (20/1000 ems)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.52834a2e7a",
+          "title": {
+            "en": "Decrease / increase kerning or tracking 100 units (100/1000 ems)",
+            "zh-Hans": "Decrease / increase kerning or tracking 100 units (100/1000 ems)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2304,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.text.07014389c2",
+          "title": {
+            "en": "Toggle paragraph composer",
+            "zh-Hans": "切换paragraph composer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2816,
+            "displayKey": "T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.masks",
+      "title": {
+        "en": "Masks",
+        "zh-Hans": "蒙版"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.masks.e4907cdcc1",
+          "title": {
+            "en": "New Mask",
+            "zh-Hans": "新建Mask"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.masks.9cc9e6dd46",
+          "title": {
+            "en": "Select next / previous Mask",
+            "zh-Hans": "选择next / 上一个 蒙版"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 50,
+            "carbonModifiers": 2048,
+            "displayKey": "`"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.masks.047399addf",
+          "title": {
+            "en": "Exit free-transform Mask editing Mode",
+            "zh-Hans": "Exit free-transform Mask editing Mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.masks.312d92a920",
+          "title": {
+            "en": "Invert selected Mask",
+            "zh-Hans": "Invert 所选 蒙版"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 768,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.masks.e4f211160c",
+          "title": {
+            "en": "Open Mask Feather dialog box",
+            "zh-Hans": "Open Mask Feather dialog box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.masks.83d8065a1c",
+          "title": {
+            "en": "Open Mask Shape dialog box",
+            "zh-Hans": "打开 蒙版 形状 对话框 box"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.paint-tools",
+      "title": {
+        "en": "Paint Tools",
+        "zh-Hans": "Paint工具"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.paint-tools.5b6d7519f4",
+          "title": {
+            "en": "Swap paint background and foreground colors",
+            "zh-Hans": "Swap paint background and foreground colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 0,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.paint-tools.d8e3b62a5d",
+          "title": {
+            "en": "Set paint foreground color to black and background to white",
+            "zh-Hans": "Set paint foreground color to black and background to white"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 0,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.paint-tools.8f671757c4",
+          "title": {
+            "en": "Momentarily activate Eraser Tool with Last Stroke Only option",
+            "zh-Hans": "Momentarily activate Eraser Tool with Last Stroke Only option"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 56,
+            "carbonModifiers": 768,
+            "displayKey": "56"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.paint-tools.8ad8cf6cec",
+          "title": {
+            "en": "Move earlier or later by number of Frames specified for stroke Duration",
+            "zh-Hans": "Move earlier or later by number of Frames specified for stroke Duration"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 256,
+            "displayKey": "Page Up"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.shape-layers",
+      "title": {
+        "en": "Shape Layers",
+        "zh-Hans": "形状图层"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.shape-layers.96c8b1ab26",
+          "title": {
+            "en": "Group / ungroup selected Shapes",
+            "zh-Hans": "编组 / 取消编组 所选 Shapes"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.shape-layers.c6968fef0d",
+          "title": {
+            "en": "Increase/ decrease star inner roundness",
+            "zh-Hans": "Increase/ decrease star inner roundness"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 116,
+            "carbonModifiers": 0,
+            "displayKey": "Page Up"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.shape-layers.cb0f3f3f42",
+          "title": {
+            "en": "Increase / decrease number of points for star and polygon or roundness for rounded rectangle",
+            "zh-Hans": "Increase / decrease number of points for star and polygon or roundness for rounded rectangle"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 0,
+            "displayKey": "↑"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.adobe-after-effects.saving-exporting-and-rendering",
+      "title": {
+        "en": "Saving, Exporting, and Rendering",
+        "zh-Hans": "保存、导出与渲染"
+      },
+      "items": [
+        {
+          "id": "remote.adobe-after-effects.saving-exporting-and-rendering.f489414a10",
+          "title": {
+            "en": "Save Project",
+            "zh-Hans": "存储 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.saving-exporting-and-rendering.3bf43bbf6d",
+          "title": {
+            "en": "Increment and save Project",
+            "zh-Hans": "Increment and save Project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2816,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.saving-exporting-and-rendering.25b77d706a",
+          "title": {
+            "en": "Save As",
+            "zh-Hans": "另存为"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 768,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.saving-exporting-and-rendering.c49c8a6fab",
+          "title": {
+            "en": "Add active Composition or selected items to render queue",
+            "zh-Hans": "Add active Composition or selected items to render queue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 768,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.saving-exporting-and-rendering.5afa5633be",
+          "title": {
+            "en": "Add current Frame to render queue",
+            "zh-Hans": "Add current Frame to render queue"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.adobe-after-effects.saving-exporting-and-rendering.10cfd9d19a",
+          "title": {
+            "en": "Duplicate render item with same output filename as original",
+            "zh-Hans": "Duplicate render item with same output filename as original"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        }
+      ]
+    }
+  ]
+}

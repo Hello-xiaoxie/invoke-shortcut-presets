@@ -1,0 +1,1059 @@
+{
+  "bundleIdentifier": "com.omnigroup.OmniFocus4",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.omnifocus.omnifocus-menu",
+      "title": {
+        "en": "OmniFocus Menu",
+        "zh-Hans": "OmniFocus菜单"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.omnifocus-menu.17bcf963f3",
+          "title": {
+            "en": "Preferences",
+            "zh-Hans": "偏好设置"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 43,
+            "carbonModifiers": 256,
+            "displayKey": ","
+          }
+        },
+        {
+          "id": "remote.omnifocus.omnifocus-menu.99018fd714",
+          "title": {
+            "en": "Hide OmniFocus",
+            "zh-Hans": "隐藏 OmniFocus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.omnifocus.omnifocus-menu.da4869ec1d",
+          "title": {
+            "en": "Hide Others",
+            "zh-Hans": "隐藏 Others"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 2304,
+            "displayKey": "H"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.file-menu",
+      "title": {
+        "en": "File Menu",
+        "zh-Hans": "文件菜单"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.file-menu.402bf94e2c",
+          "title": {
+            "en": "New Action",
+            "zh-Hans": "新建Action"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.omnifocus.file-menu.548e3f8f81",
+          "title": {
+            "en": "New Project",
+            "zh-Hans": "新建项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.omnifocus.file-menu.9c96ae843b",
+          "title": {
+            "en": "New Context",
+            "zh-Hans": "新建Context"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 4352,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.omnifocus.file-menu.3f8c2479ec",
+          "title": {
+            "en": "New Window",
+            "zh-Hans": "新建窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2304,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.omnifocus.file-menu.ba2c33b29a",
+          "title": {
+            "en": "Quick Open",
+            "zh-Hans": "快速打开"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.omnifocus.file-menu.8b62a9c62e",
+          "title": {
+            "en": "Close",
+            "zh-Hans": "关闭"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.omnifocus.file-menu.2207494a64",
+          "title": {
+            "en": "Synchonize with Server",
+            "zh-Hans": "Synchonize with Server"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.omnifocus.file-menu.68cb3cc6d3",
+          "title": {
+            "en": "Print",
+            "zh-Hans": "打印"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.omnifocus.file-menu.207ccd15e4",
+          "title": {
+            "en": "Page SetUp",
+            "zh-Hans": "页面 SetUp"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 768,
+            "displayKey": "P"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.edit-menu",
+      "title": {
+        "en": "Edit Menu",
+        "zh-Hans": "编辑菜单"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.edit-menu.ed7a88faad",
+          "title": {
+            "en": "Undo",
+            "zh-Hans": "撤消"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 256,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.01e40b71a0",
+          "title": {
+            "en": "Redo",
+            "zh-Hans": "恢复"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 6,
+            "carbonModifiers": 768,
+            "displayKey": "Z"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.c3bbda670e",
+          "title": {
+            "en": "Cut",
+            "zh-Hans": "剪切"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 7,
+            "carbonModifiers": 256,
+            "displayKey": "X"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.353a1a9612",
+          "title": {
+            "en": "Copy",
+            "zh-Hans": "复制"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 256,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.884509fe94",
+          "title": {
+            "en": "Paste",
+            "zh-Hans": "粘贴"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 256,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.f354904d77",
+          "title": {
+            "en": "Paste and Match Style",
+            "zh-Hans": "Paste and Match Style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2816,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.29b0c67295",
+          "title": {
+            "en": "Remove Selected Items",
+            "zh-Hans": "移除Selected Items"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 0,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.83dfed0611",
+          "title": {
+            "en": "Select All",
+            "zh-Hans": "全选"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 256,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.250fe050c9",
+          "title": {
+            "en": "DeSelect All",
+            "zh-Hans": "DeSelect 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 0,
+            "carbonModifiers": 768,
+            "displayKey": "A"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.cbbe72094e",
+          "title": {
+            "en": "Duplicate",
+            "zh-Hans": "创建副本"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.42e9dae451",
+          "title": {
+            "en": "Edit Note",
+            "zh-Hans": "编辑 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.960e4106e7",
+          "title": {
+            "en": "Convert to Project",
+            "zh-Hans": "Convert to Project"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.148e640c0b",
+          "title": {
+            "en": "Mark Reviewed",
+            "zh-Hans": "Mark Reviewed"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.omnifocus.edit-menu.e9f741cf6f",
+          "title": {
+            "en": "Set/Clear Flag",
+            "zh-Hans": "Set/Clear Flag"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 768,
+            "displayKey": "L"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.find",
+      "title": {
+        "en": "Find",
+        "zh-Hans": "查找"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.find.72703d7537",
+          "title": {
+            "en": "Find",
+            "zh-Hans": "查找"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.omnifocus.find.fae93cd9b2",
+          "title": {
+            "en": "Find Previous",
+            "zh-Hans": "查找 上一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.omnifocus.find.bd72d08176",
+          "title": {
+            "en": "Find Next",
+            "zh-Hans": "查找 下一个"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.omnifocus.find.c2996f1225",
+          "title": {
+            "en": "Go to Search Field",
+            "zh-Hans": "Go to Search Field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2304,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.omnifocus.find.864a627bcb",
+          "title": {
+            "en": "Use Selection to Find",
+            "zh-Hans": "Use Selection to Find"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 14,
+            "carbonModifiers": 256,
+            "displayKey": "E"
+          }
+        },
+        {
+          "id": "remote.omnifocus.find.9d135fc5b0",
+          "title": {
+            "en": "Jump to Selection",
+            "zh-Hans": "跳转到Selection"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.spelling",
+      "title": {
+        "en": "Spelling",
+        "zh-Hans": "拼写检查"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.spelling.413f11baea",
+          "title": {
+            "en": "Show/Hide Spelling and Grammer",
+            "zh-Hans": "Show/Hide Spelling and Grammer"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.omnifocus.spelling.217a08bd9d",
+          "title": {
+            "en": "Check Spelling",
+            "zh-Hans": "Check Spelling"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.other-shorcuts",
+      "title": {
+        "en": "Other Shorcuts",
+        "zh-Hans": "其他快捷键"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.other-shorcuts.fc43de6043",
+          "title": {
+            "en": "Start Dictaction",
+            "zh-Hans": "开始 Dictaction"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 0,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.omnifocus.other-shorcuts.0a725ea4ff",
+          "title": {
+            "en": "Special Characters",
+            "zh-Hans": "Special Characters"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 4352,
+            "displayKey": "Space"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.organize-menu",
+      "title": {
+        "en": "Organize Menu",
+        "zh-Hans": "Organize菜单"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.organize-menu.37cb378e2b",
+          "title": {
+            "en": "Clean Up",
+            "zh-Hans": "Clean 上"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.5e19f4797d",
+          "title": {
+            "en": "Add Inside",
+            "zh-Hans": "添加Inside"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 768,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.cf26b13464",
+          "title": {
+            "en": "Add Outside",
+            "zh-Hans": "添加Outside"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 768,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.5632ef9c17",
+          "title": {
+            "en": "Move Down",
+            "zh-Hans": "移动Down"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 125,
+            "carbonModifiers": 4352,
+            "displayKey": "↓"
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.42c81d22ae",
+          "title": {
+            "en": "Move Right",
+            "zh-Hans": "移动Right"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4352,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.059cb4bac1",
+          "title": {
+            "en": "Move Left",
+            "zh-Hans": "移动Left"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 4352,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.6d13e06628",
+          "title": {
+            "en": "Move Up",
+            "zh-Hans": "移动Up"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 126,
+            "carbonModifiers": 4352,
+            "displayKey": "↑"
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.0734eb1cce",
+          "title": {
+            "en": "Indent",
+            "zh-Hans": "缩进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 30,
+            "carbonModifiers": 256,
+            "displayKey": "30"
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.9174a0ba61",
+          "title": {
+            "en": "Outdent",
+            "zh-Hans": "减少缩进"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 33,
+            "carbonModifiers": 256,
+            "displayKey": "["
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.ea2d7dea57",
+          "title": {
+            "en": "Group",
+            "zh-Hans": "编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 2304,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.omnifocus.organize-menu.2ec644d64a",
+          "title": {
+            "en": "Ungroup",
+            "zh-Hans": "取消编组"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 2304,
+            "displayKey": "U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.view-menu",
+      "title": {
+        "en": "View Menu",
+        "zh-Hans": "视图菜单"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.view-menu.e8554ee219",
+          "title": {
+            "en": "Collpase Item",
+            "zh-Hans": "Collpase 项目"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.74e5c00ade",
+          "title": {
+            "en": "Expand Item",
+            "zh-Hans": "展开Item"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.698b42f91f",
+          "title": {
+            "en": "Expand All",
+            "zh-Hans": "展开All"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 4352,
+            "displayKey": "9"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.c92666d149",
+          "title": {
+            "en": "Collpase All",
+            "zh-Hans": "Collpase 全部"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 4352,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.b94fd6cdb2",
+          "title": {
+            "en": "Show/Hide All Notes",
+            "zh-Hans": "显示/隐藏 全部 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 4352,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.142f3ed267",
+          "title": {
+            "en": "Show/Hide Notes",
+            "zh-Hans": "显示/隐藏 笔记"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 2304,
+            "displayKey": ""
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.21f4edd421",
+          "title": {
+            "en": "Focus on Selected Projects/Unfocus",
+            "zh-Hans": "Focus on Selected Projects/Unfocus"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 768,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.64836e5a60",
+          "title": {
+            "en": "Show in Projects/Contexts",
+            "zh-Hans": "Show in Projects/Contexts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 2304,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.c17ec757c7",
+          "title": {
+            "en": "Show/Hide Sidebars",
+            "zh-Hans": "显示/隐藏 Sidebars"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 2304,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.772f981d7d",
+          "title": {
+            "en": "Show/Hide Inspector",
+            "zh-Hans": "显示/隐藏检查器"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 2304,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.ccbdbd0546",
+          "title": {
+            "en": "Go to Sidebar",
+            "zh-Hans": "转到Sidebar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 2304,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.c78d8b0113",
+          "title": {
+            "en": "Go to Outline",
+            "zh-Hans": "转到Outline"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 2304,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.1f1e66b1be",
+          "title": {
+            "en": "Go to Inspector",
+            "zh-Hans": "转到Inspector"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 2304,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.4c872e5252",
+          "title": {
+            "en": "Show/Hide View Options",
+            "zh-Hans": "显示/隐藏 视图 Options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 768,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.omnifocus.view-menu.fc2222e21f",
+          "title": {
+            "en": "Enter/Exit Full Screen",
+            "zh-Hans": "Enter/Exit 全屏"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 4352,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.perspectives-menu",
+      "title": {
+        "en": "Perspectives Menu",
+        "zh-Hans": "Perspectives菜单"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.perspectives-menu.9bc0e50431",
+          "title": {
+            "en": "Show Perspectives",
+            "zh-Hans": "显示 Perspectives"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 4352,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.omnifocus.perspectives-menu.9b4a844fb7",
+          "title": {
+            "en": "Inbox",
+            "zh-Hans": "Inbox"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.omnifocus.perspectives-menu.510da51af9",
+          "title": {
+            "en": "Projects",
+            "zh-Hans": "Projects"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.omnifocus.perspectives-menu.2490c053b1",
+          "title": {
+            "en": "Contexts",
+            "zh-Hans": "Contexts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.omnifocus.perspectives-menu.fac76bd585",
+          "title": {
+            "en": "Forecast",
+            "zh-Hans": "Forecast"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.omnifocus.perspectives-menu.341fe6978c",
+          "title": {
+            "en": "Flagged",
+            "zh-Hans": "Flagged"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.omnifocus.perspectives-menu.30848871d2",
+          "title": {
+            "en": "Review",
+            "zh-Hans": "Review"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.format-menu",
+      "title": {
+        "en": "Format Menu",
+        "zh-Hans": "格式菜单"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.format-menu.b0b674b74a",
+          "title": {
+            "en": "Coup Style",
+            "zh-Hans": "Coup 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 2304,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.omnifocus.format-menu.3b10406511",
+          "title": {
+            "en": "Paste Style",
+            "zh-Hans": "粘贴 样式"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 9,
+            "carbonModifiers": 2304,
+            "displayKey": "V"
+          }
+        },
+        {
+          "id": "remote.omnifocus.format-menu.9e5169595e",
+          "title": {
+            "en": "Clear Style",
+            "zh-Hans": "清除Style"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 4352,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.omnifocus.format-menu.3f3189f1c8",
+          "title": {
+            "en": "Show/Hide Fonts",
+            "zh-Hans": "显示/隐藏 Fonts"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.omnifocus.format-menu.1ab9505fdf",
+          "title": {
+            "en": "Show/Hide Colors",
+            "zh-Hans": "显示/隐藏 Colors"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 8,
+            "carbonModifiers": 768,
+            "displayKey": "C"
+          }
+        },
+        {
+          "id": "remote.omnifocus.format-menu.06e14ba6de",
+          "title": {
+            "en": "Bold",
+            "zh-Hans": "加粗"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 256,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.omnifocus.format-menu.5760178660",
+          "title": {
+            "en": "Italic",
+            "zh-Hans": "斜体"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 34,
+            "carbonModifiers": 256,
+            "displayKey": "I"
+          }
+        },
+        {
+          "id": "remote.omnifocus.format-menu.e9b85c2f0a",
+          "title": {
+            "en": "Underline",
+            "zh-Hans": "下划线"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.omnifocus.format-menu.080f1d99ce",
+          "title": {
+            "en": "Zoom in/Zoom out",
+            "zh-Hans": "放大/缩小"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 65535,
+            "carbonModifiers": 256,
+            "displayKey": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.omnifocus.window-menu",
+      "title": {
+        "en": "Window Menu",
+        "zh-Hans": "窗口菜单"
+      },
+      "items": [
+        {
+          "id": "remote.omnifocus.window-menu.3179cd0bc7",
+          "title": {
+            "en": "Minimize Window",
+            "zh-Hans": "最小化 窗口"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 256,
+            "displayKey": "M"
+          }
+        }
+      ]
+    }
+  ]
+}

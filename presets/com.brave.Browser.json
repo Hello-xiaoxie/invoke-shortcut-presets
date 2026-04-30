@@ -1,0 +1,876 @@
+{
+  "bundleIdentifier": "com.brave.Browser",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "zh-Hans"
+    ]
+  },
+  "categories": [
+    {
+      "id": "remote.brave.window-and-tab-management",
+      "title": {
+        "en": "Window and Tab Management",
+        "zh-Hans": "窗口与标签页管理"
+      },
+      "items": [
+        {
+          "id": "remote.brave.window-and-tab-management.f0c679e91c",
+          "title": {
+            "en": "open a new window",
+            "zh-Hans": "open a new window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 256,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.d9ee57abf7",
+          "title": {
+            "en": "open a new window in private mode",
+            "zh-Hans": "open a new window in private mode"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 768,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.86043cf5b8",
+          "title": {
+            "en": "open a new tab, and jump to it",
+            "zh-Hans": "open a new tab, and jump to it"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 256,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.3a72228465",
+          "title": {
+            "en": "reopen the last closed tab, and jump to it",
+            "zh-Hans": "reopen the last closed tab, and jump to it"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 768,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.e2cb0b0a23",
+          "title": {
+            "en": "jump to the next open tab",
+            "zh-Hans": "jump to the next open tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 256,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.319e0a2c39",
+          "title": {
+            "en": "jump to the previous open tab",
+            "zh-Hans": "jump to the previous open tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 768,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.590df56b59",
+          "title": {
+            "en": "jump to tab 1",
+            "zh-Hans": "jump to tab 1"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 18,
+            "carbonModifiers": 256,
+            "displayKey": "1"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.d3a91ee28f",
+          "title": {
+            "en": "jump to tab 2",
+            "zh-Hans": "jump to tab 2"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 19,
+            "carbonModifiers": 256,
+            "displayKey": "2"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.cfcadef1c0",
+          "title": {
+            "en": "jump to tab 3",
+            "zh-Hans": "jump to tab 3"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 20,
+            "carbonModifiers": 256,
+            "displayKey": "3"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.a59baa0f5b",
+          "title": {
+            "en": "jump to tab 4",
+            "zh-Hans": "jump to tab 4"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 21,
+            "carbonModifiers": 256,
+            "displayKey": "4"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.e7274d405d",
+          "title": {
+            "en": "jump to tab 5",
+            "zh-Hans": "jump to tab 5"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 23,
+            "carbonModifiers": 256,
+            "displayKey": "5"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.b5c6e531b8",
+          "title": {
+            "en": "jump to tab 6",
+            "zh-Hans": "jump to tab 6"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 22,
+            "carbonModifiers": 256,
+            "displayKey": "6"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.1f954b97af",
+          "title": {
+            "en": "jump to tab 7",
+            "zh-Hans": "jump to tab 7"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 26,
+            "carbonModifiers": 256,
+            "displayKey": "7"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.9db94493e2",
+          "title": {
+            "en": "jump to tab 8",
+            "zh-Hans": "jump to tab 8"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 28,
+            "carbonModifiers": 256,
+            "displayKey": "8"
+          }
+        },
+        {
+          "id": "remote.brave.window-and-tab-management.f13da1b899",
+          "title": {
+            "en": "jump to the last tab",
+            "zh-Hans": "jump to the last tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 25,
+            "carbonModifiers": 256,
+            "displayKey": "9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.brave.page-navigation",
+      "title": {
+        "en": "Page navigation",
+        "zh-Hans": "页面导航"
+      },
+      "items": [
+        {
+          "id": "remote.brave.page-navigation.c69d145de7",
+          "title": {
+            "en": "open your home page in the current tab",
+            "zh-Hans": "open your home page in the current tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 2048,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.87e9d2c8f9",
+          "title": {
+            "en": "open the previous page from your browsing history in the current tab",
+            "zh-Hans": "open the previous page from your browsing history in the current tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 256,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.b4ebe54ec8",
+          "title": {
+            "en": "open the next page from your browsing history in the current tab",
+            "zh-Hans": "open the next page from your browsing history in the current tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 2048,
+            "displayKey": "→"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.f1c9a928fe",
+          "title": {
+            "en": "close the current tab",
+            "zh-Hans": "close the current tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 256,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.c1f5cb97a8",
+          "title": {
+            "en": "close the current window",
+            "zh-Hans": "close the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 13,
+            "carbonModifiers": 768,
+            "displayKey": "W"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.fda44fd3d8",
+          "title": {
+            "en": "minimize the current window",
+            "zh-Hans": "minimize the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2048,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.8885ef1d03",
+          "title": {
+            "en": "maximize the current window",
+            "zh-Hans": "maximize the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 45,
+            "carbonModifiers": 2048,
+            "displayKey": "N"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.23470d6f47",
+          "title": {
+            "en": "close the current window",
+            "zh-Hans": "close the current window"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 118,
+            "carbonModifiers": 2048,
+            "displayKey": "F4"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.1f7b1718c4",
+          "title": {
+            "en": "quit brave",
+            "zh-Hans": "退出 brave"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 12,
+            "carbonModifiers": 768,
+            "displayKey": "Q"
+          }
+        },
+        {
+          "id": "remote.brave.page-navigation.5c5e52aee3",
+          "title": {
+            "en": "open the main menu",
+            "zh-Hans": "open the main menu"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 2048,
+            "displayKey": "F"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.brave.history-and-bookmarks",
+      "title": {
+        "en": "History and bookmarks",
+        "zh-Hans": "历史与书签"
+      },
+      "items": [
+        {
+          "id": "remote.brave.history-and-bookmarks.554d2401f8",
+          "title": {
+            "en": "show or hide the bookmarks bar",
+            "zh-Hans": "show or hide the bookmarks bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 11,
+            "carbonModifiers": 768,
+            "displayKey": "B"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.c0c21e7763",
+          "title": {
+            "en": "open the history page in a new tab",
+            "zh-Hans": "open the history page in a new tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 4,
+            "carbonModifiers": 256,
+            "displayKey": "H"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.2406ff345b",
+          "title": {
+            "en": "open the downloads page in a new tab",
+            "zh-Hans": "open the downloads page in a new tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 256,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.d06fba05f8",
+          "title": {
+            "en": "open the brave task manager",
+            "zh-Hans": "open the brave task manager"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 512,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.537e3f8eb7",
+          "title": {
+            "en": "set focus on the first item in the toolbar",
+            "zh-Hans": "set focus on the first item in the toolbar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 17,
+            "carbonModifiers": 2560,
+            "displayKey": "T"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.787fcb0d0a",
+          "title": {
+            "en": "set focus on the last item in the toolbar",
+            "zh-Hans": "set focus on the last item in the toolbar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 109,
+            "carbonModifiers": 0,
+            "displayKey": "F10"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.345df7aa0f",
+          "title": {
+            "en": "switch focus to unfocused dialog, if showing",
+            "zh-Hans": "switch focus to unfocused dialog, if showing"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 97,
+            "carbonModifiers": 0,
+            "displayKey": "F6"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.e47e045096",
+          "title": {
+            "en": "open the find bar to search the current page",
+            "zh-Hans": "open the find bar to search the current page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 3,
+            "carbonModifiers": 256,
+            "displayKey": "F"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.04d560249a",
+          "title": {
+            "en": "jump to the next match in your find bar search",
+            "zh-Hans": "jump to the next match in your find bar search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 256,
+            "displayKey": "G"
+          }
+        },
+        {
+          "id": "remote.brave.history-and-bookmarks.29a5279bd5",
+          "title": {
+            "en": "jump to the previous match in your find bar search",
+            "zh-Hans": "jump to the previous match in your find bar search"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 5,
+            "carbonModifiers": 768,
+            "displayKey": "G"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.brave.developer-tools",
+      "title": {
+        "en": "Developer tools",
+        "zh-Hans": "开发者工具"
+      },
+      "items": [
+        {
+          "id": "remote.brave.developer-tools.94b228f2e3",
+          "title": {
+            "en": "open developer tools",
+            "zh-Hans": "打开 开发者工具"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 38,
+            "carbonModifiers": 768,
+            "displayKey": "J"
+          }
+        },
+        {
+          "id": "remote.brave.developer-tools.83a96ff031",
+          "title": {
+            "en": "open the clear browser data options",
+            "zh-Hans": "open the clear browser data options"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 768,
+            "displayKey": "⌫"
+          }
+        },
+        {
+          "id": "remote.brave.developer-tools.cc72ffb564",
+          "title": {
+            "en": "open the brave help center in a new tab",
+            "zh-Hans": "open the brave help center in a new tab"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 122,
+            "carbonModifiers": 0,
+            "displayKey": "F1"
+          }
+        },
+        {
+          "id": "remote.brave.developer-tools.19a88d9693",
+          "title": {
+            "en": "open profile menu",
+            "zh-Hans": "打开 profile 菜单"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 46,
+            "carbonModifiers": 768,
+            "displayKey": "M"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.brave.search-and-address-bar",
+      "title": {
+        "en": "Search and address bar",
+        "zh-Hans": "搜索 and address bar"
+      },
+      "items": [
+        {
+          "id": "remote.brave.search-and-address-bar.6e584ca450",
+          "title": {
+            "en": "search with your default search engine (after typing)",
+            "zh-Hans": "search with your default search engine (after typing)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 0,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.brave.search-and-address-bar.a07c62e429",
+          "title": {
+            "en": "search using a different search engine (after typing) / browse clickable items moving forward",
+            "zh-Hans": "search using a different search engine (after typing) / browse clickable items moving forward"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 0,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.brave.search-and-address-bar.0ebbae4d90",
+          "title": {
+            "en": "add www. and .com to a site name, and open it in the current tab (after typing)",
+            "zh-Hans": "add www. and .com to a site name, and open it in the current tab (after typing)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 256,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.brave.search-and-address-bar.5dcc9d0d3c",
+          "title": {
+            "en": "open a new tab and perform a search (after typing)",
+            "zh-Hans": "open a new tab and perform a search (after typing)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 36,
+            "carbonModifiers": 2048,
+            "displayKey": "36"
+          }
+        },
+        {
+          "id": "remote.brave.search-and-address-bar.a0d4ca9671",
+          "title": {
+            "en": "jump to the address bar",
+            "zh-Hans": "jump to the address bar"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 37,
+            "carbonModifiers": 256,
+            "displayKey": "L"
+          }
+        },
+        {
+          "id": "remote.brave.search-and-address-bar.464f872436",
+          "title": {
+            "en": "search from anywhere on the page",
+            "zh-Hans": "search from anywhere on the page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 40,
+            "carbonModifiers": 256,
+            "displayKey": "K"
+          }
+        },
+        {
+          "id": "remote.brave.search-and-address-bar.ecc9e0373d",
+          "title": {
+            "en": "remove predictions from your address bar (after highlighting them)",
+            "zh-Hans": "remove predictions from your address bar (after highlighting them)"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 51,
+            "carbonModifiers": 512,
+            "displayKey": "⌫"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.brave.viewing-and-printing",
+      "title": {
+        "en": "Viewing and printing",
+        "zh-Hans": "查看与打印"
+      },
+      "items": [
+        {
+          "id": "remote.brave.viewing-and-printing.1d3e096ea9",
+          "title": {
+            "en": "open options to print the current page",
+            "zh-Hans": "open options to print the current page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 35,
+            "carbonModifiers": 256,
+            "displayKey": "P"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.2f2b0091b8",
+          "title": {
+            "en": "open options to save the current page",
+            "zh-Hans": "open options to save the current page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 1,
+            "carbonModifiers": 256,
+            "displayKey": "S"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.e4d79f4b38",
+          "title": {
+            "en": "reload the current page",
+            "zh-Hans": "reload the current page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 256,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.02ed7659b1",
+          "title": {
+            "en": "reload the current page, ignoring cached content",
+            "zh-Hans": "reload the current page, ignoring cached content"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 15,
+            "carbonModifiers": 768,
+            "displayKey": "R"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.472a1913ee",
+          "title": {
+            "en": "stop the page loading",
+            "zh-Hans": "stop the page loading"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 53,
+            "carbonModifiers": 0,
+            "displayKey": "⎋"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.34a94e1531",
+          "title": {
+            "en": "browse clickable items moving backwards",
+            "zh-Hans": "browse clickable items moving backwards"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 48,
+            "carbonModifiers": 512,
+            "displayKey": "⇥"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.2d2b5e2729",
+          "title": {
+            "en": "open a file from your computer in brave",
+            "zh-Hans": "open a file from your computer in brave"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 31,
+            "carbonModifiers": 256,
+            "displayKey": "O"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.15f5f00141",
+          "title": {
+            "en": "display non-editable html source code for the current page",
+            "zh-Hans": "display non-editable html source code for the current page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 32,
+            "carbonModifiers": 256,
+            "displayKey": "U"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.35b6ed3815",
+          "title": {
+            "en": "save your current webpage as a bookmark",
+            "zh-Hans": "save your current webpage as a bookmark"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 256,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.e19c4dd948",
+          "title": {
+            "en": "save all open tabs as bookmarks in a new folder",
+            "zh-Hans": "save all open tabs as bookmarks in a new folder"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 2,
+            "carbonModifiers": 768,
+            "displayKey": "D"
+          }
+        },
+        {
+          "id": "remote.brave.viewing-and-printing.353cbef9c6",
+          "title": {
+            "en": "turn full-screen mode on or off",
+            "zh-Hans": "turn full-screen mode on or off"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 103,
+            "carbonModifiers": 0,
+            "displayKey": "F11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.brave.zoom-and-scroll",
+      "title": {
+        "en": "Zoom and scroll",
+        "zh-Hans": "缩放与滚动"
+      },
+      "items": [
+        {
+          "id": "remote.brave.zoom-and-scroll.3437d66423",
+          "title": {
+            "en": "make everything on the page bigger",
+            "zh-Hans": "make everything on the page bigger"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 24,
+            "carbonModifiers": 256,
+            "displayKey": "="
+          }
+        },
+        {
+          "id": "remote.brave.zoom-and-scroll.a41ef1ba35",
+          "title": {
+            "en": "make everything on the page smaller",
+            "zh-Hans": "make everything on the page smaller"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 27,
+            "carbonModifiers": 256,
+            "displayKey": "-"
+          }
+        },
+        {
+          "id": "remote.brave.zoom-and-scroll.5e8db874df",
+          "title": {
+            "en": "return everything on the page to default size",
+            "zh-Hans": "return everything on the page to default size"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 29,
+            "carbonModifiers": 256,
+            "displayKey": "0"
+          }
+        },
+        {
+          "id": "remote.brave.zoom-and-scroll.13184e8da3",
+          "title": {
+            "en": "scroll down a webpage, a screen at a time",
+            "zh-Hans": "scroll down a webpage, a screen at a time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 0,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.brave.zoom-and-scroll.5f2f014d1c",
+          "title": {
+            "en": "scroll up a webpage, a screen at a time",
+            "zh-Hans": "scroll up a webpage, a screen at a time"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 49,
+            "carbonModifiers": 512,
+            "displayKey": "Space"
+          }
+        },
+        {
+          "id": "remote.brave.zoom-and-scroll.803593eff5",
+          "title": {
+            "en": "go to the top of the page",
+            "zh-Hans": "go to the top of the page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 115,
+            "carbonModifiers": 0,
+            "displayKey": "Home"
+          }
+        },
+        {
+          "id": "remote.brave.zoom-and-scroll.afda401d46",
+          "title": {
+            "en": "go to the bottom of the page",
+            "zh-Hans": "go to the bottom of the page"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 119,
+            "carbonModifiers": 0,
+            "displayKey": "End"
+          }
+        }
+      ]
+    },
+    {
+      "id": "remote.brave.text-navigation",
+      "title": {
+        "en": "Text navigation",
+        "zh-Hans": "文本导航"
+      },
+      "items": [
+        {
+          "id": "remote.brave.text-navigation.f8687e408b",
+          "title": {
+            "en": "move your cursor to the front of the previous word in a text field",
+            "zh-Hans": "move your cursor to the front of the previous word in a text field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 123,
+            "carbonModifiers": 2048,
+            "displayKey": "←"
+          }
+        },
+        {
+          "id": "remote.brave.text-navigation.2b59465b56",
+          "title": {
+            "en": "move your cursor to the back of the next word in a text field",
+            "zh-Hans": "move your cursor to the back of the next word in a text field"
+          },
+          "shortcutConfiguration": {
+            "keyCode": 124,
+            "carbonModifiers": 256,
+            "displayKey": "→"
+          }
+        }
+      ]
+    }
+  ]
+}
