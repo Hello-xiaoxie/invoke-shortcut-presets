@@ -1,0 +1,327 @@
+{
+  "app.rive.editor": [
+    "remote.rive.editor.fa1f914ea0",
+    "remote.rive.editor.e437c3fcf0",
+    "remote.rive.editor.2100bf62c3",
+    "remote.rive.editor.cbbe72094e",
+    "remote.rive.editor.ec560f01bc",
+    "remote.rive.hierarchy.f438823733"
+  ],
+  "com.adobe.AfterEffects": [
+    "remote.adobe-after-effects.projects.ff4d559836",
+    "remote.adobe-after-effects.projects.2d95d9e8fb",
+    "remote.adobe-after-effects.projects.bd3853cf8b",
+    "remote.adobe-after-effects.compositions-and-work-area.aa2c0f670a",
+    "remote.adobe-after-effects.panels-viewers-workspaces-and-windows.c02626dfa8",
+    "remote.adobe-after-effects.basics.82365755bc"
+  ],
+  "com.adobe.InDesign": [
+    "remote.adobe-indesign.file-menu-shortcuts.0b78e0dc5a",
+    "remote.adobe-indesign.file-menu-shortcuts.c7879f2087",
+    "remote.adobe-indesign.edit-menu-shortcuts.d851f7f269",
+    "remote.adobe-indesign.file-menu-shortcuts.b59d332d1b",
+    "remote.adobe-indesign.file-menu-shortcuts.57b5c5f63f",
+    "remote.adobe-indesign.layout-menu-shortcuts.8ec1d7804e"
+  ],
+  "com.adobe.Photoshop": [
+    "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.d6a6bca433",
+    "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.03badedde4",
+    "remote.adobe-photoshop.liquify-window.89b95040ca",
+    "remote.adobe-photoshop.curves-dialog-box.4dd7e83cf3",
+    "remote.adobe-photoshop.manage-panels.d4353f4b26",
+    "remote.adobe-photoshop.manage-views.84fdf38252"
+  ],
+  "com.adobe.illustrator": [
+    "remote.adobe-illustrator.function-keys.df219a4301",
+    "remote.adobe-illustrator.function-keys.4048ee48fd",
+    "remote.adobe-illustrator.function-keys.e78dbbfa80",
+    "remote.adobe-illustrator.viewing-artwork.be68858bbf",
+    "remote.adobe-illustrator.function-keys.c4f6943285",
+    "remote.adobe-illustrator.function-keys.fac91bf462"
+  ],
+  "com.apple.FinalCut": [
+    "remote.final-cut-pro.file.2de243e436",
+    "remote.final-cut-pro.project.ce6109e81b",
+    "remote.final-cut-pro.project.bb62ab0612",
+    "remote.final-cut-pro.project.0dc5ae8596",
+    "remote.final-cut-pro.finding-items.6205267520",
+    "remote.final-cut-pro.application-window.a68c231fed"
+  ],
+  "com.apple.Safari": [
+    "remote.safari.reopen-tab",
+    "remote.safari.smart-search",
+    "remote.safari.find-page",
+    "remote.safari.reader",
+    "remote.safari.toggle-bookmarks",
+    "remote.safari.reopen-window"
+  ],
+  "com.apple.dt.Xcode": [
+    "remote.xcode.file-navigation.0407db33e7",
+    "remote.xcode.code-navigation.9a42a8bb74",
+    "remote.xcode.build-and-run.586df9267f",
+    "remote.xcode.build-and-run.7f6a2a6893",
+    "remote.xcode.other-shortcuts.000cae775d",
+    "remote.xcode.code-editing.469cf5dddd"
+  ],
+  "com.apple.garageband10": [
+    "remote.garageband.general-shortcuts.f0c81d3246",
+    "remote.garageband.general-shortcuts.340f68fc1b",
+    "remote.garageband.display-objects.36f39c39df",
+    "remote.garageband.general-shortcuts.4af740e966",
+    "remote.garageband.misellaneous-shortcuts.58d5666db6",
+    "remote.garageband.display-objects.6b39f518c5"
+  ],
+  "com.apple.iMovieApp": [
+    "remote.imovie.import-and-export-shortcuts.ed83345e87",
+    "remote.imovie.manage-events-and-projects.951b06c87a",
+    "remote.imovie.video-edit.b1088a8905",
+    "remote.imovie.imovie-window.903b211bcb",
+    "remote.imovie.import-and-export-shortcuts.d6b8343667",
+    "remote.imovie.video-edit.75278b5f0e"
+  ],
+  "com.apple.iWork.Keynote": [
+    "remote.apple-keynote.slideshow.fc5ed75b8c",
+    "remote.apple-keynote.general-shortcuts.f31d00ae6b",
+    "remote.apple-keynote.general-shortcuts.b42d98caa0",
+    "remote.apple-keynote.general-shortcuts.f46e8af777",
+    "remote.apple-keynote.general-shortcuts.d96fe0fc41",
+    "remote.apple-keynote.chart-data-editor.bcc4edc2d0"
+  ],
+  "com.apple.iWork.Numbers": [
+    "remote.apple-numbers.general-shortcuts.12879dc75b",
+    "remote.apple-numbers.general-shortcuts.d5321ec2fa",
+    "remote.apple-numbers.general-shortcuts.cf6943bb40",
+    "remote.apple-numbers.general-shortcuts.2aff29f092",
+    "remote.apple-numbers.general-shortcuts.ecc25eb852",
+    "remote.apple-numbers.general-shortcuts.0bfc68db58"
+  ],
+  "com.apple.iWork.Pages": [
+    "remote.apple-pages.formatting-text.5af181712e",
+    "remote.apple-pages.general.473b77c350",
+    "remote.apple-pages.general.f060013be8",
+    "remote.apple-pages.formatting-text.5239212f9a",
+    "remote.apple-pages.general.50086adec1",
+    "remote.apple-pages.manipulating-fixed-objects.6aa7c41062"
+  ],
+  "com.apple.logic10": [
+    "remote.logic-pro.general-controls.8297440c2b",
+    "remote.logic-pro.general-controls.90b15e00eb",
+    "remote.logic-pro.general-controls.18354d435c",
+    "remote.logic-pro.main-window.61c437598b",
+    "remote.logic-pro.general-controls.521ddc4163",
+    "remote.logic-pro.general-controls.83f44969ce"
+  ],
+  "com.browsercompany.dia": [
+    "remote.dia.file.ad7f2396de",
+    "remote.dia.file.1ecfbaaf7a",
+    "remote.dia.file.0f7146ee1f",
+    "remote.dia.edit.72703d7537",
+    "remote.dia.view.a6ada6f496",
+    "remote.dia.tabs.669613900f"
+  ],
+  "com.cursor.Cursor": [
+    "remote.cursor.open-chat",
+    "remote.cursor.gen-ai",
+    "remote.cursor.cmd-palette",
+    "remote.cursor.find-files",
+    "remote.cursor.terminal",
+    "remote.cursor.go-file"
+  ],
+  "com.figma.Desktop": [
+    "remote.figma.create-component",
+    "remote.figma.export",
+    "remote.figma.rename-selection",
+    "remote.figma.team-library",
+    "remote.figma.place-image",
+    "remote.figma.duplicate"
+  ],
+  "com.google.Chrome": [
+    "remote.chrome.new-tab",
+    "remote.chrome.reopen-tab",
+    "remote.chrome.focus-omnibox",
+    "remote.chrome.devtools",
+    "remote.chrome.downloads",
+    "remote.chrome.print"
+  ],
+  "com.google.android.studio": [
+    "remote.android-studio.navigating-and-searching.f6370a3a00",
+    "remote.android-studio.navigating-and-searching.b36717c7bb",
+    "remote.android-studio.build-and-run.1358b6570e",
+    "remote.android-studio.writing-code.d2085e5f54",
+    "remote.android-studio.writing-code.a14e63d3db",
+    "remote.android-studio.writing-code.f53274747f"
+  ],
+  "com.jetbrains.PyCharm": [
+    "remote.pycharm.search.eb76dc0b06",
+    "remote.pycharm.search.f3971cf25f",
+    "remote.pycharm.refactoring.5de98fb942",
+    "remote.pycharm.show-tool-windows.a63ed298a0",
+    "remote.pycharm.views-and-windows.2ccc71bc2c",
+    "remote.pycharm.search.9ae1ab857c"
+  ],
+  "com.jetbrains.intellij": [
+    "remote.intellij-idea.find-and-replace-shortcuts.f3971cf25f",
+    "remote.intellij-idea.general-shortcuts.eb76dc0b06",
+    "remote.intellij-idea.editing-shortcuts.bb6da74a59",
+    "remote.intellij-idea.navigation-shortcuts.dd7430f511",
+    "remote.intellij-idea.general-shortcuts.69b4726738",
+    "remote.intellij-idea.usage-shortcuts.9889099428"
+  ],
+  "com.lukilabs.lukiapp": [
+    "remote.craft.search.dd8c00e4c1",
+    "remote.craft.new-document.341cd77dc9",
+    "remote.craft.decorations.64cc5ff7eb",
+    "remote.craft.grouping.135632afca",
+    "remote.craft.editing.fffd235097",
+    "remote.craft.toggles.da91d29273"
+  ],
+  "com.microsoft.Excel": [
+    "remote.excel.frequently-used-shortcuts.8bd109e1f4",
+    "remote.excel.frequently-used-shortcuts.892e4f1aca",
+    "remote.excel.frequently-used-shortcuts.5b6eceeb05",
+    "remote.excel.frequently-used-shortcuts.aa00ae78d5"
+  ],
+  "com.microsoft.Outlook": [
+    "remote.microsoft-outlook.the-following-table-shows-frequently-used-shortc.a80aed3b54",
+    "remote.microsoft-outlook.use-search.1ee29220b5",
+    "remote.microsoft-outlook.send-and-receive-mail.da5103706e",
+    "remote.microsoft-outlook.send-and-receive-mail.0606e923d0",
+    "remote.microsoft-outlook.use-the-calendar.6e81d70584",
+    "remote.microsoft-outlook.work-in-windows-and-dialogs.afa57a7fc7"
+  ],
+  "com.microsoft.Powerpoint": [
+    "remote.microsoft-powerpoint.presentations.aaaa17ac27",
+    "remote.microsoft-powerpoint.presentations.cffbf33e0e",
+    "remote.microsoft-powerpoint.presentations.e06154a4eb",
+    "remote.microsoft-powerpoint.presentations.774c64c3a1",
+    "remote.microsoft-powerpoint.changing-views.04243d1483",
+    "remote.microsoft-powerpoint.changing-views.7bd8dcef4b"
+  ],
+  "com.microsoft.VSCode": [
+    "remote.vscode.navigation.678a3d433d",
+    "remote.vscode.search-and-replace.85176aab60",
+    "remote.vscode.display.54915c2c42",
+    "remote.vscode.search-and-replace.11cbf7aecd",
+    "remote.vscode.display.e88fb89572",
+    "remote.vscode.navigation.8bdc88fa20"
+  ],
+  "com.microsoft.Word": [
+    "remote.word.frequently-used-shortcuts.0bfc68db58",
+    "remote.word.frequently-used-shortcuts.da5ec3234f",
+    "remote.word.frequently-used-shortcuts.ea9c06467d",
+    "remote.word.frequently-used-shortcuts.727c6c872c",
+    "remote.word.frequently-used-shortcuts.911a579d33",
+    "remote.word.edit-text-and-graphics.0edd53b0f1"
+  ],
+  "com.openai.atlas": [
+    "remote.chatgpt-atlas.basics.d5eb8d9fb1",
+    "remote.chatgpt-atlas.tabs.ad7f2396de",
+    "remote.chatgpt-atlas.tabs.07ae06c496",
+    "remote.chatgpt-atlas.view.ae6f59701b",
+    "remote.chatgpt-atlas.navigation.c630349677",
+    "remote.chatgpt-atlas.history-bookmarks.14a5414812"
+  ],
+  "com.openai.chatgpt": [
+    "remote.chatgpt.new-chat",
+    "remote.chatgpt.switch-to-prompt",
+    "remote.chatgpt.toggle-sidebar",
+    "remote.chatgpt.regenerate-response",
+    "remote.chatgpt.focus-response",
+    "remote.chatgpt.stop-generating"
+  ],
+  "com.openai.codex": [
+    "remote.openai-codex.thread.d3abe7a96a",
+    "remote.openai-codex.file.3dd9440d72",
+    "remote.openai-codex.file.c04694b443",
+    "remote.openai-codex.navigation.72703d7537",
+    "remote.openai-codex.panels.377f91d86e",
+    "remote.openai-codex.panels.71ebf4b5cc"
+  ],
+  "com.operasoftware.Opera": [
+    "remote.opera.sitemap-navigation.44a0713861",
+    "remote.opera.system.2de243e436",
+    "remote.opera.find.aa8f0dc111",
+    "remote.opera.email.0679fe604b",
+    "remote.opera.system.677be11650",
+    "remote.opera.email.4e44ddeacf"
+  ],
+  "com.raycast.macos": [
+    "remote.raycast.core.06686277fc",
+    "remote.raycast.core.5ea5fabd7e",
+    "remote.raycast.actions.15b5b02263",
+    "remote.raycast.extensions.12fae22220",
+    "remote.raycast.extensions.58de4b55de",
+    "remote.raycast.navigation.38e3cdbbbe"
+  ],
+  "com.seriflabs.affinityphoto2": [
+    "remote.affinity-photo-2.file.e4384ca1a4",
+    "remote.affinity-photo-2.file.452e58aeb5",
+    "remote.affinity-photo-2.file.dea3c23383",
+    "remote.affinity-photo-2.miscellaneous.5709351db9",
+    "remote.affinity-photo-2.miscellaneous.8a8c464221",
+    "remote.affinity-photo-2.workspace.c23bdadfee"
+  ],
+  "com.spotify.client": [
+    "remote.spotify.basic.6e05169a5d",
+    "remote.spotify.basic.5d2c9dbb06",
+    "remote.spotify.basic.5617edb5ed",
+    "remote.spotify.playback.cf681c8531",
+    "remote.spotify.playback.6ab0044ba6",
+    "remote.spotify.basic.6a8a7fe470"
+  ],
+  "com.tencent.weworkmac": [
+    "remote.wework.chat.main.toggle-panel",
+    "remote.wework.chat.main.global-search",
+    "remote.wework.chat.input.screenshot",
+    "remote.wework.mail.home.compose",
+    "remote.wework.mail.home.reply",
+    "remote.wework.chat.main.search"
+  ],
+  "com.tencent.xinWeChat": [
+    "remote.wechat.toggle-window",
+    "remote.wechat.next-unread-chat",
+    "remote.wechat.nav-chats",
+    "remote.wechat.nav-contacts",
+    "remote.wechat.screenshot",
+    "remote.wechat.new-note"
+  ],
+  "com.tinyspeck.slackmacgap": [
+    "remote.slack.navigation.9097794105",
+    "remote.slack.navigation.e7170dfa8c",
+    "remote.slack.navigation.edb478cb65",
+    "remote.slack.navigation.eee09a3153",
+    "remote.slack.navigation.7b4ec3be36"
+  ],
+  "company.thebrowser.Browser": [
+    "remote.arc.global-shortcuts.ad7f2396de",
+    "remote.arc.global-shortcuts.d1ae22cd81",
+    "remote.arc.global-shortcuts.8cd22cde5f",
+    "remote.arc.global-shortcuts.d6ad2f8e41",
+    "remote.arc.global-shortcuts.33ae304a1c",
+    "remote.arc.global-shortcuts.ae5b59108f"
+  ],
+  "notion.id": [
+    "remote.notion.most-popular.34758186e0",
+    "remote.notion.most-popular.93a468e434",
+    "remote.notion.edit-move-blocks.6b9610d2d7",
+    "remote.notion.edit-move-blocks.4ed8cbc56a",
+    "remote.notion.create-style-your-content.74c0f8fd93",
+    "remote.notion.most-popular.5c22d8d5cb"
+  ],
+  "org.blenderfoundation.blender": [
+    "remote.blender.basics.df3a786d22",
+    "remote.blender.basics.243c065df3",
+    "remote.blender.general.b47b9808cf",
+    "remote.blender.changing-modes.e33ac90e06",
+    "remote.blender.armatures.9d22a2ac3c",
+    "remote.blender.video-sequence-editor.6f7e2736d7"
+  ],
+  "org.inkscape.Inkscape": [
+    "remote.inkscape.file.be7b88d97e",
+    "remote.inkscape.file.16b3603761",
+    "remote.inkscape.dialogs.397793d8a8",
+    "remote.inkscape.dialogs.bb3828daaa",
+    "remote.inkscape.dialogs.bc849685e9",
+    "remote.inkscape.dialogs.9471f0e213"
+  ]
+}

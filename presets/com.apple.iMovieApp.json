@@ -52,7 +52,7 @@
           "id": "remote.imovie.import-and-export-shortcuts.ed83345e87",
           "title": {
             "en": "Import media",
-            "zh-Hans": "导入 媒体"
+            "zh-Hans": "导入媒体"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -64,7 +64,7 @@
           "id": "remote.imovie.import-and-export-shortcuts.d6b8343667",
           "title": {
             "en": "Share the selection  movie",
-            "zh-Hans": "Share the selection  movie"
+            "zh-Hans": "Share the selection movie"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -190,7 +190,7 @@
           "id": "remote.imovie.manage-events-and-projects.913bf94834",
           "title": {
             "en": "Open iMovie preferences",
-            "zh-Hans": "打开 iMovie 偏好设置"
+            "zh-Hans": "iMovie 设置"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -292,7 +292,7 @@
           "id": "remote.imovie.video-edit.012235a2f8",
           "title": {
             "en": "Deselect all clips",
-            "zh-Hans": "Deselect 全部 片段"
+            "zh-Hans": "Deselect 全部片段"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -388,7 +388,7 @@
           "id": "remote.imovie.video-edit.f09d666aac",
           "title": {
             "en": "Paste Color adjustment",
-            "zh-Hans": "粘贴 颜色 adjustment"
+            "zh-Hans": "粘贴颜色 adjustment"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -682,7 +682,7 @@
           "id": "remote.imovie.imovie-window.a5f3c8c1d2",
           "title": {
             "en": "Go to iMovie theater",
-            "zh-Hans": "转到iMovie theater"
+            "zh-Hans": "iMovie 影院"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -778,7 +778,7 @@
           "id": "remote.imovie.imovie-window.69eaa28f77",
           "title": {
             "en": "Show your garageband library",
-            "zh-Hans": "Show your garageband library"
+            "zh-Hans": "显示资源库"
           },
           "shortcutConfiguration": {
             "keyCode": 22,
@@ -811,7 +811,7 @@
           "id": "remote.imovie.view-menu-function.354b97192a",
           "title": {
             "en": "Switch to Clip Viewer or Timeline Viewer",
-            "zh-Hans": "Switch to Clip Viewer or Timeline Viewer"
+            "zh-Hans": "切换检视器"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -880,7 +880,7 @@
           "id": "remote.imovie.bookmarks.8960b3630e",
           "title": {
             "en": "Delete bookmark",
-            "zh-Hans": "删除 书签"
+            "zh-Hans": "删除书签"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -892,7 +892,7 @@
           "id": "remote.imovie.bookmarks.8f60ec7240",
           "title": {
             "en": "Next bookmark",
-            "zh-Hans": "下一个 书签"
+            "zh-Hans": "下一个书签"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -904,7 +904,7 @@
           "id": "remote.imovie.bookmarks.0479b6d7e9",
           "title": {
             "en": "Previous bookmark",
-            "zh-Hans": "上一个 书签"
+            "zh-Hans": "上一个书签"
           },
           "shortcutConfiguration": {
             "keyCode": 33,

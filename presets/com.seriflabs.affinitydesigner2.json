@@ -364,7 +364,7 @@
           "id": "remote.affinity-designer.general.23e97ac139",
           "title": {
             "en": "character / character panel (advanced text)",
-            "zh-Hans": "字符 / 字符 面板 (advanced 文本)"
+            "zh-Hans": "字符 / 字符面板 (advanced 文本)"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -685,7 +685,7 @@
           "id": "remote.affinity-designer.advanced-text.13709ded8a",
           "title": {
             "en": "typography dialog (advanced text)",
-            "zh-Hans": "排版 对话框 (advanced 文本)"
+            "zh-Hans": "排版对话框 (advanced 文本)"
           },
           "shortcutConfiguration": {
             "keyCode": 17,

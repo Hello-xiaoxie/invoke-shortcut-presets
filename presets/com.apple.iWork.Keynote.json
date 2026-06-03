@@ -31,7 +31,7 @@
           "id": "remote.apple-keynote.general-shortcuts.0bdad4bbed",
           "title": {
             "en": "Display font window",
-            "zh-Hans": "Display 字体 窗口"
+            "zh-Hans": "Display 字体窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -115,7 +115,7 @@
           "id": "remote.apple-keynote.general-shortcuts.d96fe0fc41",
           "title": {
             "en": "Show/hide toolbar",
-            "zh-Hans": "显示/隐藏 工具栏"
+            "zh-Hans": "显示/隐藏工具栏"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -313,7 +313,7 @@
           "id": "remote.apple-keynote.tables.3b68e85940",
           "title": {
             "en": "Delete selected object",
-            "zh-Hans": "删除 所选 对象"
+            "zh-Hans": "删除所选对象"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -337,7 +337,7 @@
           "id": "remote.apple-keynote.tables.92d235d168",
           "title": {
             "en": "Selected Previous cell",
-            "zh-Hans": "所选 上一个 单元格"
+            "zh-Hans": "选择上一单元格"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -349,7 +349,7 @@
           "id": "remote.apple-keynote.tables.1e25238f05",
           "title": {
             "en": "Cycle through absoluteness of selected references",
-            "zh-Hans": "Cycle through absoluteness of selected references"
+            "zh-Hans": "切换引用绝对性"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -361,7 +361,7 @@
           "id": "remote.apple-keynote.tables.1b199c698e",
           "title": {
             "en": "Cycle through absoluteness of selected references of start an d end of cell",
-            "zh-Hans": "Cycle through absoluteness of selected references of start an d end of cell"
+            "zh-Hans": "切换起止引用"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -430,7 +430,7 @@
           "id": "remote.apple-keynote.formula-shortcuts-tables.d04f03a6b9",
           "title": {
             "en": "Change a selected cell references",
-            "zh-Hans": "Change a 所选 单元格 references"
+            "zh-Hans": "Change a 所选单元格 references"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -442,7 +442,7 @@
           "id": "remote.apple-keynote.formula-shortcuts-tables.bfd7ef0e1b",
           "title": {
             "en": "Insert line break",
-            "zh-Hans": "插入 行 break"
+            "zh-Hans": "插入行 break"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -475,7 +475,7 @@
           "id": "remote.apple-keynote.objects-on-canvas.586b421b59",
           "title": {
             "en": "Next object",
-            "zh-Hans": "下一个 对象"
+            "zh-Hans": "下一个对象"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -487,7 +487,7 @@
           "id": "remote.apple-keynote.objects-on-canvas.112e64b8c2",
           "title": {
             "en": "Previous object",
-            "zh-Hans": "上一个 对象"
+            "zh-Hans": "上一个对象"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -511,7 +511,7 @@
           "id": "remote.apple-keynote.objects-on-canvas.4faf7b6e89",
           "title": {
             "en": "Exit mask mode",
-            "zh-Hans": "Exit 蒙版 模式"
+            "zh-Hans": "Exit 蒙版模式"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -523,7 +523,7 @@
           "id": "remote.apple-keynote.objects-on-canvas.fac75b11e3",
           "title": {
             "en": "Duplicate object",
-            "zh-Hans": "创建副本 对象"
+            "zh-Hans": "复制对象"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -607,7 +607,7 @@
           "id": "remote.apple-keynote.objects-on-canvas.ba96c889d2",
           "title": {
             "en": "Unlock object",
-            "zh-Hans": "解锁 对象"
+            "zh-Hans": "解锁对象"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -772,7 +772,7 @@
           "id": "remote.apple-keynote.slideshow.94ba6ecc19",
           "title": {
             "en": "Go to previous slide(Slide Switcher)",
-            "zh-Hans": "Go to previous slide(Slide Switcher)"
+            "zh-Hans": "上一张幻灯片"
           },
           "shortcutConfiguration": {
             "keyCode": 27,

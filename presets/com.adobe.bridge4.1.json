@@ -31,7 +31,7 @@
           "id": "remote.adobe-bridge.general.eeecf408c1",
           "title": {
             "en": "Next View",
-            "zh-Hans": "下一个 视图"
+            "zh-Hans": "下一个视图"
           },
           "shortcutConfiguration": {
             "keyCode": 42,
@@ -43,7 +43,7 @@
           "id": "remote.adobe-bridge.general.cd66dd9786",
           "title": {
             "en": "Previous View",
-            "zh-Hans": "上一个 视图"
+            "zh-Hans": "上一个视图"
           },
           "shortcutConfiguration": {
             "keyCode": 42,
@@ -151,7 +151,7 @@
           "id": "remote.adobe-bridge.general.d48e0f7368",
           "title": {
             "en": "Move to First Item",
-            "zh-Hans": "移动to 第一个 项目"
+            "zh-Hans": "移动to 第一个项目"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -163,7 +163,7 @@
           "id": "remote.adobe-bridge.general.9546d39eb1",
           "title": {
             "en": "Move to Last Item",
-            "zh-Hans": "移动to 最后一个 项目"
+            "zh-Hans": "移动to 最后一个项目"
           },
           "shortcutConfiguration": {
             "keyCode": 119,
@@ -187,7 +187,7 @@
           "id": "remote.adobe-bridge.general.c0103de215",
           "title": {
             "en": "Rename Next",
-            "zh-Hans": "重命名 下一个"
+            "zh-Hans": "重命名下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -199,7 +199,7 @@
           "id": "remote.adobe-bridge.general.b94fbdec38",
           "title": {
             "en": "Rename Previous",
-            "zh-Hans": "重命名 上一个"
+            "zh-Hans": "重命名上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 48,

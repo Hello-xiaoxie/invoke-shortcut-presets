@@ -55,7 +55,7 @@
           "id": "remote.github-desktop.branches.71d90f18d5",
           "title": {
             "en": "Merge into current branch",
-            "zh-Hans": "Merge into 当前 分支"
+            "zh-Hans": "Merge into 当前分支"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -163,7 +163,7 @@
           "id": "remote.github-desktop.branches.69209d2f7f",
           "title": {
             "en": "Show all your branches",
-            "zh-Hans": "显示 全部 your branches"
+            "zh-Hans": "显示全部 your branches"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -409,7 +409,7 @@
           "id": "remote.github-desktop.site-wide.7b4ec3be36",
           "title": {
             "en": "Toggle full screen view",
-            "zh-Hans": "Toggle 全屏 视图"
+            "zh-Hans": "Toggle 全屏视图"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -433,7 +433,7 @@
           "id": "remote.github-desktop.site-wide.4dcc3cc2ce",
           "title": {
             "en": "Hide all other applications",
-            "zh-Hans": "隐藏 全部 other applications"
+            "zh-Hans": "隐藏全部 other applications"
           },
           "shortcutConfiguration": {
             "keyCode": 4,

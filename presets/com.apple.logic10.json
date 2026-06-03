@@ -187,7 +187,7 @@
           "id": "remote.logic-pro.general-controls.a1213860cb",
           "title": {
             "en": "Delete Marker",
-            "zh-Hans": "删除 标记"
+            "zh-Hans": "删除标记"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -223,7 +223,7 @@
           "id": "remote.logic-pro.general-controls.b2ff86f734",
           "title": {
             "en": "Rename Marker",
-            "zh-Hans": "重命名 标记"
+            "zh-Hans": "重命名标记"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -283,7 +283,7 @@
           "id": "remote.logic-pro.general-controls.84f7af42a5",
           "title": {
             "en": "Set Solo Lock Mode",
-            "zh-Hans": "Set Solo 锁定 模式"
+            "zh-Hans": "Set Solo 锁定模式"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -343,7 +343,7 @@
           "id": "remote.logic-pro.general-controls.90b15e00eb",
           "title": {
             "en": "Open Mixer",
-            "zh-Hans": "打开 混音器"
+            "zh-Hans": "打开混音器"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -391,7 +391,7 @@
           "id": "remote.logic-pro.general-controls.8c3fd2bde1",
           "title": {
             "en": "Open Audio File Editor",
-            "zh-Hans": "打开 音频 文件 编辑器"
+            "zh-Hans": "打开音频文件编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 22,
@@ -415,7 +415,7 @@
           "id": "remote.logic-pro.general-controls.8297440c2b",
           "title": {
             "en": "Open Project Audio",
-            "zh-Hans": "打开 项目 音频"
+            "zh-Hans": "打开项目音频"
           },
           "shortcutConfiguration": {
             "keyCode": 28,
@@ -451,7 +451,7 @@
           "id": "remote.logic-pro.general-controls.a3b99b3b62",
           "title": {
             "en": "Sho/hide Mixer",
-            "zh-Hans": "Sho/隐藏 混音器"
+            "zh-Hans": "Sho/隐藏混音器"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -487,7 +487,7 @@
           "id": "remote.logic-pro.general-controls.45cc4d9d46",
           "title": {
             "en": "Show/hide Loop Browser",
-            "zh-Hans": "显示/隐藏 循环 Browser"
+            "zh-Hans": "显示/隐藏循环 Browser"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -511,7 +511,7 @@
           "id": "remote.logic-pro.general-controls.db5aa6a58e",
           "title": {
             "en": "Show/hide Audio File Editor",
-            "zh-Hans": "显示/隐藏 音频 文件 编辑器"
+            "zh-Hans": "显示/隐藏音频文件编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -607,7 +607,7 @@
           "id": "remote.logic-pro.general-controls.3179cd0bc7",
           "title": {
             "en": "Minimize Window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -631,7 +631,7 @@
           "id": "remote.logic-pro.general-controls.bcff90bc2a",
           "title": {
             "en": "Save Project As..",
-            "zh-Hans": "存储 项目 As.."
+            "zh-Hans": "存储项目 As"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -721,7 +721,7 @@
           "id": "remote.logic-pro.various-editors.660afc4728",
           "title": {
             "en": "Undo History..",
-            "zh-Hans": "Undo 历史记录.."
+            "zh-Hans": "Undo 历史记录"
           },
           "shortcutConfiguration": {
             "keyCode": 6,
@@ -805,7 +805,7 @@
           "id": "remote.logic-pro.various-editors.ab276efaf0",
           "title": {
             "en": "Show/hide Tempo Track only",
-            "zh-Hans": "显示/隐藏 速度 轨道 only"
+            "zh-Hans": "显示/隐藏速度轨道 only"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1273,7 +1273,7 @@
           "id": "remote.logic-pro.environment.4054e6a789",
           "title": {
             "en": "Send Selected Fader Values",
-            "zh-Hans": "Send 所选 推子 Values"
+            "zh-Hans": "Send 所选推子 Values"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1285,7 +1285,7 @@
           "id": "remote.logic-pro.environment.4d4bef282a",
           "title": {
             "en": "Delete Layer",
-            "zh-Hans": "删除 图层"
+            "zh-Hans": "删除图层"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -1354,7 +1354,7 @@
           "id": "remote.logic-pro.score-editor.c2bf1c20c5",
           "title": {
             "en": "Page View",
-            "zh-Hans": "页面 视图"
+            "zh-Hans": "页面视图"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -1402,7 +1402,7 @@
           "id": "remote.logic-pro.score-editor.5ce2845810",
           "title": {
             "en": "Hide/Show Page Rulers",
-            "zh-Hans": "隐藏/显示 页面 Rulers"
+            "zh-Hans": "隐藏/显示页面 Rulers"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -1450,7 +1450,7 @@
           "id": "remote.logic-pro.score-editor.9841b0bf9f",
           "title": {
             "en": "Beam Selected Notes",
-            "zh-Hans": "Beam 所选 笔记"
+            "zh-Hans": "Beam 所选笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -1462,7 +1462,7 @@
           "id": "remote.logic-pro.score-editor.08d0bf4ba9",
           "title": {
             "en": "Unbeam Selected Notes",
-            "zh-Hans": "Unbeam 所选 笔记"
+            "zh-Hans": "Unbeam 所选笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -1660,7 +1660,7 @@
           "id": "remote.logic-pro.project-audio.7b77d2ef14",
           "title": {
             "en": "Import Region Info",
-            "zh-Hans": "导入 区域 Info"
+            "zh-Hans": "导入区域 Info"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -1672,7 +1672,7 @@
           "id": "remote.logic-pro.project-audio.2de1dc70f4",
           "title": {
             "en": "Export Region Info",
-            "zh-Hans": "导出 区域 Info"
+            "zh-Hans": "导出区域 Info"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -1684,7 +1684,7 @@
           "id": "remote.logic-pro.project-audio.f9b6d67aeb",
           "title": {
             "en": "Select Previos/Next Audio Files",
-            "zh-Hans": "选择Previos/下一个 音频 文件"
+            "zh-Hans": "选择Previos/下一个音频文件"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -2014,7 +2014,7 @@
           "id": "remote.logic-pro.step-input.5e714e194a",
           "title": {
             "en": "Octave  1",
-            "zh-Hans": "Octave  1"
+            "zh-Hans": "Octave 1"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -2038,7 +2038,7 @@
           "id": "remote.logic-pro.step-input.f6b020a277",
           "title": {
             "en": "Octave  2",
-            "zh-Hans": "Octave  2"
+            "zh-Hans": "Octave 2"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -2050,7 +2050,7 @@
           "id": "remote.logic-pro.step-input.4c3fa96bef",
           "title": {
             "en": "1/1,2,4..128 Note",
-            "zh-Hans": "1/1,2,4..128 笔记"
+            "zh-Hans": "1/1、2、4…128 音符"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,

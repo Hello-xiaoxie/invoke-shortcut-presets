@@ -43,7 +43,7 @@
           "id": "remote.scrivener.file.f0de73131c",
           "title": {
             "en": "Close Project",
-            "zh-Hans": "关闭 项目"
+            "zh-Hans": "关闭项目"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -103,7 +103,7 @@
           "id": "remote.scrivener.file.fbe9ecea93",
           "title": {
             "en": "Import Files",
-            "zh-Hans": "导入 文件"
+            "zh-Hans": "导入文件"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -115,7 +115,7 @@
           "id": "remote.scrivener.file.0749782a11",
           "title": {
             "en": "Export Files",
-            "zh-Hans": "导出 文件"
+            "zh-Hans": "导出文件"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -139,7 +139,7 @@
           "id": "remote.scrivener.file.b1835f57bc",
           "title": {
             "en": "Print Current Document",
-            "zh-Hans": "打印 当前 文档"
+            "zh-Hans": "打印当前文档"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -292,7 +292,7 @@
           "id": "remote.scrivener.edit.c836492d60",
           "title": {
             "en": "Add/Edit Link",
-            "zh-Hans": "Add/编辑 链接"
+            "zh-Hans": "Add/编辑链接"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -352,7 +352,7 @@
           "id": "remote.scrivener.edit.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -364,7 +364,7 @@
           "id": "remote.scrivener.edit.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -424,7 +424,7 @@
           "id": "remote.scrivener.edit.ea3aad612b",
           "title": {
             "en": "Find Next Formatting",
-            "zh-Hans": "查找 下一个 Formatting"
+            "zh-Hans": "查找下一个 Formatting"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -436,7 +436,7 @@
           "id": "remote.scrivener.edit.5b25e36364",
           "title": {
             "en": "Find Previous Formatting",
-            "zh-Hans": "查找 上一个 Formatting"
+            "zh-Hans": "查找上一个 Formatting"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -505,7 +505,7 @@
           "id": "remote.scrivener.insert.8fdfb0a176",
           "title": {
             "en": "Insert comment",
-            "zh-Hans": "插入 评论"
+            "zh-Hans": "插入评论"
           },
           "shortcutConfiguration": {
             "keyCode": 28,
@@ -565,7 +565,7 @@
           "id": "remote.scrivener.insert.20c31a8d76",
           "title": {
             "en": "Insert Line Break",
-            "zh-Hans": "插入 行 Break"
+            "zh-Hans": "插入行 Break"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -589,7 +589,7 @@
           "id": "remote.scrivener.insert.f1826c1f95",
           "title": {
             "en": "Insert Current Date ",
-            "zh-Hans": "插入 当前 Date "
+            "zh-Hans": "插入当前 Date"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -718,7 +718,7 @@
           "id": "remote.scrivener.view.cd0e1887b9",
           "title": {
             "en": "Show/Hide Ruler",
-            "zh-Hans": "显示/隐藏 标尺"
+            "zh-Hans": "显示/隐藏标尺"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -730,7 +730,7 @@
           "id": "remote.scrivener.view.ff181aa177",
           "title": {
             "en": "Show/Hide Page View",
-            "zh-Hans": "显示/隐藏 页面 视图"
+            "zh-Hans": "显示/隐藏页面视图"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -766,7 +766,7 @@
           "id": "remote.scrivener.view.0a4841e8c2",
           "title": {
             "en": "Show Hide Status Stamps",
-            "zh-Hans": "显示 隐藏 Status Stamps"
+            "zh-Hans": "显示隐藏 Status Stamps"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -778,7 +778,7 @@
           "id": "remote.scrivener.view.a9c3b0871f",
           "title": {
             "en": "Show Hide Keyword Colors",
-            "zh-Hans": "显示 隐藏 Keyword Colors"
+            "zh-Hans": "显示隐藏 Keyword Colors"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -883,7 +883,7 @@
           "id": "remote.scrivener.navigate-menu.30a3c37434",
           "title": {
             "en": "Previous Document",
-            "zh-Hans": "上一个 文档"
+            "zh-Hans": "上一个文档"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -895,7 +895,7 @@
           "id": "remote.scrivener.navigate-menu.03a9df6c9c",
           "title": {
             "en": "Next Document",
-            "zh-Hans": "下一个 文档"
+            "zh-Hans": "下一个文档"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1087,7 +1087,7 @@
           "id": "remote.scrivener.navigate-menu.0d23bca8d1",
           "title": {
             "en": "Play Media File",
-            "zh-Hans": "Play 媒体 文件"
+            "zh-Hans": "Play 媒体文件"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1279,7 +1279,7 @@
           "id": "remote.scrivener.navigate-menu.f090654d33",
           "title": {
             "en": "Previous Group",
-            "zh-Hans": "上一个 编组"
+            "zh-Hans": "上一个编组"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -1291,7 +1291,7 @@
           "id": "remote.scrivener.navigate-menu.516c151a93",
           "title": {
             "en": "Next Group",
-            "zh-Hans": "下一个 编组"
+            "zh-Hans": "下一个编组"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1348,7 +1348,7 @@
           "id": "remote.scrivener.project.8c298fdbad",
           "title": {
             "en": "Project Settings",
-            "zh-Hans": "项目 设置"
+            "zh-Hans": "项目设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -1360,7 +1360,7 @@
           "id": "remote.scrivener.project.e19ea6df60",
           "title": {
             "en": "Show Project Targets",
-            "zh-Hans": "显示 项目 Targets"
+            "zh-Hans": "显示项目 Targets"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1384,7 +1384,7 @@
           "id": "remote.scrivener.project.ea1948579e",
           "title": {
             "en": "Show Project Keywords",
-            "zh-Hans": "显示 项目 Keywords"
+            "zh-Hans": "显示项目 Keywords"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -1396,7 +1396,7 @@
           "id": "remote.scrivener.project.53ca3766e2",
           "title": {
             "en": "Show Project Bookmarks",
-            "zh-Hans": "显示 项目 书签"
+            "zh-Hans": "显示项目书签"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -1441,7 +1441,7 @@
           "id": "remote.scrivener.documents.9d3b79f33c",
           "title": {
             "en": "Snapshots: show Next Change",
-            "zh-Hans": "Snapshots: 显示 下一个 Change"
+            "zh-Hans": "Snapshots: 显示下一个 Change"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -1453,7 +1453,7 @@
           "id": "remote.scrivener.documents.307374ebaa",
           "title": {
             "en": "Snapshots: show Previous Change",
-            "zh-Hans": "Snapshots: 显示 上一个 Change"
+            "zh-Hans": "Snapshots: 显示上一个 Change"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -1666,7 +1666,7 @@
           "id": "remote.scrivener.format.4fbf019684",
           "title": {
             "en": "Copy Font",
-            "zh-Hans": "复制 字体"
+            "zh-Hans": "复制字体"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1678,7 +1678,7 @@
           "id": "remote.scrivener.format.4924e0fa23",
           "title": {
             "en": "Paste Font",
-            "zh-Hans": "粘贴 字体"
+            "zh-Hans": "粘贴字体"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1690,7 +1690,7 @@
           "id": "remote.scrivener.format.387fd9fb24",
           "title": {
             "en": "Paragraph: Align Left",
-            "zh-Hans": "段落: 对齐 左"
+            "zh-Hans": "段落: 对齐左"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -1726,7 +1726,7 @@
           "id": "remote.scrivener.format.1c809eaddb",
           "title": {
             "en": "Paragraph: Align Right",
-            "zh-Hans": "段落: 对齐 右"
+            "zh-Hans": "段落: 对齐右"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -1762,7 +1762,7 @@
           "id": "remote.scrivener.format.5699920f8e",
           "title": {
             "en": "Increase First Line Indent",
-            "zh-Hans": "Increase 第一个 行 Indent"
+            "zh-Hans": "Increase 第一个行 Indent"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -1774,7 +1774,7 @@
           "id": "remote.scrivener.format.4027639fef",
           "title": {
             "en": "Decrease First Line Indent",
-            "zh-Hans": "Decrease 第一个 行 Indent"
+            "zh-Hans": "Decrease 第一个行 Indent"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -1786,7 +1786,7 @@
           "id": "remote.scrivener.format.7e18bbaced",
           "title": {
             "en": "Copy Paragraph Attributes",
-            "zh-Hans": "复制 段落 Attributes"
+            "zh-Hans": "复制段落 Attributes"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1798,7 +1798,7 @@
           "id": "remote.scrivener.format.029da41848",
           "title": {
             "en": "Paste Paragraph Attributes",
-            "zh-Hans": "粘贴 段落 Attributes"
+            "zh-Hans": "粘贴段落 Attributes"
           },
           "shortcutConfiguration": {
             "keyCode": 9,

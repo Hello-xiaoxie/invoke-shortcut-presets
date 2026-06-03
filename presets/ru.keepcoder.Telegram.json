@@ -151,7 +151,7 @@
           "id": "remote.telegram.telegram.61a240bb2f",
           "title": {
             "en": "edit media",
-            "zh-Hans": "编辑 媒体"
+            "zh-Hans": "编辑媒体"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -163,7 +163,7 @@
           "id": "remote.telegram.telegram.8069b64314",
           "title": {
             "en": "search selected chat",
-            "zh-Hans": "搜索 所选 chat"
+            "zh-Hans": "搜索所选 chat"
           },
           "shortcutConfiguration": {
             "keyCode": 3,

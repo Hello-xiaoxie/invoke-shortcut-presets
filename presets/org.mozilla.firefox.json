@@ -43,7 +43,7 @@
           "id": "remote.firefox.tools.c4d960437d",
           "title": {
             "en": "Page Source",
-            "zh-Hans": "页面 源"
+            "zh-Hans": "页面源"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -115,7 +115,7 @@
           "id": "remote.firefox.tools.655bc61709",
           "title": {
             "en": "Style Editor",
-            "zh-Hans": "样式 编辑器"
+            "zh-Hans": "样式编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 98,
@@ -232,7 +232,7 @@
           "id": "remote.firefox.bookmarks.d2206428a6",
           "title": {
             "en": "Bookmarks sidebar",
-            "zh-Hans": "书签 侧边栏"
+            "zh-Hans": "书签侧边栏"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -277,7 +277,7 @@
           "id": "remote.firefox.history.826b914c68",
           "title": {
             "en": "History sidebar",
-            "zh-Hans": "历史记录 侧边栏"
+            "zh-Hans": "历史记录侧边栏"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -310,7 +310,7 @@
           "id": "remote.firefox.windows-tabs.e851db45fc",
           "title": {
             "en": "Undo Close Window",
-            "zh-Hans": "Undo 关闭 窗口"
+            "zh-Hans": "Undo 关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -322,7 +322,7 @@
           "id": "remote.firefox.windows-tabs.1fd88b8335",
           "title": {
             "en": "Undo Close Tab",
-            "zh-Hans": "Undo 关闭 标签页"
+            "zh-Hans": "Undo 关闭标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -751,7 +751,7 @@
           "id": "remote.firefox.search.58e7d2cf9c",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -1033,7 +1033,7 @@
           "id": "remote.firefox.current-page.1a27cff809",
           "title": {
             "en": "Save Page As",
-            "zh-Hans": "存储 页面 As"
+            "zh-Hans": "存储页面 As"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -1069,7 +1069,7 @@
           "id": "remote.firefox.current-page.20f1f64818",
           "title": {
             "en": "Move to Previous Frame",
-            "zh-Hans": "移动to 上一个 画框"
+            "zh-Hans": "移动to 上一个画框"
           },
           "shortcutConfiguration": {
             "keyCode": 97,
@@ -1081,7 +1081,7 @@
           "id": "remote.firefox.current-page.76a40553d9",
           "title": {
             "en": "Move to Next Frame",
-            "zh-Hans": "移动to 下一个 画框"
+            "zh-Hans": "移动to 下一个画框"
           },
           "shortcutConfiguration": {
             "keyCode": 97,
@@ -1210,7 +1210,7 @@
           "id": "remote.firefox.navigation.c7879f2087",
           "title": {
             "en": "Open File",
-            "zh-Hans": "打开 文件"
+            "zh-Hans": "打开文件"
           },
           "shortcutConfiguration": {
             "keyCode": 31,

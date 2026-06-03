@@ -163,7 +163,7 @@
           "id": "remote.acreom.general.83577f6bba",
           "title": {
             "en": "open search",
-            "zh-Hans": "打开 搜索"
+            "zh-Hans": "打开搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -199,7 +199,7 @@
           "id": "remote.acreom.general.2b758d98fe",
           "title": {
             "en": "open settings",
-            "zh-Hans": "打开 设置"
+            "zh-Hans": "打开设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -361,7 +361,7 @@
           "id": "remote.acreom.task-management.35f7336e50",
           "title": {
             "en": "edit task",
-            "zh-Hans": "编辑 任务"
+            "zh-Hans": "编辑任务"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -409,7 +409,7 @@
           "id": "remote.acreom.task-management.6f6fd4b617",
           "title": {
             "en": "delete task",
-            "zh-Hans": "删除 任务"
+            "zh-Hans": "删除任务"
           },
           "shortcutConfiguration": {
             "keyCode": 2,

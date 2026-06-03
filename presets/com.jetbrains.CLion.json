@@ -31,7 +31,7 @@
           "id": "remote.clion.running-and-debugging.af570d7441",
           "title": {
             "en": "Toggle breakpoint at the current line.",
-            "zh-Hans": "Toggle breakpoint at the current line."
+            "zh-Hans": "Toggle breakpoint at the current line"
           },
           "shortcutConfiguration": {
             "keyCode": 100,
@@ -412,7 +412,7 @@
           "id": "remote.clion.refactoring.e149b1ab9d",
           "title": {
             "en": "Refactor This...",
-            "zh-Hans": "Refactor This..."
+            "zh-Hans": "Refactor This"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -457,7 +457,7 @@
           "id": "remote.clion.navigation-in-source-code.df17fdd142",
           "title": {
             "en": "Last Edit Location",
-            "zh-Hans": "最后一个 编辑 Location"
+            "zh-Hans": "最后一个编辑 Location"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -823,7 +823,7 @@
           "id": "remote.clion.views-and-windows.bf3f37e96e",
           "title": {
             "en": "Hide Active Window",
-            "zh-Hans": "隐藏 活动 窗口"
+            "zh-Hans": "隐藏活动窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -904,7 +904,7 @@
           "id": "remote.clion.navigation-between-bookmarks.876b924b77",
           "title": {
             "en": "Show Bookmarks",
-            "zh-Hans": "显示 书签"
+            "zh-Hans": "显示书签"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -1231,7 +1231,7 @@
           "id": "remote.clion.advanced-editing.664d00731b",
           "title": {
             "en": "Previous Template Variable",
-            "zh-Hans": "上一个 模板 变量"
+            "zh-Hans": "上一个模板变量"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1243,7 +1243,7 @@
           "id": "remote.clion.advanced-editing.386f320953",
           "title": {
             "en": "Next Template Variable",
-            "zh-Hans": "下一个 模板 变量"
+            "zh-Hans": "下一个模板变量"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1255,7 +1255,7 @@
           "id": "remote.clion.advanced-editing.8cad2cc845",
           "title": {
             "en": "Surround with Live Template...",
-            "zh-Hans": "Surround with Live Template..."
+            "zh-Hans": "Surround with Live Template"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -1267,7 +1267,7 @@
           "id": "remote.clion.advanced-editing.7b3389eccc",
           "title": {
             "en": "Insert Live Template...",
-            "zh-Hans": "插入 Live 模板..."
+            "zh-Hans": "插入 Live 模板"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -1327,7 +1327,7 @@
           "id": "remote.clion.advanced-editing.077a82eb2a",
           "title": {
             "en": "Surround with...",
-            "zh-Hans": "Surround with..."
+            "zh-Hans": "Surround with"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1339,7 +1339,7 @@
           "id": "remote.clion.advanced-editing.15b3a22b16",
           "title": {
             "en": "Override Methods...",
-            "zh-Hans": "Override Methods..."
+            "zh-Hans": "Override Methods"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -1672,7 +1672,7 @@
           "id": "remote.clion.basic-editing.17d67b40b2",
           "title": {
             "en": "Move to Text Start with Selection.",
-            "zh-Hans": "Move to Text Start with Selection."
+            "zh-Hans": "Move to Text Start with Selection"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -1684,7 +1684,7 @@
           "id": "remote.clion.basic-editing.d012f8e7e9",
           "title": {
             "en": "Move to Text Start",
-            "zh-Hans": "移动to 文本 开始"
+            "zh-Hans": "移动to 文本开始"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -1708,7 +1708,7 @@
           "id": "remote.clion.basic-editing.df2eb6bd8f",
           "title": {
             "en": "Move to Text End",
-            "zh-Hans": "移动to 文本 结束"
+            "zh-Hans": "移动to 文本结束"
           },
           "shortcutConfiguration": {
             "keyCode": 119,
@@ -1732,7 +1732,7 @@
           "id": "remote.clion.basic-editing.c372644274",
           "title": {
             "en": "Move to Previous Word",
-            "zh-Hans": "移动to 上一个 单词"
+            "zh-Hans": "移动to 上一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -1756,7 +1756,7 @@
           "id": "remote.clion.basic-editing.20f796706f",
           "title": {
             "en": "Move to Next Word",
-            "zh-Hans": "移动to 下一个 单词"
+            "zh-Hans": "移动to 下一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -1780,7 +1780,7 @@
           "id": "remote.clion.basic-editing.ef2ee3d299",
           "title": {
             "en": "Move to Line Start",
-            "zh-Hans": "移动to 行 开始"
+            "zh-Hans": "移动to 行开始"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -1804,7 +1804,7 @@
           "id": "remote.clion.basic-editing.9b453fdbb2",
           "title": {
             "en": "Move to Line End",
-            "zh-Hans": "移动to 行 结束"
+            "zh-Hans": "移动to 行结束"
           },
           "shortcutConfiguration": {
             "keyCode": 119,
@@ -1828,7 +1828,7 @@
           "id": "remote.clion.basic-editing.12d799ede2",
           "title": {
             "en": "Page Up",
-            "zh-Hans": "页面 上"
+            "zh-Hans": "页面上"
           },
           "shortcutConfiguration": {
             "keyCode": 116,
@@ -1852,7 +1852,7 @@
           "id": "remote.clion.basic-editing.1e98d56936",
           "title": {
             "en": "Page Down",
-            "zh-Hans": "页面 下"
+            "zh-Hans": "页面下"
           },
           "shortcutConfiguration": {
             "keyCode": 121,
@@ -2185,7 +2185,7 @@
           "id": "remote.clion.general.8d66ec67e7",
           "title": {
             "en": "Save All",
-            "zh-Hans": "存储 全部"
+            "zh-Hans": "存储全部"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -2197,7 +2197,7 @@
           "id": "remote.clion.general.70ede19536",
           "title": {
             "en": "New...",
-            "zh-Hans": "New..."
+            "zh-Hans": "New"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -2221,7 +2221,7 @@
           "id": "remote.clion.general.81b0b332f6",
           "title": {
             "en": "Edit Source",
-            "zh-Hans": "编辑 源"
+            "zh-Hans": "编辑源"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -2233,7 +2233,7 @@
           "id": "remote.clion.general.db3b9c7911",
           "title": {
             "en": "Close Editor",
-            "zh-Hans": "关闭 编辑器"
+            "zh-Hans": "关闭编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -2245,7 +2245,7 @@
           "id": "remote.clion.general.94e0f1c757",
           "title": {
             "en": "Close Active Tab",
-            "zh-Hans": "关闭 活动 标签页"
+            "zh-Hans": "关闭活动标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 118,

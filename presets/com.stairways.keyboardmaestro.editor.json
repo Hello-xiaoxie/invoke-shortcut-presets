@@ -43,7 +43,7 @@
           "id": "remote.keyboard-maestro.file-macro-management.d6751ae239",
           "title": {
             "en": "Delete Selected Macro Group",
-            "zh-Hans": "删除 所选 Macro 编组"
+            "zh-Hans": "删除所选 Macro 编组"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -67,7 +67,7 @@
           "id": "remote.keyboard-maestro.file-macro-management.96fd7e7a2b",
           "title": {
             "en": "Duplicate Selected Item",
-            "zh-Hans": "创建副本 所选 项目"
+            "zh-Hans": "创建副本所选项目"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -112,7 +112,7 @@
           "id": "remote.keyboard-maestro.editor-search-navigation.4f707a99b0",
           "title": {
             "en": "Search All Macros",
-            "zh-Hans": "搜索 全部 Macros"
+            "zh-Hans": "搜索全部 Macros"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -205,7 +205,7 @@
           "id": "remote.keyboard-maestro.editor-action-management.3826e58207",
           "title": {
             "en": "Delete Selected Action",
-            "zh-Hans": "删除 所选 Action"
+            "zh-Hans": "删除所选 Action"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -307,7 +307,7 @@
           "id": "remote.keyboard-maestro.clipboard-history-switcher.f2c8c6a0e0",
           "title": {
             "en": "Open Clipboard History Switcher",
-            "zh-Hans": "打开 剪贴板 历史记录 Switcher"
+            "zh-Hans": "打开剪贴板历史记录 Switcher"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -319,7 +319,7 @@
           "id": "remote.keyboard-maestro.clipboard-history-switcher.4b76e1dd73",
           "title": {
             "en": "Paste Selected Clipboard",
-            "zh-Hans": "粘贴 所选 剪贴板"
+            "zh-Hans": "粘贴所选剪贴板"
           },
           "shortcutConfiguration": {
             "keyCode": 36,

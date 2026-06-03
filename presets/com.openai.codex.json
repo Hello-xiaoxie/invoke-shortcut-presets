@@ -64,7 +64,7 @@
           "id": "remote.openai-codex.file.3dd9440d72",
           "title": {
             "en": "Open folder",
-            "zh-Hans": "打开 文件夹"
+            "zh-Hans": "打开文件夹"
           },
           "shortcutConfiguration": {
             "keyCode": 31,

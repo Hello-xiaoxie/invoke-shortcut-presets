@@ -79,7 +79,7 @@
           "id": "remote.textmate.general-shortcuts.36812c54fd",
           "title": {
             "en": "Save All",
-            "zh-Hans": "存储 全部"
+            "zh-Hans": "存储全部"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -91,7 +91,7 @@
           "id": "remote.textmate.general-shortcuts.3f0ca867cb",
           "title": {
             "en": "Save Project",
-            "zh-Hans": "存储 项目"
+            "zh-Hans": "存储项目"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -103,7 +103,7 @@
           "id": "remote.textmate.general-shortcuts.8785b88cfc",
           "title": {
             "en": "Save Project As",
-            "zh-Hans": "存储 项目 As"
+            "zh-Hans": "存储项目 As"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -211,7 +211,7 @@
           "id": "remote.textmate.general-shortcuts.1e2ba72a77",
           "title": {
             "en": "Paste Previous",
-            "zh-Hans": "粘贴 上一个"
+            "zh-Hans": "粘贴上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -355,7 +355,7 @@
           "id": "remote.textmate.general-shortcuts.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -367,7 +367,7 @@
           "id": "remote.textmate.general-shortcuts.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -391,7 +391,7 @@
           "id": "remote.textmate.general-shortcuts.fa168e8c6e",
           "title": {
             "en": "Replace All",
-            "zh-Hans": "替换 全部"
+            "zh-Hans": "替换全部"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -523,7 +523,7 @@
           "id": "remote.textmate.general-shortcuts.bb56254bbb",
           "title": {
             "en": "Zoom out Font",
-            "zh-Hans": "缩小 字体"
+            "zh-Hans": "缩小字体"
           },
           "shortcutConfiguration": {
             "keyCode": 27,
@@ -535,7 +535,7 @@
           "id": "remote.textmate.general-shortcuts.c8a84e5c4f",
           "title": {
             "en": "Display/Hide Bookmarks",
-            "zh-Hans": "Display/隐藏 书签"
+            "zh-Hans": "Display/隐藏书签"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -547,7 +547,7 @@
           "id": "remote.textmate.general-shortcuts.0320cf9e4a",
           "title": {
             "en": "Display/Hide Line numbers",
-            "zh-Hans": "Display/隐藏 行 numbers"
+            "zh-Hans": "Display/隐藏行 numbers"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -559,7 +559,7 @@
           "id": "remote.textmate.general-shortcuts.40e6fa2720",
           "title": {
             "en": "Display/Hide Project Drawer",
-            "zh-Hans": "Display/隐藏 项目 抽屉"
+            "zh-Hans": "Display/隐藏项目抽屉"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -799,7 +799,7 @@
           "id": "remote.textmate.general-shortcuts.2134e9344e",
           "title": {
             "en": "Jump to Next/Previous Bookmark",
-            "zh-Hans": "跳转到Next/上一个 书签"
+            "zh-Hans": "跳转到Next/上一个书签"
           },
           "shortcutConfiguration": {
             "keyCode": 120,
@@ -895,7 +895,7 @@
           "id": "remote.textmate.general-shortcuts.b5fac72a4e",
           "title": {
             "en": "Go to Middle Visible Line",
-            "zh-Hans": "转到Middle 可见 行"
+            "zh-Hans": "转到Middle 可见行"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -976,7 +976,7 @@
           "id": "remote.textmate.source-shortcut.4ad4a7eddd",
           "title": {
             "en": "Comment Line/Selection",
-            "zh-Hans": "评论 行/选择"
+            "zh-Hans": "评论行/选择"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -1036,7 +1036,7 @@
           "id": "remote.textmate.source-shortcut.d6a597734c",
           "title": {
             "en": "Insert Comment Banner",
-            "zh-Hans": "插入 评论 Banner"
+            "zh-Hans": "插入评论 Banner"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -1048,7 +1048,7 @@
           "id": "remote.textmate.source-shortcut.6c3fc9de98",
           "title": {
             "en": "Continue Line Comment",
-            "zh-Hans": "Continue 行 评论"
+            "zh-Hans": "Continue 行评论"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -1132,7 +1132,7 @@
           "id": "remote.textmate.source-shortcut.6aaf15ae43",
           "title": {
             "en": "View Source as HTML",
-            "zh-Hans": "视图 源 as HTML"
+            "zh-Hans": "视图源 as HTML"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -1234,7 +1234,7 @@
           "id": "remote.textmate.html-shortcuts.7163b25889",
           "title": {
             "en": "Insert Open/Close Tag",
-            "zh-Hans": "插入 打开/关闭 标签"
+            "zh-Hans": "插入打开/关闭标签"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -1246,7 +1246,7 @@
           "id": "remote.textmate.html-shortcuts.750dde2ce8",
           "title": {
             "en": "Insert Close Tag",
-            "zh-Hans": "插入 关闭 标签"
+            "zh-Hans": "插入关闭标签"
           },
           "shortcutConfiguration": {
             "keyCode": 47,

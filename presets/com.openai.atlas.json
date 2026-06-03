@@ -55,7 +55,7 @@
           "id": "remote.chatgpt-atlas.basics.6384d02cff",
           "title": {
             "en": "Save page as",
-            "zh-Hans": "存储 页面 as"
+            "zh-Hans": "存储页面 as"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -286,7 +286,7 @@
           "id": "remote.chatgpt-atlas.history-bookmarks.a0f1215b05",
           "title": {
             "en": "Open bookmarks manager",
-            "zh-Hans": "打开 书签 manager"
+            "zh-Hans": "打开书签 manager"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -484,7 +484,7 @@
           "id": "remote.chatgpt-atlas.window.d94258f711",
           "title": {
             "en": "Minimize window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

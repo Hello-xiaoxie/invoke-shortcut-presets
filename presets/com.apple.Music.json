@@ -208,7 +208,7 @@
           "id": "remote.apple-music.general-shortcuts.11eddedb00",
           "title": {
             "en": "Show window",
-            "zh-Hans": "显示 窗口"
+            "zh-Hans": "显示窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 29,
@@ -220,7 +220,7 @@
           "id": "remote.apple-music.general-shortcuts.d94258f711",
           "title": {
             "en": "Minimize window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -232,7 +232,7 @@
           "id": "remote.apple-music.general-shortcuts.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,

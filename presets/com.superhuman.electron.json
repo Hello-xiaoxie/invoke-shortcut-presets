@@ -241,7 +241,7 @@
           "id": "remote.superhuman.messages.71976b124d",
           "title": {
             "en": "Open Links ",
-            "zh-Hans": "打开 Links "
+            "zh-Hans": "打开 Links"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -649,7 +649,7 @@
           "id": "remote.superhuman.navigation.2393fde8c4",
           "title": {
             "en": "Next Tab",
-            "zh-Hans": "下一个 标签页"
+            "zh-Hans": "下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -661,7 +661,7 @@
           "id": "remote.superhuman.navigation.97701f22be",
           "title": {
             "en": "Previous Tab",
-            "zh-Hans": "上一个 标签页"
+            "zh-Hans": "上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -922,7 +922,7 @@
           "id": "remote.superhuman.compose.f3ab8edabd",
           "title": {
             "en": "Send ",
-            "zh-Hans": "Send "
+            "zh-Hans": "Send"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,

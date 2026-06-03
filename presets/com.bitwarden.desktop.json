@@ -88,7 +88,7 @@
           "id": "remote.bitwarden.desktop-app-shortcuts.84c1167797",
           "title": {
             "en": "Open preferences",
-            "zh-Hans": "打开 偏好设置"
+            "zh-Hans": "打开偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -169,7 +169,7 @@
           "id": "remote.bitwarden.item-editing-shortcuts.b404ebe3af",
           "title": {
             "en": "Select all text",
-            "zh-Hans": "全选 文本"
+            "zh-Hans": "全选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -181,7 +181,7 @@
           "id": "remote.bitwarden.item-editing-shortcuts.e05318d0a4",
           "title": {
             "en": "Cut selected text",
-            "zh-Hans": "剪切 所选 文本"
+            "zh-Hans": "剪切所选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -193,7 +193,7 @@
           "id": "remote.bitwarden.item-editing-shortcuts.dca3264acc",
           "title": {
             "en": "Copy selected text",
-            "zh-Hans": "复制 所选 文本"
+            "zh-Hans": "复制所选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -346,7 +346,7 @@
           "id": "remote.bitwarden.view-shortcuts.2c40cde443",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,

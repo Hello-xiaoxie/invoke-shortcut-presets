@@ -220,7 +220,7 @@
           "id": "remote.apple-freeform.edit-shortcuts.05128769a4",
           "title": {
             "en": "Duplicate selected item",
-            "zh-Hans": "创建副本 所选 项目"
+            "zh-Hans": "创建副本所选项目"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -334,7 +334,7 @@
           "id": "remote.apple-freeform.canvas-shortcuts.6c3addf059",
           "title": {
             "en": "Scroll to selected item",
-            "zh-Hans": "滚动to 所选 项目"
+            "zh-Hans": "滚动to 所选项目"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -346,7 +346,7 @@
           "id": "remote.apple-freeform.canvas-shortcuts.e39f8046f7",
           "title": {
             "en": "Group selected items",
-            "zh-Hans": "编组 所选 items"
+            "zh-Hans": "编组所选 items"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -358,7 +358,7 @@
           "id": "remote.apple-freeform.canvas-shortcuts.4462f207eb",
           "title": {
             "en": "Ungroup selected group",
-            "zh-Hans": "取消编组 所选 编组"
+            "zh-Hans": "取消编组所选编组"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -370,7 +370,7 @@
           "id": "remote.apple-freeform.canvas-shortcuts.91e9654632",
           "title": {
             "en": "Bring selected item forward",
-            "zh-Hans": "Bring 所选 项目 向前"
+            "zh-Hans": "Bring 所选项目向前"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -382,7 +382,7 @@
           "id": "remote.apple-freeform.canvas-shortcuts.bd1f7a9933",
           "title": {
             "en": "Send selected item backward",
-            "zh-Hans": "Send 所选 项目 向后"
+            "zh-Hans": "Send 所选项目向后"
           },
           "shortcutConfiguration": {
             "keyCode": 33,

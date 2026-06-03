@@ -1,0 +1,57 @@
+Add a column left the selected cells
+Add a column right the selected cells
+Add a row above the selected cells
+Add a row below the selected cells
+Bring object front
+Change a selected cell references
+Choose object to insert
+Close slide switcher
+Complete a cell entry and move the selection down
+Complete a cell entry and move the selection left
+Complete a cell entry and move the selection right
+Complete a cell entry and move the selection up
+Complete a cell entry and select the cell
+Create new documnet
+Cycle through absoluteness of selected references
+Cycle through absoluteness of selected references of start an d end of cell
+Discard Changes
+Display Inspector window
+Display Rulers
+Display colors window
+Display font window
+Extend the selection to the beginning of the row
+Extend the selection to the end of the row
+Go back through visited slides
+Go to first slide
+Go to last slide
+Go to next build
+Go to next slide
+Go to previous build
+Go to previous slide
+Go to previous slide(Slide Switcher)
+Insert a tab
+Insert line break
+Jump to beginnig of movie
+Jump to end of movie
+Keynote Help
+Mask/Umnask Image
+Move to the begining
+Move to the end
+Open formula editor
+Open formula editor for cell containing formula
+Pause and show black screen
+Pause and show current slide
+Pause and show white screen
+Play Slideshow
+Play/Pause movie
+Quit Presentation
+Reset the timer
+Rewind movie
+Save changes
+Scroll notes down in presenter display
+Scroll notes up in presenter display
+Select next cell
+Send object to back
+Show.hide format bar
+Show/hide chart data editor
+Show/hide pointers

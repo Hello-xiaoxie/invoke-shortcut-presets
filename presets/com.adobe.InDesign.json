@@ -454,7 +454,7 @@
           "id": "remote.adobe-indesign.file-menu-shortcuts.c7879f2087",
           "title": {
             "en": "Open File",
-            "zh-Hans": "打开 文件"
+            "zh-Hans": "打开文件"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -466,7 +466,7 @@
           "id": "remote.adobe-indesign.file-menu-shortcuts.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -703,7 +703,7 @@
           "id": "remote.adobe-indesign.edit-menu-shortcuts.845a7a0c54",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -1018,7 +1018,7 @@
           "id": "remote.adobe-indesign.object-menu-shortcuts.05a9d2a2ae",
           "title": {
             "en": "Fill frame proportionlly",
-            "zh-Hans": "填充 画框 proportionlly"
+            "zh-Hans": "填充画框 proportionlly"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1054,7 +1054,7 @@
           "id": "remote.adobe-indesign.object-menu-shortcuts.891f1bcb99",
           "title": {
             "en": "Text Frame Options",
-            "zh-Hans": "文本 画框 Options"
+            "zh-Hans": "文本画框 Options"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -1315,7 +1315,7 @@
           "id": "remote.adobe-indesign.view-menu-shortcuts.402d252900",
           "title": {
             "en": "Show All Plates",
-            "zh-Hans": "显示 全部 Plates"
+            "zh-Hans": "显示全部 Plates"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,

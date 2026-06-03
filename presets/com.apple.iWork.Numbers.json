@@ -19,7 +19,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.160edfecb6",
           "title": {
             "en": "Display font panel",
-            "zh-Hans": "Display 字体 面板"
+            "zh-Hans": "Display 字体面板"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -67,7 +67,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.a9925ccb5c",
           "title": {
             "en": "Font Zoom in/Zoom out",
-            "zh-Hans": "字体 放大/缩小"
+            "zh-Hans": "字体缩放"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -79,7 +79,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.f95182ee21",
           "title": {
             "en": "Align text left",
-            "zh-Hans": "对齐 文本 左"
+            "zh-Hans": "文本左对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -91,7 +91,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.b9613c6b57",
           "title": {
             "en": "Align text right",
-            "zh-Hans": "对齐 文本 右"
+            "zh-Hans": "文本右对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -103,7 +103,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.ac025e09e2",
           "title": {
             "en": "Align text justify",
-            "zh-Hans": "对齐 文本 justify"
+            "zh-Hans": "对齐文本 justify"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -115,7 +115,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.d52687b23a",
           "title": {
             "en": "Delete previous character",
-            "zh-Hans": "删除 上一个 字符"
+            "zh-Hans": "删除上一个字符"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -127,7 +127,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.49b40dc145",
           "title": {
             "en": "Delete next character",
-            "zh-Hans": "删除 下一个 字符"
+            "zh-Hans": "删除下一个字符"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -187,7 +187,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.1f3acc1d57",
           "title": {
             "en": "Insert paragraph break",
-            "zh-Hans": "插入 段落 break"
+            "zh-Hans": "插入段落 break"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -211,7 +211,7 @@
           "id": "remote.apple-numbers.formatting-and-editing-shortcuts.666862c0eb",
           "title": {
             "en": "Insert line break",
-            "zh-Hans": "插入 行 break"
+            "zh-Hans": "插入行 break"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -244,7 +244,7 @@
           "id": "remote.apple-numbers.general-shortcuts.d5321ec2fa",
           "title": {
             "en": "Open template chooser",
-            "zh-Hans": "打开 模板 chooser"
+            "zh-Hans": "打开模板 chooser"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -292,7 +292,7 @@
           "id": "remote.apple-numbers.general-shortcuts.4c7bfcfbde",
           "title": {
             "en": "Print selected spreadsheet",
-            "zh-Hans": "打印 所选 spreadsheet"
+            "zh-Hans": "打印所选 spreadsheet"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -316,7 +316,7 @@
           "id": "remote.apple-numbers.general-shortcuts.311842e8cb",
           "title": {
             "en": "Find next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -328,7 +328,7 @@
           "id": "remote.apple-numbers.general-shortcuts.eccb3fa2a7",
           "title": {
             "en": "Find previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -400,7 +400,7 @@
           "id": "remote.apple-numbers.general-shortcuts.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -412,7 +412,7 @@
           "id": "remote.apple-numbers.general-shortcuts.d94258f711",
           "title": {
             "en": "Minimize window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -424,7 +424,7 @@
           "id": "remote.apple-numbers.general-shortcuts.f08ae53cb7",
           "title": {
             "en": "Show preferences",
-            "zh-Hans": "显示 偏好设置"
+            "zh-Hans": "显示偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -448,7 +448,7 @@
           "id": "remote.apple-numbers.general-shortcuts.6288bfb56e",
           "title": {
             "en": "Show document rulers",
-            "zh-Hans": "显示 文档 rulers"
+            "zh-Hans": "显示文档 rulers"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -625,7 +625,7 @@
           "id": "remote.apple-numbers.navigation-shortcuts.6dcb373af6",
           "title": {
             "en": "Go to previous sheet if selected in sheets pane",
-            "zh-Hans": "Go to previous sheet if selected in sheets pane"
+            "zh-Hans": "上一张表格"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -637,7 +637,7 @@
           "id": "remote.apple-numbers.navigation-shortcuts.b09d6de1a0",
           "title": {
             "en": "Go to next sheet if selected in sheets pane",
-            "zh-Hans": "Go to next sheet if selected in sheets pane"
+            "zh-Hans": "下一张表格"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -880,7 +880,7 @@
           "id": "remote.apple-numbers.object-manipulation.b58c505e79",
           "title": {
             "en": "Select all object",
-            "zh-Hans": "全选 对象"
+            "zh-Hans": "全选对象"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -892,7 +892,7 @@
           "id": "remote.apple-numbers.object-manipulation.14e112f177",
           "title": {
             "en": "Deselect all object",
-            "zh-Hans": "Deselect 全部 对象"
+            "zh-Hans": "Deselect 全部对象"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1000,7 +1000,7 @@
           "id": "remote.apple-numbers.object-manipulation.4faf7b6e89",
           "title": {
             "en": "Exit mask mode",
-            "zh-Hans": "Exit 蒙版 模式"
+            "zh-Hans": "Exit 蒙版模式"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1012,7 +1012,7 @@
           "id": "remote.apple-numbers.object-manipulation.5754a8eb99",
           "title": {
             "en": "Exit text edit mode",
-            "zh-Hans": "Exit 文本 编辑 模式"
+            "zh-Hans": "Exit 文本编辑模式"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1033,7 +1033,7 @@
           "id": "remote.apple-numbers.table-editing.d1291f6e21",
           "title": {
             "en": "Select all cell contents",
-            "zh-Hans": "全选 单元格 contents"
+            "zh-Hans": "全选单元格 contents"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1045,7 +1045,7 @@
           "id": "remote.apple-numbers.table-editing.da7d71d989",
           "title": {
             "en": "Select all cell border",
-            "zh-Hans": "全选 单元格 border"
+            "zh-Hans": "全选单元格 border"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1057,7 +1057,7 @@
           "id": "remote.apple-numbers.table-editing.855ae3a5d3",
           "title": {
             "en": "Delete selected table contents",
-            "zh-Hans": "删除 所选 表格 contents"
+            "zh-Hans": "删除所选表格 contents"
           },
           "shortcutConfiguration": {
             "keyCode": 51,

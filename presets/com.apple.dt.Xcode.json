@@ -55,7 +55,7 @@
           "id": "remote.xcode.general-shortcuts.bea44913d9",
           "title": {
             "en": "Documentation fo Selected Text",
-            "zh-Hans": "Documentation fo 所选 文本"
+            "zh-Hans": "Documentation fo 所选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 44,
@@ -88,7 +88,7 @@
           "id": "remote.xcode.code-editing.7bce8c5eb7",
           "title": {
             "en": "Comment Selection",
-            "zh-Hans": "评论 选择"
+            "zh-Hans": "注释所选"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -355,7 +355,7 @@
           "id": "remote.xcode.debugging.fe60517766",
           "title": {
             "en": "Next Issue",
-            "zh-Hans": "下一个 事项"
+            "zh-Hans": "下一问题"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -367,7 +367,7 @@
           "id": "remote.xcode.debugging.d633327957",
           "title": {
             "en": "Previous Issue",
-            "zh-Hans": "上一个 事项"
+            "zh-Hans": "上一问题"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -379,7 +379,7 @@
           "id": "remote.xcode.debugging.b1ab029f13",
           "title": {
             "en": "Fix Next Issue",
-            "zh-Hans": "Fix 下一个 事项"
+            "zh-Hans": "Fix 下一个事项"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -391,7 +391,7 @@
           "id": "remote.xcode.debugging.9e03311520",
           "title": {
             "en": "Fix Previous Issue",
-            "zh-Hans": "Fix 上一个 事项"
+            "zh-Hans": "Fix 上一个事项"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -484,7 +484,7 @@
           "id": "remote.xcode.code-navigation.7105abc4fd",
           "title": {
             "en": "Previous Word",
-            "zh-Hans": "上一个 单词"
+            "zh-Hans": "上一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -496,7 +496,7 @@
           "id": "remote.xcode.code-navigation.694049e768",
           "title": {
             "en": "Next Word",
-            "zh-Hans": "下一个 单词"
+            "zh-Hans": "下一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -568,7 +568,7 @@
           "id": "remote.xcode.code-navigation.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -580,7 +580,7 @@
           "id": "remote.xcode.code-navigation.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -601,7 +601,7 @@
           "id": "remote.xcode.libraries.50320842c8",
           "title": {
             "en": "File Template",
-            "zh-Hans": "文件 模板"
+            "zh-Hans": "文件模板"
           },
           "shortcutConfiguration": {
             "keyCode": 18,

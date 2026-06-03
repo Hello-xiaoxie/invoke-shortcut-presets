@@ -91,7 +91,7 @@
           "id": "remote.adobe-after-effects.basics.f83bd8611c",
           "title": {
             "en": "Duplicate selected Layers, Masks, effects, etc.",
-            "zh-Hans": "Duplicate selected Layers, Masks, effects, etc."
+            "zh-Hans": "Duplicate selected Layers, Masks, effects, etc"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -151,7 +151,7 @@
           "id": "remote.adobe-after-effects.basics.82365755bc",
           "title": {
             "en": "Open Preferences dialog box",
-            "zh-Hans": "打开 偏好设置 对话框 box"
+            "zh-Hans": "打开偏好设置对话框 box"
           },
           "shortcutConfiguration": {
             "keyCode": 41,
@@ -196,7 +196,7 @@
           "id": "remote.adobe-after-effects.projects.2d95d9e8fb",
           "title": {
             "en": "Open Project",
-            "zh-Hans": "打开 项目"
+            "zh-Hans": "打开项目"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -232,7 +232,7 @@
           "id": "remote.adobe-after-effects.projects.299b8892ae",
           "title": {
             "en": "Open Project Settings dialog box",
-            "zh-Hans": "打开 项目 设置 对话框 box"
+            "zh-Hans": "打开项目设置对话框 box"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -1363,7 +1363,7 @@
           "id": "remote.adobe-after-effects.footage.ea11907639",
           "title": {
             "en": "Edit selected Footage item",
-            "zh-Hans": "编辑 所选 Footage 项目"
+            "zh-Hans": "编辑所选 Footage 项目"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -1375,7 +1375,7 @@
           "id": "remote.adobe-after-effects.footage.fe03dab140",
           "title": {
             "en": "Replace selected Footage item",
-            "zh-Hans": "替换 所选 Footage 项目"
+            "zh-Hans": "替换所选 Footage 项目"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -1525,7 +1525,7 @@
           "id": "remote.adobe-after-effects.layers.6648a63029",
           "title": {
             "en": "Deselect all Layers",
-            "zh-Hans": "Deselect 全部 图层"
+            "zh-Hans": "Deselect 全部图层"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1657,7 +1657,7 @@
           "id": "remote.adobe-after-effects.layers.b2dc87a36a",
           "title": {
             "en": "Precompose selected Layers",
-            "zh-Hans": "Precompose 所选 图层"
+            "zh-Hans": "Precompose 所选图层"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1765,7 +1765,7 @@
           "id": "remote.adobe-after-effects.layers.751b7c39e9",
           "title": {
             "en": "Lock / Unlock all Layers",
-            "zh-Hans": "锁定 / 解锁 全部 图层"
+            "zh-Hans": "锁定 / 解锁全部图层"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -2503,7 +2503,7 @@
           "id": "remote.adobe-after-effects.text.715b71a85b",
           "title": {
             "en": "Align horizontal text Left",
-            "zh-Hans": "对齐 水平 文本 左"
+            "zh-Hans": "对齐水平文本左"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -2515,7 +2515,7 @@
           "id": "remote.adobe-after-effects.text.c8efb80e11",
           "title": {
             "en": "Align horizontal text Center",
-            "zh-Hans": "对齐 水平 文本 中心"
+            "zh-Hans": "对齐水平文本中心"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -2527,7 +2527,7 @@
           "id": "remote.adobe-after-effects.text.9dd871ee6f",
           "title": {
             "en": "Align horizontal text Right align",
-            "zh-Hans": "对齐 水平 文本 右 对齐"
+            "zh-Hans": "对齐水平文本右对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -2539,7 +2539,7 @@
           "id": "remote.adobe-after-effects.text.1fd70a7bab",
           "title": {
             "en": "Align vertical text Top",
-            "zh-Hans": "对齐 垂直 文本 顶部"
+            "zh-Hans": "对齐垂直文本顶部"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -2551,7 +2551,7 @@
           "id": "remote.adobe-after-effects.text.14e7ff86d0",
           "title": {
             "en": "Align vertical text Bottom",
-            "zh-Hans": "对齐 垂直 文本 底部"
+            "zh-Hans": "对齐垂直文本底部"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -2767,7 +2767,7 @@
           "id": "remote.adobe-after-effects.text.fe9b897b80",
           "title": {
             "en": "Justify paragraph; left align last line",
-            "zh-Hans": "Justify 段落; 左 对齐 最后一个 行"
+            "zh-Hans": "Justify 段落; 左对齐最后一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -2779,7 +2779,7 @@
           "id": "remote.adobe-after-effects.text.0def554aaa",
           "title": {
             "en": "Justify paragraph; right align last line",
-            "zh-Hans": "Justify 段落; 右 对齐 最后一个 行"
+            "zh-Hans": "Justify 段落; 右对齐最后一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -2791,7 +2791,7 @@
           "id": "remote.adobe-after-effects.text.ca70d9ef6b",
           "title": {
             "en": "Justify paragraph; force last line",
-            "zh-Hans": "Justify 段落; force 最后一个 行"
+            "zh-Hans": "Justify 段落; force 最后一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -2932,7 +2932,7 @@
           "id": "remote.adobe-after-effects.masks.9cc9e6dd46",
           "title": {
             "en": "Select next / previous Mask",
-            "zh-Hans": "选择next / 上一个 蒙版"
+            "zh-Hans": "选择next / 上一个蒙版"
           },
           "shortcutConfiguration": {
             "keyCode": 50,
@@ -2956,7 +2956,7 @@
           "id": "remote.adobe-after-effects.masks.312d92a920",
           "title": {
             "en": "Invert selected Mask",
-            "zh-Hans": "Invert 所选 蒙版"
+            "zh-Hans": "Invert 所选蒙版"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -2980,7 +2980,7 @@
           "id": "remote.adobe-after-effects.masks.83d8065a1c",
           "title": {
             "en": "Open Mask Shape dialog box",
-            "zh-Hans": "打开 蒙版 形状 对话框 box"
+            "zh-Hans": "打开蒙版形状对话框 box"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -3058,7 +3058,7 @@
           "id": "remote.adobe-after-effects.shape-layers.96c8b1ab26",
           "title": {
             "en": "Group / ungroup selected Shapes",
-            "zh-Hans": "编组 / 取消编组 所选 Shapes"
+            "zh-Hans": "编组 / 取消编组所选 Shapes"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -3103,7 +3103,7 @@
           "id": "remote.adobe-after-effects.saving-exporting-and-rendering.f489414a10",
           "title": {
             "en": "Save Project",
-            "zh-Hans": "存储 项目"
+            "zh-Hans": "存储项目"
           },
           "shortcutConfiguration": {
             "keyCode": 1,

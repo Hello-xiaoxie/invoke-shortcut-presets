@@ -91,7 +91,7 @@
           "id": "remote.fantastical.general.3b4b6c9bec",
           "title": {
             "en": "Open Settings",
-            "zh-Hans": "打开 设置"
+            "zh-Hans": "打开设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -163,7 +163,7 @@
           "id": "remote.fantastical.general.d169eace25",
           "title": {
             "en": "Delete item",
-            "zh-Hans": "删除 项目"
+            "zh-Hans": "删除项目"
           },
           "shortcutConfiguration": {
             "keyCode": 51,

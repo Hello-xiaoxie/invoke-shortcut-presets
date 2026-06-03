@@ -31,7 +31,7 @@
           "id": "remote.mps.general.a1ab5b8c5c",
           "title": {
             "en": "Open Settings dialog",
-            "zh-Hans": "打开 设置 对话框"
+            "zh-Hans": "打开设置对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -532,7 +532,7 @@
           "id": "remote.mps.baselanguage-editing.8386c6cecc",
           "title": {
             "en": "Create new ...",
-            "zh-Hans": "Create new ..."
+            "zh-Hans": "Create new"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -544,7 +544,7 @@
           "id": "remote.mps.baselanguage-editing.82dc895976",
           "title": {
             "en": "Show node information",
-            "zh-Hans": "显示 节点 information"
+            "zh-Hans": "显示节点 information"
           },
           "shortcutConfiguration": {
             "keyCode": 12,
@@ -697,7 +697,7 @@
           "id": "remote.mps.navigation.c25ca03b39",
           "title": {
             "en": "Go to previous project window",
-            "zh-Hans": "转到previous 项目 窗口"
+            "zh-Hans": "转到previous 项目窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -709,7 +709,7 @@
           "id": "remote.mps.navigation.a8462d6941",
           "title": {
             "en": "Go to next project window",
-            "zh-Hans": "转到next 项目 窗口"
+            "zh-Hans": "转到next 项目窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -745,7 +745,7 @@
           "id": "remote.mps.navigation.a989ac47f6",
           "title": {
             "en": "Close active editor tab",
-            "zh-Hans": "关闭 活动 编辑器 标签页"
+            "zh-Hans": "关闭活动编辑器标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -757,7 +757,7 @@
           "id": "remote.mps.navigation.28b702c694",
           "title": {
             "en": "Edit source / View source",
-            "zh-Hans": "编辑 源 / 视图 源"
+            "zh-Hans": "编辑源 / 视图源"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -841,7 +841,7 @@
           "id": "remote.mps.navigation.2ccc71bc2c",
           "title": {
             "en": "Hide all tool windows",
-            "zh-Hans": "隐藏 全部 tool windows"
+            "zh-Hans": "隐藏全部 tool windows"
           },
           "shortcutConfiguration": {
             "keyCode": 111,
@@ -889,7 +889,7 @@
           "id": "remote.mps.navigation.e872131181",
           "title": {
             "en": "Go to previous editor tab",
-            "zh-Hans": "转到previous 编辑器 标签页"
+            "zh-Hans": "转到previous 编辑器标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -901,7 +901,7 @@
           "id": "remote.mps.navigation.edc86e8f88",
           "title": {
             "en": "Go to next editor tab",
-            "zh-Hans": "转到next 编辑器 标签页"
+            "zh-Hans": "转到next 编辑器标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -1030,7 +1030,7 @@
           "id": "remote.mps.find-usages-and-search.f4ace1dcb9",
           "title": {
             "en": "Find previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -1042,7 +1042,7 @@
           "id": "remote.mps.find-usages-and-search.3f91f6d26b",
           "title": {
             "en": "Find next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -1054,7 +1054,7 @@
           "id": "remote.mps.find-usages-and-search.c350cd17c5",
           "title": {
             "en": "Find text",
-            "zh-Hans": "查找 文本"
+            "zh-Hans": "查找文本"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -1264,7 +1264,7 @@
           "id": "remote.mps.general-editing.92adc0904c",
           "title": {
             "en": "Shrink block selection region",
-            "zh-Hans": "Shrink block 选择 区域"
+            "zh-Hans": "Shrink block 选择区域"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -1300,7 +1300,7 @@
           "id": "remote.mps.general-editing.3364cf6a98",
           "title": {
             "en": "Surround with...",
-            "zh-Hans": "Surround with..."
+            "zh-Hans": "Surround with"
           },
           "shortcutConfiguration": {
             "keyCode": 17,

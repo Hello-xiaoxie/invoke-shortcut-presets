@@ -19,7 +19,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.ed783949cf",
           "title": {
             "en": "Insert Line After",
-            "zh-Hans": "插入 行 After"
+            "zh-Hans": "插入行 After"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -31,7 +31,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.c61870b314",
           "title": {
             "en": "Insert Line Before",
-            "zh-Hans": "插入 行 Before"
+            "zh-Hans": "插入行 Before"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -103,7 +103,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.f99785ea0a",
           "title": {
             "en": "Selection Up",
-            "zh-Hans": "选择 上"
+            "zh-Hans": "选择上"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -115,7 +115,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.e6eb9d2637",
           "title": {
             "en": "Selection Down",
-            "zh-Hans": "选择 下"
+            "zh-Hans": "选择下"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -127,7 +127,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.f4bcd11293",
           "title": {
             "en": "Cut Line",
-            "zh-Hans": "剪切 行"
+            "zh-Hans": "剪切行"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -139,7 +139,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.d081d822df",
           "title": {
             "en": "Delete Line",
-            "zh-Hans": "删除 行"
+            "zh-Hans": "删除行"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -211,7 +211,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.fb9a1e1c68",
           "title": {
             "en": "Paste Line",
-            "zh-Hans": "粘贴 行"
+            "zh-Hans": "粘贴行"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -235,7 +235,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.b87e8735e8",
           "title": {
             "en": "Close Current HTML Tag",
-            "zh-Hans": "关闭 当前 HTML 标签"
+            "zh-Hans": "关闭当前 HTML 标签"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -307,7 +307,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.5bbbbac19d",
           "title": {
             "en": "Comment/Uncomment Current Line",
-            "zh-Hans": "评论/Uncomment 当前 行"
+            "zh-Hans": "评论/Uncomment 当前行"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -319,7 +319,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.5bb003c4c5",
           "title": {
             "en": "Block Comment Current Selection",
-            "zh-Hans": "Block 评论 当前 选择"
+            "zh-Hans": "Block 评论当前选择"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -475,7 +475,7 @@
           "id": "remote.sublime-text.general-editing-shortcuts.fa6010c56d",
           "title": {
             "en": "Switch FullScreen Mode",
-            "zh-Hans": "Switch 全屏 模式"
+            "zh-Hans": "Switch 全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -520,7 +520,7 @@
           "id": "remote.sublime-text.column-selection-shortcuts.2b87b5f9a8",
           "title": {
             "en": "Column Selection Up",
-            "zh-Hans": "列 选择 上"
+            "zh-Hans": "列选择上"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -532,7 +532,7 @@
           "id": "remote.sublime-text.column-selection-shortcuts.677e8f7e8f",
           "title": {
             "en": "Column Selection Down",
-            "zh-Hans": "列 选择 下"
+            "zh-Hans": "列选择下"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -691,7 +691,7 @@
           "id": "remote.sublime-text.navigation-through-tabs.26f9191247",
           "title": {
             "en": "Close Current Tab",
-            "zh-Hans": "关闭 当前 标签页"
+            "zh-Hans": "关闭当前标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -829,7 +829,7 @@
           "id": "remote.sublime-text.bookmarks-shortcuts.be11fb35ff",
           "title": {
             "en": "Next Bookmark",
-            "zh-Hans": "下一个 书签"
+            "zh-Hans": "下一个书签"
           },
           "shortcutConfiguration": {
             "keyCode": 120,
@@ -841,7 +841,7 @@
           "id": "remote.sublime-text.bookmarks-shortcuts.2309a1b3e9",
           "title": {
             "en": "Previous Bookmark",
-            "zh-Hans": "上一个 书签"
+            "zh-Hans": "上一个书签"
           },
           "shortcutConfiguration": {
             "keyCode": 120,
@@ -910,7 +910,7 @@
           "id": "remote.sublime-text.other-shortcuts.342c5fa783",
           "title": {
             "en": "Clip text Upwards/Downwards",
-            "zh-Hans": "片段 文本 Upwards/Downwards"
+            "zh-Hans": "片段文本 Upwards/Downwards"
           },
           "shortcutConfiguration": {
             "keyCode": 126,

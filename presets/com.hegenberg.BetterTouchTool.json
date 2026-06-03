@@ -19,7 +19,7 @@
           "id": "remote.bettertouchtool.general.919dbef065",
           "title": {
             "en": "Open Preferences",
-            "zh-Hans": "打开 偏好设置"
+            "zh-Hans": "打开偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -67,7 +67,7 @@
           "id": "remote.bettertouchtool.general.3179cd0bc7",
           "title": {
             "en": "Minimize Window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -136,7 +136,7 @@
           "id": "remote.bettertouchtool.configuration.6ac8539915",
           "title": {
             "en": "Duplicate selected trigger",
-            "zh-Hans": "创建副本 所选 trigger"
+            "zh-Hans": "创建副本所选 trigger"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -172,7 +172,7 @@
           "id": "remote.bettertouchtool.configuration.9bbaffa0fe",
           "title": {
             "en": "Delete selected trigger",
-            "zh-Hans": "删除 所选 trigger"
+            "zh-Hans": "删除所选 trigger"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -184,7 +184,7 @@
           "id": "remote.bettertouchtool.configuration.69c8a15c28",
           "title": {
             "en": "Save current configuration",
-            "zh-Hans": "存储 当前 configuration"
+            "zh-Hans": "存储当前 configuration"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -217,7 +217,7 @@
           "id": "remote.bettertouchtool.window-snapping.40818241ca",
           "title": {
             "en": "Maximize Window Left Half",
-            "zh-Hans": "Maximize 窗口 左 Half"
+            "zh-Hans": "Maximize 窗口左 Half"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -229,7 +229,7 @@
           "id": "remote.bettertouchtool.window-snapping.98000c5ce1",
           "title": {
             "en": "Maximize Window Right Half",
-            "zh-Hans": "Maximize 窗口 右 Half"
+            "zh-Hans": "Maximize 窗口右 Half"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -253,7 +253,7 @@
           "id": "remote.bettertouchtool.window-snapping.586709182e",
           "title": {
             "en": "Center Window",
-            "zh-Hans": "中心 窗口"
+            "zh-Hans": "中心窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -277,7 +277,7 @@
           "id": "remote.bettertouchtool.window-snapping.7648db6277",
           "title": {
             "en": "Maximize Window Top Half",
-            "zh-Hans": "Maximize 窗口 顶部 Half"
+            "zh-Hans": "Maximize 窗口顶部 Half"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -289,7 +289,7 @@
           "id": "remote.bettertouchtool.window-snapping.181046d677",
           "title": {
             "en": "Maximize Window Bottom Half",
-            "zh-Hans": "Maximize 窗口 底部 Half"
+            "zh-Hans": "Maximize 窗口底部 Half"
           },
           "shortcutConfiguration": {
             "keyCode": 125,

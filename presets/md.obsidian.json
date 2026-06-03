@@ -112,7 +112,7 @@
           "id": "remote.obsidian.search.825682daca",
           "title": {
             "en": "Search ",
-            "zh-Hans": "搜索 "
+            "zh-Hans": "搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -124,7 +124,7 @@
           "id": "remote.obsidian.search.e756253550",
           "title": {
             "en": "Search current file",
-            "zh-Hans": "搜索 当前 文件"
+            "zh-Hans": "搜索当前文件"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -145,7 +145,7 @@
           "id": "remote.obsidian.pane-handling.df3777fd04",
           "title": {
             "en": "Close active pane",
-            "zh-Hans": "关闭 活动 窗格"
+            "zh-Hans": "关闭活动窗格"
           },
           "shortcutConfiguration": {
             "keyCode": 13,

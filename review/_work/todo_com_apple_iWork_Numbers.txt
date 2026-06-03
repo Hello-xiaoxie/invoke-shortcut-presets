@@ -1,0 +1,61 @@
+Align text justify
+Close numbers
+Delete selected table contents
+Deselect all object
+Display font panel
+Display layout
+Duplicate objects
+Exit text edit mode
+Extend selection of a character to left
+Extend selection of a character to right
+Extend selection to beginning of current line
+Extend selection to beginning of current word
+Extend selection to beginning of text
+Extend selection to end of current line
+Extend selection to end of current word
+Extend selection to end of text
+Extend selection to the line above
+Extend selection to the line below
+Go to beginning of spreadsheet
+Go to end of spreadsheet
+Go to next sheet if selected in sheets pane
+Go to next spreadsheet
+Go to previous sheet if selected in sheets pane
+Go to previous spreadsheet
+Hide numbers
+Hide other windows
+Insert a tab when editing cell
+Insert line break
+Insert nonbreaking space
+Insert paragraph break
+Mask/Unmask objects
+Move Object ten points
+Move object one point
+Move to beginning of current/previous word
+Move to beginning of line
+Move to beginning of paragraph
+Move to end of current/next word
+Move to end of line
+Move to end of paragraph
+New spreadsheet
+Open existing spreadsheet
+Open template chooser
+Paste and match formatting with destintion text
+Print selected spreadsheet
+Save spreadsheet
+Scroll one screen down
+Scroll one screen left
+Scroll one screen right
+Scroll one screen up
+Scroll to find selection
+Select all cell border
+Select all cell contents
+Select next cell
+Select previous cell
+Show colors window
+Show document rulers
+Show inspector window
+Spelling check
+Spelling window
+Stop editing cells and select table
+Unlock objects

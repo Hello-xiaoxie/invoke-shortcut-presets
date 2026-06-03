@@ -184,7 +184,7 @@
           "id": "remote.nova.editing.995d82b044",
           "title": {
             "en": "Duplicate Line",
-            "zh-Hans": "创建副本 行"
+            "zh-Hans": "创建副本行"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -196,7 +196,7 @@
           "id": "remote.nova.editing.0b6ef34704",
           "title": {
             "en": "Delete Line",
-            "zh-Hans": "删除 行"
+            "zh-Hans": "删除行"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -334,7 +334,7 @@
           "id": "remote.nova.find-and-replace.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -346,7 +346,7 @@
           "id": "remote.nova.find-and-replace.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -391,7 +391,7 @@
           "id": "remote.nova.file-operations.c7879f2087",
           "title": {
             "en": "Open File",
-            "zh-Hans": "打开 文件"
+            "zh-Hans": "打开文件"
           },
           "shortcutConfiguration": {
             "keyCode": 31,

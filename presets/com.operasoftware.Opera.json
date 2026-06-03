@@ -19,7 +19,7 @@
           "id": "remote.opera.navigation.c261656deb",
           "title": {
             "en": "Move one line up",
-            "zh-Hans": "移动one 行 上"
+            "zh-Hans": "移动one 行上"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -31,7 +31,7 @@
           "id": "remote.opera.navigation.13ebd8e94a",
           "title": {
             "en": "Move one line down",
-            "zh-Hans": "移动one 行 下"
+            "zh-Hans": "移动one 行下"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -172,7 +172,7 @@
           "id": "remote.opera.focus.75d197cef5",
           "title": {
             "en": "Edit Item properties",
-            "zh-Hans": "编辑 项目 properties"
+            "zh-Hans": "编辑项目 properties"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -430,7 +430,7 @@
           "id": "remote.opera.text-editing.b0fdc0eb95",
           "title": {
             "en": "Toggle text-style bold",
-            "zh-Hans": "Toggle 文本-样式 加粗"
+            "zh-Hans": "Toggle 文本-样式加粗"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -442,7 +442,7 @@
           "id": "remote.opera.text-editing.7c9bfc27de",
           "title": {
             "en": "Toggle text-style italic",
-            "zh-Hans": "Toggle 文本-样式 斜体"
+            "zh-Hans": "Toggle 文本-样式斜体"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -454,7 +454,7 @@
           "id": "remote.opera.text-editing.6938e5979d",
           "title": {
             "en": "Toggle text-style underline",
-            "zh-Hans": "Toggle 文本-样式 下划线"
+            "zh-Hans": "Toggle 文本-样式下划线"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -475,7 +475,7 @@
           "id": "remote.opera.find.c350cd17c5",
           "title": {
             "en": "Find text",
-            "zh-Hans": "查找 文本"
+            "zh-Hans": "查找文本"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -649,7 +649,7 @@
           "id": "remote.opera.transmission-loading.42f409ccbf",
           "title": {
             "en": "Reload selected frame",
-            "zh-Hans": "Reload 所选 画框"
+            "zh-Hans": "Reload 所选画框"
           },
           "shortcutConfiguration": {
             "keyCode": 96,
@@ -661,7 +661,7 @@
           "id": "remote.opera.transmission-loading.005c915a7b",
           "title": {
             "en": "Reload all open pages",
-            "zh-Hans": "Reload 全部 打开 页面"
+            "zh-Hans": "Reload 全部打开页面"
           },
           "shortcutConfiguration": {
             "keyCode": 96,
@@ -685,7 +685,7 @@
           "id": "remote.opera.transmission-loading.672f4d6bd2",
           "title": {
             "en": "Read selected text using voice function",
-            "zh-Hans": "已读 所选 文本 using voice 函数"
+            "zh-Hans": "已读所选文本 using voice 函数"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -766,7 +766,7 @@
           "id": "remote.opera.history.af0619f56c",
           "title": {
             "en": "Show entire forward history",
-            "zh-Hans": "显示 entire 向前 历史记录"
+            "zh-Hans": "显示 entire 向前历史记录"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -778,7 +778,7 @@
           "id": "remote.opera.history.f2a9766915",
           "title": {
             "en": "Show entire backward history",
-            "zh-Hans": "显示 entire 向后 历史记录"
+            "zh-Hans": "显示 entire 向后历史记录"
           },
           "shortcutConfiguration": {
             "keyCode": 6,
@@ -961,7 +961,7 @@
           "id": "remote.opera.source.d58ef7bd7a",
           "title": {
             "en": "View page source",
-            "zh-Hans": "视图 页面 源"
+            "zh-Hans": "视图页面源"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -1042,7 +1042,7 @@
           "id": "remote.opera.link.71eb8c6584",
           "title": {
             "en": "Follow selected link",
-            "zh-Hans": "Follow 所选 链接"
+            "zh-Hans": "Follow 所选链接"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -1078,7 +1078,7 @@
           "id": "remote.opera.link.3fe9ebe094",
           "title": {
             "en": "Save selected link as new bookmark",
-            "zh-Hans": "存储 所选 链接 as new 书签"
+            "zh-Hans": "存储所选链接 as new 书签"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -1090,7 +1090,7 @@
           "id": "remote.opera.link.f8d30de867",
           "title": {
             "en": "Copy selected link address",
-            "zh-Hans": "复制 所选 链接 address"
+            "zh-Hans": "复制所选链接 address"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1216,7 +1216,7 @@
           "id": "remote.opera.panel.3ef96f9c9c",
           "title": {
             "en": "Toggle last active panel",
-            "zh-Hans": "切换last 活动 面板"
+            "zh-Hans": "切换last 活动面板"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -1393,7 +1393,7 @@
           "id": "remote.opera.bookmarks.ac4197c28e",
           "title": {
             "en": "Open bookmark",
-            "zh-Hans": "打开 书签"
+            "zh-Hans": "打开书签"
           },
           "shortcutConfiguration": {
             "keyCode": 76,

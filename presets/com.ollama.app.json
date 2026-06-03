@@ -31,7 +31,7 @@
           "id": "remote.ollama.file.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -154,7 +154,7 @@
           "id": "remote.ollama.window.74c025baca",
           "title": {
             "en": "Fill window",
-            "zh-Hans": "填充 窗口"
+            "zh-Hans": "填充窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -166,7 +166,7 @@
           "id": "remote.ollama.window.8356544311",
           "title": {
             "en": "Center window",
-            "zh-Hans": "中心 窗口"
+            "zh-Hans": "中心窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -178,7 +178,7 @@
           "id": "remote.ollama.window.c9d81b07c3",
           "title": {
             "en": "Move ",
-            "zh-Hans": "Move "
+            "zh-Hans": "Move"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

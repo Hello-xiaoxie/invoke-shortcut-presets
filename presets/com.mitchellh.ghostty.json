@@ -91,7 +91,7 @@
           "id": "remote.ghostty.file.9eb03d01ca",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -103,7 +103,7 @@
           "id": "remote.ghostty.file.2766d3bc20",
           "title": {
             "en": "Close all windows",
-            "zh-Hans": "关闭 全部 windows"
+            "zh-Hans": "关闭全部 windows"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -184,7 +184,7 @@
           "id": "remote.ghostty.edit.6f4182faad",
           "title": {
             "en": "Paste selection",
-            "zh-Hans": "粘贴 选择"
+            "zh-Hans": "粘贴选择"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -217,7 +217,7 @@
           "id": "remote.ghostty.view.2bb99694dc",
           "title": {
             "en": "Show all tabs",
-            "zh-Hans": "显示 全部 标签页"
+            "zh-Hans": "显示全部标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 42,
@@ -358,7 +358,7 @@
           "id": "remote.ghostty.window.cfb1e9b702",
           "title": {
             "en": "Show previous tab",
-            "zh-Hans": "显示 上一个 标签页"
+            "zh-Hans": "显示上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -370,7 +370,7 @@
           "id": "remote.ghostty.window.8711a86d9b",
           "title": {
             "en": "Show next tab",
-            "zh-Hans": "显示 下一个 标签页"
+            "zh-Hans": "显示下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 48,

@@ -208,7 +208,7 @@
           "id": "remote.sketch.font-editing.5527434977",
           "title": {
             "en": "Increase Character Spacing",
-            "zh-Hans": "Increase 字符 间距"
+            "zh-Hans": "Increase 字符间距"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -220,7 +220,7 @@
           "id": "remote.sketch.font-editing.255ac7efc6",
           "title": {
             "en": "Decrease Character Spacing",
-            "zh-Hans": "Decrease 字符 间距"
+            "zh-Hans": "Decrease 字符间距"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -325,7 +325,7 @@
           "id": "remote.sketch.canvas-view.01d00656e2",
           "title": {
             "en": "Center Canvas",
-            "zh-Hans": "中心 画布"
+            "zh-Hans": "中心画布"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -349,7 +349,7 @@
           "id": "remote.sketch.canvas-view.c7b915ef92",
           "title": {
             "en": "Center Selection",
-            "zh-Hans": "中心 选择"
+            "zh-Hans": "中心选择"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -547,7 +547,7 @@
           "id": "remote.sketch.editing-shapes.dae5671b06",
           "title": {
             "en": "Keep Current Selection",
-            "zh-Hans": "Keep 当前 选择"
+            "zh-Hans": "Keep 当前选择"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -688,7 +688,7 @@
           "id": "remote.sketch.editing-layers.2ae9046732",
           "title": {
             "en": "Copy Style",
-            "zh-Hans": "复制 样式"
+            "zh-Hans": "复制样式"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -700,7 +700,7 @@
           "id": "remote.sketch.editing-layers.3b10406511",
           "title": {
             "en": "Paste Style",
-            "zh-Hans": "粘贴 样式"
+            "zh-Hans": "粘贴样式"
           },
           "shortcutConfiguration": {
             "keyCode": 9,

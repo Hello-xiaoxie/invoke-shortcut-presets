@@ -376,7 +376,7 @@
           "id": "remote.thunderbird.compose-and-edit-message.fb6248e364",
           "title": {
             "en": "Delete current word",
-            "zh-Hans": "删除 当前 单词"
+            "zh-Hans": "删除当前单词"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -388,7 +388,7 @@
           "id": "remote.thunderbird.compose-and-edit-message.c96d5ae256",
           "title": {
             "en": "Delete previous word",
-            "zh-Hans": "删除 上一个 单词"
+            "zh-Hans": "删除上一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -493,7 +493,7 @@
           "id": "remote.thunderbird.mark-delete-and-move-message.a92cc8d77d",
           "title": {
             "en": "Move to previous folder",
-            "zh-Hans": "移动to 上一个 文件夹"
+            "zh-Hans": "移动to 上一个文件夹"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

@@ -469,7 +469,7 @@
           "id": "remote.linear.workflow.5e7c3fa438",
           "title": {
             "en": "Copy issue id",
-            "zh-Hans": "复制 事项 id"
+            "zh-Hans": "复制事项 id"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -502,7 +502,7 @@
           "id": "remote.linear.filtering-issues.e33f0773c9",
           "title": {
             "en": "Clear last issue filter",
-            "zh-Hans": "清除last 事项 滤镜"
+            "zh-Hans": "清除last 事项滤镜"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -796,7 +796,7 @@
           "id": "remote.linear.issue-actions.728572c8ad",
           "title": {
             "en": "Edit issue",
-            "zh-Hans": "编辑 事项"
+            "zh-Hans": "编辑事项"
           },
           "shortcutConfiguration": {
             "keyCode": 14,

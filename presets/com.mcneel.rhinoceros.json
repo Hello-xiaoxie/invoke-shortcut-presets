@@ -91,7 +91,7 @@
           "id": "remote.rhinoceros-3d.navigation.cc8014d83c",
           "title": {
             "en": "Next viewport active. ",
-            "zh-Hans": "下一个 viewport 活动. "
+            "zh-Hans": "下一个 viewport 活动"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -340,7 +340,7 @@
           "id": "remote.rhinoceros-3d.general.3179cd0bc7",
           "title": {
             "en": "Minimize Window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -460,7 +460,7 @@
           "id": "remote.rhinoceros-3d.general.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -472,7 +472,7 @@
           "id": "remote.rhinoceros-3d.general.b7452b58ea",
           "title": {
             "en": "Close all windows",
-            "zh-Hans": "关闭 全部 windows"
+            "zh-Hans": "关闭全部 windows"
           },
           "shortcutConfiguration": {
             "keyCode": 13,

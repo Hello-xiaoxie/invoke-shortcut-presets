@@ -67,7 +67,7 @@
           "id": "remote.asana.application.771bb16823",
           "title": {
             "en": "Collapse the right pane",
-            "zh-Hans": "折叠the 右 窗格"
+            "zh-Hans": "折叠the 右窗格"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -193,7 +193,7 @@
           "id": "remote.asana.navigation.734f7c7cfb",
           "title": {
             "en": "Assign Selected Task",
-            "zh-Hans": "Assign 所选 任务"
+            "zh-Hans": "Assign 所选任务"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -322,7 +322,7 @@
           "id": "remote.asana.task-actions.3ed1f8cbe7",
           "title": {
             "en": "Copy Selected Tasks",
-            "zh-Hans": "复制 所选 Tasks"
+            "zh-Hans": "复制所选 Tasks"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -358,7 +358,7 @@
           "id": "remote.asana.task-actions.5884da2e8d",
           "title": {
             "en": "Complete Selected Task(s)",
-            "zh-Hans": "Complete 所选 任务(s)"
+            "zh-Hans": "Complete 所选任务(s)"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -382,7 +382,7 @@
           "id": "remote.asana.task-actions.fb01594b45",
           "title": {
             "en": "Delete Selected Task(s)",
-            "zh-Hans": "删除 所选 任务(s)"
+            "zh-Hans": "删除所选任务(s)"
           },
           "shortcutConfiguration": {
             "keyCode": 117,

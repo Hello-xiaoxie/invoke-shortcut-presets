@@ -31,7 +31,7 @@
           "id": "remote.devonthink.file.501436c4fc",
           "title": {
             "en": "Index Files and Folders...",
-            "zh-Hans": "Index Files and Folders..."
+            "zh-Hans": "Index Files and Folders"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -67,7 +67,7 @@
           "id": "remote.devonthink.file.f01a855d81",
           "title": {
             "en": "Database Properties...",
-            "zh-Hans": "Database Properties..."
+            "zh-Hans": "Database Properties"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -91,7 +91,7 @@
           "id": "remote.devonthink.file.7686452d5d",
           "title": {
             "en": "Verify ",
-            "zh-Hans": "Verify "
+            "zh-Hans": "Verify"
           },
           "shortcutConfiguration": {
             "keyCode": 16,
@@ -127,7 +127,7 @@
           "id": "remote.devonthink.file.b42cbf797c",
           "title": {
             "en": "Page Setup...",
-            "zh-Hans": "页面 Setup..."
+            "zh-Hans": "页面 Setup"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -139,7 +139,7 @@
           "id": "remote.devonthink.file.530d91fada",
           "title": {
             "en": "Print...",
-            "zh-Hans": "打印..."
+            "zh-Hans": "打印"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -268,7 +268,7 @@
           "id": "remote.devonthink.edit.5121f40beb",
           "title": {
             "en": "Tags...",
-            "zh-Hans": "标签..."
+            "zh-Hans": "标签"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -337,7 +337,7 @@
           "id": "remote.devonthink.data.36812c54fd",
           "title": {
             "en": "Save All",
-            "zh-Hans": "存储 全部"
+            "zh-Hans": "存储全部"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -361,7 +361,7 @@
           "id": "remote.devonthink.data.9d87fe9a60",
           "title": {
             "en": "Move To...",
-            "zh-Hans": "移动To..."
+            "zh-Hans": "移动To"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -643,7 +643,7 @@
           "id": "remote.devonthink.view.5bdbee1407",
           "title": {
             "en": "Show Tags",
-            "zh-Hans": "显示 标签"
+            "zh-Hans": "显示标签"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -712,7 +712,7 @@
           "id": "remote.devonthink.go.8d4ee2b32d",
           "title": {
             "en": "Top Group",
-            "zh-Hans": "顶部 编组"
+            "zh-Hans": "顶部编组"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -736,7 +736,7 @@
           "id": "remote.devonthink.go.a6778bbdac",
           "title": {
             "en": "Selected Group",
-            "zh-Hans": "所选 编组"
+            "zh-Hans": "所选编组"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -760,7 +760,7 @@
           "id": "remote.devonthink.go.f0ba8a81be",
           "title": {
             "en": "First Document",
-            "zh-Hans": "第一个 文档"
+            "zh-Hans": "第一个文档"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -772,7 +772,7 @@
           "id": "remote.devonthink.go.907e211f24",
           "title": {
             "en": "Previous Document",
-            "zh-Hans": "上一个 文档"
+            "zh-Hans": "上一个文档"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -784,7 +784,7 @@
           "id": "remote.devonthink.go.e3b0cdb24b",
           "title": {
             "en": "Next Document",
-            "zh-Hans": "下一个 文档"
+            "zh-Hans": "下一个文档"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -796,7 +796,7 @@
           "id": "remote.devonthink.go.4dc856f665",
           "title": {
             "en": "Last Document",
-            "zh-Hans": "最后一个 文档"
+            "zh-Hans": "最后一个文档"
           },
           "shortcutConfiguration": {
             "keyCode": 119,
@@ -880,7 +880,7 @@
           "id": "remote.devonthink.go.97c1e9f06b",
           "title": {
             "en": "Previous Instance",
-            "zh-Hans": "上一个 实例"
+            "zh-Hans": "上一个实例"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -892,7 +892,7 @@
           "id": "remote.devonthink.go.454f28f6fa",
           "title": {
             "en": "Next Instance",
-            "zh-Hans": "下一个 实例"
+            "zh-Hans": "下一个实例"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -928,7 +928,7 @@
           "id": "remote.devonthink.go.a4e7f2b5a3",
           "title": {
             "en": "Next Unread Item",
-            "zh-Hans": "下一个 未读 项目"
+            "zh-Hans": "下一个未读项目"
           },
           "shortcutConfiguration": {
             "keyCode": 30,

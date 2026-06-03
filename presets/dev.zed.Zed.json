@@ -79,7 +79,7 @@
           "id": "remote.zed.file.0ed2479d1e",
           "title": {
             "en": "Open Folder",
-            "zh-Hans": "打开 文件夹"
+            "zh-Hans": "打开文件夹"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -124,7 +124,7 @@
           "id": "remote.zed.edit.d081d822df",
           "title": {
             "en": "Delete Line",
-            "zh-Hans": "删除 行"
+            "zh-Hans": "删除行"
           },
           "shortcutConfiguration": {
             "keyCode": 40,

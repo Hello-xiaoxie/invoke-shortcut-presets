@@ -301,7 +301,7 @@
           "id": "remote.omnifocus.edit-menu.42e9dae451",
           "title": {
             "en": "Edit Note",
-            "zh-Hans": "编辑 笔记"
+            "zh-Hans": "编辑笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -370,7 +370,7 @@
           "id": "remote.omnifocus.find.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -382,7 +382,7 @@
           "id": "remote.omnifocus.find.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -694,7 +694,7 @@
           "id": "remote.omnifocus.view-menu.b94fd6cdb2",
           "title": {
             "en": "Show/Hide All Notes",
-            "zh-Hans": "显示/隐藏 全部 笔记"
+            "zh-Hans": "显示/隐藏全部笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -706,7 +706,7 @@
           "id": "remote.omnifocus.view-menu.142f3ed267",
           "title": {
             "en": "Show/Hide Notes",
-            "zh-Hans": "显示/隐藏 笔记"
+            "zh-Hans": "显示/隐藏笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -802,7 +802,7 @@
           "id": "remote.omnifocus.view-menu.4c872e5252",
           "title": {
             "en": "Show/Hide View Options",
-            "zh-Hans": "显示/隐藏 视图 Options"
+            "zh-Hans": "显示/隐藏视图 Options"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -940,7 +940,7 @@
           "id": "remote.omnifocus.format-menu.3b10406511",
           "title": {
             "en": "Paste Style",
-            "zh-Hans": "粘贴 样式"
+            "zh-Hans": "粘贴样式"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1045,7 +1045,7 @@
           "id": "remote.omnifocus.window-menu.3179cd0bc7",
           "title": {
             "en": "Minimize Window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

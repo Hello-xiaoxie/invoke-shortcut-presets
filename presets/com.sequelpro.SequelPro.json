@@ -208,7 +208,7 @@
           "id": "remote.sequel-pro.file-and-tab-management.c8df87a65b",
           "title": {
             "en": "Close all (connection file)",
-            "zh-Hans": "关闭 全部 (connection 文件)"
+            "zh-Hans": "关闭全部 (connection 文件)"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -244,7 +244,7 @@
           "id": "remote.sequel-pro.file-and-tab-management.ec77ccd10a",
           "title": {
             "en": "Show console window",
-            "zh-Hans": "显示 控制台 窗口"
+            "zh-Hans": "显示控制台窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -433,7 +433,7 @@
           "id": "remote.sequel-pro.history-and-navigation.be5487e7c5",
           "title": {
             "en": "User accounts...",
-            "zh-Hans": "User accounts..."
+            "zh-Hans": "User accounts"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -469,7 +469,7 @@
           "id": "remote.sequel-pro.history-and-navigation.27d00fb955",
           "title": {
             "en": "Copy selected row(s) as SQL INSERT",
-            "zh-Hans": "复制 所选 行(s) as SQL 插入"
+            "zh-Hans": "复制所选行(s) as SQL 插入"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -481,7 +481,7 @@
           "id": "remote.sequel-pro.history-and-navigation.17067562cb",
           "title": {
             "en": "Show/hide toolbar",
-            "zh-Hans": "显示/隐藏 工具栏"
+            "zh-Hans": "显示/隐藏工具栏"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -493,7 +493,7 @@
           "id": "remote.sequel-pro.history-and-navigation.ba317beb60",
           "title": {
             "en": "Filter table content",
-            "zh-Hans": "滤镜 表格 content"
+            "zh-Hans": "滤镜表格 content"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -613,7 +613,7 @@
           "id": "remote.sequel-pro.history-and-navigation.86935c8b2a",
           "title": {
             "en": "Duplicate selected field / row",
-            "zh-Hans": "创建副本 所选 field / 行"
+            "zh-Hans": "创建副本所选 field / 行"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -766,7 +766,7 @@
           "id": "remote.sequel-pro.database-commands.c906cf3915",
           "title": {
             "en": "insert previous history item (successively)",
-            "zh-Hans": "插入 上一个 历史记录 项目 (successively)"
+            "zh-Hans": "插入上一个历史记录项目 (successively)"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -778,7 +778,7 @@
           "id": "remote.sequel-pro.database-commands.4837122c97",
           "title": {
             "en": "insert next history item (successively)",
-            "zh-Hans": "插入 下一个 历史记录 项目 (successively)"
+            "zh-Hans": "插入下一个历史记录项目 (successively)"
           },
           "shortcutConfiguration": {
             "keyCode": 125,

@@ -19,7 +19,7 @@
           "id": "remote.pro-tools.file-menu.e85060c965",
           "title": {
             "en": "New session...",
-            "zh-Hans": "新建session..."
+            "zh-Hans": "新建session"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -31,7 +31,7 @@
           "id": "remote.pro-tools.file-menu.d8019ad546",
           "title": {
             "en": "Open session...",
-            "zh-Hans": "打开 session..."
+            "zh-Hans": "打开 session"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -79,7 +79,7 @@
           "id": "remote.pro-tools.file-menu.44c153b716",
           "title": {
             "en": "Bounce to - Disk...",
-            "zh-Hans": "Bounce to - Disk..."
+            "zh-Hans": "Bounce to - Disk"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -91,7 +91,7 @@
           "id": "remote.pro-tools.file-menu.f180627df8",
           "title": {
             "en": "Import - Session data...",
-            "zh-Hans": "导入 - Session data..."
+            "zh-Hans": "导入 - Session data"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -103,7 +103,7 @@
           "id": "remote.pro-tools.file-menu.a5f2c8190c",
           "title": {
             "en": "Import - Audio...",
-            "zh-Hans": "导入 - 音频..."
+            "zh-Hans": "导入 - 音频"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -115,7 +115,7 @@
           "id": "remote.pro-tools.file-menu.3c9cd6cb3c",
           "title": {
             "en": "Import - MIDI...",
-            "zh-Hans": "导入 - MIDI..."
+            "zh-Hans": "导入 - MIDI"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -127,7 +127,7 @@
           "id": "remote.pro-tools.file-menu.bf6d0b854e",
           "title": {
             "en": "Import - Video...",
-            "zh-Hans": "导入 - 视频..."
+            "zh-Hans": "导入 - 视频"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -139,7 +139,7 @@
           "id": "remote.pro-tools.file-menu.e7871cc7b1",
           "title": {
             "en": "Print score...",
-            "zh-Hans": "打印 score..."
+            "zh-Hans": "打印 score"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -196,7 +196,7 @@
           "id": "remote.pro-tools.edit-menu.502f7b7a8d",
           "title": {
             "en": "Restore last selection",
-            "zh-Hans": "Restore 最后一个 选择"
+            "zh-Hans": "Restore 最后一个选择"
           },
           "shortcutConfiguration": {
             "keyCode": 6,
@@ -400,7 +400,7 @@
           "id": "remote.pro-tools.edit-menu.3c1839e74a",
           "title": {
             "en": "Repeat...",
-            "zh-Hans": "Repeat..."
+            "zh-Hans": "Repeat"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -412,7 +412,7 @@
           "id": "remote.pro-tools.edit-menu.6194483971",
           "title": {
             "en": "Shift...",
-            "zh-Hans": "Shift..."
+            "zh-Hans": "Shift"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -544,7 +544,7 @@
           "id": "remote.pro-tools.edit-menu.b92b893303",
           "title": {
             "en": "Automation - Copy to send...",
-            "zh-Hans": "Automation - Copy to send..."
+            "zh-Hans": "Automation - Copy to send"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -640,7 +640,7 @@
           "id": "remote.pro-tools.edit-menu.6af36b723c",
           "title": {
             "en": "Fades - Create...",
-            "zh-Hans": "Fades - Create..."
+            "zh-Hans": "Fades - Create"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -706,7 +706,7 @@
           "id": "remote.pro-tools.track-menu.fa9b449417",
           "title": {
             "en": "New...",
-            "zh-Hans": "New..."
+            "zh-Hans": "New"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -718,7 +718,7 @@
           "id": "remote.pro-tools.track-menu.a681765bf1",
           "title": {
             "en": "Group...",
-            "zh-Hans": "编组..."
+            "zh-Hans": "编组"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -730,7 +730,7 @@
           "id": "remote.pro-tools.track-menu.e741000314",
           "title": {
             "en": "Duplicate...",
-            "zh-Hans": "创建副本..."
+            "zh-Hans": "创建副本"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -754,7 +754,7 @@
           "id": "remote.pro-tools.track-menu.c8b6832c8a",
           "title": {
             "en": "Scroll to track...",
-            "zh-Hans": "滚动to 轨道..."
+            "zh-Hans": "滚动to 轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -787,7 +787,7 @@
           "id": "remote.pro-tools.clip-menu.ff72cccd30",
           "title": {
             "en": "Edit lock/unlock",
-            "zh-Hans": "编辑 锁定/解锁"
+            "zh-Hans": "编辑锁定/解锁"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -895,7 +895,7 @@
           "id": "remote.pro-tools.clip-menu.a14e1c5f0b",
           "title": {
             "en": "Loop...",
-            "zh-Hans": "循环..."
+            "zh-Hans": "循环"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -907,7 +907,7 @@
           "id": "remote.pro-tools.clip-menu.5c6d9bfe09",
           "title": {
             "en": "Capture...",
-            "zh-Hans": "Capture..."
+            "zh-Hans": "Capture"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -919,7 +919,7 @@
           "id": "remote.pro-tools.clip-menu.b97f01688e",
           "title": {
             "en": "Rename...",
-            "zh-Hans": "重命名..."
+            "zh-Hans": "重命名"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -1000,7 +1000,7 @@
           "id": "remote.pro-tools.event-menu.734ca0f10e",
           "title": {
             "en": "Event operations - Quantize...",
-            "zh-Hans": "Event operations - Quantize..."
+            "zh-Hans": "Event operations - Quantize"
           },
           "shortcutConfiguration": {
             "keyCode": 82,
@@ -1012,7 +1012,7 @@
           "id": "remote.pro-tools.event-menu.a8ab47cdc9",
           "title": {
             "en": "Event operations - Change duration...",
-            "zh-Hans": "Event operations - Change duration..."
+            "zh-Hans": "Event operations - Change duration"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -1024,7 +1024,7 @@
           "id": "remote.pro-tools.event-menu.26c18aa37f",
           "title": {
             "en": "Event operations - Transpose...",
-            "zh-Hans": "Event operations - Transpose..."
+            "zh-Hans": "Event operations - Transpose"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1036,7 +1036,7 @@
           "id": "remote.pro-tools.event-menu.ff2846966b",
           "title": {
             "en": "Event operations - Select/split notes...",
-            "zh-Hans": "Event operations - Select/split notes..."
+            "zh-Hans": "Event operations - Select/split notes"
           },
           "shortcutConfiguration": {
             "keyCode": 16,
@@ -1072,7 +1072,7 @@
           "id": "remote.pro-tools.event-menu.da204f4569",
           "title": {
             "en": "Identify beat...",
-            "zh-Hans": "Identify beat..."
+            "zh-Hans": "Identify beat"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -1153,7 +1153,7 @@
           "id": "remote.pro-tools.options-menu.9c2df5c251",
           "title": {
             "en": "Video track online",
-            "zh-Hans": "视频 轨道 online"
+            "zh-Hans": "视频轨道 online"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -1279,7 +1279,7 @@
           "id": "remote.pro-tools.window-menu.b4de65fd03",
           "title": {
             "en": "Hide all floating windows",
-            "zh-Hans": "隐藏 全部 floating windows"
+            "zh-Hans": "隐藏全部 floating windows"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -1291,7 +1291,7 @@
           "id": "remote.pro-tools.window-menu.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,

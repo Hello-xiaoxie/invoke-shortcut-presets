@@ -418,7 +418,7 @@
           "id": "remote.microsoft-edge.developer-tools.e669002a22",
           "title": {
             "en": "Open Developer Tools",
-            "zh-Hans": "打开 开发者工具"
+            "zh-Hans": "打开开发者工具"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -580,7 +580,7 @@
           "id": "remote.microsoft-edge.tab-and-window.d94258f711",
           "title": {
             "en": "Minimize window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -640,7 +640,7 @@
           "id": "remote.microsoft-edge.tab-and-window.22c5b58250",
           "title": {
             "en": "Switch to the last tab",
-            "zh-Hans": "切换到the 最后一个 标签页"
+            "zh-Hans": "切换到the 最后一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 25,
@@ -712,7 +712,7 @@
           "id": "remote.microsoft-edge.tab-and-window.f15c7db280",
           "title": {
             "en": "Switch to the previous tab",
-            "zh-Hans": "切换到the 上一个 标签页"
+            "zh-Hans": "切换到the 上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -724,7 +724,7 @@
           "id": "remote.microsoft-edge.tab-and-window.829ae7afe2",
           "title": {
             "en": "Switch to the next tab",
-            "zh-Hans": "切换到the 下一个 标签页"
+            "zh-Hans": "切换到the 下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 48,

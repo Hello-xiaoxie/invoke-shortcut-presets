@@ -184,7 +184,7 @@
           "id": "remote.overflow.editor.9028482161",
           "title": {
             "en": "Delete selection",
-            "zh-Hans": "删除 选择"
+            "zh-Hans": "删除选择"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -196,7 +196,7 @@
           "id": "remote.overflow.editor.e6f8a69e40",
           "title": {
             "en": "Delete selection",
-            "zh-Hans": "删除 选择"
+            "zh-Hans": "删除选择"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -412,7 +412,7 @@
           "id": "remote.overflow.editor.eb869bd5d6",
           "title": {
             "en": "Select all Images",
-            "zh-Hans": "全选 图片"
+            "zh-Hans": "全选图片"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -484,7 +484,7 @@
           "id": "remote.overflow.editor.87e5e6f9e4",
           "title": {
             "en": "Insert Image",
-            "zh-Hans": "插入 图片"
+            "zh-Hans": "插入图片"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -520,7 +520,7 @@
           "id": "remote.overflow.editor.93bd4548b9",
           "title": {
             "en": "Underline text",
-            "zh-Hans": "下划线 文本"
+            "zh-Hans": "下划线文本"
           },
           "shortcutConfiguration": {
             "keyCode": 32,

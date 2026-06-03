@@ -181,7 +181,7 @@
           "id": "remote.tableplus.data.06dce72029",
           "title": {
             "en": "Duplicate Row",
-            "zh-Hans": "创建副本 行"
+            "zh-Hans": "创建副本行"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -214,7 +214,7 @@
           "id": "remote.tableplus.navigation.c392a226fa",
           "title": {
             "en": "Filter Rows",
-            "zh-Hans": "滤镜 行"
+            "zh-Hans": "滤镜行"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -226,7 +226,7 @@
           "id": "remote.tableplus.navigation.d0269ad8e5",
           "title": {
             "en": "Previous Tab",
-            "zh-Hans": "上一个 标签页"
+            "zh-Hans": "上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -238,7 +238,7 @@
           "id": "remote.tableplus.navigation.4679b9bb74",
           "title": {
             "en": "Next Tab",
-            "zh-Hans": "下一个 标签页"
+            "zh-Hans": "下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 30,

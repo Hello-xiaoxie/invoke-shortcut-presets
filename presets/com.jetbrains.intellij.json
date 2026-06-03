@@ -31,7 +31,7 @@
           "id": "remote.intellij-idea.general-shortcuts.8d66ec67e7",
           "title": {
             "en": "Save All",
-            "zh-Hans": "存储 全部"
+            "zh-Hans": "存储全部"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -91,7 +91,7 @@
           "id": "remote.intellij-idea.general-shortcuts.2c43586ac2",
           "title": {
             "en": "Open Project Structure Dialog",
-            "zh-Hans": "打开 项目 Structure 对话框"
+            "zh-Hans": "打开项目 Structure 对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -457,7 +457,7 @@
           "id": "remote.intellij-idea.editing-shortcuts.53920267d4",
           "title": {
             "en": "Duplicate Current Line",
-            "zh-Hans": "创建副本 当前 行"
+            "zh-Hans": "创建副本当前行"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -553,7 +553,7 @@
           "id": "remote.intellij-idea.editing-shortcuts.1bfbe0251d",
           "title": {
             "en": "Close Active Editor Tab",
-            "zh-Hans": "关闭 活动 编辑器 标签页"
+            "zh-Hans": "关闭活动编辑器标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -706,7 +706,7 @@
           "id": "remote.intellij-idea.find-and-replace-shortcuts.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -718,7 +718,7 @@
           "id": "remote.intellij-idea.find-and-replace-shortcuts.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1159,7 +1159,7 @@
           "id": "remote.intellij-idea.navigation-shortcuts.9f68f8c8da",
           "title": {
             "en": "Hide Active/Last Active Window",
-            "zh-Hans": "隐藏 活动/最后一个 活动 窗口"
+            "zh-Hans": "隐藏活动/最后一个活动窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -1207,7 +1207,7 @@
           "id": "remote.intellij-idea.navigation-shortcuts.3e5a6bad06",
           "title": {
             "en": "Go to Next/Previous Tab",
-            "zh-Hans": "转到Next/上一个 标签页"
+            "zh-Hans": "转到Next/上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -1315,7 +1315,7 @@
           "id": "remote.intellij-idea.navigation-shortcuts.876b924b77",
           "title": {
             "en": "Show Bookmarks",
-            "zh-Hans": "显示 书签"
+            "zh-Hans": "显示书签"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -1351,7 +1351,7 @@
           "id": "remote.intellij-idea.navigation-shortcuts.1b193c758a",
           "title": {
             "en": "Edit Source",
-            "zh-Hans": "编辑 源"
+            "zh-Hans": "编辑源"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -1363,7 +1363,7 @@
           "id": "remote.intellij-idea.navigation-shortcuts.6333e69304",
           "title": {
             "en": "View Source",
-            "zh-Hans": "视图 源"
+            "zh-Hans": "视图源"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1423,7 +1423,7 @@
           "id": "remote.intellij-idea.navigation-shortcuts.78af51ede7",
           "title": {
             "en": "Go to Previous/Next Method",
-            "zh-Hans": "转到Previous/下一个 方法"
+            "zh-Hans": "转到Previous/下一个方法"
           },
           "shortcutConfiguration": {
             "keyCode": 126,

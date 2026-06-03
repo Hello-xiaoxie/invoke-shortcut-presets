@@ -124,7 +124,7 @@
           "id": "remote.fork.navigation.fc99b3b706",
           "title": {
             "en": "Show All Commits",
-            "zh-Hans": "显示 全部 Commits"
+            "zh-Hans": "显示全部 Commits"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -181,7 +181,7 @@
           "id": "remote.fork.repository.60bc77c417",
           "title": {
             "en": "Open Repository",
-            "zh-Hans": "打开 仓库"
+            "zh-Hans": "打开仓库"
           },
           "shortcutConfiguration": {
             "keyCode": 31,

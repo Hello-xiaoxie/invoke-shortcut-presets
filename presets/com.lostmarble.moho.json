@@ -127,7 +127,7 @@
           "id": "remote.moho.general-shortcuts.fd05ca0039",
           "title": {
             "en": "View all",
-            "zh-Hans": "视图 全部"
+            "zh-Hans": "视图全部"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -235,7 +235,7 @@
           "id": "remote.moho.general-shortcuts.4a021cb1cc",
           "title": {
             "en": "Last keyframe",
-            "zh-Hans": "最后一个 关键帧"
+            "zh-Hans": "最后一个关键帧"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -247,7 +247,7 @@
           "id": "remote.moho.general-shortcuts.36b696d23f",
           "title": {
             "en": "Next keyframe",
-            "zh-Hans": "下一个 关键帧"
+            "zh-Hans": "下一个关键帧"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -319,7 +319,7 @@
           "id": "remote.moho.general-shortcuts.4637343b5f",
           "title": {
             "en": "Preview animation",
-            "zh-Hans": "预览 动画"
+            "zh-Hans": "预览动画"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -355,7 +355,7 @@
           "id": "remote.moho.general-shortcuts.63b5153070",
           "title": {
             "en": "Layer settings",
-            "zh-Hans": "图层 设置"
+            "zh-Hans": "图层设置"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -448,7 +448,7 @@
           "id": "remote.moho.fill-tools.10ad54fde2",
           "title": {
             "en": "Delete selected shape",
-            "zh-Hans": "删除 所选 形状"
+            "zh-Hans": "删除所选形状"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -622,7 +622,7 @@
           "id": "remote.moho.view-shortcuts.cc7734d3ff",
           "title": {
             "en": "Grid settings",
-            "zh-Hans": "网格 设置"
+            "zh-Hans": "网格设置"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -646,7 +646,7 @@
           "id": "remote.moho.view-shortcuts.4a08625712",
           "title": {
             "en": "Show output only",
-            "zh-Hans": "显示 输出 only"
+            "zh-Hans": "显示输出 only"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -718,7 +718,7 @@
           "id": "remote.moho.view-shortcuts.dda671cb34",
           "title": {
             "en": "Hide tabs",
-            "zh-Hans": "隐藏 标签页"
+            "zh-Hans": "隐藏标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -808,7 +808,7 @@
           "id": "remote.moho.frame-by-frame.8fd3389222",
           "title": {
             "en": "Duplicate frame",
-            "zh-Hans": "创建副本 画框"
+            "zh-Hans": "创建副本画框"
           },
           "shortcutConfiguration": {
             "keyCode": 97,
@@ -820,7 +820,7 @@
           "id": "remote.moho.frame-by-frame.b344800337",
           "title": {
             "en": "Delete frame",
-            "zh-Hans": "删除 画框"
+            "zh-Hans": "删除画框"
           },
           "shortcutConfiguration": {
             "keyCode": 96,

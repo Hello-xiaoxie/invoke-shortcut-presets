@@ -382,7 +382,7 @@
           "id": "remote.adobe-audition.marker-tool-clip-shortcuts.94f84f4f99",
           "title": {
             "en": "Move to next marker",
-            "zh-Hans": "移动to 下一个 标记"
+            "zh-Hans": "移动to 下一个标记"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -394,7 +394,7 @@
           "id": "remote.adobe-audition.marker-tool-clip-shortcuts.d43af7cc30",
           "title": {
             "en": "Move to previous marker",
-            "zh-Hans": "移动to 上一个 标记"
+            "zh-Hans": "移动to 上一个标记"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -430,7 +430,7 @@
           "id": "remote.adobe-audition.marker-tool-clip-shortcuts.cba730cea9",
           "title": {
             "en": "Delete Selected marker",
-            "zh-Hans": "删除 所选 标记"
+            "zh-Hans": "删除所选标记"
           },
           "shortcutConfiguration": {
             "keyCode": 29,
@@ -442,7 +442,7 @@
           "id": "remote.adobe-audition.marker-tool-clip-shortcuts.ea41b1d3b0",
           "title": {
             "en": "Delete All Marker",
-            "zh-Hans": "删除 全部 标记"
+            "zh-Hans": "删除全部标记"
           },
           "shortcutConfiguration": {
             "keyCode": 29,
@@ -454,7 +454,7 @@
           "id": "remote.adobe-audition.marker-tool-clip-shortcuts.0e36347d10",
           "title": {
             "en": "Rename selected marker",
-            "zh-Hans": "重命名 所选 标记"
+            "zh-Hans": "重命名所选标记"
           },
           "shortcutConfiguration": {
             "keyCode": 44,
@@ -502,7 +502,7 @@
           "id": "remote.adobe-audition.marker-tool-clip-shortcuts.17ad34feca",
           "title": {
             "en": "Ripple delete selected clip",
-            "zh-Hans": "Ripple 删除 所选 片段"
+            "zh-Hans": "Ripple 删除所选片段"
           },
           "shortcutConfiguration": {
             "keyCode": 51,

@@ -358,7 +358,7 @@
           "id": "remote.android-studio.build-and-run.9ab7f31ac2",
           "title": {
             "en": "Apply Changes and Restart Activity",
-            "zh-Hans": "Apply Changes and Restart Activity"
+            "zh-Hans": "应用更改并重启"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -1183,7 +1183,7 @@
           "id": "remote.android-studio.navigating-and-searching.9f3541cce8",
           "title": {
             "en": "Open method hierarchy",
-            "zh-Hans": "打开 方法 hierarchy"
+            "zh-Hans": "打开方法 hierarchy"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -1243,7 +1243,7 @@
           "id": "remote.android-studio.navigating-and-searching.c0013d37f9",
           "title": {
             "en": "Close active editor tab",
-            "zh-Hans": "关闭 活动 编辑器 标签页"
+            "zh-Hans": "关闭活动编辑器标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -1315,7 +1315,7 @@
           "id": "remote.android-studio.navigating-and-searching.9800f6e6ee",
           "title": {
             "en": "Navigate between open editor tabs",
-            "zh-Hans": "Navigate between 打开 编辑器 标签页"
+            "zh-Hans": "Navigate between 打开编辑器标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -1327,7 +1327,7 @@
           "id": "remote.android-studio.navigating-and-searching.bf1eb423aa",
           "title": {
             "en": "Open file structure pop-up",
-            "zh-Hans": "打开 文件 structure pop-上"
+            "zh-Hans": "打开文件 structure pop-上"
           },
           "shortcutConfiguration": {
             "keyCode": 111,
@@ -1363,7 +1363,7 @@
           "id": "remote.android-studio.navigating-and-searching.91fc373228",
           "title": {
             "en": "Find class",
-            "zh-Hans": "查找 类"
+            "zh-Hans": "查找类"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -1411,7 +1411,7 @@
           "id": "remote.android-studio.navigating-and-searching.eccb3fa2a7",
           "title": {
             "en": "Find previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1423,7 +1423,7 @@
           "id": "remote.android-studio.navigating-and-searching.311842e8cb",
           "title": {
             "en": "Find next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1480,7 +1480,7 @@
           "id": "remote.android-studio.general.de32109aba",
           "title": {
             "en": "Open project structure dialog",
-            "zh-Hans": "打开 项目 structure 对话框"
+            "zh-Hans": "打开项目 structure 对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -1492,7 +1492,7 @@
           "id": "remote.android-studio.general.f0c29b29e9",
           "title": {
             "en": "Open settings dialogue",
-            "zh-Hans": "打开 设置 dialogue"
+            "zh-Hans": "打开设置 dialogue"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -1540,7 +1540,7 @@
           "id": "remote.android-studio.general.e472103d00",
           "title": {
             "en": "Maximize/minimize editor",
-            "zh-Hans": "Maximize/最小化 编辑器"
+            "zh-Hans": "Maximize/最小化编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 111,

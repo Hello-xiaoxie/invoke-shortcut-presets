@@ -43,7 +43,7 @@
           "id": "remote.wispr-flow.voice-dictation.fdc3fa5ae2",
           "title": {
             "en": "Paste last transcript",
-            "zh-Hans": "粘贴 最后一个 transcript"
+            "zh-Hans": "粘贴最后一个 transcript"
           },
           "shortcutConfiguration": {
             "keyCode": 9,

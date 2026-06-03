@@ -19,7 +19,7 @@
           "id": "remote.airtable.expanded-record.acaca036d9",
           "title": {
             "en": "Close expanded record.",
-            "zh-Hans": "关闭 已展开 record."
+            "zh-Hans": "关闭已展开 record"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -31,7 +31,7 @@
           "id": "remote.airtable.expanded-record.32677745af",
           "title": {
             "en": "Move to next record while viewing an expanded record.",
-            "zh-Hans": "Move to next record while viewing an expanded record."
+            "zh-Hans": "Move to next record while viewing an expanded record"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -43,7 +43,7 @@
           "id": "remote.airtable.expanded-record.e1f4193993",
           "title": {
             "en": "Move to previous record while viewing an expanded record.",
-            "zh-Hans": "Move to previous record while viewing an expanded record."
+            "zh-Hans": "Move to previous record while viewing an expanded record"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -64,7 +64,7 @@
           "id": "remote.airtable.kanban-view.2e8170d4d8",
           "title": {
             "en": "Scroll all stacks to top or bottom.",
-            "zh-Hans": "Scroll all stacks to top or bottom."
+            "zh-Hans": "Scroll all stacks to top or bottom"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -76,7 +76,7 @@
           "id": "remote.airtable.kanban-view.2554a4666c",
           "title": {
             "en": "Scroll kanban board to the left or right edge.",
-            "zh-Hans": "Scroll kanban board to the left or right edge."
+            "zh-Hans": "Scroll kanban board to the left or right edge"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -88,7 +88,7 @@
           "id": "remote.airtable.kanban-view.76dc23217d",
           "title": {
             "en": "Scroll kanban board to the left or right by one stack.",
-            "zh-Hans": "Scroll kanban board to the left or right by one stack."
+            "zh-Hans": "Scroll kanban board to the left or right by one stack"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -109,7 +109,7 @@
           "id": "remote.airtable.gallery-view.8d2485c1b7",
           "title": {
             "en": "Scroll to edge of gallery.",
-            "zh-Hans": "Scroll to edge of gallery."
+            "zh-Hans": "Scroll to edge of gallery"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -130,7 +130,7 @@
           "id": "remote.airtable.grid-view.f2f8c971e8",
           "title": {
             "en": "Edit the selected cell.",
-            "zh-Hans": "Edit the selected cell."
+            "zh-Hans": "Edit the selected cell"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -142,7 +142,7 @@
           "id": "remote.airtable.grid-view.13e8669368",
           "title": {
             "en": "Insert a record below the selected cell.",
-            "zh-Hans": "Insert a record below the selected cell."
+            "zh-Hans": "Insert a record below the selected cell"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -154,7 +154,7 @@
           "id": "remote.airtable.grid-view.a1afb216a2",
           "title": {
             "en": "Select range of cells.",
-            "zh-Hans": "Select range of cells."
+            "zh-Hans": "Select range of cells"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -166,7 +166,7 @@
           "id": "remote.airtable.grid-view.b6c6cd8125",
           "title": {
             "en": "Jump to edge of table and select cells.",
-            "zh-Hans": "Jump to edge of table and select cells."
+            "zh-Hans": "Jump to edge of table and select cells"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -178,7 +178,7 @@
           "id": "remote.airtable.grid-view.b297a3a195",
           "title": {
             "en": "Jump to the edge of the table.",
-            "zh-Hans": "Jump to the edge of the table."
+            "zh-Hans": "Jump to the edge of the table"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -190,7 +190,7 @@
           "id": "remote.airtable.grid-view.23aa379db7",
           "title": {
             "en": "Scrolls one screen left or right.",
-            "zh-Hans": "Scrolls one screen left or right."
+            "zh-Hans": "Scrolls one screen left or right"
           },
           "shortcutConfiguration": {
             "keyCode": 116,
@@ -202,7 +202,7 @@
           "id": "remote.airtable.grid-view.f3373f6f86",
           "title": {
             "en": "Scrolls one screen up or down.",
-            "zh-Hans": "Scrolls one screen up or down."
+            "zh-Hans": "Scrolls one screen up or down"
           },
           "shortcutConfiguration": {
             "keyCode": 116,
@@ -214,7 +214,7 @@
           "id": "remote.airtable.grid-view.ddb6f56319",
           "title": {
             "en": "Expand the active cell (you can then use arrow keys to move to different cells).",
-            "zh-Hans": "Expand the active cell (you can then use arrow keys to move to different cells)."
+            "zh-Hans": "Expand the active cell (you can then use arrow keys to move to different cells)"
           },
           "shortcutConfiguration": {
             "keyCode": 49,
@@ -226,7 +226,7 @@
           "id": "remote.airtable.grid-view.9334544b68",
           "title": {
             "en": "Expand the active record (use Esc to return to table).",
-            "zh-Hans": "Expand the active record (use Esc to return to table)."
+            "zh-Hans": "Expand the active record (use Esc to return to table)"
           },
           "shortcutConfiguration": {
             "keyCode": 49,
@@ -238,7 +238,7 @@
           "id": "remote.airtable.grid-view.0a472b7064",
           "title": {
             "en": "Paste a cell ( you can paste the same value into multiple selected cells at once).",
-            "zh-Hans": "Paste a cell ( you can paste the same value into multiple selected cells at once)."
+            "zh-Hans": "Paste a cell ( you can paste the same value into multiple selected cells at once)"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -250,7 +250,7 @@
           "id": "remote.airtable.grid-view.87b39be860",
           "title": {
             "en": "Cut a cell or range of cells.",
-            "zh-Hans": "Cut a cell or range of cells."
+            "zh-Hans": "Cut a cell or range of cells"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -262,7 +262,7 @@
           "id": "remote.airtable.grid-view.66f6f9d300",
           "title": {
             "en": "Copy a cell or range of cells.",
-            "zh-Hans": "Copy a cell or range of cells."
+            "zh-Hans": "Copy a cell or range of cells"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -283,7 +283,7 @@
           "id": "remote.airtable.general.b4218c53fc",
           "title": {
             "en": "Sets the selected date/datetime field to now.",
-            "zh-Hans": "Sets the selected date/datetime field to now."
+            "zh-Hans": "Sets the selected date/datetime field to now"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -295,7 +295,7 @@
           "id": "remote.airtable.general.936e5b992e",
           "title": {
             "en": "Opens find bar. Use Esc to close find bar.",
-            "zh-Hans": "Opens find bar. Use Esc to close find bar."
+            "zh-Hans": "Opens find bar. Use Esc to close find bar"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -307,7 +307,7 @@
           "id": "remote.airtable.general.91d0e49fae",
           "title": {
             "en": "Toggles blocks.",
-            "zh-Hans": "Toggles blocks."
+            "zh-Hans": "Toggles blocks"
           },
           "shortcutConfiguration": {
             "keyCode": 42,
@@ -319,7 +319,7 @@
           "id": "remote.airtable.general.fd44fb8be9",
           "title": {
             "en": "Opens the sort menu in the current view. Press Enter to re-apply the most recent sort.",
-            "zh-Hans": "Opens the sort menu in the current view. Press Enter to re-apply the most recent sort."
+            "zh-Hans": "Opens the sort menu in the current view. Press Enter to re-apply the most recent sort"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -331,7 +331,7 @@
           "id": "remote.airtable.general.d71e170fc5",
           "title": {
             "en": "Opens the grouped records menu in the current view.",
-            "zh-Hans": "Opens the grouped records menu in the current view."
+            "zh-Hans": "Opens the grouped records menu in the current view"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -343,7 +343,7 @@
           "id": "remote.airtable.general.9e9a045bbb",
           "title": {
             "en": "Opens the filter menu in the current view. Press Enter to create a new filter.",
-            "zh-Hans": "Opens the filter menu in the current view. Press Enter to create a new filter."
+            "zh-Hans": "Opens the filter menu in the current view. Press Enter to create a new filter"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -355,7 +355,7 @@
           "id": "remote.airtable.general.e342deecef",
           "title": {
             "en": "Opens the view switcher in the current base.",
-            "zh-Hans": "Opens the view switcher in the current base."
+            "zh-Hans": "Opens the view switcher in the current base"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -367,7 +367,7 @@
           "id": "remote.airtable.general.54695965a5",
           "title": {
             "en": "Opens the quick base switcher if on the home screen or inside a base.",
-            "zh-Hans": "Opens the quick base switcher if on the home screen or inside a base."
+            "zh-Hans": "Opens the quick base switcher if on the home screen or inside a base"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -379,7 +379,7 @@
           "id": "remote.airtable.general.252b0e3313",
           "title": {
             "en": "Opens the table switcher in the current base.",
-            "zh-Hans": "Opens the table switcher in the current base."
+            "zh-Hans": "Opens the table switcher in the current base"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -403,7 +403,7 @@
           "id": "remote.airtable.general.46eab53fe5",
           "title": {
             "en": "Redo action.",
-            "zh-Hans": "Redo action."
+            "zh-Hans": "Redo action"
           },
           "shortcutConfiguration": {
             "keyCode": 16,
@@ -415,7 +415,7 @@
           "id": "remote.airtable.general.68e44b6959",
           "title": {
             "en": "Undo action.",
-            "zh-Hans": "Undo action."
+            "zh-Hans": "Undo action"
           },
           "shortcutConfiguration": {
             "keyCode": 6,

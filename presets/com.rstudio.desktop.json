@@ -43,7 +43,7 @@
           "id": "remote.rstudio.accessibility.e6a830d64d",
           "title": {
             "en": "Speak Text Editor Location",
-            "zh-Hans": "Speak 文本 编辑器 Location"
+            "zh-Hans": "Speak 文本编辑器 Location"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -124,7 +124,7 @@
           "id": "remote.rstudio.main-menu-server.f014152b89",
           "title": {
             "en": "Debug Menu",
-            "zh-Hans": "调试 菜单"
+            "zh-Hans": "调试菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -172,7 +172,7 @@
           "id": "remote.rstudio.main-menu-server.4c964500d5",
           "title": {
             "en": "View Menu",
-            "zh-Hans": "视图 菜单"
+            "zh-Hans": "视图菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -196,7 +196,7 @@
           "id": "remote.rstudio.main-menu-server.c1163f3c51",
           "title": {
             "en": "Edit Menu",
-            "zh-Hans": "编辑 菜单"
+            "zh-Hans": "编辑菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -208,7 +208,7 @@
           "id": "remote.rstudio.main-menu-server.2c97116380",
           "title": {
             "en": "File Menu",
-            "zh-Hans": "文件 菜单"
+            "zh-Hans": "文件菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -229,7 +229,7 @@
           "id": "remote.rstudio.terminal.20ddd29d19",
           "title": {
             "en": "Next Terminal",
-            "zh-Hans": "下一个 终端"
+            "zh-Hans": "下一个终端"
           },
           "shortcutConfiguration": {
             "keyCode": 111,
@@ -241,7 +241,7 @@
           "id": "remote.rstudio.terminal.f12306ae9f",
           "title": {
             "en": "Previous Terminal",
-            "zh-Hans": "上一个 终端"
+            "zh-Hans": "上一个终端"
           },
           "shortcutConfiguration": {
             "keyCode": 103,
@@ -367,7 +367,7 @@
           "id": "remote.rstudio.git-svn.0239c9ba42",
           "title": {
             "en": "Diff active source document",
-            "zh-Hans": "Diff 活动 源 文档"
+            "zh-Hans": "Diff 活动源文档"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -469,7 +469,7 @@
           "id": "remote.rstudio.debug.7a4be1bc99",
           "title": {
             "en": "Execute Next Line",
-            "zh-Hans": "Execute 下一个 行"
+            "zh-Hans": "Execute 下一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 109,
@@ -688,7 +688,7 @@
           "id": "remote.rstudio.views.92d673d662",
           "title": {
             "en": "Sync Editor ",
-            "zh-Hans": "Sync 编辑器 "
+            "zh-Hans": "Sync 编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 100,
@@ -904,7 +904,7 @@
           "id": "remote.rstudio.views.cc36852ccd",
           "title": {
             "en": "Show Files",
-            "zh-Hans": "显示 文件"
+            "zh-Hans": "显示文件"
           },
           "shortcutConfiguration": {
             "keyCode": 23,
@@ -928,7 +928,7 @@
           "id": "remote.rstudio.views.f74588b639",
           "title": {
             "en": "Show History",
-            "zh-Hans": "显示 历史记录"
+            "zh-Hans": "显示历史记录"
           },
           "shortcutConfiguration": {
             "keyCode": 21,
@@ -1000,7 +1000,7 @@
           "id": "remote.rstudio.views.b0cd6f2753",
           "title": {
             "en": "Zoom Source Editor",
-            "zh-Hans": "Zoom 源 编辑器"
+            "zh-Hans": "Zoom 源编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -1090,7 +1090,7 @@
           "id": "remote.rstudio.editing.ff4419dd24",
           "title": {
             "en": "Find usages for symbol at cursor (C  )",
-            "zh-Hans": "Find usages for symbol at cursor (C  )"
+            "zh-Hans": "Find usages for symbol at cursor (C )"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -1234,7 +1234,7 @@
           "id": "remote.rstudio.editing.c33621a576",
           "title": {
             "en": "Delete Word Right",
-            "zh-Hans": "删除 单词 右"
+            "zh-Hans": "删除单词右"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -1246,7 +1246,7 @@
           "id": "remote.rstudio.editing.6cc062290a",
           "title": {
             "en": "Delete Word Left",
-            "zh-Hans": "删除 单词 左"
+            "zh-Hans": "删除单词左"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -1282,7 +1282,7 @@
           "id": "remote.rstudio.editing.f1f12b51e8",
           "title": {
             "en": "Select to Line End",
-            "zh-Hans": "选择to 行 结束"
+            "zh-Hans": "选择to 行结束"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -1294,7 +1294,7 @@
           "id": "remote.rstudio.editing.2897ac8e16",
           "title": {
             "en": "Select to Line Start",
-            "zh-Hans": "选择to 行 开始"
+            "zh-Hans": "选择to 行开始"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -1330,7 +1330,7 @@
           "id": "remote.rstudio.editing.41f1e6a1df",
           "title": {
             "en": "Delete Line",
-            "zh-Hans": "删除 行"
+            "zh-Hans": "删除行"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -1519,7 +1519,7 @@
           "id": "remote.rstudio.source.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1531,7 +1531,7 @@
           "id": "remote.rstudio.source.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1555,7 +1555,7 @@
           "id": "remote.rstudio.source.5a88fb4917",
           "title": {
             "en": "Move Active Cursor Down",
-            "zh-Hans": "移动Active 光标 下"
+            "zh-Hans": "移动Active 光标下"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1567,7 +1567,7 @@
           "id": "remote.rstudio.source.51ef6c5abe",
           "title": {
             "en": "Move Active Cursor Up",
-            "zh-Hans": "移动Active 光标 上"
+            "zh-Hans": "移动Active 光标上"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -1579,7 +1579,7 @@
           "id": "remote.rstudio.source.d848b4cac0",
           "title": {
             "en": "Add Cursor Below Current Cursor",
-            "zh-Hans": "添加Cursor 下方 当前 光标"
+            "zh-Hans": "添加Cursor 下方当前光标"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1591,7 +1591,7 @@
           "id": "remote.rstudio.source.0289fa5b49",
           "title": {
             "en": "Add Cursor Above Current Cursor",
-            "zh-Hans": "添加Cursor 上方 当前 光标"
+            "zh-Hans": "添加Cursor 上方当前光标"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -1699,7 +1699,7 @@
           "id": "remote.rstudio.source.909b9ced90",
           "title": {
             "en": "Comment/uncomment current line/selection",
-            "zh-Hans": "评论/uncomment 当前 行/选择"
+            "zh-Hans": "评论/uncomment 当前行/选择"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1771,7 +1771,7 @@
           "id": "remote.rstudio.source.349ff8fd28",
           "title": {
             "en": "Last tab",
-            "zh-Hans": "最后一个 标签页"
+            "zh-Hans": "最后一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 111,
@@ -1783,7 +1783,7 @@
           "id": "remote.rstudio.source.409c5b4b62",
           "title": {
             "en": "First tab",
-            "zh-Hans": "第一个 标签页"
+            "zh-Hans": "第一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 103,
@@ -1795,7 +1795,7 @@
           "id": "remote.rstudio.source.adfb4b1072",
           "title": {
             "en": "Next tab (desktop)",
-            "zh-Hans": "下一个 标签页 (desktop)"
+            "zh-Hans": "下一个标签页 (desktop)"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1807,7 +1807,7 @@
           "id": "remote.rstudio.source.b932467839",
           "title": {
             "en": "Next tab",
-            "zh-Hans": "下一个 标签页"
+            "zh-Hans": "下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 111,
@@ -1819,7 +1819,7 @@
           "id": "remote.rstudio.source.8b518bd073",
           "title": {
             "en": "Previous tab (desktop)",
-            "zh-Hans": "上一个 标签页 (desktop)"
+            "zh-Hans": "上一个标签页 (desktop)"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1831,7 +1831,7 @@
           "id": "remote.rstudio.source.f6e3bb07a4",
           "title": {
             "en": "Previous tab",
-            "zh-Hans": "上一个 标签页"
+            "zh-Hans": "上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 103,
@@ -2131,7 +2131,7 @@
           "id": "remote.rstudio.source.b304b94a73",
           "title": {
             "en": "Run current document",
-            "zh-Hans": "Run 当前 文档"
+            "zh-Hans": "Run 当前文档"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -2143,7 +2143,7 @@
           "id": "remote.rstudio.source.a650a7cbcc",
           "title": {
             "en": "Re-run previous region",
-            "zh-Hans": "Re-run 上一个 区域"
+            "zh-Hans": "Re-run 上一个区域"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -2155,7 +2155,7 @@
           "id": "remote.rstudio.source.24f3862c0a",
           "title": {
             "en": "Run current line/selection (retain cursor)",
-            "zh-Hans": "Run 当前 行/选择 (retain 光标)"
+            "zh-Hans": "Run 当前行/选择 (retain 光标)"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -2167,7 +2167,7 @@
           "id": "remote.rstudio.source.392e218204",
           "title": {
             "en": "Run current line/selection",
-            "zh-Hans": "Run 当前 行/选择"
+            "zh-Hans": "Run 当前行/选择"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -2263,7 +2263,7 @@
           "id": "remote.rstudio.source.781c791b8e",
           "title": {
             "en": "Close all open documents",
-            "zh-Hans": "关闭 全部 打开 文档"
+            "zh-Hans": "关闭全部打开文档"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -2275,7 +2275,7 @@
           "id": "remote.rstudio.source.97d45ae2ce",
           "title": {
             "en": "Close active document (Chrome only)",
-            "zh-Hans": "关闭 活动 文档 (Chrome only)"
+            "zh-Hans": "关闭活动文档 (Chrome only)"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -2299,7 +2299,7 @@
           "id": "remote.rstudio.source.8aceacdd0b",
           "title": {
             "en": "Save all documents",
-            "zh-Hans": "存储 全部 文档"
+            "zh-Hans": "存储全部文档"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -2311,7 +2311,7 @@
           "id": "remote.rstudio.source.729e4a2605",
           "title": {
             "en": "Save active document",
-            "zh-Hans": "存储 活动 文档"
+            "zh-Hans": "存储活动文档"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -2323,7 +2323,7 @@
           "id": "remote.rstudio.source.af534e5244",
           "title": {
             "en": "Open document",
-            "zh-Hans": "打开 文档"
+            "zh-Hans": "打开文档"
           },
           "shortcutConfiguration": {
             "keyCode": 31,

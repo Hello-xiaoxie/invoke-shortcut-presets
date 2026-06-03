@@ -37,7 +37,7 @@
           "id": "remote.wechat.voice-to-text",
           "title": {
             "en": "Voice Input to Text (hold Fn, or Fn+Control)",
-            "zh-Hans": "Voice Input to Text (hold Fn, or Fn+Control)"
+            "zh-Hans": "语音输入"
           },
           "shortcutConfiguration": {
             "keyCode": 63,

@@ -31,7 +31,7 @@
           "id": "remote.pixelmator-pro.palettes-panels.20b3c08eae",
           "title": {
             "en": "Show / Hide Layers palette/panel",
-            "zh-Hans": "显示 / 隐藏 图层 面板/面板"
+            "zh-Hans": "显示 / 隐藏图层面板/面板"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -79,7 +79,7 @@
           "id": "remote.pixelmator-pro.palettes-panels.f03d136171",
           "title": {
             "en": "Show / Hide Photo browser",
-            "zh-Hans": "显示 / 隐藏 照片 browser"
+            "zh-Hans": "显示 / 隐藏照片 browser"
           },
           "shortcutConfiguration": {
             "keyCode": 22,
@@ -547,7 +547,7 @@
           "id": "remote.pixelmator-pro.view.35969d6dc9",
           "title": {
             "en": "Show / Hide Grid",
-            "zh-Hans": "显示 / 隐藏 网格"
+            "zh-Hans": "显示 / 隐藏网格"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -700,7 +700,7 @@
           "id": "remote.pixelmator-pro.edit.2b5b5f92fe",
           "title": {
             "en": "Edit Color Balance",
-            "zh-Hans": "编辑 颜色 Balance"
+            "zh-Hans": "编辑颜色 Balance"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -736,7 +736,7 @@
           "id": "remote.pixelmator-pro.edit.77f5b35f42",
           "title": {
             "en": "Edit Canvas Size",
-            "zh-Hans": "编辑 画布 Size"
+            "zh-Hans": "编辑画布 Size"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -748,7 +748,7 @@
           "id": "remote.pixelmator-pro.edit.7a464fc531",
           "title": {
             "en": "Edit Image Size",
-            "zh-Hans": "编辑 图片 Size"
+            "zh-Hans": "编辑图片 Size"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -784,7 +784,7 @@
           "id": "remote.pixelmator-pro.edit.ff53a765e6",
           "title": {
             "en": "Last Filter",
-            "zh-Hans": "最后一个 滤镜"
+            "zh-Hans": "最后一个滤镜"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -946,7 +946,7 @@
           "id": "remote.pixelmator-pro.working-with-layers.6b58c5e662",
           "title": {
             "en": "Select All Layers",
-            "zh-Hans": "全选 图层"
+            "zh-Hans": "全选图层"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -970,7 +970,7 @@
           "id": "remote.pixelmator-pro.working-with-layers.9c1280029a",
           "title": {
             "en": "Link Layers",
-            "zh-Hans": "链接 图层"
+            "zh-Hans": "链接图层"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -982,7 +982,7 @@
           "id": "remote.pixelmator-pro.working-with-layers.103837a453",
           "title": {
             "en": "Merge Selected Layers",
-            "zh-Hans": "Merge 所选 图层"
+            "zh-Hans": "Merge 所选图层"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -1102,7 +1102,7 @@
           "id": "remote.pixelmator-pro.working-with-layers.8fcb6fe00e",
           "title": {
             "en": "Bring Layer Forward",
-            "zh-Hans": "Bring 图层 向前"
+            "zh-Hans": "Bring 图层向前"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -1114,7 +1114,7 @@
           "id": "remote.pixelmator-pro.working-with-layers.9b70452319",
           "title": {
             "en": "Send Layer Backward",
-            "zh-Hans": "Send 图层 向后"
+            "zh-Hans": "Send 图层向后"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -1282,7 +1282,7 @@
           "id": "remote.pixelmator-pro.general.26d8748dce",
           "title": {
             "en": "Show Preferences",
-            "zh-Hans": "显示 偏好设置"
+            "zh-Hans": "显示偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -1330,7 +1330,7 @@
           "id": "remote.pixelmator-pro.general.552b56d5bd",
           "title": {
             "en": "Close All Windows",
-            "zh-Hans": "关闭 全部 Windows"
+            "zh-Hans": "关闭全部 Windows"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -1354,7 +1354,7 @@
           "id": "remote.pixelmator-pro.general.b9541282ac",
           "title": {
             "en": "Minimize Window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -1366,7 +1366,7 @@
           "id": "remote.pixelmator-pro.general.ffc74dcd5a",
           "title": {
             "en": "Minimize All Windows",
-            "zh-Hans": "最小化 全部 Windows"
+            "zh-Hans": "最小化全部 Windows"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

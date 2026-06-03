@@ -19,7 +19,7 @@
           "id": "remote.filezilla.general.c065bfb2ee",
           "title": {
             "en": "Rename selected file",
-            "zh-Hans": "重命名 所选 文件"
+            "zh-Hans": "重命名所选文件"
           },
           "shortcutConfiguration": {
             "keyCode": 63,
@@ -67,7 +67,7 @@
           "id": "remote.filezilla.general.1c94384e46",
           "title": {
             "en": "Moves selected item to matching item in the other pane.",
-            "zh-Hans": "Moves selected item to matching item in the other pane."
+            "zh-Hans": "Moves selected item to matching item in the other pane"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -79,7 +79,7 @@
           "id": "remote.filezilla.general.1ace204a69",
           "title": {
             "en": "Moves up a line in tree view, or to parent folder in file view.",
-            "zh-Hans": "Moves up a line in tree view, or to parent folder in file view."
+            "zh-Hans": "Moves up a line in tree view, or to parent folder in file view"
           },
           "shortcutConfiguration": {
             "keyCode": 126,

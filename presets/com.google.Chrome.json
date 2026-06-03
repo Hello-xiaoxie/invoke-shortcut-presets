@@ -373,7 +373,7 @@
           "id": "remote.chrome.profile-menu",
           "title": {
             "en": "Log in as a different user, browse as a Guest, or access payment and password info",
-            "zh-Hans": "用户 / 访客 / 密码与付款"
+            "zh-Hans": "用户/访客/密码"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

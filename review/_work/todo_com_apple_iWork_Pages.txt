@@ -1,0 +1,83 @@
+Align text flush left
+Align text flush left and flush right (justify)
+Align text flush right
+Bring object one layer forward
+Bring object to the front
+Check spelling
+Complete a cell entry and move the selection down
+Complete a cell entry and move the selection to the left
+Complete a cell entry and move the selection to the right
+Complete a cell entry and move the selection up
+Complete a cell entry and select the cell
+Copy contents of selected cells or whole table, if table is selected
+Cut contents of selected cells or whole table, if table is selected
+Decrease list indent level
+Delete previous character or selection
+Delete selection (whole table, border or border segment, or contents of selected cells)
+Delete the character to the left of the insertion point, or delete the selection
+Delete the next character or selection
+Deselect all all inline text and objects
+Deselect all fixed objects
+Exit text edit mode and select object
+Extend selection one character to the left
+Extend selection one character to the right
+Extend selection to beginning of current line
+Extend selection to beginning of current word
+Extend selection to beginning of text
+Extend selection to beginning of the current paragraph
+Extend selection to end of current line
+Extend selection to end of current word
+Extend selection to end of text
+Extend selection to end of the current paragraph
+Extend selection to the line above
+Extend selection to the line below
+Extend the selection to the beginning of the row
+Extend the selection to the end of the row
+Hide other windows
+Increase list indent level
+Insert line break (soft return)
+Insert non-breaking space
+Insert page break
+Insert paragraph break
+Make font size bigger
+Make font size smaller
+Make text subscript
+Make text superscript
+Mask or unmask object
+Move object to section master
+Move one character to the left
+Move one character to the right
+Move to the beginning of current or previous word
+Move to the beginning of the current line
+Move to the beginning of the current paragraph
+Move to the beginning of the row
+Move to the end of current or next word
+Move to the end of the current line
+Move to the end of the current paragraph
+Move to the last filled cell to the right in the current row
+Move to the line above
+Move to the line below
+Open existing document
+Open new document (You can choose the type of document you want to open in Pages Preferences.)
+Page setup
+Pages Help
+Paste and match style of destination text
+Paste character or paragraph style
+Paste the selection that was last copied
+Scroll to found selection
+Select all fixed objects
+Select all inline text and objects
+Select all table borders or cell content, depending on initial selection
+Send object one layer back
+Send object to the back
+Show Colors window
+Show Inspector window
+Show Spelling window
+Show document rulers
+Show fonts
+Show formatting characters (invisibles)
+Show layout
+Show or hide Chart Data Editor
+Show styles
+Unlock objects
+Zoom in/Out

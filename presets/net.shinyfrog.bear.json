@@ -259,7 +259,7 @@
           "id": "remote.bear.formatting.741e11326d",
           "title": {
             "en": "insert file",
-            "zh-Hans": "插入 文件"
+            "zh-Hans": "插入文件"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -295,7 +295,7 @@
           "id": "remote.bear.formatting.1e091f06a5",
           "title": {
             "en": "shift line left",
-            "zh-Hans": "shift 行 左"
+            "zh-Hans": "shift 行左"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -307,7 +307,7 @@
           "id": "remote.bear.formatting.29625e8dff",
           "title": {
             "en": "move line up",
-            "zh-Hans": "move 行 上"
+            "zh-Hans": "move 行上"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -319,7 +319,7 @@
           "id": "remote.bear.formatting.cffc3e9cc7",
           "title": {
             "en": "move line down",
-            "zh-Hans": "move 行 下"
+            "zh-Hans": "move 行下"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -427,7 +427,7 @@
           "id": "remote.bear.formatting.d25fed78ba",
           "title": {
             "en": "print note",
-            "zh-Hans": "打印 笔记"
+            "zh-Hans": "打印笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -439,7 +439,7 @@
           "id": "remote.bear.formatting.759f41150e",
           "title": {
             "en": "open link",
-            "zh-Hans": "打开 链接"
+            "zh-Hans": "打开链接"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -475,7 +475,7 @@
           "id": "remote.bear.formatting.19024c6392",
           "title": {
             "en": "copy note identifier",
-            "zh-Hans": "复制 笔记 identifier"
+            "zh-Hans": "复制笔记 identifier"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -532,7 +532,7 @@
           "id": "remote.bear.table.17c1cc5189",
           "title": {
             "en": "delete row",
-            "zh-Hans": "删除 行"
+            "zh-Hans": "删除行"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -544,7 +544,7 @@
           "id": "remote.bear.table.f840223433",
           "title": {
             "en": "delete column",
-            "zh-Hans": "删除 列"
+            "zh-Hans": "删除列"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -730,7 +730,7 @@
           "id": "remote.bear.sidebar.4040311f24",
           "title": {
             "en": "delete selected note",
-            "zh-Hans": "删除 所选 笔记"
+            "zh-Hans": "删除所选笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -742,7 +742,7 @@
           "id": "remote.bear.sidebar.93f95ae221",
           "title": {
             "en": "restore selected note",
-            "zh-Hans": "restore 所选 笔记"
+            "zh-Hans": "restore 所选笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -754,7 +754,7 @@
           "id": "remote.bear.sidebar.29d40287db",
           "title": {
             "en": "pin/unpin selected note",
-            "zh-Hans": "pin/unpin 所选 笔记"
+            "zh-Hans": "pin/unpin 所选笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -898,7 +898,7 @@
           "id": "remote.bear.sidebar.cf6707d7d2",
           "title": {
             "en": "export selected notes",
-            "zh-Hans": "导出 所选 笔记"
+            "zh-Hans": "导出所选笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -910,7 +910,7 @@
           "id": "remote.bear.sidebar.caf926175a",
           "title": {
             "en": "import notes",
-            "zh-Hans": "导入 笔记"
+            "zh-Hans": "导入笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -931,7 +931,7 @@
           "id": "remote.bear.views.a20868c8f5",
           "title": {
             "en": "show editor only",
-            "zh-Hans": "显示 编辑器 only"
+            "zh-Hans": "显示编辑器 only"
           },
           "shortcutConfiguration": {
             "keyCode": 18,

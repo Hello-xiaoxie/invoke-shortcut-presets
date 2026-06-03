@@ -286,7 +286,7 @@
           "id": "remote.apple-reminders.reminder-shortcuts.304abfe8c9",
           "title": {
             "en": "Show all reminders",
-            "zh-Hans": "显示 全部 reminders"
+            "zh-Hans": "显示全部 reminders"
           },
           "shortcutConfiguration": {
             "keyCode": 37,

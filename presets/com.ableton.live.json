@@ -19,7 +19,7 @@
           "id": "remote.ableton-live.showing-and-hiding-results.e96b588ce3",
           "title": {
             "en": "Toggle Full Screen Mode",
-            "zh-Hans": "Toggle 全屏 模式"
+            "zh-Hans": "Toggle 全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 103,
@@ -55,7 +55,7 @@
           "id": "remote.ableton-live.showing-and-hiding-results.6d0181bd4e",
           "title": {
             "en": "Toggle Device/Clip View",
-            "zh-Hans": "切换Device/片段 视图"
+            "zh-Hans": "切换Device/片段视图"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -163,7 +163,7 @@
           "id": "remote.ableton-live.showing-and-hiding-results.ab845de682",
           "title": {
             "en": "Hide/Show Mixer",
-            "zh-Hans": "隐藏/显示 混音器"
+            "zh-Hans": "隐藏/显示混音器"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -187,7 +187,7 @@
           "id": "remote.ableton-live.showing-and-hiding-results.21ed2564c1",
           "title": {
             "en": "Close Window/Dialog",
-            "zh-Hans": "关闭 窗口/对话框"
+            "zh-Hans": "关闭窗口/对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -289,7 +289,7 @@
           "id": "remote.ableton-live.browsing.c75a3686a1",
           "title": {
             "en": "Load Selected Item fromBrowser",
-            "zh-Hans": "Load 所选 项目 fromBrowser"
+            "zh-Hans": "Load 所选项目 fromBrowser"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -301,7 +301,7 @@
           "id": "remote.ableton-live.browsing.8ce62f0ee0",
           "title": {
             "en": "Preview Selected File",
-            "zh-Hans": "预览 所选 文件"
+            "zh-Hans": "预览所选文件"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -556,7 +556,7 @@
           "id": "remote.ableton-live.session-view-commands.bf23228d2d",
           "title": {
             "en": "Launch Selected Clip/Slot",
-            "zh-Hans": "Launch 所选 片段/Slot"
+            "zh-Hans": "Launch 所选片段/Slot"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -568,7 +568,7 @@
           "id": "remote.ableton-live.session-view-commands.56de5f9035",
           "title": {
             "en": "Select all Clips/Slots",
-            "zh-Hans": "全选 片段/Slots"
+            "zh-Hans": "全选片段/Slots"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -685,7 +685,7 @@
           "id": "remote.ableton-live.arrangement-view-commands.82dcd5be78",
           "title": {
             "en": "Loop Selection",
-            "zh-Hans": "循环 选择"
+            "zh-Hans": "循环选择"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -742,7 +742,7 @@
           "id": "remote.ableton-live.commands-for-tracks.dc1128cc60",
           "title": {
             "en": "Insert Audio Track",
-            "zh-Hans": "插入 音频 轨道"
+            "zh-Hans": "插入音频轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -778,7 +778,7 @@
           "id": "remote.ableton-live.commands-for-tracks.fe3f1d324e",
           "title": {
             "en": "Rename Selected Track",
-            "zh-Hans": "重命名 所选 轨道"
+            "zh-Hans": "重命名所选轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -802,7 +802,7 @@
           "id": "remote.ableton-live.commands-for-tracks.01365243b4",
           "title": {
             "en": "Group Selected Tracks",
-            "zh-Hans": "编组 所选 轨道"
+            "zh-Hans": "编组所选轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -814,7 +814,7 @@
           "id": "remote.ableton-live.commands-for-tracks.1913fa60d0",
           "title": {
             "en": "Ungroup Tracks",
-            "zh-Hans": "取消编组 轨道"
+            "zh-Hans": "取消编组轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1330,7 +1330,7 @@
           "id": "remote.ableton-live.working-with-sets-and-the-program.5a7d89fbc6",
           "title": {
             "en": "Save Live Set As...",
-            "zh-Hans": "Save Live Set As..."
+            "zh-Hans": "Save Live Set As"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -1366,7 +1366,7 @@
           "id": "remote.ableton-live.working-with-sets-and-the-program.49780472b4",
           "title": {
             "en": "Export Audio/Video",
-            "zh-Hans": "导出 音频/视频"
+            "zh-Hans": "导出音频/视频"
           },
           "shortcutConfiguration": {
             "keyCode": 15,

@@ -55,7 +55,7 @@
           "id": "remote.adobe-illustrator.function-keys.372e7b0747",
           "title": {
             "en": "Show/hide Color panel",
-            "zh-Hans": "显示/隐藏 颜色 面板"
+            "zh-Hans": "显示/隐藏颜色面板"
           },
           "shortcutConfiguration": {
             "keyCode": 97,
@@ -67,7 +67,7 @@
           "id": "remote.adobe-illustrator.function-keys.2c4065bab4",
           "title": {
             "en": "Show/hide Layers panel",
-            "zh-Hans": "显示/隐藏 图层 面板"
+            "zh-Hans": "显示/隐藏图层面板"
           },
           "shortcutConfiguration": {
             "keyCode": 98,
@@ -103,7 +103,7 @@
           "id": "remote.adobe-illustrator.function-keys.fac91bf462",
           "title": {
             "en": "Show/hide Gradient panel",
-            "zh-Hans": "显示/隐藏 渐变 面板"
+            "zh-Hans": "显示/隐藏渐变面板"
           },
           "shortcutConfiguration": {
             "keyCode": 101,
@@ -115,7 +115,7 @@
           "id": "remote.adobe-illustrator.function-keys.c95b9718f6",
           "title": {
             "en": "Show/hide Stroke panel",
-            "zh-Hans": "显示/隐藏 描边 面板"
+            "zh-Hans": "显示/隐藏描边面板"
           },
           "shortcutConfiguration": {
             "keyCode": 109,
@@ -175,7 +175,7 @@
           "id": "remote.adobe-illustrator.function-keys.49215e8ffe",
           "title": {
             "en": "Show/hide Align panel",
-            "zh-Hans": "显示/隐藏 对齐 面板"
+            "zh-Hans": "显示/隐藏对齐面板"
           },
           "shortcutConfiguration": {
             "keyCode": 98,
@@ -352,7 +352,7 @@
           "id": "remote.adobe-illustrator.selecting-tools.e0bf84497b",
           "title": {
             "en": "Delete Anchor Point tool",
-            "zh-Hans": "删除 锚点 Point tool"
+            "zh-Hans": "删除锚点 Point tool"
           },
           "shortcutConfiguration": {
             "keyCode": 24,
@@ -805,7 +805,7 @@
           "id": "remote.adobe-illustrator.viewing-artwork.7c9d53c7de",
           "title": {
             "en": "Show/Hide artboard rulers",
-            "zh-Hans": "显示/隐藏 画板 rulers"
+            "zh-Hans": "显示/隐藏画板 rulers"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -901,7 +901,7 @@
           "id": "remote.adobe-illustrator.viewing-artwork.5b93465fb8",
           "title": {
             "en": "Exit Full Screen mode",
-            "zh-Hans": "Exit 全屏 模式"
+            "zh-Hans": "Exit 全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -1096,7 +1096,7 @@
           "id": "remote.adobe-illustrator.moving-selection.cd75cbbc98",
           "title": {
             "en": "Lock all deselected artwork",
-            "zh-Hans": "锁定 全部 deselected artwork"
+            "zh-Hans": "锁定全部 deselected artwork"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -1165,7 +1165,7 @@
           "id": "remote.adobe-illustrator.painting-objects.794b38e067",
           "title": {
             "en": "Select gradient fill mode",
-            "zh-Hans": "选择gradient 填充 模式"
+            "zh-Hans": "选择gradient 填充模式"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -1177,7 +1177,7 @@
           "id": "remote.adobe-illustrator.painting-objects.975e05219f",
           "title": {
             "en": "Select color fill mode",
-            "zh-Hans": "选择color 填充 模式"
+            "zh-Hans": "选择color 填充模式"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -1189,7 +1189,7 @@
           "id": "remote.adobe-illustrator.painting-objects.c7c33dc2bd",
           "title": {
             "en": "Select no stroke/fill mode",
-            "zh-Hans": "选择no 描边/填充 模式"
+            "zh-Hans": "选择no 描边/填充模式"
           },
           "shortcutConfiguration": {
             "keyCode": 44,

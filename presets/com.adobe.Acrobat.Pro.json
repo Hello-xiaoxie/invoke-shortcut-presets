@@ -325,7 +325,7 @@
           "id": "remote.adobe-acrobat-pro.navigation.a286e1ee4a",
           "title": {
             "en": "First page",
-            "zh-Hans": "第一个 页面"
+            "zh-Hans": "第一个页面"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -337,7 +337,7 @@
           "id": "remote.adobe-acrobat-pro.navigation.0e9fecda39",
           "title": {
             "en": "Last page",
-            "zh-Hans": "最后一个 页面"
+            "zh-Hans": "最后一个页面"
           },
           "shortcutConfiguration": {
             "keyCode": 119,
@@ -349,7 +349,7 @@
           "id": "remote.adobe-acrobat-pro.navigation.a76c504ab6",
           "title": {
             "en": "Previous page",
-            "zh-Hans": "上一个 页面"
+            "zh-Hans": "上一个页面"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -361,7 +361,7 @@
           "id": "remote.adobe-acrobat-pro.navigation.b486f63db3",
           "title": {
             "en": "Next page",
-            "zh-Hans": "下一个 页面"
+            "zh-Hans": "下一个页面"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -373,7 +373,7 @@
           "id": "remote.adobe-acrobat-pro.navigation.039e404961",
           "title": {
             "en": "Previous open document",
-            "zh-Hans": "上一个 打开 文档"
+            "zh-Hans": "上一个打开文档"
           },
           "shortcutConfiguration": {
             "keyCode": 97,
@@ -385,7 +385,7 @@
           "id": "remote.adobe-acrobat-pro.navigation.31ac273413",
           "title": {
             "en": "Next open document",
-            "zh-Hans": "下一个 打开 文档"
+            "zh-Hans": "下一个打开文档"
           },
           "shortcutConfiguration": {
             "keyCode": 97,
@@ -910,7 +910,7 @@
           "id": "remote.adobe-acrobat-pro.pdf-portfolios.8ca8e62e4f",
           "title": {
             "en": "Press the Go Back button in a folder if focus is on the button.",
-            "zh-Hans": "Press the Go Back button in a folder if focus is on the button."
+            "zh-Hans": "Press the Go Back button in a folder if focus is on the button"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -922,7 +922,7 @@
           "id": "remote.adobe-acrobat-pro.pdf-portfolios.52f726e025",
           "title": {
             "en": "If pressed when focus is on a row in the file list representing a subfolder, navigate to a subfolder, or open an attachment in Preview mode.",
-            "zh-Hans": "If pressed when focus is on a row in the file list representing a subfolder, navigate to a subfolder, or open an attachment in Preview mode."
+            "zh-Hans": "If pressed when focus is on a row in the file list representing a subfolder, navigate to a subfolder, or open an attachment in Preview mode"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -958,7 +958,7 @@
           "id": "remote.adobe-acrobat-pro.pdf-portfolios.8e0bc9b2c9",
           "title": {
             "en": "Select or deselect all files",
-            "zh-Hans": "选择or deselect 全部 文件"
+            "zh-Hans": "选择or deselect 全部文件"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1135,7 +1135,7 @@
           "id": "remote.adobe-acrobat-pro.tools.2c3fc1e1d9",
           "title": {
             "en": "Edit Object tool",
-            "zh-Hans": "编辑 对象 tool"
+            "zh-Hans": "编辑对象 tool"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -1231,7 +1231,7 @@
           "id": "remote.adobe-acrobat-pro.tools.dd716cb921",
           "title": {
             "en": "Edit Document Text tool",
-            "zh-Hans": "编辑 文档 文本 tool"
+            "zh-Hans": "编辑文档文本 tool"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1291,7 +1291,7 @@
           "id": "remote.adobe-acrobat-pro.tools.f043e1b472",
           "title": {
             "en": "Insert Files",
-            "zh-Hans": "插入 文件"
+            "zh-Hans": "插入文件"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -1303,7 +1303,7 @@
           "id": "remote.adobe-acrobat-pro.tools.7161b753cf",
           "title": {
             "en": "Delete pages",
-            "zh-Hans": "删除 页面"
+            "zh-Hans": "删除页面"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -1315,7 +1315,7 @@
           "id": "remote.adobe-acrobat-pro.tools.517088f45c",
           "title": {
             "en": "Open Output Preview",
-            "zh-Hans": "打开 输出 预览"
+            "zh-Hans": "打开输出预览"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,

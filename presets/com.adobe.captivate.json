@@ -79,7 +79,7 @@
           "id": "remote.adobe-captivate.function-key-shortcuts.6ed3f876f7",
           "title": {
             "en": "Import audio",
-            "zh-Hans": "导入 音频"
+            "zh-Hans": "导入音频"
           },
           "shortcutConfiguration": {
             "keyCode": 97,
@@ -301,7 +301,7 @@
           "id": "remote.adobe-captivate.recording.ca02718d41",
           "title": {
             "en": "Preview project",
-            "zh-Hans": "预览 项目"
+            "zh-Hans": "预览项目"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -538,7 +538,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.a032b615bb",
           "title": {
             "en": "Increase the indent (selected object on stage)/Change text to Italics. Indentation is equal to the grid size.",
-            "zh-Hans": "Increase the indent (selected object on stage)/Change text to Italics. Indentation is equal to the grid size."
+            "zh-Hans": "Increase the indent (selected object on stage)/Change text to Italics. Indentation is equal to the grid size"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -634,7 +634,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.9c70fb371e",
           "title": {
             "en": "Open project template",
-            "zh-Hans": "打开 项目 模板"
+            "zh-Hans": "打开项目模板"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -670,7 +670,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.1387723692",
           "title": {
             "en": "Cut (selected object on stage)",
-            "zh-Hans": "剪切 (所选 对象 on stage)"
+            "zh-Hans": "剪切 (所选对象 on stage)"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -898,7 +898,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.f59f495e7a",
           "title": {
             "en": "Remove a slide group.",
-            "zh-Hans": "Remove a slide 编组."
+            "zh-Hans": "Remove a slide 编组"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -946,7 +946,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0994c8ffb7",
           "title": {
             "en": "Import video file",
-            "zh-Hans": "导入 视频 文件"
+            "zh-Hans": "导入视频文件"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -994,7 +994,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.d771e96b1c",
           "title": {
             "en": "Preferences dialog box",
-            "zh-Hans": "偏好设置 对话框 box"
+            "zh-Hans": "偏好设置对话框 box"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -1030,7 +1030,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.13e54f4c32",
           "title": {
             "en": "Skin Editor panel",
-            "zh-Hans": "Skin 编辑器 面板"
+            "zh-Hans": "Skin 编辑器面板"
           },
           "shortcutConfiguration": {
             "keyCode": 103,
@@ -1054,7 +1054,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.46f0ebb2a6",
           "title": {
             "en": "Insert Animation placeholder",
-            "zh-Hans": "插入 动画 placeholder"
+            "zh-Hans": "插入动画 placeholder"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1102,7 +1102,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.ac9a2d0b26",
           "title": {
             "en": "Insert Text Caption placeholder",
-            "zh-Hans": "插入 文本 Caption placeholder"
+            "zh-Hans": "插入文本 Caption placeholder"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1114,7 +1114,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.a32467981a",
           "title": {
             "en": "Insert video place holder",
-            "zh-Hans": "插入 视频 place holder"
+            "zh-Hans": "插入视频 place holder"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1126,7 +1126,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.0ade85007c",
           "title": {
             "en": "Insert Image placeholder",
-            "zh-Hans": "插入 图片 placeholder"
+            "zh-Hans": "插入图片 placeholder"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -1150,7 +1150,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.28c415fd98",
           "title": {
             "en": "Insert Text Animation placeholder",
-            "zh-Hans": "插入 文本 动画 placeholder"
+            "zh-Hans": "插入文本动画 placeholder"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -1162,7 +1162,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.bcff1b212b",
           "title": {
             "en": "Show Audio Management panel",
-            "zh-Hans": "显示 音频 Management 面板"
+            "zh-Hans": "显示音频 Management 面板"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1234,7 +1234,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.2362caf7de",
           "title": {
             "en": "Add an animation object",
-            "zh-Hans": "添加an 动画 对象"
+            "zh-Hans": "添加an 动画对象"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1570,7 +1570,7 @@
           "id": "remote.adobe-captivate.general-and-miscellaneous-shortcuts.f369c3880d",
           "title": {
             "en": "Edit gradient",
-            "zh-Hans": "编辑 渐变"
+            "zh-Hans": "编辑渐变"
           },
           "shortcutConfiguration": {
             "keyCode": 5,

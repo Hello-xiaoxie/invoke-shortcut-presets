@@ -271,7 +271,7 @@
           "id": "remote.anki.browser.1844781940",
           "title": {
             "en": "Export Notes",
-            "zh-Hans": "导出 笔记"
+            "zh-Hans": "导出笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -685,7 +685,7 @@
           "id": "remote.anki.reviewer.55dd50a4b7",
           "title": {
             "en": "Audio  5s",
-            "zh-Hans": "音频  5s"
+            "zh-Hans": "音频 5s"
           },
           "shortcutConfiguration": {
             "keyCode": 26,
@@ -745,7 +745,7 @@
           "id": "remote.anki.reviewer.51eb1fecb8",
           "title": {
             "en": "Delete Note",
-            "zh-Hans": "删除 笔记"
+            "zh-Hans": "删除笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -946,7 +946,7 @@
           "id": "remote.anki.home-screen.48aa2ce731",
           "title": {
             "en": "Import File",
-            "zh-Hans": "导入 文件"
+            "zh-Hans": "导入文件"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -1027,7 +1027,7 @@
           "id": "remote.anki.tools.027c0fa3cc",
           "title": {
             "en": "Preferences...",
-            "zh-Hans": "偏好设置..."
+            "zh-Hans": "偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -1063,7 +1063,7 @@
           "id": "remote.anki.tools.f22207ef05",
           "title": {
             "en": "Create Filtered Deck...",
-            "zh-Hans": "Create Filtered Deck..."
+            "zh-Hans": "Create Filtered Deck"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -1096,7 +1096,7 @@
           "id": "remote.anki.edit.9185e7ca81",
           "title": {
             "en": "Emoji ",
-            "zh-Hans": "Emoji "
+            "zh-Hans": "Emoji"
           },
           "shortcutConfiguration": {
             "keyCode": 49,
@@ -1108,7 +1108,7 @@
           "id": "remote.anki.edit.558777c44b",
           "title": {
             "en": "Start Dictation...",
-            "zh-Hans": "开始 Dictation..."
+            "zh-Hans": "开始 Dictation"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -1210,7 +1210,7 @@
           "id": "remote.anki.general.809adf1d4d",
           "title": {
             "en": "Close dialog",
-            "zh-Hans": "关闭 对话框"
+            "zh-Hans": "关闭对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 53,

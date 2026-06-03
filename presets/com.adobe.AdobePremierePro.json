@@ -31,7 +31,7 @@
           "id": "remote.adobe-premiere.general-shortcuts.f489414a10",
           "title": {
             "en": "Save Project",
-            "zh-Hans": "存储 项目"
+            "zh-Hans": "存储项目"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -55,7 +55,7 @@
           "id": "remote.adobe-premiere.general-shortcuts.4b0fe75f46",
           "title": {
             "en": "Save Copy",
-            "zh-Hans": "存储 复制"
+            "zh-Hans": "存储复制"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -79,7 +79,7 @@
           "id": "remote.adobe-premiere.general-shortcuts.f0de73131c",
           "title": {
             "en": "Close Project",
-            "zh-Hans": "关闭 项目"
+            "zh-Hans": "关闭项目"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -307,7 +307,7 @@
           "id": "remote.adobe-premiere.general-shortcuts.5e05836962",
           "title": {
             "en": "Paste Insert",
-            "zh-Hans": "粘贴 插入"
+            "zh-Hans": "粘贴插入"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -496,7 +496,7 @@
           "id": "remote.adobe-premiere.clipping-shortcuts.6801f3248e",
           "title": {
             "en": "Video transition",
-            "zh-Hans": "视频 过渡"
+            "zh-Hans": "视频过渡"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -508,7 +508,7 @@
           "id": "remote.adobe-premiere.clipping-shortcuts.80586acf18",
           "title": {
             "en": "Audio transition",
-            "zh-Hans": "音频 过渡"
+            "zh-Hans": "音频过渡"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -556,7 +556,7 @@
           "id": "remote.adobe-premiere.clipping-shortcuts.1bfd788cab",
           "title": {
             "en": "Go to selected clip start",
-            "zh-Hans": "转到selected 片段 开始"
+            "zh-Hans": "转到selected 片段开始"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -568,7 +568,7 @@
           "id": "remote.adobe-premiere.clipping-shortcuts.3d2c5858e6",
           "title": {
             "en": "Go to selected clip end",
-            "zh-Hans": "转到selected 片段 结束"
+            "zh-Hans": "转到selected 片段结束"
           },
           "shortcutConfiguration": {
             "keyCode": 119,
@@ -580,7 +580,7 @@
           "id": "remote.adobe-premiere.clipping-shortcuts.9d3751f9df",
           "title": {
             "en": "Go to sequence clip start",
-            "zh-Hans": "转到sequence 片段 开始"
+            "zh-Hans": "转到sequence 片段开始"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -592,7 +592,7 @@
           "id": "remote.adobe-premiere.clipping-shortcuts.09c9f8e7d4",
           "title": {
             "en": "Go to sequence clip end",
-            "zh-Hans": "转到sequence 片段 结束"
+            "zh-Hans": "转到sequence 片段结束"
           },
           "shortcutConfiguration": {
             "keyCode": 119,
@@ -616,7 +616,7 @@
           "id": "remote.adobe-premiere.clipping-shortcuts.7ff3211e37",
           "title": {
             "en": "Minimize all tracks",
-            "zh-Hans": "最小化 全部 轨道"
+            "zh-Hans": "最小化全部轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 27,
@@ -676,7 +676,7 @@
           "id": "remote.adobe-premiere.clipping-shortcuts.74f644e50b",
           "title": {
             "en": "Audio Channels",
-            "zh-Hans": "音频 频道"
+            "zh-Hans": "音频频道"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -769,7 +769,7 @@
           "id": "remote.adobe-premiere.marker-operation.9c79c47363",
           "title": {
             "en": "Clear in  and out",
-            "zh-Hans": "Clear in  and out"
+            "zh-Hans": "Clear in and out"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -793,7 +793,7 @@
           "id": "remote.adobe-premiere.marker-operation.1adfbebf5c",
           "title": {
             "en": "Previous marker",
-            "zh-Hans": "上一个 标记"
+            "zh-Hans": "上一个标记"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -805,7 +805,7 @@
           "id": "remote.adobe-premiere.marker-operation.8f6409c05c",
           "title": {
             "en": "Next marker",
-            "zh-Hans": "下一个 标记"
+            "zh-Hans": "下一个标记"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -829,7 +829,7 @@
           "id": "remote.adobe-premiere.marker-operation.b43b089321",
           "title": {
             "en": "Left align",
-            "zh-Hans": "左 对齐"
+            "zh-Hans": "左对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -841,7 +841,7 @@
           "id": "remote.adobe-premiere.marker-operation.077395e45f",
           "title": {
             "en": "Center align",
-            "zh-Hans": "中心 对齐"
+            "zh-Hans": "中心对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -853,7 +853,7 @@
           "id": "remote.adobe-premiere.marker-operation.91877eedcb",
           "title": {
             "en": "Right align",
-            "zh-Hans": "右 对齐"
+            "zh-Hans": "右对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -958,7 +958,7 @@
           "id": "remote.adobe-premiere.window-shortcuts.7713ae560c",
           "title": {
             "en": "Audio track mixer",
-            "zh-Hans": "音频 轨道 混音器"
+            "zh-Hans": "音频轨道混音器"
           },
           "shortcutConfiguration": {
             "keyCode": 22,
@@ -994,7 +994,7 @@
           "id": "remote.adobe-premiere.window-shortcuts.ea188cc6eb",
           "title": {
             "en": "Audio clip mixer",
-            "zh-Hans": "音频 片段 混音器"
+            "zh-Hans": "音频片段混音器"
           },
           "shortcutConfiguration": {
             "keyCode": 25,
@@ -1030,7 +1030,7 @@
           "id": "remote.adobe-premiere.window-shortcuts.e8772b06f6",
           "title": {
             "en": "Export frame",
-            "zh-Hans": "导出 画框"
+            "zh-Hans": "导出画框"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -1054,7 +1054,7 @@
           "id": "remote.adobe-premiere.window-shortcuts.7a8f264458",
           "title": {
             "en": "Replace Current Workplace",
-            "zh-Hans": "替换 当前 Workplace"
+            "zh-Hans": "替换当前 Workplace"
           },
           "shortcutConfiguration": {
             "keyCode": 29,
@@ -1207,7 +1207,7 @@
           "id": "remote.adobe-premiere.panel-shortcuts.6d1bc88a50",
           "title": {
             "en": "Remove effects/delete item",
-            "zh-Hans": "Remove effects/删除 项目"
+            "zh-Hans": "Remove effects/删除项目"
           },
           "shortcutConfiguration": {
             "keyCode": 51,

@@ -55,7 +55,7 @@
           "id": "remote.ia-writer.files.9379ed7775",
           "title": {
             "en": "Save active file",
-            "zh-Hans": "存储 活动 文件"
+            "zh-Hans": "存储活动文件"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -67,7 +67,7 @@
           "id": "remote.ia-writer.files.634246f2c7",
           "title": {
             "en": "Duplicate active file",
-            "zh-Hans": "创建副本 活动 文件"
+            "zh-Hans": "创建副本活动文件"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -79,7 +79,7 @@
           "id": "remote.ia-writer.files.3c24ccd42e",
           "title": {
             "en": "Save active file as",
-            "zh-Hans": "存储 活动 文件 as"
+            "zh-Hans": "存储活动文件 as"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -223,7 +223,7 @@
           "id": "remote.ia-writer.interface.8efbeadc06",
           "title": {
             "en": "Close active window",
-            "zh-Hans": "关闭 活动 窗口"
+            "zh-Hans": "关闭活动窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -235,7 +235,7 @@
           "id": "remote.ia-writer.interface.b7452b58ea",
           "title": {
             "en": "Close all windows",
-            "zh-Hans": "关闭 全部 windows"
+            "zh-Hans": "关闭全部 windows"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -328,7 +328,7 @@
           "id": "remote.ia-writer.structure.6a2db8451b",
           "title": {
             "en": "Move selected line up",
-            "zh-Hans": "移动selected 行 上"
+            "zh-Hans": "移动selected 行上"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -340,7 +340,7 @@
           "id": "remote.ia-writer.structure.fafe724483",
           "title": {
             "en": "Move selected line down",
-            "zh-Hans": "移动selected 行 下"
+            "zh-Hans": "移动selected 行下"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -421,7 +421,7 @@
           "id": "remote.ia-writer.formatting.f5a9e1dc60",
           "title": {
             "en": "Image link",
-            "zh-Hans": "图片 链接"
+            "zh-Hans": "图片链接"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -535,7 +535,7 @@
           "id": "remote.ia-writer.copy-and-paste.786377b57a",
           "title": {
             "en": "Copy selected text",
-            "zh-Hans": "复制 所选 文本"
+            "zh-Hans": "复制所选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -547,7 +547,7 @@
           "id": "remote.ia-writer.copy-and-paste.1709a7d128",
           "title": {
             "en": "Copy formatted selected text",
-            "zh-Hans": "复制 formatted 所选 文本"
+            "zh-Hans": "复制 formatted 所选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -559,7 +559,7 @@
           "id": "remote.ia-writer.copy-and-paste.2ad65c4efb",
           "title": {
             "en": "Copy selected text as HTML",
-            "zh-Hans": "复制 所选 文本 as HTML"
+            "zh-Hans": "复制所选文本 as HTML"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -640,7 +640,7 @@
           "id": "remote.ia-writer.find.311842e8cb",
           "title": {
             "en": "Find next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -652,7 +652,7 @@
           "id": "remote.ia-writer.find.eccb3fa2a7",
           "title": {
             "en": "Find previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -673,7 +673,7 @@
           "id": "remote.ia-writer.move-caret-to.e879541e87",
           "title": {
             "en": "Previous character",
-            "zh-Hans": "上一个 字符"
+            "zh-Hans": "上一个字符"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -685,7 +685,7 @@
           "id": "remote.ia-writer.move-caret-to.5790c744d3",
           "title": {
             "en": "Next character",
-            "zh-Hans": "下一个 字符"
+            "zh-Hans": "下一个字符"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -697,7 +697,7 @@
           "id": "remote.ia-writer.move-caret-to.9b98ce5502",
           "title": {
             "en": "Previous line",
-            "zh-Hans": "上一个 行"
+            "zh-Hans": "上一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -709,7 +709,7 @@
           "id": "remote.ia-writer.move-caret-to.e189fb6483",
           "title": {
             "en": "Next line",
-            "zh-Hans": "下一个 行"
+            "zh-Hans": "下一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 125,

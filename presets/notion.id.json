@@ -55,7 +55,7 @@
           "id": "remote.notion.most-popular.fc4c393654",
           "title": {
             "en": "Go forward a page.",
-            "zh-Hans": "Go forward a page."
+            "zh-Hans": "Go forward a page"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -67,7 +67,7 @@
           "id": "remote.notion.most-popular.d7de65e4a3",
           "title": {
             "en": "Go back a page.",
-            "zh-Hans": "Go back a 页面."
+            "zh-Hans": "Go back a 页面"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -79,7 +79,7 @@
           "id": "remote.notion.most-popular.34758186e0",
           "title": {
             "en": "Search or jump to a recently viewed page.",
-            "zh-Hans": "Search or jump to a recently viewed page."
+            "zh-Hans": "Search or jump to a recently viewed page"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -91,7 +91,7 @@
           "id": "remote.notion.most-popular.39006c8b0a",
           "title": {
             "en": "Open a new Notion window.",
-            "zh-Hans": "Open a new Notion window."
+            "zh-Hans": "Open a new Notion window"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -103,7 +103,7 @@
           "id": "remote.notion.most-popular.93a468e434",
           "title": {
             "en": "Create a new page (desktop apps only).",
-            "zh-Hans": "Create a new page (desktop apps only)."
+            "zh-Hans": "Create a new page (desktop apps only)"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -124,7 +124,7 @@
           "id": "remote.notion.edit-move-blocks.4ed8cbc56a",
           "title": {
             "en": "Modify the current block (open page, check/uncheck to-do, open/close list item, etc.)",
-            "zh-Hans": "Modify the current block (open page, check/uncheck to-do, open/close list item, etc.)"
+            "zh-Hans": "修改当前块"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -148,7 +148,7 @@
           "id": "remote.notion.edit-move-blocks.f1487e1db7",
           "title": {
             "en": "Expand or close all toggles in a toggle list",
-            "zh-Hans": "Expand or close all toggles in a toggle list"
+            "zh-Hans": "展开/折叠全部"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -184,7 +184,7 @@
           "id": "remote.notion.edit-move-blocks.388b156b7e",
           "title": {
             "en": "Edit all selected cards at once in board view",
-            "zh-Hans": "Edit all selected cards at once in board view"
+            "zh-Hans": "批量编辑卡片"
           },
           "shortcutConfiguration": {
             "keyCode": 44,
@@ -208,7 +208,7 @@
           "id": "remote.notion.edit-move-blocks.b23a77685e",
           "title": {
             "en": "Edit any text inside a selected block (or open a page inside a page)",
-            "zh-Hans": "Edit any text inside a selected block (or open a page inside a page)"
+            "zh-Hans": "编辑块内文本"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -220,7 +220,7 @@
           "id": "remote.notion.edit-move-blocks.a9b825cf26",
           "title": {
             "en": "Duplicate selected blocks",
-            "zh-Hans": "创建副本 所选 blocks"
+            "zh-Hans": "创建副本所选 blocks"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -232,7 +232,7 @@
           "id": "remote.notion.edit-move-blocks.6c1faa7033",
           "title": {
             "en": "Delete selected blocks",
-            "zh-Hans": "删除 所选 blocks"
+            "zh-Hans": "删除所选 blocks"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -268,7 +268,7 @@
           "id": "remote.notion.edit-move-blocks.afd7d34c1a",
           "title": {
             "en": "Open a selected image in full-screen. Or exit full-screen.",
-            "zh-Hans": "Open a selected image in full-screen. Or exit full-screen."
+            "zh-Hans": "Open a selected image in full-screen. Or exit full-screen"
           },
           "shortcutConfiguration": {
             "keyCode": 49,
@@ -361,7 +361,7 @@
           "id": "remote.notion.create-style-your-content.5189738eac",
           "title": {
             "en": "Create a new page or turn whatever you have on a line into a page",
-            "zh-Hans": "Create a new page or turn whatever you have on a line into a page"
+            "zh-Hans": "新建/转为页面"
           },
           "shortcutConfiguration": {
             "keyCode": 25,
@@ -529,7 +529,7 @@
           "id": "remote.notion.create-style-your-content.4414952c92",
           "title": {
             "en": "Strikethrough selected text",
-            "zh-Hans": "Strikethrough 所选 文本"
+            "zh-Hans": "Strikethrough 所选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -541,7 +541,7 @@
           "id": "remote.notion.create-style-your-content.ac46c5dcee",
           "title": {
             "en": "Italicize selected text",
-            "zh-Hans": "Italicize 所选 文本"
+            "zh-Hans": "Italicize 所选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -553,7 +553,7 @@
           "id": "remote.notion.create-style-your-content.c23f9a3b61",
           "title": {
             "en": "Bold selected text",
-            "zh-Hans": "加粗 所选 文本"
+            "zh-Hans": "加粗所选文本"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -589,7 +589,7 @@
           "id": "remote.notion.create-style-your-content.d711383771",
           "title": {
             "en": "Insert a line of text.",
-            "zh-Hans": "Insert a line of text."
+            "zh-Hans": "Insert a line of text"
           },
           "shortcutConfiguration": {
             "keyCode": 76,

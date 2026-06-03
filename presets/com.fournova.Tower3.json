@@ -121,7 +121,7 @@
           "id": "remote.tower.remote.a79402cabd",
           "title": {
             "en": "Show / hide commit tree graph",
-            "zh-Hans": "显示 / 隐藏 提交 tree graph"
+            "zh-Hans": "显示 / 隐藏提交 tree graph"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -250,7 +250,7 @@
           "id": "remote.tower.working-copy-local-changes.b422177d3e",
           "title": {
             "en": "Unstage all current changes",
-            "zh-Hans": "Unstage 全部 当前 changes"
+            "zh-Hans": "Unstage 全部当前 changes"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -262,7 +262,7 @@
           "id": "remote.tower.working-copy-local-changes.9a811870fd",
           "title": {
             "en": "Stage all current changes",
-            "zh-Hans": "Stage 全部 当前 changes"
+            "zh-Hans": "Stage 全部当前 changes"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -274,7 +274,7 @@
           "id": "remote.tower.working-copy-local-changes.48c081706e",
           "title": {
             "en": "Stage/unstage selected file(s)",
-            "zh-Hans": "Stage/unstage 所选 文件(s)"
+            "zh-Hans": "Stage/unstage 所选文件(s)"
           },
           "shortcutConfiguration": {
             "keyCode": 49,
@@ -286,7 +286,7 @@
           "id": "remote.tower.working-copy-local-changes.e47c27fdad",
           "title": {
             "en": "Confirm commit dialog",
-            "zh-Hans": "Confirm 提交 对话框"
+            "zh-Hans": "Confirm 提交对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -298,7 +298,7 @@
           "id": "remote.tower.working-copy-local-changes.dce0cdcee2",
           "title": {
             "en": "Activate commit dialog",
-            "zh-Hans": "Activate 提交 对话框"
+            "zh-Hans": "Activate 提交对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -379,7 +379,7 @@
           "id": "remote.tower.moving-between-views.561f282af6",
           "title": {
             "en": "Show History view",
-            "zh-Hans": "显示 历史记录 视图"
+            "zh-Hans": "显示历史记录视图"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -391,7 +391,7 @@
           "id": "remote.tower.moving-between-views.18b0c1744c",
           "title": {
             "en": "Show Working Copy view",
-            "zh-Hans": "显示 Working 复制 视图"
+            "zh-Hans": "显示 Working 复制视图"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -448,7 +448,7 @@
           "id": "remote.tower.general.ee6d68d40e",
           "title": {
             "en": "Full screen mode",
-            "zh-Hans": "全屏 模式"
+            "zh-Hans": "全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 3,

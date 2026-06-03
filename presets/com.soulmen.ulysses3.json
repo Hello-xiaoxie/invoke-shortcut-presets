@@ -217,7 +217,7 @@
           "id": "remote.ulysses.search.05285457b4",
           "title": {
             "en": "Quick Open Current Section",
-            "zh-Hans": "Quick 打开 当前 Section"
+            "zh-Hans": "Quick 打开当前 Section"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -241,7 +241,7 @@
           "id": "remote.ulysses.search.ef9d8ce653",
           "title": {
             "en": "Find ",
-            "zh-Hans": "查找 "
+            "zh-Hans": "查找"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -253,7 +253,7 @@
           "id": "remote.ulysses.search.7a3304b4bd",
           "title": {
             "en": "Focus Group Search",
-            "zh-Hans": "Focus 编组 搜索"
+            "zh-Hans": "Focus 编组搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -310,7 +310,7 @@
           "id": "remote.ulysses.formatting.e43cdeeff3",
           "title": {
             "en": "Insert Link",
-            "zh-Hans": "插入 链接"
+            "zh-Hans": "插入链接"
           },
           "shortcutConfiguration": {
             "keyCode": 40,

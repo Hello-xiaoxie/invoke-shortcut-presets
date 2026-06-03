@@ -79,7 +79,7 @@
           "id": "remote.quicktime-player.quicktime-player-basic-tasks.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -115,7 +115,7 @@
           "id": "remote.quicktime-player.quicktime-player-basic-tasks.d94258f711",
           "title": {
             "en": "Minimize window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -139,7 +139,7 @@
           "id": "remote.quicktime-player.quicktime-player-basic-tasks.4dda977db6",
           "title": {
             "en": "Show export Progress",
-            "zh-Hans": "显示 导出 Progress"
+            "zh-Hans": "显示导出 Progress"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -349,7 +349,7 @@
           "id": "remote.quicktime-player.movie-size-shortcuts.303064deb9",
           "title": {
             "en": "Enter Full screen mode",
-            "zh-Hans": "Enter 全屏 模式"
+            "zh-Hans": "Enter 全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -361,7 +361,7 @@
           "id": "remote.quicktime-player.movie-size-shortcuts.2660b754d8",
           "title": {
             "en": "Exit Full screen mode",
-            "zh-Hans": "Exit 全屏 模式"
+            "zh-Hans": "Exit 全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 3,

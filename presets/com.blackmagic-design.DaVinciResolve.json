@@ -112,7 +112,7 @@
           "id": "remote.davinci-resolve.media-import.4a1ef4dfdf",
           "title": {
             "en": "Import Media",
-            "zh-Hans": "导入 媒体"
+            "zh-Hans": "导入媒体"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -229,7 +229,7 @@
           "id": "remote.davinci-resolve.editing.6484cf3540",
           "title": {
             "en": "Link Clips",
-            "zh-Hans": "链接 片段"
+            "zh-Hans": "链接片段"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -565,7 +565,7 @@
           "id": "remote.davinci-resolve.fairlight-audio.b3a7be8920",
           "title": {
             "en": "Open Audio Mixer",
-            "zh-Hans": "打开 音频 混音器"
+            "zh-Hans": "打开音频混音器"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -670,7 +670,7 @@
           "id": "remote.davinci-resolve.fusion.13310505b0",
           "title": {
             "en": "Save Workspace",
-            "zh-Hans": "存储 工作区"
+            "zh-Hans": "存储工作区"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -691,7 +691,7 @@
           "id": "remote.davinci-resolve.windows.45a4124648",
           "title": {
             "en": "Media Page",
-            "zh-Hans": "媒体 页面"
+            "zh-Hans": "媒体页面"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -703,7 +703,7 @@
           "id": "remote.davinci-resolve.windows.c970687bd9",
           "title": {
             "en": "Cut Page",
-            "zh-Hans": "剪切 页面"
+            "zh-Hans": "剪切页面"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -715,7 +715,7 @@
           "id": "remote.davinci-resolve.windows.34be425fb5",
           "title": {
             "en": "Edit Page",
-            "zh-Hans": "编辑 页面"
+            "zh-Hans": "编辑页面"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -727,7 +727,7 @@
           "id": "remote.davinci-resolve.windows.4e8eb37908",
           "title": {
             "en": "Color Page",
-            "zh-Hans": "颜色 页面"
+            "zh-Hans": "颜色页面"
           },
           "shortcutConfiguration": {
             "keyCode": 21,

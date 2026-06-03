@@ -100,7 +100,7 @@
           "id": "remote.reeder.subscriptions.1ce4ae94bb",
           "title": {
             "en": "Add Subscription...",
-            "zh-Hans": "添加Subscription..."
+            "zh-Hans": "添加Subscription"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -121,7 +121,7 @@
           "id": "remote.reeder.item.41d7fdf7fa",
           "title": {
             "en": "Previous Item",
-            "zh-Hans": "上一个 项目"
+            "zh-Hans": "上一个项目"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -133,7 +133,7 @@
           "id": "remote.reeder.item.82fa6a306c",
           "title": {
             "en": "Next Item",
-            "zh-Hans": "下一个 项目"
+            "zh-Hans": "下一个项目"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -169,7 +169,7 @@
           "id": "remote.reeder.item.369a0f48c7",
           "title": {
             "en": "Tags...",
-            "zh-Hans": "标签..."
+            "zh-Hans": "标签"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -265,7 +265,7 @@
           "id": "remote.reeder.item.c99229b0eb",
           "title": {
             "en": "Mark All as Read...",
-            "zh-Hans": "Mark 全部 as 已读..."
+            "zh-Hans": "Mark 全部 as 已读"
           },
           "shortcutConfiguration": {
             "keyCode": 0,

@@ -43,7 +43,7 @@
           "id": "remote.apple-notes.general.1f0b089214",
           "title": {
             "en": "Show Main Notes Window",
-            "zh-Hans": "显示 Main 笔记 窗口"
+            "zh-Hans": "显示 Main 笔记窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 29,
@@ -67,7 +67,7 @@
           "id": "remote.apple-notes.general.e42c2522ab",
           "title": {
             "en": "Search All Notes",
-            "zh-Hans": "搜索 全部 笔记"
+            "zh-Hans": "搜索全部笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -115,7 +115,7 @@
           "id": "remote.apple-notes.general.37762dcb39",
           "title": {
             "en": "Print Note",
-            "zh-Hans": "打印 笔记"
+            "zh-Hans": "打印笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 35,

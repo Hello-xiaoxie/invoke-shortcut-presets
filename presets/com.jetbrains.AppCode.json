@@ -103,7 +103,7 @@
           "id": "remote.appcode.general-shortcuts.e11da1528d",
           "title": {
             "en": "Close Current Active Tab",
-            "zh-Hans": "关闭 当前 活动 标签页"
+            "zh-Hans": "关闭当前活动标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -184,7 +184,7 @@
           "id": "remote.appcode.find-and-replace.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -196,7 +196,7 @@
           "id": "remote.appcode.find-and-replace.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -445,7 +445,7 @@
           "id": "remote.appcode.editing-shortcuts.53920267d4",
           "title": {
             "en": "Duplicate Current Line",
-            "zh-Hans": "创建副本 当前 行"
+            "zh-Hans": "创建副本当前行"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -979,7 +979,7 @@
           "id": "remote.appcode.navigation-controls.3e5a6bad06",
           "title": {
             "en": "Go to Next/Previous Tab",
-            "zh-Hans": "转到Next/上一个 标签页"
+            "zh-Hans": "转到Next/上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -1111,7 +1111,7 @@
           "id": "remote.appcode.navigation-controls.b0bb9a8959",
           "title": {
             "en": "Show Bookmarks",
-            "zh-Hans": "显示 书签"
+            "zh-Hans": "显示书签"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -1147,7 +1147,7 @@
           "id": "remote.appcode.navigation-controls.f11dd1c850",
           "title": {
             "en": "Close Active Run/Messages",
-            "zh-Hans": "关闭 活动 Run/Messages"
+            "zh-Hans": "关闭活动 Run/Messages"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -1159,7 +1159,7 @@
           "id": "remote.appcode.navigation-controls.1b193c758a",
           "title": {
             "en": "Edit Source",
-            "zh-Hans": "编辑 源"
+            "zh-Hans": "编辑源"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -1171,7 +1171,7 @@
           "id": "remote.appcode.navigation-controls.6333e69304",
           "title": {
             "en": "View Source",
-            "zh-Hans": "视图 源"
+            "zh-Hans": "视图源"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1231,7 +1231,7 @@
           "id": "remote.appcode.navigation-controls.78af51ede7",
           "title": {
             "en": "Go to Previous/Next Method",
-            "zh-Hans": "转到Previous/下一个 方法"
+            "zh-Hans": "转到Previous/下一个方法"
           },
           "shortcutConfiguration": {
             "keyCode": 126,

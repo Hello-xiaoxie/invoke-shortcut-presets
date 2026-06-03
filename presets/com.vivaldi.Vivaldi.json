@@ -91,7 +91,7 @@
           "id": "remote.vivaldi.page.1a27cff809",
           "title": {
             "en": "Save Page As",
-            "zh-Hans": "存储 页面 As"
+            "zh-Hans": "存储页面 As"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -103,7 +103,7 @@
           "id": "remote.vivaldi.page.c7879f2087",
           "title": {
             "en": "Open File",
-            "zh-Hans": "打开 文件"
+            "zh-Hans": "打开文件"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -127,7 +127,7 @@
           "id": "remote.vivaldi.page.63d3526092",
           "title": {
             "en": "History Forward",
-            "zh-Hans": "历史记录 向前"
+            "zh-Hans": "历史记录向前"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -340,7 +340,7 @@
           "id": "remote.vivaldi.tab.b72c0dcc9b",
           "title": {
             "en": "Switch to the Last Tab",
-            "zh-Hans": "切换到the 最后一个 标签页"
+            "zh-Hans": "切换到the 最后一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 25,
@@ -448,7 +448,7 @@
           "id": "remote.vivaldi.tab.0818332f9a",
           "title": {
             "en": "Move Active Tab Forward",
-            "zh-Hans": "移动Active 标签页 向前"
+            "zh-Hans": "移动Active 标签页向前"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -460,7 +460,7 @@
           "id": "remote.vivaldi.tab.e2fe836a5b",
           "title": {
             "en": "Move Active Tab Backward",
-            "zh-Hans": "移动Active 标签页 向后"
+            "zh-Hans": "移动Active 标签页向后"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -553,7 +553,7 @@
           "id": "remote.vivaldi.view.c6ad60589f",
           "title": {
             "en": "History Panel",
-            "zh-Hans": "历史记录 面板"
+            "zh-Hans": "历史记录面板"
           },
           "shortcutConfiguration": {
             "keyCode": 16,
@@ -565,7 +565,7 @@
           "id": "remote.vivaldi.view.1e741b98e6",
           "title": {
             "en": "Notes Panel",
-            "zh-Hans": "笔记 面板"
+            "zh-Hans": "笔记面板"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -589,7 +589,7 @@
           "id": "remote.vivaldi.view.180c9773d4",
           "title": {
             "en": "Bookmarks Panel",
-            "zh-Hans": "书签 面板"
+            "zh-Hans": "书签面板"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -601,7 +601,7 @@
           "id": "remote.vivaldi.view.2b41432a10",
           "title": {
             "en": "Open Previous Panel",
-            "zh-Hans": "打开 上一个 面板"
+            "zh-Hans": "打开上一个面板"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -613,7 +613,7 @@
           "id": "remote.vivaldi.view.781bad27ed",
           "title": {
             "en": "Open Next Panel",
-            "zh-Hans": "打开 下一个 面板"
+            "zh-Hans": "打开下一个面板"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -661,7 +661,7 @@
           "id": "remote.vivaldi.view.801ff09a8a",
           "title": {
             "en": "Page Zoom Out",
-            "zh-Hans": "页面 缩小"
+            "zh-Hans": "页面缩小"
           },
           "shortcutConfiguration": {
             "keyCode": 27,
@@ -673,7 +673,7 @@
           "id": "remote.vivaldi.view.5851f40a44",
           "title": {
             "en": "Page Zoom In",
-            "zh-Hans": "页面 放大"
+            "zh-Hans": "页面放大"
           },
           "shortcutConfiguration": {
             "keyCode": 24,
@@ -721,7 +721,7 @@
           "id": "remote.vivaldi.view.0295a1a950",
           "title": {
             "en": "Fullscreen Mode",
-            "zh-Hans": "全屏 模式"
+            "zh-Hans": "全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -838,7 +838,7 @@
           "id": "remote.vivaldi.window.daf53309c5",
           "title": {
             "en": "Developer Tools Console",
-            "zh-Hans": "开发者工具 控制台"
+            "zh-Hans": "开发者工具控制台"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -862,7 +862,7 @@
           "id": "remote.vivaldi.window.90596295f8",
           "title": {
             "en": "View Page Source",
-            "zh-Hans": "视图 页面 源"
+            "zh-Hans": "视图页面源"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -886,7 +886,7 @@
           "id": "remote.vivaldi.window.f0125e37bb",
           "title": {
             "en": "focus previous pane",
-            "zh-Hans": "focus 上一个 窗格"
+            "zh-Hans": "focus 上一个窗格"
           },
           "shortcutConfiguration": {
             "keyCode": 97,
@@ -898,7 +898,7 @@
           "id": "remote.vivaldi.window.a815678ba6",
           "title": {
             "en": "focus next pane",
-            "zh-Hans": "focus 下一个 窗格"
+            "zh-Hans": "focus 下一个窗格"
           },
           "shortcutConfiguration": {
             "keyCode": 97,

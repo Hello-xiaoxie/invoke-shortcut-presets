@@ -79,7 +79,7 @@
           "id": "remote.vscode.multi-cursor-and-selection.64aaa4b1d8",
           "title": {
             "en": "Insert Cursor Above",
-            "zh-Hans": "插入 光标 上方"
+            "zh-Hans": "在上方插入光标"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -91,7 +91,7 @@
           "id": "remote.vscode.multi-cursor-and-selection.061f76ae1a",
           "title": {
             "en": "Insert Cursor Below",
-            "zh-Hans": "插入 光标 下方"
+            "zh-Hans": "在下方插入光标"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -229,7 +229,7 @@
           "id": "remote.vscode.preferences.3b4b6c9bec",
           "title": {
             "en": "Open Settings",
-            "zh-Hans": "打开 设置"
+            "zh-Hans": "打开设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -250,7 +250,7 @@
           "id": "remote.vscode.search-editor.3455871d86",
           "title": {
             "en": "Delete File Results",
-            "zh-Hans": "删除 文件 Results"
+            "zh-Hans": "删除文件 Results"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -274,7 +274,7 @@
           "id": "remote.vscode.search-editor.316078ee9d",
           "title": {
             "en": "Focus Search Editor Input",
-            "zh-Hans": "Focus 搜索 编辑器 Input"
+            "zh-Hans": "Focus 搜索编辑器 Input"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -307,7 +307,7 @@
           "id": "remote.vscode.search-and-replace.7c853fa35f",
           "title": {
             "en": "Show Previous Search Term",
-            "zh-Hans": "显示 上一个 搜索 Term"
+            "zh-Hans": "显示上一个搜索 Term"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -319,7 +319,7 @@
           "id": "remote.vscode.search-and-replace.1dbf16af8b",
           "title": {
             "en": "Show Next Search Term",
-            "zh-Hans": "显示 下一个 搜索 Term"
+            "zh-Hans": "显示下一个搜索 Term"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -331,7 +331,7 @@
           "id": "remote.vscode.search-and-replace.18ee154541",
           "title": {
             "en": "Focus Previous Search Result",
-            "zh-Hans": "Focus 上一个 搜索 Result"
+            "zh-Hans": "Focus 上一个搜索 Result"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -343,7 +343,7 @@
           "id": "remote.vscode.search-and-replace.76cef5c3f4",
           "title": {
             "en": "Focus Next Search Result",
-            "zh-Hans": "Focus 下一个 搜索 Result"
+            "zh-Hans": "Focus 下一个搜索 Result"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -379,7 +379,7 @@
           "id": "remote.vscode.search-and-replace.11cbf7aecd",
           "title": {
             "en": "Show Search",
-            "zh-Hans": "显示 搜索"
+            "zh-Hans": "显示搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -451,7 +451,7 @@
           "id": "remote.vscode.search-and-replace.560c6b7a8e",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -463,7 +463,7 @@
           "id": "remote.vscode.search-and-replace.6c2531cd31",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -544,7 +544,7 @@
           "id": "remote.vscode.display.62846d086f",
           "title": {
             "en": "Quick Open View",
-            "zh-Hans": "Quick 打开 视图"
+            "zh-Hans": "Quick 打开视图"
           },
           "shortcutConfiguration": {
             "keyCode": 12,
@@ -556,7 +556,7 @@
           "id": "remote.vscode.display.f5a13260d8",
           "title": {
             "en": "Show Output",
-            "zh-Hans": "显示 输出"
+            "zh-Hans": "显示输出"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -568,7 +568,7 @@
           "id": "remote.vscode.display.1ebe50fbeb",
           "title": {
             "en": "Show Extensions",
-            "zh-Hans": "显示 扩展"
+            "zh-Hans": "显示扩展"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -592,7 +592,7 @@
           "id": "remote.vscode.display.a042f9fb66",
           "title": {
             "en": "Show Source Control",
-            "zh-Hans": "显示 源 Control"
+            "zh-Hans": "显示源 Control"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -604,7 +604,7 @@
           "id": "remote.vscode.display.11cbf7aecd",
           "title": {
             "en": "Show Search",
-            "zh-Hans": "显示 搜索"
+            "zh-Hans": "显示搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -616,7 +616,7 @@
           "id": "remote.vscode.display.54915c2c42",
           "title": {
             "en": "Show Explorer / Toggle Focus",
-            "zh-Hans": "显示 资源管理器 / Toggle Focus"
+            "zh-Hans": "显示资源管理器 / Toggle Focus"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -733,7 +733,7 @@
           "id": "remote.vscode.file-management.4d60dc8e09",
           "title": {
             "en": "Save As...",
-            "zh-Hans": "存储 As..."
+            "zh-Hans": "存储 As"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -745,7 +745,7 @@
           "id": "remote.vscode.file-management.36812c54fd",
           "title": {
             "en": "Save All",
-            "zh-Hans": "存储 全部"
+            "zh-Hans": "存储全部"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -790,7 +790,7 @@
           "id": "remote.vscode.editor-window-management.80c6129e07",
           "title": {
             "en": "Move Editor into Previous Group",
-            "zh-Hans": "Move 编辑器 into 上一个 编组"
+            "zh-Hans": "Move 编辑器 into 上一个编组"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -802,7 +802,7 @@
           "id": "remote.vscode.editor-window-management.b7cd25c77b",
           "title": {
             "en": "Move Editor into Next Group",
-            "zh-Hans": "Move 编辑器 into 下一个 编组"
+            "zh-Hans": "Move 编辑器 into 下一个编组"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -838,7 +838,7 @@
           "id": "remote.vscode.editor-window-management.22074dc3a4",
           "title": {
             "en": "Focus into First Editor Group",
-            "zh-Hans": "Focus into 第一个 编辑器 编组"
+            "zh-Hans": "Focus into 第一个编辑器编组"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -862,7 +862,7 @@
           "id": "remote.vscode.editor-window-management.db3b9c7911",
           "title": {
             "en": "Close Editor",
-            "zh-Hans": "关闭 编辑器"
+            "zh-Hans": "关闭编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -955,7 +955,7 @@
           "id": "remote.vscode.navigation.e098d4ced1",
           "title": {
             "en": "Navigate Editor Group History",
-            "zh-Hans": "Navigate 编辑器 编组 历史记录"
+            "zh-Hans": "Navigate 编辑器编组历史记录"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -967,7 +967,7 @@
           "id": "remote.vscode.navigation.678a3d433d",
           "title": {
             "en": "Show All Commands",
-            "zh-Hans": "显示 全部 Commands"
+            "zh-Hans": "显示全部 Commands"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -1015,7 +1015,7 @@
           "id": "remote.vscode.navigation.a202b9c732",
           "title": {
             "en": "Go to Symbol...",
-            "zh-Hans": "转到Symbol..."
+            "zh-Hans": "转到Symbol"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -1039,7 +1039,7 @@
           "id": "remote.vscode.navigation.b02eb01909",
           "title": {
             "en": "Go to Line...",
-            "zh-Hans": "转到Line..."
+            "zh-Hans": "转到Line"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1051,7 +1051,7 @@
           "id": "remote.vscode.navigation.ed34e8fb58",
           "title": {
             "en": "Show All Symbols",
-            "zh-Hans": "显示 全部 Symbols"
+            "zh-Hans": "显示全部 Symbols"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1120,7 +1120,7 @@
           "id": "remote.vscode.rich-languages-editing.8c31d104d1",
           "title": {
             "en": "Rename Symbol",
-            "zh-Hans": "重命名 符号"
+            "zh-Hans": "重命名符号"
           },
           "shortcutConfiguration": {
             "keyCode": 120,
@@ -1441,7 +1441,7 @@
           "id": "remote.vscode.basic-editing.a4d615949b",
           "title": {
             "en": "Copy Line Up",
-            "zh-Hans": "复制 行 上"
+            "zh-Hans": "向上复制行"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -1453,7 +1453,7 @@
           "id": "remote.vscode.basic-editing.ab178fe593",
           "title": {
             "en": "Copy Line Down",
-            "zh-Hans": "复制 行 下"
+            "zh-Hans": "向下复制行"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1489,7 +1489,7 @@
           "id": "remote.vscode.basic-editing.5d31edcb73",
           "title": {
             "en": "Insert Line Above",
-            "zh-Hans": "插入 行 上方"
+            "zh-Hans": "在上方插入行"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -1501,7 +1501,7 @@
           "id": "remote.vscode.basic-editing.b82c180e51",
           "title": {
             "en": "Insert Line Below",
-            "zh-Hans": "插入 行 下方"
+            "zh-Hans": "在下方插入行"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -1513,7 +1513,7 @@
           "id": "remote.vscode.basic-editing.d081d822df",
           "title": {
             "en": "Delete Line",
-            "zh-Hans": "删除 行"
+            "zh-Hans": "删除行"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -1537,7 +1537,7 @@
           "id": "remote.vscode.basic-editing.f87b26d5b2",
           "title": {
             "en": "Copy line (empty selection)",
-            "zh-Hans": "复制 行 (empty 选择)"
+            "zh-Hans": "复制行 (empty 选择)"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1549,7 +1549,7 @@
           "id": "remote.vscode.basic-editing.16abc7b55c",
           "title": {
             "en": "Cut line (empty selection)",
-            "zh-Hans": "剪切 行 (empty 选择)"
+            "zh-Hans": "剪切行 (empty 选择)"
           },
           "shortcutConfiguration": {
             "keyCode": 7,

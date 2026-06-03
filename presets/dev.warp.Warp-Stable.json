@@ -43,7 +43,7 @@
           "id": "remote.warp.tabs-panes.e713e91eef",
           "title": {
             "en": "Split Pane Right",
-            "zh-Hans": "Split 窗格 右"
+            "zh-Hans": "Split 窗格右"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -55,7 +55,7 @@
           "id": "remote.warp.tabs-panes.3d644ac665",
           "title": {
             "en": "Split Pane Down",
-            "zh-Hans": "Split 窗格 下"
+            "zh-Hans": "Split 窗格下"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -79,7 +79,7 @@
           "id": "remote.warp.tabs-panes.82f1db7b5a",
           "title": {
             "en": "Previous Tab",
-            "zh-Hans": "上一个 标签页"
+            "zh-Hans": "上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -91,7 +91,7 @@
           "id": "remote.warp.tabs-panes.0cdf70bbec",
           "title": {
             "en": "Next Tab",
-            "zh-Hans": "下一个 标签页"
+            "zh-Hans": "下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -136,7 +136,7 @@
           "id": "remote.warp.navigation.c9dcde95ab",
           "title": {
             "en": "Previous Pane",
-            "zh-Hans": "上一个 窗格"
+            "zh-Hans": "上一个窗格"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -148,7 +148,7 @@
           "id": "remote.warp.navigation.99e3ae96f2",
           "title": {
             "en": "Next Pane",
-            "zh-Hans": "下一个 窗格"
+            "zh-Hans": "下一个窗格"
           },
           "shortcutConfiguration": {
             "keyCode": 30,

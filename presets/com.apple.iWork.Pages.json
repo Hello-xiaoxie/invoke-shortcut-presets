@@ -280,7 +280,7 @@
           "id": "remote.apple-pages.formatting-text.5606ca9fcc",
           "title": {
             "en": "Align text flush left",
-            "zh-Hans": "对齐 文本 flush 左"
+            "zh-Hans": "对齐文本 flush 左"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -292,7 +292,7 @@
           "id": "remote.apple-pages.formatting-text.fe30d1c7cf",
           "title": {
             "en": "Center text",
-            "zh-Hans": "中心 文本"
+            "zh-Hans": "文本居中"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -304,7 +304,7 @@
           "id": "remote.apple-pages.formatting-text.c71db620bd",
           "title": {
             "en": "Align text flush right",
-            "zh-Hans": "对齐 文本 flush 右"
+            "zh-Hans": "对齐文本 flush 右"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -376,7 +376,7 @@
           "id": "remote.apple-pages.formatting-text.387b6601bc",
           "title": {
             "en": "Copy paragraph style",
-            "zh-Hans": "复制 段落 样式"
+            "zh-Hans": "复制段落样式"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -388,7 +388,7 @@
           "id": "remote.apple-pages.formatting-text.093c9b8758",
           "title": {
             "en": "Copy character style",
-            "zh-Hans": "复制 字符 样式"
+            "zh-Hans": "复制字符样式"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -460,7 +460,7 @@
           "id": "remote.apple-pages.formatting-text.22c53b792a",
           "title": {
             "en": "Insert page break",
-            "zh-Hans": "插入 页面 break"
+            "zh-Hans": "插入页面 break"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -472,7 +472,7 @@
           "id": "remote.apple-pages.formatting-text.1f3acc1d57",
           "title": {
             "en": "Insert paragraph break",
-            "zh-Hans": "插入 段落 break"
+            "zh-Hans": "插入段落 break"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -670,7 +670,7 @@
           "id": "remote.apple-pages.general.50086adec1",
           "title": {
             "en": "Open new document (You can choose the type of document you want to open in Pages Preferences.)",
-            "zh-Hans": "Open new document (You can choose the type of document you want to open in Pages Preferences.)"
+            "zh-Hans": "打开新文稿"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -754,7 +754,7 @@
           "id": "remote.apple-pages.general.311842e8cb",
           "title": {
             "en": "Find next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -766,7 +766,7 @@
           "id": "remote.apple-pages.general.eccb3fa2a7",
           "title": {
             "en": "Find previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -838,7 +838,7 @@
           "id": "remote.apple-pages.general.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -850,7 +850,7 @@
           "id": "remote.apple-pages.general.d94258f711",
           "title": {
             "en": "Minimize window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -862,7 +862,7 @@
           "id": "remote.apple-pages.general.f08ae53cb7",
           "title": {
             "en": "Show preferences",
-            "zh-Hans": "显示 偏好设置"
+            "zh-Hans": "显示偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -886,7 +886,7 @@
           "id": "remote.apple-pages.general.6288bfb56e",
           "title": {
             "en": "Show document rulers",
-            "zh-Hans": "显示 文档 rulers"
+            "zh-Hans": "显示文档 rulers"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -946,7 +946,7 @@
           "id": "remote.apple-pages.general.6486767bd3",
           "title": {
             "en": "Hide Pages",
-            "zh-Hans": "隐藏 页面"
+            "zh-Hans": "隐藏 Pages"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -970,7 +970,7 @@
           "id": "remote.apple-pages.general.6cb2937936",
           "title": {
             "en": "Quit Pages",
-            "zh-Hans": "退出 页面"
+            "zh-Hans": "退出 Pages"
           },
           "shortcutConfiguration": {
             "keyCode": 12,
@@ -991,7 +991,7 @@
           "id": "remote.apple-pages.working-with-tables.ea7eb7292e",
           "title": {
             "en": "Select all table borders or cell content, depending on initial selection",
-            "zh-Hans": "Select all table borders or cell content, depending on initial selection"
+            "zh-Hans": "全选表格边框/内容"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1003,7 +1003,7 @@
           "id": "remote.apple-pages.working-with-tables.a0f0e3f033",
           "title": {
             "en": "Copy contents of selected cells or whole table, if table is selected",
-            "zh-Hans": "Copy contents of selected cells or whole table, if table is selected"
+            "zh-Hans": "复制单元格/表格"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1015,7 +1015,7 @@
           "id": "remote.apple-pages.working-with-tables.96596eba2a",
           "title": {
             "en": "Cut contents of selected cells or whole table, if table is selected",
-            "zh-Hans": "Cut contents of selected cells or whole table, if table is selected"
+            "zh-Hans": "剪切单元格/表格"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -1039,7 +1039,7 @@
           "id": "remote.apple-pages.working-with-tables.5fb1989a06",
           "title": {
             "en": "Delete selection (whole table, border or border segment, or contents of selected cells)",
-            "zh-Hans": "Delete selection (whole table, border or border segment, or contents of selected cells)"
+            "zh-Hans": "删除所选内容"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -1204,7 +1204,7 @@
           "id": "remote.apple-pages.manipulating-fixed-objects.4faf7b6e89",
           "title": {
             "en": "Exit mask mode",
-            "zh-Hans": "Exit 蒙版 模式"
+            "zh-Hans": "Exit 蒙版模式"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1228,7 +1228,7 @@
           "id": "remote.apple-pages.manipulating-fixed-objects.2e595a2c5e",
           "title": {
             "en": "Copy selected object",
-            "zh-Hans": "复制 所选 对象"
+            "zh-Hans": "复制所选对象"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1240,7 +1240,7 @@
           "id": "remote.apple-pages.manipulating-fixed-objects.697d299e85",
           "title": {
             "en": "Paste selected object",
-            "zh-Hans": "粘贴 所选 对象"
+            "zh-Hans": "粘贴所选对象"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1252,7 +1252,7 @@
           "id": "remote.apple-pages.manipulating-fixed-objects.99be520336",
           "title": {
             "en": "Cut selected object",
-            "zh-Hans": "剪切 所选 对象"
+            "zh-Hans": "剪切所选对象"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -1333,7 +1333,7 @@
           "id": "remote.apple-pages.editing-chart-data.7e8088fe3b",
           "title": {
             "en": "Delete the character to the left of the insertion point, or delete the selection",
-            "zh-Hans": "Delete the character to the left of the insertion point, or delete the selection"
+            "zh-Hans": "左删"
           },
           "shortcutConfiguration": {
             "keyCode": 51,

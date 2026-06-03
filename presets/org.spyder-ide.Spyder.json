@@ -43,7 +43,7 @@
           "id": "remote.spyder.explorer.9a46961736",
           "title": {
             "en": "Paste file",
-            "zh-Hans": "粘贴 文件"
+            "zh-Hans": "粘贴文件"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -55,7 +55,7 @@
           "id": "remote.spyder.explorer.8c50d939fc",
           "title": {
             "en": "Copy file",
-            "zh-Hans": "复制 文件"
+            "zh-Hans": "复制文件"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -382,7 +382,7 @@
           "id": "remote.spyder.console.56d6136025",
           "title": {
             "en": "Inspect current object",
-            "zh-Hans": "Inspect 当前 对象"
+            "zh-Hans": "Inspect 当前对象"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -427,7 +427,7 @@
           "id": "remote.spyder.find-replace.be4cef4ace",
           "title": {
             "en": "Replace text",
-            "zh-Hans": "替换 文本"
+            "zh-Hans": "替换文本"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -439,7 +439,7 @@
           "id": "remote.spyder.find-replace.f4ace1dcb9",
           "title": {
             "en": "Find previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -451,7 +451,7 @@
           "id": "remote.spyder.find-replace.3f91f6d26b",
           "title": {
             "en": "Find next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -463,7 +463,7 @@
           "id": "remote.spyder.find-replace.c4aa76246b",
           "title": {
             "en": "Find text",
-            "zh-Hans": "查找 文本"
+            "zh-Hans": "查找文本"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -874,7 +874,7 @@
           "id": "remote.spyder.editor.9b81fbfee1",
           "title": {
             "en": "Re-run last cell",
-            "zh-Hans": "Re-run 最后一个 单元格"
+            "zh-Hans": "Re-run 最后一个单元格"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -910,7 +910,7 @@
           "id": "remote.spyder.editor.730558489c",
           "title": {
             "en": "Debug cell",
-            "zh-Hans": "调试 单元格"
+            "zh-Hans": "调试单元格"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -994,7 +994,7 @@
           "id": "remote.spyder.editor.d289ce46a9",
           "title": {
             "en": "Next warning",
-            "zh-Hans": "下一个 警告"
+            "zh-Hans": "下一个警告"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -1006,7 +1006,7 @@
           "id": "remote.spyder.editor.542624e276",
           "title": {
             "en": "Previous warning",
-            "zh-Hans": "上一个 警告"
+            "zh-Hans": "上一个警告"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -1018,7 +1018,7 @@
           "id": "remote.spyder.editor.116ba68e76",
           "title": {
             "en": "Next cursor position",
-            "zh-Hans": "下一个 光标 position"
+            "zh-Hans": "下一个光标 position"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -1030,7 +1030,7 @@
           "id": "remote.spyder.editor.05301d0b11",
           "title": {
             "en": "Previous cursor position",
-            "zh-Hans": "上一个 光标 position"
+            "zh-Hans": "上一个光标 position"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -1042,7 +1042,7 @@
           "id": "remote.spyder.editor.bc158f59b0",
           "title": {
             "en": "Last edit location",
-            "zh-Hans": "最后一个 编辑 location"
+            "zh-Hans": "最后一个编辑 location"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -1114,7 +1114,7 @@
           "id": "remote.spyder.editor.68763c03bd",
           "title": {
             "en": "Open last closed",
-            "zh-Hans": "打开 最后一个 closed"
+            "zh-Hans": "打开最后一个 closed"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1234,7 +1234,7 @@
           "id": "remote.spyder.editor.56d6136025",
           "title": {
             "en": "Inspect current object",
-            "zh-Hans": "Inspect 当前 对象"
+            "zh-Hans": "Inspect 当前对象"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -1354,7 +1354,7 @@
           "id": "remote.spyder.editor.af49ce156d",
           "title": {
             "en": "Kill next word",
-            "zh-Hans": "Kill 下一个 单词"
+            "zh-Hans": "Kill 下一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -1366,7 +1366,7 @@
           "id": "remote.spyder.editor.bc32e57fe5",
           "title": {
             "en": "Kill previous word",
-            "zh-Hans": "Kill 上一个 单词"
+            "zh-Hans": "Kill 上一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -1426,7 +1426,7 @@
           "id": "remote.spyder.editor.0357b3427e",
           "title": {
             "en": "Next word",
-            "zh-Hans": "下一个 单词"
+            "zh-Hans": "下一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -1438,7 +1438,7 @@
           "id": "remote.spyder.editor.897e46b017",
           "title": {
             "en": "Previous word",
-            "zh-Hans": "上一个 单词"
+            "zh-Hans": "上一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -1474,7 +1474,7 @@
           "id": "remote.spyder.editor.0cbf7f7cda",
           "title": {
             "en": "Next line",
-            "zh-Hans": "下一个 行"
+            "zh-Hans": "下一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -1486,7 +1486,7 @@
           "id": "remote.spyder.editor.accf5e379c",
           "title": {
             "en": "Previous line",
-            "zh-Hans": "上一个 行"
+            "zh-Hans": "上一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -1666,7 +1666,7 @@
           "id": "remote.spyder.editor.9af9e687e5",
           "title": {
             "en": "Duplicate line down",
-            "zh-Hans": "创建副本 行 下"
+            "zh-Hans": "创建副本行下"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1678,7 +1678,7 @@
           "id": "remote.spyder.editor.f1829d49c0",
           "title": {
             "en": "Duplicate line up",
-            "zh-Hans": "创建副本 行 上"
+            "zh-Hans": "创建副本行上"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -1771,7 +1771,7 @@
           "id": "remote.spyder.global.670be1429a",
           "title": {
             "en": "Save current layout",
-            "zh-Hans": "存储 当前 layout"
+            "zh-Hans": "存储当前 layout"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -1783,7 +1783,7 @@
           "id": "remote.spyder.global.13571958a8",
           "title": {
             "en": "Fullscreen mode",
-            "zh-Hans": "全屏 模式"
+            "zh-Hans": "全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 103,
@@ -1843,7 +1843,7 @@
           "id": "remote.spyder.global.f4f4b091c0",
           "title": {
             "en": "Lock unlock panes",
-            "zh-Hans": "锁定 解锁 panes"
+            "zh-Hans": "锁定解锁 panes"
           },
           "shortcutConfiguration": {
             "keyCode": 96,
@@ -1855,7 +1855,7 @@
           "id": "remote.spyder.global.be9e987c13",
           "title": {
             "en": "Close pane",
-            "zh-Hans": "关闭 窗格"
+            "zh-Hans": "关闭窗格"
           },
           "shortcutConfiguration": {
             "keyCode": 118,

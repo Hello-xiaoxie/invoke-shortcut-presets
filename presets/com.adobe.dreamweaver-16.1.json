@@ -43,7 +43,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.29478866f0",
           "title": {
             "en": "Open/Add Line Above",
-            "zh-Hans": "打开/Add 行 上方"
+            "zh-Hans": "打开/Add 行上方"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -235,7 +235,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.53e38a7e4d",
           "title": {
             "en": "Delete word left",
-            "zh-Hans": "删除 单词 左"
+            "zh-Hans": "删除单词左"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -247,7 +247,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.d7e6fcc05b",
           "title": {
             "en": "Delete word right",
-            "zh-Hans": "删除 单词 右"
+            "zh-Hans": "删除单词右"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -307,7 +307,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.05af3fcbde",
           "title": {
             "en": "Select to page up",
-            "zh-Hans": "选择to 页面 上"
+            "zh-Hans": "选择to 页面上"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -319,7 +319,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.f34b1aaff1",
           "title": {
             "en": "Select to page down",
-            "zh-Hans": "选择to 页面 下"
+            "zh-Hans": "选择to 页面下"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -403,7 +403,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.544d2af96b",
           "title": {
             "en": "Duplicate line selection",
-            "zh-Hans": "创建副本 行 选择"
+            "zh-Hans": "创建副本行选择"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -415,7 +415,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.e4c24b4dbc",
           "title": {
             "en": "Delete line (s)",
-            "zh-Hans": "删除 行 (s)"
+            "zh-Hans": "删除行 (s)"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -547,7 +547,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.43f6fd2850",
           "title": {
             "en": "Quick Tag Editor",
-            "zh-Hans": "Quick 标签 编辑器"
+            "zh-Hans": "Quick 标签编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -607,7 +607,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.fe9a5ce4f8",
           "title": {
             "en": "Select Until Next Word",
-            "zh-Hans": "选择Until 下一个 单词"
+            "zh-Hans": "选择Until 下一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -619,7 +619,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.fe68867087",
           "title": {
             "en": "Select from Previous Word",
-            "zh-Hans": "选择from 上一个 单词"
+            "zh-Hans": "选择from 上一个单词"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -631,7 +631,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.510798ba16",
           "title": {
             "en": "Select from Previous Paragraph",
-            "zh-Hans": "选择from 上一个 段落"
+            "zh-Hans": "选择from 上一个段落"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -643,7 +643,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.40911ea4c3",
           "title": {
             "en": "Select Until Next Paragraph",
-            "zh-Hans": "选择Until 下一个 段落"
+            "zh-Hans": "选择Until 下一个段落"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -703,7 +703,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.c8570919c5",
           "title": {
             "en": "Next Document",
-            "zh-Hans": "下一个 文档"
+            "zh-Hans": "下一个文档"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -715,7 +715,7 @@
           "id": "remote.adobe-dreamweaver.coding-shortcuts.37a4b521f6",
           "title": {
             "en": "Previous Document",
-            "zh-Hans": "上一个 文档"
+            "zh-Hans": "上一个文档"
           },
           "shortcutConfiguration": {
             "keyCode": 50,
@@ -817,7 +817,7 @@
           "id": "remote.adobe-dreamweaver.find-and-replace.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -829,7 +829,7 @@
           "id": "remote.adobe-dreamweaver.find-and-replace.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -886,7 +886,7 @@
           "id": "remote.adobe-dreamweaver.insert.03da56d559",
           "title": {
             "en": "Insert Image",
-            "zh-Hans": "插入 图片"
+            "zh-Hans": "插入图片"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -934,7 +934,7 @@
           "id": "remote.adobe-dreamweaver.insert.8cef16c0f8",
           "title": {
             "en": "Insert Line Break",
-            "zh-Hans": "插入 行 Break"
+            "zh-Hans": "插入行 Break"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1606,7 +1606,7 @@
           "id": "remote.adobe-dreamweaver.table.b379c5bfca",
           "title": {
             "en": "Insert Table",
-            "zh-Hans": "插入 表格"
+            "zh-Hans": "插入表格"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1642,7 +1642,7 @@
           "id": "remote.adobe-dreamweaver.table.8d7187927e",
           "title": {
             "en": "Insert Row",
-            "zh-Hans": "插入 行"
+            "zh-Hans": "插入行"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -1654,7 +1654,7 @@
           "id": "remote.adobe-dreamweaver.table.d2a05c89d1",
           "title": {
             "en": "Insert Column",
-            "zh-Hans": "插入 列"
+            "zh-Hans": "插入列"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1666,7 +1666,7 @@
           "id": "remote.adobe-dreamweaver.table.919f0663b5",
           "title": {
             "en": "Delete Row",
-            "zh-Hans": "删除 行"
+            "zh-Hans": "删除行"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -1678,7 +1678,7 @@
           "id": "remote.adobe-dreamweaver.table.f0a089dbef",
           "title": {
             "en": "Delete Column",
-            "zh-Hans": "删除 列"
+            "zh-Hans": "删除列"
           },
           "shortcutConfiguration": {
             "keyCode": 27,
@@ -1783,7 +1783,7 @@
           "id": "remote.adobe-dreamweaver.site-management.d36893b034",
           "title": {
             "en": "Show Page Titles",
-            "zh-Hans": "显示 页面 Titles"
+            "zh-Hans": "显示页面 Titles"
           },
           "shortcutConfiguration": {
             "keyCode": 17,

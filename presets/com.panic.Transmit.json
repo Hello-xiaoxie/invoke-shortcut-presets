@@ -160,7 +160,7 @@
           "id": "remote.transmit.window-and-file-management.e360e4574d",
           "title": {
             "en": "Close All",
-            "zh-Hans": "关闭 全部"
+            "zh-Hans": "关闭全部"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -610,7 +610,7 @@
           "id": "remote.transmit.navigation-and-view.24c9ec41e8",
           "title": {
             "en": "Link Folder Navigation",
-            "zh-Hans": "链接 文件夹 Navigation"
+            "zh-Hans": "链接文件夹 Navigation"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -718,7 +718,7 @@
           "id": "remote.transmit.navigation-and-view.f8d0d874f2",
           "title": {
             "en": "Minimize All",
-            "zh-Hans": "最小化 全部"
+            "zh-Hans": "最小化全部"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

@@ -103,7 +103,7 @@
           "id": "remote.things-3.navigate.c3af139327",
           "title": {
             "en": "Enter a selected project",
-            "zh-Hans": "Enter a 所选 项目"
+            "zh-Hans": "Enter a 所选项目"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -397,7 +397,7 @@
           "id": "remote.things-3.edit-items.109ef376f6",
           "title": {
             "en": "Delete selected items",
-            "zh-Hans": "删除 所选 items"
+            "zh-Hans": "删除所选 items"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -664,7 +664,7 @@
           "id": "remote.things-3.edit-dates.162b96b4db",
           "title": {
             "en": "Start date  1 day",
-            "zh-Hans": "开始 date  1 day"
+            "zh-Hans": "开始 date 1 day"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -688,7 +688,7 @@
           "id": "remote.things-3.edit-dates.e3a27f2e6b",
           "title": {
             "en": "Start date  1 week",
-            "zh-Hans": "开始 date  1 week"
+            "zh-Hans": "开始 date 1 week"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -724,7 +724,7 @@
           "id": "remote.things-3.edit-dates.5cce791317",
           "title": {
             "en": "Deadline  1 day",
-            "zh-Hans": "Deadline  1 day"
+            "zh-Hans": "Deadline 1 day"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -748,7 +748,7 @@
           "id": "remote.things-3.edit-dates.b18354702f",
           "title": {
             "en": "Deadline  1 week",
-            "zh-Hans": "Deadline  1 week"
+            "zh-Hans": "Deadline 1 week"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -817,7 +817,7 @@
           "id": "remote.things-3.control-windows.0ab56ae849",
           "title": {
             "en": "Close current window",
-            "zh-Hans": "关闭 当前 窗口"
+            "zh-Hans": "关闭当前窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -829,7 +829,7 @@
           "id": "remote.things-3.control-windows.b7452b58ea",
           "title": {
             "en": "Close all windows",
-            "zh-Hans": "关闭 全部 windows"
+            "zh-Hans": "关闭全部 windows"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -940,7 +940,7 @@
           "id": "remote.things-3.tags.64258ef0eb",
           "title": {
             "en": "Open tag window",
-            "zh-Hans": "打开 标签 窗口"
+            "zh-Hans": "打开标签窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -952,7 +952,7 @@
           "id": "remote.things-3.tags.610b5e64ac",
           "title": {
             "en": "Close tag window",
-            "zh-Hans": "关闭 标签 窗口"
+            "zh-Hans": "关闭标签窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -976,7 +976,7 @@
           "id": "remote.things-3.tags.9cd477490d",
           "title": {
             "en": "Destroy previous filter",
-            "zh-Hans": "Destroy 上一个 滤镜"
+            "zh-Hans": "Destroy 上一个滤镜"
           },
           "shortcutConfiguration": {
             "keyCode": 53,

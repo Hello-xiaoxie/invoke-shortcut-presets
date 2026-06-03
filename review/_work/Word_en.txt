@@ -1,0 +1,173 @@
+Add or remove one line of space directly preceding a paragraph
+Apply an underline
+Apply bold formatting
+Apply italic formatting
+Apply strike-through formatting
+Apply subscript formatting (automatic spacing)
+Apply superscript formatting (automatic spacing)
+Apply the Heading 1 style
+Apply the Heading 2 style
+Apply the Heading 3 style
+Apply the List style when the cursor is at the beginning of a line
+Apply the Normal style
+Center a paragraph
+Change letters to uppercase, lowercase, or mixed case
+Change the case of letters
+Change the font
+Change the formatting of characters (Font command, Format menu)
+Choose the Go To command (Edit menu)
+Choose the Save As command (File menu).
+Close the window
+Collapse text under a heading
+Copy a style
+Copy selected text
+Copy selected text or graphics to the Clipboard
+Copy selected text or graphics to the clipboard
+Copy text or graphics
+Copy text or graphics to the Scrapbook
+Create AutoText
+Create a hanging indent
+Create an AutoText entry
+Cut selected text or graphics
+Cut selected text to the Clipboard
+Cut selected text to the clipboard
+Cut the selection to the Spike
+Cut to the Spike
+Decrease the font size
+Delete one character to the left
+Delete one word to the left
+Demote a paragraph
+Demote to body text
+Double-underline text
+Edit a bookmark
+Equally resize all columns to the right; Retain table width.
+Expand all body text and headings or collapse all body text
+Expand or minimize the ribbon
+Expand text under a heading
+Extend a selection
+Extend a selection as a block selection
+Find
+Find the next misspelling or grammatical error
+Find the next misspelling or grammatical error. The Check spelling as you type check box must be selected (Word menu, Preferences command, Spelling and Grammar).
+Format in all capital letters
+Format in all small capital letters
+Go to the beginning of a comment
+Go to the beginning of the list of comments when in the Reviewing Pane
+Go to the end of a comment
+Go to the end of the list of comments when in the Reviewing Pane
+Go to the next field
+Go to the next window
+Go to the previous field
+Go to the previous window
+Increase the font size
+Indent a paragraph from the left
+Insert AutoText
+Insert a DATE field
+Insert a LISTNUM field
+Insert a PAGE field
+Insert a TIME field
+Insert a Tab character in a cell
+Insert a column break
+Insert a comment
+Insert a footnote
+Insert a line break
+Insert a new paragraph in a cell
+Insert a nonbreaking hyphen
+Insert a nonbreaking space
+Insert a page break
+Insert a row
+Insert an ellipsis
+Insert an empty field
+Insert an endnote
+Insert the contents of the Spike
+Insert the copyright symbol
+Insert the registered trademark symbol
+Insert the trademark symbol
+Justify a paragraph
+Left-align a paragraph
+Lock a field
+Look up selected text on the Internet
+Move a single column line; Retain table width.
+Move down one line
+Move down one screen (scrolling)
+Move one cell to the left (in a table)
+Move one cell to the right (in a table)
+Move one character to the left
+Move one character to the right
+Move one paragraph down
+Move one paragraph up
+Move one word to the left
+Move one word to the right
+Move selected paragraphs down
+Move selected paragraphs up
+Move to the beginning of a line
+Move to the end of a line
+Move to the first cell in the column
+Move to the first cell in the row
+Move to the last cell in the column
+Move to the last cell in the row
+Move to the preceding cell
+Move to the preceding or next row
+Move to the previous insertion point
+Move to the top of the next page
+Move to the top of the previous page
+Move up one line
+Move up one screen (scrolling)
+Open the Spelling and Grammar dialog box
+Open the Thesaurus pane
+Paste a style
+Paste and match the formatting of the surrounding text
+Paste special
+Paste the Clipboard contents
+Paste the Spike contents
+Print a document
+Promote a paragraph
+Proportionally resize all columns to the right; Retain table width.
+Redo the last action
+Reduce the size of a selection
+Remove a hanging indent
+Remove a paragraph indent from the left
+Repeat a Find or Go To action
+Right-align a paragraph
+Run GOTOBUTTON or MACROBUTTON from the field that displays the field results
+Run a macro
+Select one character to the left
+Select one character to the right
+Select one line down
+Select one line up
+Select one screen down
+Select one screen up
+Select one word to the left
+Select one word to the right
+Select to select the entire document
+Select to the beginning of a document
+Select to the beginning of a line
+Select to the beginning of a paragraph
+Select to the end of a document
+Select to the end of a line
+Select to the end of a paragraph
+Select to the end of a window
+Set lines as 1.5-line spacing
+Set lines as double-spaced
+Set lines as single-spaced
+Show all headings with the specified heading level
+Show the first line of body text or all body text
+Shrink a selection
+Start AutoFormat
+Start a new paragraph
+Switch between a field code and its result
+Switch between a field code and its result.
+Switch between all field codes and their results
+To the beginning of a document
+To the end of a document
+To the previous insertion point
+Turn off extend mode
+Turn on extend mode
+Turn track changes on or off
+Underline words but not spaces
+Undo the last action
+Unlink a field
+Unlock a field
+Update linked information in a Word source document
+Update selected fields
+Update selected fields.

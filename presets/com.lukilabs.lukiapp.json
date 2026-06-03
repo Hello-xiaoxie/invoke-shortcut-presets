@@ -85,7 +85,7 @@
           "id": "remote.craft.search.ec92293d2b",
           "title": {
             "en": "Open Search",
-            "zh-Hans": "打开 搜索"
+            "zh-Hans": "打开搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -163,7 +163,7 @@
           "id": "remote.craft.editing.fffd235097",
           "title": {
             "en": "Add or view Comments",
-            "zh-Hans": "添加or 视图 评论"
+            "zh-Hans": "添加or 视图评论"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -175,7 +175,7 @@
           "id": "remote.craft.editing.62e1398304",
           "title": {
             "en": "Edit selected block",
-            "zh-Hans": "编辑 所选 block"
+            "zh-Hans": "编辑所选 block"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -211,7 +211,7 @@
           "id": "remote.craft.editing.3b5542790a",
           "title": {
             "en": "Insert new block below selection",
-            "zh-Hans": "插入 new block 下方 选择"
+            "zh-Hans": "插入 new block 下方选择"
           },
           "shortcutConfiguration": {
             "keyCode": 49,
@@ -223,7 +223,7 @@
           "id": "remote.craft.editing.6e74e4178b",
           "title": {
             "en": "Insert new block above selection",
-            "zh-Hans": "插入 new block 上方 选择"
+            "zh-Hans": "插入 new block 上方选择"
           },
           "shortcutConfiguration": {
             "keyCode": 49,
@@ -304,7 +304,7 @@
           "id": "remote.craft.styling.2ae9046732",
           "title": {
             "en": "Copy Style",
-            "zh-Hans": "复制 样式"
+            "zh-Hans": "复制样式"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -316,7 +316,7 @@
           "id": "remote.craft.styling.3b10406511",
           "title": {
             "en": "Paste Style",
-            "zh-Hans": "粘贴 样式"
+            "zh-Hans": "粘贴样式"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -760,7 +760,7 @@
           "id": "remote.craft.grouping.135632afca",
           "title": {
             "en": "Group Selected Blocks",
-            "zh-Hans": "编组 所选 Blocks"
+            "zh-Hans": "编组所选 Blocks"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -772,7 +772,7 @@
           "id": "remote.craft.grouping.40e2a39bd4",
           "title": {
             "en": "Ungroup Selected Block",
-            "zh-Hans": "取消编组 所选 Block"
+            "zh-Hans": "取消编组所选 Block"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -862,7 +862,7 @@
           "id": "remote.craft.managing-windows.3179cd0bc7",
           "title": {
             "en": "Minimize Window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

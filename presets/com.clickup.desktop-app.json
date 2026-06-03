@@ -208,7 +208,7 @@
           "id": "remote.clickup.general.506ea4b8bd",
           "title": {
             "en": "Move to next task",
-            "zh-Hans": "移动to 下一个 任务"
+            "zh-Hans": "移动to 下一个任务"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -220,7 +220,7 @@
           "id": "remote.clickup.general.88e333d4f4",
           "title": {
             "en": "Show/hide sidebar",
-            "zh-Hans": "显示/隐藏 侧边栏"
+            "zh-Hans": "显示/隐藏侧边栏"
           },
           "shortcutConfiguration": {
             "keyCode": 12,

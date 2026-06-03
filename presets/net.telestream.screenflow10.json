@@ -67,7 +67,7 @@
           "id": "remote.screenflow.recording-file.452e58aeb5",
           "title": {
             "en": "Open Document",
-            "zh-Hans": "打开 文档"
+            "zh-Hans": "打开文档"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -112,7 +112,7 @@
           "id": "remote.screenflow.playback-timeline.7d2d851fbd",
           "title": {
             "en": "Move One Frame Forward",
-            "zh-Hans": "移动One 画框 向前"
+            "zh-Hans": "移动One 画框向前"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -124,7 +124,7 @@
           "id": "remote.screenflow.playback-timeline.0ade936fa6",
           "title": {
             "en": "Move One Frame Backward",
-            "zh-Hans": "移动One 画框 向后"
+            "zh-Hans": "移动One 画框向后"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -310,7 +310,7 @@
           "id": "remote.screenflow.actions-properties.fa5c7b19fa",
           "title": {
             "en": "Show Video Properties",
-            "zh-Hans": "显示 视频 Properties"
+            "zh-Hans": "显示视频 Properties"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -322,7 +322,7 @@
           "id": "remote.screenflow.actions-properties.f5b5b682b5",
           "title": {
             "en": "Show Audio Properties",
-            "zh-Hans": "显示 音频 Properties"
+            "zh-Hans": "显示音频 Properties"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -358,7 +358,7 @@
           "id": "remote.screenflow.actions-properties.14318e7956",
           "title": {
             "en": "Show Text Properties",
-            "zh-Hans": "显示 文本 Properties"
+            "zh-Hans": "显示文本 Properties"
           },
           "shortcutConfiguration": {
             "keyCode": 22,
@@ -370,7 +370,7 @@
           "id": "remote.screenflow.actions-properties.d7557c42a0",
           "title": {
             "en": "Show Media Library",
-            "zh-Hans": "显示 媒体 Library"
+            "zh-Hans": "显示媒体 Library"
           },
           "shortcutConfiguration": {
             "keyCode": 26,
@@ -472,7 +472,7 @@
           "id": "remote.screenflow.standard-operations.eb4de86b2a",
           "title": {
             "en": "Zoom In Timeline",
-            "zh-Hans": "放大 时间线"
+            "zh-Hans": "放大时间线"
           },
           "shortcutConfiguration": {
             "keyCode": 24,
@@ -484,7 +484,7 @@
           "id": "remote.screenflow.standard-operations.05bca626f8",
           "title": {
             "en": "Zoom Out Timeline",
-            "zh-Hans": "缩小 时间线"
+            "zh-Hans": "缩小时间线"
           },
           "shortcutConfiguration": {
             "keyCode": 27,

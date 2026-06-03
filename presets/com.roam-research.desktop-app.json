@@ -19,7 +19,7 @@
           "id": "remote.roam-research.other.721155e257",
           "title": {
             "en": "Move character under cursor forward",
-            "zh-Hans": "移动character under 光标 向前"
+            "zh-Hans": "移动character under 光标向前"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -454,7 +454,7 @@
           "id": "remote.roam-research.navigating.01918c5d94",
           "title": {
             "en": "Go to Daily Notes page",
-            "zh-Hans": "转到Daily 笔记 页面"
+            "zh-Hans": "转到Daily 笔记页面"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -571,7 +571,7 @@
           "id": "remote.roam-research.formatting.e837538b7f",
           "title": {
             "en": "Make text italic",
-            "zh-Hans": "Make 文本 斜体"
+            "zh-Hans": "Make 文本斜体"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -583,7 +583,7 @@
           "id": "remote.roam-research.formatting.68f66f31f8",
           "title": {
             "en": "Make text bold",
-            "zh-Hans": "Make 文本 加粗"
+            "zh-Hans": "Make 文本加粗"
           },
           "shortcutConfiguration": {
             "keyCode": 11,

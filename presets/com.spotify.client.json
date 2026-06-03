@@ -382,7 +382,7 @@
           "id": "remote.spotify.layout.42d235af79",
           "title": {
             "en": "Decrease left sidebar width",
-            "zh-Hans": "Decrease 左 侧边栏 width"
+            "zh-Hans": "Decrease 左侧边栏 width"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -394,7 +394,7 @@
           "id": "remote.spotify.layout.5fa6ab7ba9",
           "title": {
             "en": "Increase left sidebar width",
-            "zh-Hans": "Increase 左 侧边栏 width"
+            "zh-Hans": "Increase 左侧边栏 width"
           },
           "shortcutConfiguration": {
             "keyCode": 124,

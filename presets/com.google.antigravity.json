@@ -55,7 +55,7 @@
           "id": "remote.antigravity.file.3c64eeb6eb",
           "title": {
             "en": "Open folder",
-            "zh-Hans": "打开 文件夹"
+            "zh-Hans": "打开文件夹"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -718,7 +718,7 @@
           "id": "remote.antigravity.multi-cursor.4a535d5ecd",
           "title": {
             "en": "Insert cursor",
-            "zh-Hans": "插入 光标"
+            "zh-Hans": "插入光标"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -778,7 +778,7 @@
           "id": "remote.antigravity.multi-cursor.47abce4ab8",
           "title": {
             "en": "Column selection up",
-            "zh-Hans": "列 选择 上"
+            "zh-Hans": "列选择上"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -790,7 +790,7 @@
           "id": "remote.antigravity.multi-cursor.ee1414a6e2",
           "title": {
             "en": "Column selection down",
-            "zh-Hans": "列 选择 下"
+            "zh-Hans": "列选择下"
           },
           "shortcutConfiguration": {
             "keyCode": 125,

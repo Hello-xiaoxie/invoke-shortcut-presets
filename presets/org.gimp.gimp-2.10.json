@@ -67,7 +67,7 @@
           "id": "remote.gimp.edit-shortcuts.291a842104",
           "title": {
             "en": "Copy Visible",
-            "zh-Hans": "复制 可见"
+            "zh-Hans": "复制可见"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -184,7 +184,7 @@
           "id": "remote.gimp.view-shortcuts.325960eff3",
           "title": {
             "en": "Show Selection",
-            "zh-Hans": "显示 选择"
+            "zh-Hans": "显示选择"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -253,7 +253,7 @@
           "id": "remote.gimp.file-operations.635ccbf7bc",
           "title": {
             "en": "Open Image",
-            "zh-Hans": "打开 图片"
+            "zh-Hans": "打开图片"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -277,7 +277,7 @@
           "id": "remote.gimp.file-operations.d0831b27d4",
           "title": {
             "en": "Save Image",
-            "zh-Hans": "存储 图片"
+            "zh-Hans": "存储图片"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -325,7 +325,7 @@
           "id": "remote.gimp.file-operations.76a677b153",
           "title": {
             "en": "Close All",
-            "zh-Hans": "关闭 全部"
+            "zh-Hans": "关闭全部"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -370,7 +370,7 @@
           "id": "remote.gimp.layer-shortcuts.1d8b8976c2",
           "title": {
             "en": "Duplicate Layer",
-            "zh-Hans": "创建副本 图层"
+            "zh-Hans": "创建副本图层"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -382,7 +382,7 @@
           "id": "remote.gimp.layer-shortcuts.34d12569cb",
           "title": {
             "en": "Anchor Layer",
-            "zh-Hans": "锚点 图层"
+            "zh-Hans": "锚点图层"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -394,7 +394,7 @@
           "id": "remote.gimp.layer-shortcuts.b9acc21ec6",
           "title": {
             "en": "Select Previous/Next Layer",
-            "zh-Hans": "选择Previous/下一个 图层"
+            "zh-Hans": "选择Previous/下一个图层"
           },
           "shortcutConfiguration": {
             "keyCode": 116,
@@ -406,7 +406,7 @@
           "id": "remote.gimp.layer-shortcuts.08ab079971",
           "title": {
             "en": "Select Top/Bottom Layer",
-            "zh-Hans": "选择Top/底部 图层"
+            "zh-Hans": "选择Top/底部图层"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -520,7 +520,7 @@
           "id": "remote.gimp.image-operations.06a36f6ed4",
           "title": {
             "en": "Duplicate Image",
-            "zh-Hans": "创建副本 图片"
+            "zh-Hans": "创建副本图片"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -532,7 +532,7 @@
           "id": "remote.gimp.image-operations.e584b70315",
           "title": {
             "en": "Merge Visible Layers",
-            "zh-Hans": "Merge 可见 图层"
+            "zh-Hans": "Merge 可见图层"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

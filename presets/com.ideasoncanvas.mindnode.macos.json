@@ -88,7 +88,7 @@
           "id": "remote.mindnode.edit-node.0b110dd9d7",
           "title": {
             "en": "Edit Node Title",
-            "zh-Hans": "编辑 节点 Title"
+            "zh-Hans": "编辑节点 Title"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -112,7 +112,7 @@
           "id": "remote.mindnode.edit-node.da95888dad",
           "title": {
             "en": "Open Link",
-            "zh-Hans": "打开 链接"
+            "zh-Hans": "打开链接"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -241,7 +241,7 @@
           "id": "remote.mindnode.navigation.cea6127990",
           "title": {
             "en": "Center Selection",
-            "zh-Hans": "中心 选择"
+            "zh-Hans": "中心选择"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -391,7 +391,7 @@
           "id": "remote.mindnode.connections.04a1e20491",
           "title": {
             "en": "Hide All Cross Connections",
-            "zh-Hans": "隐藏 全部 Cross Connections"
+            "zh-Hans": "隐藏全部 Cross Connections"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -808,7 +808,7 @@
           "id": "remote.mindnode.search-in-mindmap.ef9d8ce653",
           "title": {
             "en": "Find ",
-            "zh-Hans": "查找 "
+            "zh-Hans": "查找"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -820,7 +820,7 @@
           "id": "remote.mindnode.search-in-mindmap.bd72d08176",
           "title": {
             "en": "Find Next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -832,7 +832,7 @@
           "id": "remote.mindnode.search-in-mindmap.fae93cd9b2",
           "title": {
             "en": "Find Previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -853,7 +853,7 @@
           "id": "remote.mindnode.sidebars-pickers-popovers.0ac3d51c9d",
           "title": {
             "en": "Show/Hide Toolbar",
-            "zh-Hans": "显示/隐藏 工具栏"
+            "zh-Hans": "显示/隐藏工具栏"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -877,7 +877,7 @@
           "id": "remote.mindnode.sidebars-pickers-popovers.0fb536a3a8",
           "title": {
             "en": "Show Photo Picker",
-            "zh-Hans": "显示 照片 Picker"
+            "zh-Hans": "显示照片 Picker"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -889,7 +889,7 @@
           "id": "remote.mindnode.sidebars-pickers-popovers.3889d78319",
           "title": {
             "en": "Show/Hide Style",
-            "zh-Hans": "显示/隐藏 样式"
+            "zh-Hans": "显示/隐藏样式"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -913,7 +913,7 @@
           "id": "remote.mindnode.sidebars-pickers-popovers.7f5157e56b",
           "title": {
             "en": "Show Notes Popover",
-            "zh-Hans": "显示 笔记 弹出框"
+            "zh-Hans": "显示笔记弹出框"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -925,7 +925,7 @@
           "id": "remote.mindnode.sidebars-pickers-popovers.b770de6a13",
           "title": {
             "en": "Show/Hide Notes",
-            "zh-Hans": "显示/隐藏 笔记"
+            "zh-Hans": "显示/隐藏笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 22,
@@ -937,7 +937,7 @@
           "id": "remote.mindnode.sidebars-pickers-popovers.62c7828ec5",
           "title": {
             "en": "Show/Hide Tags",
-            "zh-Hans": "显示/隐藏 标签"
+            "zh-Hans": "显示/隐藏标签"
           },
           "shortcutConfiguration": {
             "keyCode": 23,
@@ -949,7 +949,7 @@
           "id": "remote.mindnode.sidebars-pickers-popovers.9fee83273f",
           "title": {
             "en": "Show/Hide Outline",
-            "zh-Hans": "显示/隐藏 大纲"
+            "zh-Hans": "显示/隐藏大纲"
           },
           "shortcutConfiguration": {
             "keyCode": 24,
@@ -1030,7 +1030,7 @@
           "id": "remote.mindnode.edit-mind-map.2ae9046732",
           "title": {
             "en": "Copy Style",
-            "zh-Hans": "复制 样式"
+            "zh-Hans": "复制样式"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1054,7 +1054,7 @@
           "id": "remote.mindnode.edit-mind-map.3b10406511",
           "title": {
             "en": "Paste Style",
-            "zh-Hans": "粘贴 样式"
+            "zh-Hans": "粘贴样式"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1147,7 +1147,7 @@
           "id": "remote.mindnode.edit-outline.147919b4d7",
           "title": {
             "en": "Delete Node",
-            "zh-Hans": "删除 节点"
+            "zh-Hans": "删除节点"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -1300,7 +1300,7 @@
           "id": "remote.mindnode.text-editing.e383303f51",
           "title": {
             "en": "Delete Node",
-            "zh-Hans": "删除 节点"
+            "zh-Hans": "删除节点"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -1465,7 +1465,7 @@
           "id": "remote.mindnode.text-formating.9185e7ca81",
           "title": {
             "en": "Emoji ",
-            "zh-Hans": "Emoji "
+            "zh-Hans": "Emoji"
           },
           "shortcutConfiguration": {
             "keyCode": 49,
@@ -1486,7 +1486,7 @@
           "id": "remote.mindnode.document.d277ebff34",
           "title": {
             "en": "Show Toolbar",
-            "zh-Hans": "显示 工具栏"
+            "zh-Hans": "显示工具栏"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1498,7 +1498,7 @@
           "id": "remote.mindnode.document.52f0ae4752",
           "title": {
             "en": "Show Spelling ",
-            "zh-Hans": "显示 Spelling "
+            "zh-Hans": "显示 Spelling"
           },
           "shortcutConfiguration": {
             "keyCode": 41,
@@ -1570,7 +1570,7 @@
           "id": "remote.mindnode.document.c7b0e2a4c3",
           "title": {
             "en": "Close All Documents",
-            "zh-Hans": "关闭 全部 文档"
+            "zh-Hans": "关闭全部文档"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -1606,7 +1606,7 @@
           "id": "remote.mindnode.document.f8d0d874f2",
           "title": {
             "en": "Minimize All",
-            "zh-Hans": "最小化 全部"
+            "zh-Hans": "最小化全部"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -1726,7 +1726,7 @@
           "id": "remote.mindnode.document.546410b4a8",
           "title": {
             "en": "Show Previous Tab",
-            "zh-Hans": "显示 上一个 标签页"
+            "zh-Hans": "显示上一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1738,7 +1738,7 @@
           "id": "remote.mindnode.document.cd60b9b641",
           "title": {
             "en": "Show Next Tab",
-            "zh-Hans": "显示 下一个 标签页"
+            "zh-Hans": "显示下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1750,7 +1750,7 @@
           "id": "remote.mindnode.document.9aaa8e1c82",
           "title": {
             "en": "Show All Tabs",
-            "zh-Hans": "显示 全部 标签页"
+            "zh-Hans": "显示全部标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 42,

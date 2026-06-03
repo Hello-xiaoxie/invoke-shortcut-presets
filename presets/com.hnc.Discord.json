@@ -346,7 +346,7 @@
           "id": "remote.discord.navigation.2cfe041081",
           "title": {
             "en": "Navigate Between Unread Channels",
-            "zh-Hans": "Navigate Between 未读 频道"
+            "zh-Hans": "Navigate Between 未读频道"
           },
           "shortcutConfiguration": {
             "keyCode": 126,

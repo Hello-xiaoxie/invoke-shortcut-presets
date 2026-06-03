@@ -58,7 +58,7 @@
           "id": "remote.tencent-meeting.screen-share",
           "title": {
             "en": "Start / Stop Screen Sharing (global shortcut)",
-            "zh-Hans": "开启/关闭屏幕共享（全局快捷键）"
+            "zh-Hans": "开关屏幕共享"
           },
           "shortcutConfiguration": {
             "keyCode": 1,

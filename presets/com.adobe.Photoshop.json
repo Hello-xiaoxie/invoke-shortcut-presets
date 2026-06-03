@@ -316,7 +316,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.32e80b503b",
           "title": {
             "en": "File Menu",
-            "zh-Hans": "文件 菜单"
+            "zh-Hans": "文件菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -328,7 +328,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.90225f79d4",
           "title": {
             "en": "Edit Menu",
-            "zh-Hans": "编辑 菜单"
+            "zh-Hans": "编辑菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -340,7 +340,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.77ceda39b1",
           "title": {
             "en": "Image Menu",
-            "zh-Hans": "图片 菜单"
+            "zh-Hans": "图片菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -352,7 +352,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.1b7b4cec1f",
           "title": {
             "en": "Layer Menu",
-            "zh-Hans": "图层 菜单"
+            "zh-Hans": "图层菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -376,7 +376,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.b23765b6a6",
           "title": {
             "en": "Filter Menu",
-            "zh-Hans": "滤镜 菜单"
+            "zh-Hans": "滤镜菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -400,7 +400,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.4c960bbae3",
           "title": {
             "en": "Window Menu",
-            "zh-Hans": "窗口 菜单"
+            "zh-Hans": "窗口菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -424,7 +424,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.c7879f2087",
           "title": {
             "en": "Open File",
-            "zh-Hans": "打开 文件"
+            "zh-Hans": "打开文件"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -724,7 +724,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.5948bd2890",
           "title": {
             "en": "Color Settings",
-            "zh-Hans": "颜色 设置"
+            "zh-Hans": "颜色设置"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -868,7 +868,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.bf9ad9e024",
           "title": {
             "en": "Hide Layers",
-            "zh-Hans": "隐藏 图层"
+            "zh-Hans": "隐藏图层"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -904,7 +904,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.5bb91a989d",
           "title": {
             "en": "Lock Layers",
-            "zh-Hans": "锁定 图层"
+            "zh-Hans": "锁定图层"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -988,7 +988,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.63bbbe5b51",
           "title": {
             "en": "Select All Layers",
-            "zh-Hans": "全选 图层"
+            "zh-Hans": "全选图层"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1000,7 +1000,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.d6a6bca433",
           "title": {
             "en": "Find Layers",
-            "zh-Hans": "查找 图层"
+            "zh-Hans": "查找图层"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -1036,7 +1036,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.d35d890ecb",
           "title": {
             "en": "Last Filter",
-            "zh-Hans": "最后一个 滤镜"
+            "zh-Hans": "最后一个滤镜"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -1204,7 +1204,7 @@
           "id": "remote.adobe-photoshop.basic-shortcuts-for-photoshop-cc-2015.abfc7d3cec",
           "title": {
             "en": "Toggle Actions  Window",
-            "zh-Hans": "切换Actions  窗口"
+            "zh-Hans": "切换Actions 窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 101,
@@ -1285,7 +1285,7 @@
           "id": "remote.adobe-photoshop.manage-views.7a96e55f28",
           "title": {
             "en": "Show/Hide Grid",
-            "zh-Hans": "显示/隐藏 网格"
+            "zh-Hans": "显示/隐藏网格"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -1996,7 +1996,7 @@
           "id": "remote.adobe-photoshop.painting-tools.e05d4280bf",
           "title": {
             "en": "Displays Fill dialog box",
-            "zh-Hans": "Displays 填充 对话框 box"
+            "zh-Hans": "Displays 填充对话框 box"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -2443,7 +2443,7 @@
           "id": "remote.adobe-photoshop.format-text-type.2bf621e51f",
           "title": {
             "en": "Justify paragraph, left aligns last line",
-            "zh-Hans": "Justify 段落, 左 aligns 最后一个 行"
+            "zh-Hans": "Justify 段落, 左 aligns 最后一个行"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -2548,7 +2548,7 @@
           "id": "remote.adobe-photoshop.manage-panels.1ae8ff5ad8",
           "title": {
             "en": "Show/Hide all panels",
-            "zh-Hans": "显示/隐藏 全部 panels"
+            "zh-Hans": "显示/隐藏全部 panels"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -2764,7 +2764,7 @@
           "id": "remote.adobe-photoshop.manage-panels.6e79cf47db",
           "title": {
             "en": "Group layers",
-            "zh-Hans": "编组 图层"
+            "zh-Hans": "编组图层"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -2776,7 +2776,7 @@
           "id": "remote.adobe-photoshop.manage-panels.65eb2c6317",
           "title": {
             "en": "Ungroup layers",
-            "zh-Hans": "取消编组 图层"
+            "zh-Hans": "取消编组图层"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -2800,7 +2800,7 @@
           "id": "remote.adobe-photoshop.manage-panels.d3b7e55e45",
           "title": {
             "en": "Select all layers",
-            "zh-Hans": "全选 图层"
+            "zh-Hans": "全选图层"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -2812,7 +2812,7 @@
           "id": "remote.adobe-photoshop.manage-panels.d4353f4b26",
           "title": {
             "en": "Merge visible layers",
-            "zh-Hans": "Merge 可见 图层"
+            "zh-Hans": "Merge 可见图层"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -2848,7 +2848,7 @@
           "id": "remote.adobe-photoshop.manage-panels.28d6eddeb4",
           "title": {
             "en": "Select next layer down/up",
-            "zh-Hans": "选择next 图层 下/上"
+            "zh-Hans": "选择next 图层下/上"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -2860,7 +2860,7 @@
           "id": "remote.adobe-photoshop.manage-panels.ebe2d11546",
           "title": {
             "en": "Move target layer down/up",
-            "zh-Hans": "移动target 图层 下/上"
+            "zh-Hans": "移动target 图层下/上"
           },
           "shortcutConfiguration": {
             "keyCode": 33,
@@ -2932,7 +2932,7 @@
           "id": "remote.adobe-photoshop.manage-panels.659dd96cac",
           "title": {
             "en": "Hide path",
-            "zh-Hans": "隐藏 路径"
+            "zh-Hans": "隐藏路径"
           },
           "shortcutConfiguration": {
             "keyCode": 4,

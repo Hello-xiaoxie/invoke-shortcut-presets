@@ -172,7 +172,7 @@
           "id": "remote.adobe-xd.edit-menu.558777c44b",
           "title": {
             "en": "Start Dictation...",
-            "zh-Hans": "开始 Dictation..."
+            "zh-Hans": "开始 Dictation"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -193,7 +193,7 @@
           "id": "remote.adobe-xd.path-pen.7e809e968a",
           "title": {
             "en": "Open Path/Pen panel",
-            "zh-Hans": "打开 路径/Pen 面板"
+            "zh-Hans": "打开路径/Pen 面板"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -640,7 +640,7 @@
           "id": "remote.adobe-xd.operations-menu.f2225d721a",
           "title": {
             "en": "Edit Text",
-            "zh-Hans": "编辑 文本"
+            "zh-Hans": "编辑文本"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -712,7 +712,7 @@
           "id": "remote.adobe-xd.operations-menu.55fa55366f",
           "title": {
             "en": "Prototype mode",
-            "zh-Hans": "原型 模式"
+            "zh-Hans": "原型模式"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -958,7 +958,7 @@
           "id": "remote.adobe-xd.view-menu.12349f030c",
           "title": {
             "en": "Show Artboard Grid",
-            "zh-Hans": "显示 画板 网格"
+            "zh-Hans": "显示画板网格"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,

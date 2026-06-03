@@ -1,0 +1,157 @@
+Add an outline border to the bottom of the selection
+Add an outline border to the left of the selection
+Add an outline border to the right of the selection
+Add an outline border to the top of the selection
+Add to the selection
+Align center
+Align left
+Alternate between displaying cell values and displaying cell formulas
+Apply or remove bold formatting
+Apply or remove italic formatting
+Apply or remove strikethrough formatting
+Apply or remove underscoring
+Apply the currency format with two decimal places (negative numbers appear in red with parentheses)
+Apply the date format with the day, month, and year
+Apply the exponential number format with two decimal places
+Apply the general number format
+Apply the number format with two decimal places, thousands separator, and minus sign (-) for negative values
+Apply the outline border around the selected cells
+Apply the percentage format with no decimal places
+Apply the time format with the hour and minute, and indicate AM or PM
+Bold
+Calculate all open workbooks
+Calculate the active sheet
+Cancel a cell entry
+Cancel an entry in the cell or formula bar
+Cancel an entry in the cell or the formula bar
+Cancel the command and close
+Check spelling
+Clear
+Close
+Close the active workbook window
+Close window
+Complete a cell entry
+Complete a cell entry and move forward in the selection
+Complete a cell entry and move to the left in the selection
+Complete a cell entry and move to the right in the selection
+Complete a cell entry and move up in the selection
+Copy
+Copy a formula from the cell above the active cell into the cell or the formula bar
+Copy the image of the screen and save it to a Screen Shot file on your desktop.
+Copy the value from the cell above the active cell into the cell or the formula bar
+Create a table
+Cut
+Decrease font size
+Define a name
+Delete cells
+Delete the character to the left of the insertion point, or delete the selection
+Delete the selection
+Display a contextual menu
+Display a contextual menu, or "right click" menu
+Display or hide outline symbols
+Display the AutoComplete list
+Display the Find dialog
+Display the Formula Builder after you type a valid function name in a formula
+Display the Go To dialog
+Display the Help window
+Display the Macro dialog
+Display the Open dialog
+Display the Save As dialog
+Display the Format Cells dialog box
+Display the Formula Builder
+Display the Go To dialog box
+Display the Help window
+Display the Open dialog box
+Display the Replace dialog box
+Display the Save As dialog box
+Edit the active cell
+Edit the active cell and position the insertion point at the end of the line
+Edit the active cell and then clear it, or delete the preceding character in the active cell as you edit the cell contents
+Edit the selected cell
+Enter a formula as an array formula
+Enter the date
+Enter the time
+Exit a dialog or cancel an action
+Expand or minimize the ribbon
+Extend the selection
+Fill Down
+Fill Right
+Fill down
+Fill the selected cell range with the text that you type
+Fill to the right
+Group selected cells
+Hide Excel.
+Hide a column
+Hide a row
+Hide selected columns
+Hide selected rows
+Increase font size
+Insert a comment
+Insert a hyperlink
+Insert a line break in a cell
+Insert a new chart sheet*
+Insert a new chart sheet.
+Insert a new sheet *
+Insert a new sheet*
+Insert an Excel 4.0 macro sheet
+Insert cells
+Insert or edit a cell comment
+Insert the AutoSum formula
+Italic
+Maximize or restore the active window
+Minimize the active window
+Move between unlocked cells on a protected sheet
+Move clockwise to the next corner of the selection
+Move down one screen
+Move from bottom to top within the selection (up)*
+Move from left to right within the selection, or move down one cell if only one column is selected
+Move from right to left within the selection, or move down one cell if only one column is selected
+Move from top to bottom within the selection (down)*
+Move one screen to the left
+Move one screen to the right
+Move to next workbook
+Move to the Search Sheet dialog
+Move to the beginning of the line
+Move to the beginning of the row
+Move to the beginning of the sheet
+Move to the last cell in use on the sheet
+Move to the next box, ⌥, control, or command
+Move to the previous box, ⌥, control, or command
+Move up one screen
+New blank workbook
+New workbook from template
+Open Visual Basic
+Open and edit a cell comment
+Open the Define Name dialog
+Open the Formula Builder
+Open the Save dialog
+Open the thesaurus
+Open the Create names dialog box
+Open the Define Name dialog box
+Open the Smart Lookup pane
+Paste
+Paste Special
+Paste text into the active cell
+Perform the action assigned to the default command button (the button with the bold outline, often the OK button)
+Print
+Quit Excel
+Redo
+Remove outline borders
+Save
+Scroll to display the active cell
+Search
+Select All
+Start a formula
+Start a new line in the same cell
+Switch to full screen view
+Switch to the next application
+Switch to the previous application
+Toggle the formula reference style between absolute, relative, and mixed
+Underline
+Undo
+Undo the last action
+Ungroup selected cells
+Unhide a column
+Unhide a row
+Unhide selected columns
+Unhide selected rows

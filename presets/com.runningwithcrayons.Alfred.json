@@ -31,7 +31,7 @@
           "id": "remote.alfred.general.919dbef065",
           "title": {
             "en": "Open Preferences",
-            "zh-Hans": "打开 偏好设置"
+            "zh-Hans": "打开偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -88,7 +88,7 @@
           "id": "remote.alfred.navigating-results.db7b8cd246",
           "title": {
             "en": "Open selected result",
-            "zh-Hans": "打开 所选 result"
+            "zh-Hans": "打开所选 result"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -193,7 +193,7 @@
           "id": "remote.alfred.actions-previews.b23393cba0",
           "title": {
             "en": "Open selected item",
-            "zh-Hans": "打开 所选 项目"
+            "zh-Hans": "打开所选项目"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -364,7 +364,7 @@
           "id": "remote.alfred.clipboard-history.c22f496c40",
           "title": {
             "en": "Open Clipboard History",
-            "zh-Hans": "打开 剪贴板 历史记录"
+            "zh-Hans": "打开剪贴板历史记录"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -376,7 +376,7 @@
           "id": "remote.alfred.clipboard-history.ac8a8c9e63",
           "title": {
             "en": "Copy selected clip",
-            "zh-Hans": "复制 所选 片段"
+            "zh-Hans": "复制所选片段"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -400,7 +400,7 @@
           "id": "remote.alfred.clipboard-history.635c123393",
           "title": {
             "en": "Delete clip entry",
-            "zh-Hans": "删除 片段 entry"
+            "zh-Hans": "删除片段 entry"
           },
           "shortcutConfiguration": {
             "keyCode": 117,
@@ -421,7 +421,7 @@
           "id": "remote.alfred.snippets.b307bd028d",
           "title": {
             "en": "Open Snippets viewer",
-            "zh-Hans": "打开 代码片段 viewer"
+            "zh-Hans": "打开代码片段 viewer"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -466,7 +466,7 @@
           "id": "remote.alfred.music-mini-player.99ea8dcfeb",
           "title": {
             "en": "Next track",
-            "zh-Hans": "下一个 轨道"
+            "zh-Hans": "下一个轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -478,7 +478,7 @@
           "id": "remote.alfred.music-mini-player.b4379368a5",
           "title": {
             "en": "Previous track",
-            "zh-Hans": "上一个 轨道"
+            "zh-Hans": "上一个轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 125,

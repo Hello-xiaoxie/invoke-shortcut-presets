@@ -76,7 +76,7 @@
           "id": "remote.camtasia.file-project.24e1a54185",
           "title": {
             "en": "Open Project",
-            "zh-Hans": "打开 项目"
+            "zh-Hans": "打开项目"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -112,7 +112,7 @@
           "id": "remote.camtasia.file-project.c3cde761d5",
           "title": {
             "en": "Import Media",
-            "zh-Hans": "导入 媒体"
+            "zh-Hans": "导入媒体"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -565,7 +565,7 @@
           "id": "remote.camtasia.timeline-view.2636457e4d",
           "title": {
             "en": "Show Marker Track",
-            "zh-Hans": "显示 标记 轨道"
+            "zh-Hans": "显示标记轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -598,7 +598,7 @@
           "id": "remote.camtasia.canvas.4d4d80f5d9",
           "title": {
             "en": "Zoom In Canvas",
-            "zh-Hans": "放大 画布"
+            "zh-Hans": "放大画布"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -610,7 +610,7 @@
           "id": "remote.camtasia.canvas.d79a26009a",
           "title": {
             "en": "Zoom Out Canvas",
-            "zh-Hans": "缩小 画布"
+            "zh-Hans": "缩小画布"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -655,7 +655,7 @@
           "id": "remote.camtasia.text.ff34b6084d",
           "title": {
             "en": "Edit Text",
-            "zh-Hans": "编辑 文本"
+            "zh-Hans": "编辑文本"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,

@@ -187,7 +187,7 @@
           "id": "remote.safari.prefs",
           "title": {
             "en": "Change Safari preferences",
-            "zh-Hans": "打开 Safari 偏好设置"
+            "zh-Hans": "Safari 设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,

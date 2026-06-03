@@ -316,7 +316,7 @@
           "id": "remote.inkscape.dialogs.7721ef3f1e",
           "title": {
             "en": "Document preferences",
-            "zh-Hans": "文档 偏好设置"
+            "zh-Hans": "文档偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -814,7 +814,7 @@
           "id": "remote.inkscape.canvas.fbb1eb5cdc",
           "title": {
             "en": "Toggle normal/outline mode",
-            "zh-Hans": "切换normal/大纲 模式"
+            "zh-Hans": "切换normal/大纲模式"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -883,7 +883,7 @@
           "id": "remote.inkscape.file.bc11e15469",
           "title": {
             "en": "Print document",
-            "zh-Hans": "打印 文档"
+            "zh-Hans": "打印文档"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -895,7 +895,7 @@
           "id": "remote.inkscape.file.16b3603761",
           "title": {
             "en": "Save document",
-            "zh-Hans": "存储 文档"
+            "zh-Hans": "存储文档"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -1000,7 +1000,7 @@
           "id": "remote.inkscape.window.ad3aa0f7a0",
           "title": {
             "en": "Drop-down menu",
-            "zh-Hans": "Drop-下 菜单"
+            "zh-Hans": "Drop-下菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 109,
@@ -1012,7 +1012,7 @@
           "id": "remote.inkscape.window.e2c2dda066",
           "title": {
             "en": "Close document window",
-            "zh-Hans": "关闭 文档 窗口"
+            "zh-Hans": "关闭文档窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -1024,7 +1024,7 @@
           "id": "remote.inkscape.window.f7078fbbf1",
           "title": {
             "en": "Next document window",
-            "zh-Hans": "下一个 文档 窗口"
+            "zh-Hans": "下一个文档窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1036,7 +1036,7 @@
           "id": "remote.inkscape.window.037d4e9723",
           "title": {
             "en": "Previous document window",
-            "zh-Hans": "上一个 文档 窗口"
+            "zh-Hans": "上一个文档窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1057,7 +1057,7 @@
           "id": "remote.inkscape.layers.c896aa7ad5",
           "title": {
             "en": "Move to layer above",
-            "zh-Hans": "移动to 图层 上方"
+            "zh-Hans": "移动to 图层上方"
           },
           "shortcutConfiguration": {
             "keyCode": 116,
@@ -1069,7 +1069,7 @@
           "id": "remote.inkscape.layers.7386b584ca",
           "title": {
             "en": "Move to layer below",
-            "zh-Hans": "移动to 图层 下方"
+            "zh-Hans": "移动to 图层下方"
           },
           "shortcutConfiguration": {
             "keyCode": 121,
@@ -1162,7 +1162,7 @@
           "id": "remote.inkscape.object.85f48d9bb0",
           "title": {
             "en": "Copy selection",
-            "zh-Hans": "复制 选择"
+            "zh-Hans": "复制选择"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1174,7 +1174,7 @@
           "id": "remote.inkscape.object.da0170a983",
           "title": {
             "en": "Cut selection",
-            "zh-Hans": "剪切 选择"
+            "zh-Hans": "剪切选择"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -1186,7 +1186,7 @@
           "id": "remote.inkscape.object.dc503d0e23",
           "title": {
             "en": "Paste clipboard",
-            "zh-Hans": "粘贴 剪贴板"
+            "zh-Hans": "粘贴剪贴板"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1210,7 +1210,7 @@
           "id": "remote.inkscape.object.691411640e",
           "title": {
             "en": "Paste style",
-            "zh-Hans": "粘贴 样式"
+            "zh-Hans": "粘贴样式"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1222,7 +1222,7 @@
           "id": "remote.inkscape.object.c912d7ce40",
           "title": {
             "en": "Paste path effect",
-            "zh-Hans": "粘贴 路径 效果"
+            "zh-Hans": "粘贴路径效果"
           },
           "shortcutConfiguration": {
             "keyCode": 26,
@@ -1234,7 +1234,7 @@
           "id": "remote.inkscape.object.fff32f692a",
           "title": {
             "en": "Duplicate selection",
-            "zh-Hans": "创建副本 选择"
+            "zh-Hans": "创建副本选择"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -1330,7 +1330,7 @@
           "id": "remote.inkscape.object.03715f866a",
           "title": {
             "en": "Group selected objects",
-            "zh-Hans": "编组 所选 objects"
+            "zh-Hans": "编组所选 objects"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -1342,7 +1342,7 @@
           "id": "remote.inkscape.object.6788039b6a",
           "title": {
             "en": "Ungroup selected objects",
-            "zh-Hans": "取消编组 所选 objects"
+            "zh-Hans": "取消编组所选 objects"
           },
           "shortcutConfiguration": {
             "keyCode": 5,

@@ -55,7 +55,7 @@
           "id": "remote.vlc-media-player.most-used.e54738907d",
           "title": {
             "en": "Audio track cycle",
-            "zh-Hans": "音频 轨道 cycle"
+            "zh-Hans": "音频轨道 cycle"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -91,7 +91,7 @@
           "id": "remote.vlc-media-player.most-used.4540ae0d2e",
           "title": {
             "en": "Subtitle delay  50ms",
-            "zh-Hans": "Subtitle delay  50ms"
+            "zh-Hans": "Subtitle delay 50ms"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -115,7 +115,7 @@
           "id": "remote.vlc-media-player.most-used.880e4bb466",
           "title": {
             "en": "Audio delay  50ms",
-            "zh-Hans": "音频 delay  50ms"
+            "zh-Hans": "音频 delay 50ms"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -160,7 +160,7 @@
           "id": "remote.vlc-media-player.movie-navigation.e31e26c325",
           "title": {
             "en": "Open folder (browse folder menu)",
-            "zh-Hans": "打开 文件夹 (browse 文件夹 菜单)"
+            "zh-Hans": "打开文件夹 (browse 文件夹菜单)"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -172,7 +172,7 @@
           "id": "remote.vlc-media-player.movie-navigation.5be0476bf2",
           "title": {
             "en": "Advanced open file",
-            "zh-Hans": "Advanced 打开 文件"
+            "zh-Hans": "Advanced 打开文件"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -232,7 +232,7 @@
           "id": "remote.vlc-media-player.movie-navigation.b93fbf90c3",
           "title": {
             "en": "Exit full screen mode",
-            "zh-Hans": "Exit 全屏 模式"
+            "zh-Hans": "Exit 全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -292,7 +292,7 @@
           "id": "remote.vlc-media-player.movie-navigation.df7dd9be6d",
           "title": {
             "en": "Decrease audio delay  / Increase audio delay",
-            "zh-Hans": "Decrease audio delay  / Increase audio delay"
+            "zh-Hans": "Decrease audio delay / Increase audio delay"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -373,7 +373,7 @@
           "id": "remote.vlc-media-player.jump-in-playback.47543517c8",
           "title": {
             "en": "Very short jump (3 seconds)  default ",
-            "zh-Hans": "Very short jump (3 seconds)  default "
+            "zh-Hans": "Very short jump (3 seconds) default"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -385,7 +385,7 @@
           "id": "remote.vlc-media-player.jump-in-playback.156c414e5b",
           "title": {
             "en": "Short jump (10 seconds)  default ",
-            "zh-Hans": "Short jump (10 seconds)  default "
+            "zh-Hans": "Short jump (10 seconds) default"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -397,7 +397,7 @@
           "id": "remote.vlc-media-player.jump-in-playback.7aa686c909",
           "title": {
             "en": "Medium jump (1 minute)  default ",
-            "zh-Hans": "Medium jump (1 minute)  default "
+            "zh-Hans": "Medium jump (1 minute) default"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -409,7 +409,7 @@
           "id": "remote.vlc-media-player.jump-in-playback.2ec58f4252",
           "title": {
             "en": "Long jump (5 minutes)  default ",
-            "zh-Hans": "Long jump (5 minutes)  default "
+            "zh-Hans": "Long jump (5 minutes) default"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -466,7 +466,7 @@
           "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.93c245a62d",
           "title": {
             "en": "Edit bookmarks",
-            "zh-Hans": "编辑 书签"
+            "zh-Hans": "编辑书签"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -550,7 +550,7 @@
           "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.0d1f33d96b",
           "title": {
             "en": "Open audio menu",
-            "zh-Hans": "打开 音频 菜单"
+            "zh-Hans": "打开音频菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -574,7 +574,7 @@
           "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.06af93338c",
           "title": {
             "en": "Open media menu",
-            "zh-Hans": "打开 媒体 菜单"
+            "zh-Hans": "打开媒体菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -610,7 +610,7 @@
           "id": "remote.vlc-media-player.manage-vlc-playlists-and-special-commands.eaf09e319a",
           "title": {
             "en": "Open video menu",
-            "zh-Hans": "打开 视频 菜单"
+            "zh-Hans": "打开视频菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 9,

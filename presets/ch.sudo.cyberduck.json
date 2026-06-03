@@ -148,7 +148,7 @@
           "id": "remote.cyberduck.issue-action.728572c8ad",
           "title": {
             "en": "Edit issue",
-            "zh-Hans": "编辑 事项"
+            "zh-Hans": "编辑事项"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -184,7 +184,7 @@
           "id": "remote.cyberduck.issue-action.e35899120e",
           "title": {
             "en": "Edit issue labels",
-            "zh-Hans": "编辑 事项 labels"
+            "zh-Hans": "编辑事项 labels"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -229,7 +229,7 @@
           "id": "remote.cyberduck.navigating-issues.b23d484a0e",
           "title": {
             "en": "View selected issue",
-            "zh-Hans": "视图 所选 事项"
+            "zh-Hans": "视图所选事项"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -241,7 +241,7 @@
           "id": "remote.cyberduck.navigating-issues.d753f2a95d",
           "title": {
             "en": "Next issue",
-            "zh-Hans": "下一个 事项"
+            "zh-Hans": "下一个事项"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -253,7 +253,7 @@
           "id": "remote.cyberduck.navigating-issues.0d2677a435",
           "title": {
             "en": "Previous issue",
-            "zh-Hans": "上一个 事项"
+            "zh-Hans": "上一个事项"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -325,7 +325,7 @@
           "id": "remote.cyberduck.navigating-issues.737645dd58",
           "title": {
             "en": "Switch filter view",
-            "zh-Hans": "Switch 滤镜 视图"
+            "zh-Hans": "Switch 滤镜视图"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -406,7 +406,7 @@
           "id": "remote.cyberduck.agile-shortcuts.57da2288c9",
           "title": {
             "en": "Next column",
-            "zh-Hans": "下一个 列"
+            "zh-Hans": "下一个列"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -418,7 +418,7 @@
           "id": "remote.cyberduck.agile-shortcuts.26fb7d9184",
           "title": {
             "en": "Previous column",
-            "zh-Hans": "上一个 列"
+            "zh-Hans": "上一个列"
           },
           "shortcutConfiguration": {
             "keyCode": 35,

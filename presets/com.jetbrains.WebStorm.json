@@ -127,7 +127,7 @@
           "id": "remote.webstorm.navigation.33481aadde",
           "title": {
             "en": "Close project (customised)",
-            "zh-Hans": "关闭 项目 (customised)"
+            "zh-Hans": "关闭项目 (customised)"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -250,7 +250,7 @@
           "id": "remote.webstorm.assistance.91fc373228",
           "title": {
             "en": "Find class",
-            "zh-Hans": "查找 类"
+            "zh-Hans": "查找类"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -295,7 +295,7 @@
           "id": "remote.webstorm.application.429d7922c1",
           "title": {
             "en": "Show preferences dialog",
-            "zh-Hans": "显示 偏好设置 对话框"
+            "zh-Hans": "显示偏好设置对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -316,7 +316,7 @@
           "id": "remote.webstorm.coding-assistance.d331589132",
           "title": {
             "en": "Show function parameters",
-            "zh-Hans": "显示 函数 parameters"
+            "zh-Hans": "显示函数 parameters"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -418,7 +418,7 @@
           "id": "remote.webstorm.general-refactoring.bcdf7f88df",
           "title": {
             "en": "Rename file / namespace / function / variable",
-            "zh-Hans": "重命名 文件 / namespace / 函数 / 变量"
+            "zh-Hans": "重命名文件 / namespace / 函数 / 变量"
           },
           "shortcutConfiguration": {
             "keyCode": 120,

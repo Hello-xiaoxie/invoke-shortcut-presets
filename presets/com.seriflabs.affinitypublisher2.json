@@ -559,7 +559,7 @@
           "id": "remote.affinity-publisher.layers.4f72cbe976",
           "title": {
             "en": "Set Black ",
-            "zh-Hans": "Set Black "
+            "zh-Hans": "Set Black"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -616,7 +616,7 @@
           "id": "remote.affinity-publisher.text-formatting.84589860db",
           "title": {
             "en": "Character Panel",
-            "zh-Hans": "字符 面板"
+            "zh-Hans": "字符面板"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -628,7 +628,7 @@
           "id": "remote.affinity-publisher.text-formatting.24ceb45aa0",
           "title": {
             "en": "Typography Dialog",
-            "zh-Hans": "排版 对话框"
+            "zh-Hans": "排版对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,

@@ -184,7 +184,7 @@
           "id": "remote.adobe-incopy.navigation-shortcuts.e5789f913f",
           "title": {
             "en": "Go to previous/next paragraph",
-            "zh-Hans": "转到previous/下一个 段落"
+            "zh-Hans": "转到previous/下一个段落"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -292,7 +292,7 @@
           "id": "remote.adobe-incopy.navigation-shortcuts.20fbeec85e",
           "title": {
             "en": "Select one line above/below",
-            "zh-Hans": "选择one 行 上方/下方"
+            "zh-Hans": "选择one 行上方/下方"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -778,7 +778,7 @@
           "id": "remote.adobe-incopy.working-with-text.ce6ab578e3",
           "title": {
             "en": "Align text left/center/right",
-            "zh-Hans": "对齐 文本 左/中心/右"
+            "zh-Hans": "对齐文本左/中心/右"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -814,7 +814,7 @@
           "id": "remote.adobe-incopy.working-with-text.f3857c0c55",
           "title": {
             "en": "Insert right indent tab",
-            "zh-Hans": "插入 右 indent 标签页"
+            "zh-Hans": "插入右 indent 标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -895,7 +895,7 @@
           "id": "remote.adobe-incopy.working-with-types.fc378fe6e6",
           "title": {
             "en": "Redefine character style",
-            "zh-Hans": "Redefine 字符 样式"
+            "zh-Hans": "Redefine 字符样式"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -919,7 +919,7 @@
           "id": "remote.adobe-incopy.working-with-types.51a00efdb4",
           "title": {
             "en": "Redefine paragraph style",
-            "zh-Hans": "Redefine 段落 样式"
+            "zh-Hans": "Redefine 段落样式"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -1153,7 +1153,7 @@
           "id": "remote.adobe-incopy.tables.1804393256",
           "title": {
             "en": "Move to next cell",
-            "zh-Hans": "移动to 下一个 单元格"
+            "zh-Hans": "移动to 下一个单元格"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1165,7 +1165,7 @@
           "id": "remote.adobe-incopy.tables.0257a21240",
           "title": {
             "en": "Move to previous cell",
-            "zh-Hans": "移动to 上一个 单元格"
+            "zh-Hans": "移动to 上一个单元格"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1294,7 +1294,7 @@
           "id": "remote.adobe-incopy.type-panel-and-dialog-boxes.25ee394756",
           "title": {
             "en": "Activate Character panel",
-            "zh-Hans": "Activate 字符 面板"
+            "zh-Hans": "Activate 字符面板"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1306,7 +1306,7 @@
           "id": "remote.adobe-incopy.type-panel-and-dialog-boxes.f0b4e63b75",
           "title": {
             "en": "Activate Paragraph panel",
-            "zh-Hans": "Activate 段落 面板"
+            "zh-Hans": "Activate 段落面板"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1327,7 +1327,7 @@
           "id": "remote.adobe-incopy.character-and-paragraph-styles.b67499addc",
           "title": {
             "en": "Make character style definition match text",
-            "zh-Hans": "Make 字符 样式 定义 match 文本"
+            "zh-Hans": "Make 字符样式定义 match 文本"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1339,7 +1339,7 @@
           "id": "remote.adobe-incopy.character-and-paragraph-styles.9417c7e776",
           "title": {
             "en": "Make paragraph style definition match text",
-            "zh-Hans": "Make 段落 样式 定义 match 文本"
+            "zh-Hans": "Make 段落样式定义 match 文本"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -1384,7 +1384,7 @@
           "id": "remote.adobe-incopy.thesaurus.471e4b99f2",
           "title": {
             "en": "Look up word",
-            "zh-Hans": "Look 上 单词"
+            "zh-Hans": "Look 上单词"
           },
           "shortcutConfiguration": {
             "keyCode": 22,
@@ -1441,7 +1441,7 @@
           "id": "remote.adobe-incopy.working-with-xml.6037a88a07",
           "title": {
             "en": "Extend XML selection up/down",
-            "zh-Hans": "Extend XML 选择 上/下"
+            "zh-Hans": "Extend XML 选择上/下"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -1453,7 +1453,7 @@
           "id": "remote.adobe-incopy.working-with-xml.65cfd83869",
           "title": {
             "en": "Move XML selection up/down",
-            "zh-Hans": "移动XML 选择 上/下"
+            "zh-Hans": "移动XML 选择上/下"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -1534,7 +1534,7 @@
           "id": "remote.adobe-incopy.other-shortcuts.c66005ca57",
           "title": {
             "en": "Close current document",
-            "zh-Hans": "关闭 当前 文档"
+            "zh-Hans": "关闭当前文档"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -1546,7 +1546,7 @@
           "id": "remote.adobe-incopy.other-shortcuts.f26d8f85c5",
           "title": {
             "en": "Close all documents",
-            "zh-Hans": "关闭 全部 文档"
+            "zh-Hans": "关闭全部文档"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -1558,7 +1558,7 @@
           "id": "remote.adobe-incopy.other-shortcuts.152c63d7a7",
           "title": {
             "en": "Save all documents",
-            "zh-Hans": "存储 全部 文档"
+            "zh-Hans": "存储全部文档"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -1738,7 +1738,7 @@
           "id": "remote.adobe-incopy.other-shortcuts.598d65be13",
           "title": {
             "en": "Edit text macro",
-            "zh-Hans": "编辑 文本 macro"
+            "zh-Hans": "编辑文本 macro"
           },
           "shortcutConfiguration": {
             "keyCode": 100,

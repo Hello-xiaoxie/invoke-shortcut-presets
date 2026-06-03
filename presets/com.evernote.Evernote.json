@@ -127,7 +127,7 @@
           "id": "remote.evernote.general-shortcuts.f5ae68c214",
           "title": {
             "en": "Search Notes",
-            "zh-Hans": "搜索 笔记"
+            "zh-Hans": "搜索笔记"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -139,7 +139,7 @@
           "id": "remote.evernote.general-shortcuts.b741495fee",
           "title": {
             "en": "Save Search",
-            "zh-Hans": "存储 搜索"
+            "zh-Hans": "存储搜索"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -163,7 +163,7 @@
           "id": "remote.evernote.general-shortcuts.d277ebff34",
           "title": {
             "en": "Show Toolbar",
-            "zh-Hans": "显示 工具栏"
+            "zh-Hans": "显示工具栏"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -211,7 +211,7 @@
           "id": "remote.evernote.general-shortcuts.3179cd0bc7",
           "title": {
             "en": "Minimize Window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -328,7 +328,7 @@
           "id": "remote.evernote.note-editor.72c0f04a7a",
           "title": {
             "en": "Find Next / Find Previous",
-            "zh-Hans": "查找 下一个 / 查找 上一个"
+            "zh-Hans": "查找下一个 / 查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -400,7 +400,7 @@
           "id": "remote.evernote.note-editor.4b88c61c9e",
           "title": {
             "en": "Insert Table",
-            "zh-Hans": "插入 表格"
+            "zh-Hans": "插入表格"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -412,7 +412,7 @@
           "id": "remote.evernote.note-editor.8b4ab1babc",
           "title": {
             "en": "Insert Horizontal Rule",
-            "zh-Hans": "插入 水平 Rule"
+            "zh-Hans": "插入水平 Rule"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -496,7 +496,7 @@
           "id": "remote.evernote.note-editor.4fe649c4a8",
           "title": {
             "en": "Make selection bold",
-            "zh-Hans": "Make 选择 加粗"
+            "zh-Hans": "Make 选择加粗"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -508,7 +508,7 @@
           "id": "remote.evernote.note-editor.84b235611f",
           "title": {
             "en": "Make selection italic",
-            "zh-Hans": "Make 选择 斜体"
+            "zh-Hans": "Make 选择斜体"
           },
           "shortcutConfiguration": {
             "keyCode": 34,

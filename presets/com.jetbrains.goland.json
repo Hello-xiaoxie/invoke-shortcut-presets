@@ -193,7 +193,7 @@
           "id": "remote.goland.navigation.eaff73cca5",
           "title": {
             "en": "Show bookmarks",
-            "zh-Hans": "显示 书签"
+            "zh-Hans": "显示书签"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -253,7 +253,7 @@
           "id": "remote.goland.navigation.703383a7a1",
           "title": {
             "en": "Edit source / View source",
-            "zh-Hans": "编辑 源 / 视图 源"
+            "zh-Hans": "编辑源 / 视图源"
           },
           "shortcutConfiguration": {
             "keyCode": 118,
@@ -493,7 +493,7 @@
           "id": "remote.goland.navigation.aa9a4867a5",
           "title": {
             "en": "Go to next / previous editor tab",
-            "zh-Hans": "转到next / 上一个 编辑器 标签页"
+            "zh-Hans": "转到next / 上一个编辑器标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -643,7 +643,7 @@
           "id": "remote.goland.editing.c0013d37f9",
           "title": {
             "en": "Close active editor tab",
-            "zh-Hans": "关闭 活动 编辑器 标签页"
+            "zh-Hans": "关闭活动编辑器标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -811,7 +811,7 @@
           "id": "remote.goland.editing.f766038d11",
           "title": {
             "en": "Duplicate current line",
-            "zh-Hans": "创建副本 当前 行"
+            "zh-Hans": "创建副本当前行"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -823,7 +823,7 @@
           "id": "remote.goland.editing.bd15add86a",
           "title": {
             "en": "Paste from recent buffers...",
-            "zh-Hans": "Paste from recent buffers..."
+            "zh-Hans": "Paste from recent buffers"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -1237,7 +1237,7 @@
           "id": "remote.goland.search-replace.eccb3fa2a7",
           "title": {
             "en": "Find previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1249,7 +1249,7 @@
           "id": "remote.goland.search-replace.311842e8cb",
           "title": {
             "en": "Find next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -1294,7 +1294,7 @@
           "id": "remote.goland.show-tool-windows.017cd61c6b",
           "title": {
             "en": "Show Terminal window",
-            "zh-Hans": "显示 终端 窗口"
+            "zh-Hans": "显示终端窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 111,
@@ -1306,7 +1306,7 @@
           "id": "remote.goland.show-tool-windows.ea20abec92",
           "title": {
             "en": "Show Commit window",
-            "zh-Hans": "显示 提交 窗口"
+            "zh-Hans": "显示提交窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 29,
@@ -1366,7 +1366,7 @@
           "id": "remote.goland.show-tool-windows.fda934281d",
           "title": {
             "en": "Show Debug window",
-            "zh-Hans": "显示 调试 窗口"
+            "zh-Hans": "显示调试窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 23,
@@ -1390,7 +1390,7 @@
           "id": "remote.goland.show-tool-windows.4cfc045a93",
           "title": {
             "en": "Show Find window",
-            "zh-Hans": "显示 查找 窗口"
+            "zh-Hans": "显示查找窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -1414,7 +1414,7 @@
           "id": "remote.goland.show-tool-windows.5983033075",
           "title": {
             "en": "Show Project window",
-            "zh-Hans": "显示 项目 窗口"
+            "zh-Hans": "显示项目窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -1435,7 +1435,7 @@
           "id": "remote.goland.general.c79a22d592",
           "title": {
             "en": "Open settings dialog",
-            "zh-Hans": "打开 设置 对话框"
+            "zh-Hans": "打开设置对话框"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -1459,7 +1459,7 @@
           "id": "remote.goland.general.170255e842",
           "title": {
             "en": "Inspect current file",
-            "zh-Hans": "Inspect 当前 文件"
+            "zh-Hans": "Inspect 当前文件"
           },
           "shortcutConfiguration": {
             "keyCode": 34,

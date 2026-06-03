@@ -175,7 +175,7 @@
           "id": "remote.apple-photos.organize.b477e0db80",
           "title": {
             "en": "Cut photo",
-            "zh-Hans": "剪切 照片"
+            "zh-Hans": "剪切照片"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -187,7 +187,7 @@
           "id": "remote.apple-photos.organize.d466f79821",
           "title": {
             "en": "Copy photo",
-            "zh-Hans": "复制 照片"
+            "zh-Hans": "复制照片"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -199,7 +199,7 @@
           "id": "remote.apple-photos.organize.05cdc6df0a",
           "title": {
             "en": "Paste photo",
-            "zh-Hans": "粘贴 照片"
+            "zh-Hans": "粘贴照片"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -514,7 +514,7 @@
           "id": "remote.apple-photos.book.1e83fc9d3c",
           "title": {
             "en": "Copy font",
-            "zh-Hans": "复制 字体"
+            "zh-Hans": "复制字体"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -526,7 +526,7 @@
           "id": "remote.apple-photos.book.ee6bab0cec",
           "title": {
             "en": "Paste font",
-            "zh-Hans": "粘贴 字体"
+            "zh-Hans": "粘贴字体"
           },
           "shortcutConfiguration": {
             "keyCode": 21,
@@ -580,7 +580,7 @@
           "id": "remote.apple-photos.general.a8274444ba",
           "title": {
             "en": "Show preferences",
-            "zh-Hans": "显示 偏好设置"
+            "zh-Hans": "显示偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 39,
@@ -604,7 +604,7 @@
           "id": "remote.apple-photos.general.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -616,7 +616,7 @@
           "id": "remote.apple-photos.general.d94258f711",
           "title": {
             "en": "Minimize window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

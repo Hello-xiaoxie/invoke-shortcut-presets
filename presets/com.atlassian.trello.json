@@ -385,7 +385,7 @@
           "id": "remote.trello.card-actions.29c2e99a3a",
           "title": {
             "en": "Open Card Filter Menu",
-            "zh-Hans": "打开 Card 滤镜 菜单"
+            "zh-Hans": "打开 Card 滤镜菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -409,7 +409,7 @@
           "id": "remote.trello.card-actions.c0c3f8741f",
           "title": {
             "en": "Save Text",
-            "zh-Hans": "存储 文本"
+            "zh-Hans": "存储文本"
           },
           "shortcutConfiguration": {
             "keyCode": 76,
@@ -421,7 +421,7 @@
           "id": "remote.trello.card-actions.9718733e94",
           "title": {
             "en": "Close Menu / Cancel Editing",
-            "zh-Hans": "关闭 菜单 / Cancel Editing"
+            "zh-Hans": "关闭菜单 / Cancel Editing"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -433,7 +433,7 @@
           "id": "remote.trello.card-actions.932df555ce",
           "title": {
             "en": "Quick Edit Mode",
-            "zh-Hans": "Quick 编辑 模式"
+            "zh-Hans": "Quick 编辑模式"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -619,7 +619,7 @@
           "id": "remote.trello.general.e7a50e0957",
           "title": {
             "en": "Open Header Boards Menu",
-            "zh-Hans": "打开 页头 Boards 菜单"
+            "zh-Hans": "打开页头 Boards 菜单"
           },
           "shortcutConfiguration": {
             "keyCode": 11,

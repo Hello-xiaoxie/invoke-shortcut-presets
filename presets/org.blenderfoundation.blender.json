@@ -139,7 +139,7 @@
           "id": "remote.blender.basics.e5559c585b",
           "title": {
             "en": "Show last render",
-            "zh-Hans": "显示 最后一个 render"
+            "zh-Hans": "显示最后一个 render"
           },
           "shortcutConfiguration": {
             "keyCode": 103,
@@ -418,7 +418,7 @@
           "id": "remote.blender.navigation.45ac3cedf1",
           "title": {
             "en": "Top view",
-            "zh-Hans": "顶部 视图"
+            "zh-Hans": "顶部视图"
           },
           "shortcutConfiguration": {
             "keyCode": 89,
@@ -616,7 +616,7 @@
           "id": "remote.blender.animation.bf6c7a9d84",
           "title": {
             "en": "Next frame",
-            "zh-Hans": "下一个 画框"
+            "zh-Hans": "下一帧"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -628,7 +628,7 @@
           "id": "remote.blender.animation.5cb26efa0a",
           "title": {
             "en": "Previous frame",
-            "zh-Hans": "上一个 画框"
+            "zh-Hans": "上一帧"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -688,7 +688,7 @@
           "id": "remote.blender.animation.2b6c35b6b1",
           "title": {
             "en": "Insert keyframe",
-            "zh-Hans": "插入 关键帧"
+            "zh-Hans": "插入关键帧"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -910,7 +910,7 @@
           "id": "remote.blender.timeline.c592e3a047",
           "title": {
             "en": "Set start frame",
-            "zh-Hans": "Set 开始 画框"
+            "zh-Hans": "Set 开始画框"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -922,7 +922,7 @@
           "id": "remote.blender.timeline.fc571b8b22",
           "title": {
             "en": "Set end frame",
-            "zh-Hans": "Set 结束 画框"
+            "zh-Hans": "Set 结束画框"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -934,7 +934,7 @@
           "id": "remote.blender.timeline.f38fae56d8",
           "title": {
             "en": "Show all frames",
-            "zh-Hans": "显示 全部 frames"
+            "zh-Hans": "显示全部 frames"
           },
           "shortcutConfiguration": {
             "keyCode": 115,
@@ -1285,7 +1285,7 @@
           "id": "remote.blender.node-editor.db55b60d57",
           "title": {
             "en": "Edit group",
-            "zh-Hans": "编辑 编组"
+            "zh-Hans": "编辑编组"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1342,7 +1342,7 @@
           "id": "remote.blender.editing-curves.e5b25fce2c",
           "title": {
             "en": "Close path",
-            "zh-Hans": "关闭 路径"
+            "zh-Hans": "关闭路径"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -1657,7 +1657,7 @@
           "id": "remote.blender.changing-modes.cfae34ba94",
           "title": {
             "en": "Edit/object mode",
-            "zh-Hans": "编辑/对象 模式"
+            "zh-Hans": "编辑/对象模式"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1729,7 +1729,7 @@
           "id": "remote.blender.changing-modes.0bc20ba071",
           "title": {
             "en": "Node editor",
-            "zh-Hans": "节点 编辑器"
+            "zh-Hans": "节点编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 99,
@@ -1813,7 +1813,7 @@
           "id": "remote.blender.changing-modes.89bda23e25",
           "title": {
             "en": "Uv/image editor",
-            "zh-Hans": "Uv/图片 编辑器"
+            "zh-Hans": "Uv/图片编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 109,
@@ -1825,7 +1825,7 @@
           "id": "remote.blender.changing-modes.6eccc2378b",
           "title": {
             "en": "Text editor",
-            "zh-Hans": "文本 编辑器"
+            "zh-Hans": "文本编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 111,
@@ -1858,7 +1858,7 @@
           "id": "remote.blender.advanced.fd21ca77ce",
           "title": {
             "en": "Fullscreen mode",
-            "zh-Hans": "全屏 模式"
+            "zh-Hans": "全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 103,

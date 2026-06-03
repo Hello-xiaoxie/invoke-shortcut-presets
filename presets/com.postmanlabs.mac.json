@@ -115,7 +115,7 @@
           "id": "remote.postman.general.ab34f69307",
           "title": {
             "en": "search sidebar",
-            "zh-Hans": "搜索 侧边栏"
+            "zh-Hans": "搜索侧边栏"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -259,7 +259,7 @@
           "id": "remote.postman.general.763f3dbcd2",
           "title": {
             "en": "open console",
-            "zh-Hans": "打开 控制台"
+            "zh-Hans": "打开控制台"
           },
           "shortcutConfiguration": {
             "keyCode": 8,

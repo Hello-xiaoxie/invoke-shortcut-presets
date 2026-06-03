@@ -79,7 +79,7 @@
           "id": "remote.signal.navigation.f6093fe481",
           "title": {
             "en": "Open preferences",
-            "zh-Hans": "打开 偏好设置"
+            "zh-Hans": "打开偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -205,7 +205,7 @@
           "id": "remote.signal.actions.0d4f2d7912",
           "title": {
             "en": "Start video call",
-            "zh-Hans": "开始 视频 call"
+            "zh-Hans": "开始视频 call"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -238,7 +238,7 @@
           "id": "remote.signal.window-management.d94258f711",
           "title": {
             "en": "Minimize window",
-            "zh-Hans": "最小化 窗口"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -250,7 +250,7 @@
           "id": "remote.signal.window-management.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -283,7 +283,7 @@
           "id": "remote.signal.formatting.08e4c1b5e7",
           "title": {
             "en": "Bold text",
-            "zh-Hans": "加粗 文本"
+            "zh-Hans": "加粗文本"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -295,7 +295,7 @@
           "id": "remote.signal.formatting.9366223126",
           "title": {
             "en": "Italic text",
-            "zh-Hans": "斜体 文本"
+            "zh-Hans": "斜体文本"
           },
           "shortcutConfiguration": {
             "keyCode": 34,

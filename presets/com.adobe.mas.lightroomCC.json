@@ -31,7 +31,7 @@
           "id": "remote.adobe-lightroom.panel-shortcuts.f03391dd25",
           "title": {
             "en": "Show/ hide all panels",
-            "zh-Hans": "显示/ 隐藏 全部 panels"
+            "zh-Hans": "显示/ 隐藏全部 panels"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -43,7 +43,7 @@
           "id": "remote.adobe-lightroom.panel-shortcuts.2dd0f867a5",
           "title": {
             "en": "Show/ hide Toolbar",
-            "zh-Hans": "显示/ 隐藏 工具栏"
+            "zh-Hans": "显示/ 隐藏工具栏"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -79,7 +79,7 @@
           "id": "remote.adobe-lightroom.panel-shortcuts.65c621f9b9",
           "title": {
             "en": "Show/ hide left panels",
-            "zh-Hans": "显示/ 隐藏 左 panels"
+            "zh-Hans": "显示/ 隐藏左 panels"
           },
           "shortcutConfiguration": {
             "keyCode": 98,
@@ -91,7 +91,7 @@
           "id": "remote.adobe-lightroom.panel-shortcuts.4222dddff6",
           "title": {
             "en": "Show/ hide right panels",
-            "zh-Hans": "显示/ 隐藏 右 panels"
+            "zh-Hans": "显示/ 隐藏右 panels"
           },
           "shortcutConfiguration": {
             "keyCode": 100,
@@ -253,7 +253,7 @@
           "id": "remote.adobe-lightroom.changing-views-and-screen-modes.2738882baa",
           "title": {
             "en": "Enter Library Grid view",
-            "zh-Hans": "Enter Library 网格 视图"
+            "zh-Hans": "Enter Library 网格视图"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -325,7 +325,7 @@
           "id": "remote.adobe-lightroom.changing-views-and-screen-modes.b77085ec19",
           "title": {
             "en": "Toggle Full screen mode",
-            "zh-Hans": "Toggle 全屏 模式"
+            "zh-Hans": "Toggle 全屏模式"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -418,7 +418,7 @@
           "id": "remote.adobe-lightroom.using-secondary-window.c3e03fe9de",
           "title": {
             "en": "Enter Grid view",
-            "zh-Hans": "Enter 网格 视图"
+            "zh-Hans": "Enter 网格视图"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -502,7 +502,7 @@
           "id": "remote.adobe-lightroom.using-secondary-window.7b592d0349",
           "title": {
             "en": "Show/ hide Filter bar",
-            "zh-Hans": "显示/ 隐藏 滤镜 bar"
+            "zh-Hans": "显示/ 隐藏滤镜 bar"
           },
           "shortcutConfiguration": {
             "keyCode": 42,
@@ -559,7 +559,7 @@
           "id": "remote.adobe-lightroom.managing-photos-and-catalogs.919dbef065",
           "title": {
             "en": "Open Preferences",
-            "zh-Hans": "打开 偏好设置"
+            "zh-Hans": "打开偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -667,7 +667,7 @@
           "id": "remote.adobe-lightroom.managing-photos-and-catalogs.2586e2b025",
           "title": {
             "en": "Delete selected photo(s)",
-            "zh-Hans": "删除 所选 照片(s)"
+            "zh-Hans": "删除所选照片(s)"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -739,7 +739,7 @@
           "id": "remote.adobe-lightroom.managing-photos-and-catalogs.213aa7cc05",
           "title": {
             "en": "Export selected photo(s)",
-            "zh-Hans": "导出 所选 照片(s)"
+            "zh-Hans": "导出所选照片(s)"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -775,7 +775,7 @@
           "id": "remote.adobe-lightroom.managing-photos-and-catalogs.a1f9fe2ebf",
           "title": {
             "en": "Print selected photo",
-            "zh-Hans": "打印 所选 照片"
+            "zh-Hans": "打印所选照片"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -952,7 +952,7 @@
           "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.55e1710291",
           "title": {
             "en": "Rotate photo right/ left",
-            "zh-Hans": "Rotate 照片 右/ 左"
+            "zh-Hans": "Rotate 照片右/ 左"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -1060,7 +1060,7 @@
           "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.0018ccd5ed",
           "title": {
             "en": "Select only active photo",
-            "zh-Hans": "选择only 活动 照片"
+            "zh-Hans": "选择only 活动照片"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -1072,7 +1072,7 @@
           "id": "remote.adobe-lightroom.comparing-photos-in-the-library-module.b1a6676aba",
           "title": {
             "en": "Deselect active photo",
-            "zh-Hans": "Deselect 活动 照片"
+            "zh-Hans": "Deselect 活动照片"
           },
           "shortcutConfiguration": {
             "keyCode": 44,
@@ -1711,7 +1711,7 @@
           "id": "remote.adobe-lightroom.metadata-and-keywords-in-library-module.3a6f36862b",
           "title": {
             "en": "Open Character palette",
-            "zh-Hans": "打开 字符 面板"
+            "zh-Hans": "打开字符面板"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -1996,7 +1996,7 @@
           "id": "remote.adobe-lightroom.develop-module.77043c3790",
           "title": {
             "en": "Cycle Crop grid Overlay",
-            "zh-Hans": "Cycle Crop 网格 覆盖层"
+            "zh-Hans": "Cycle Crop 网格覆盖层"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -2128,7 +2128,7 @@
           "id": "remote.adobe-lightroom.develop-module.dd5c26a0a4",
           "title": {
             "en": "Show/ hide local adjustment mask Overlay",
-            "zh-Hans": "显示/ 隐藏 local adjustment 蒙版 覆盖层"
+            "zh-Hans": "显示/ 隐藏 local adjustment 蒙版覆盖层"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -2236,7 +2236,7 @@
           "id": "remote.adobe-lightroom.develop-module.55e1710291",
           "title": {
             "en": "Rotate photo right/ left",
-            "zh-Hans": "Rotate 照片 右/ 左"
+            "zh-Hans": "Rotate 照片右/ 左"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -2356,7 +2356,7 @@
           "id": "remote.adobe-lightroom.develop-module.b2de760731",
           "title": {
             "en": "Create a new preset folder",
-            "zh-Hans": "Create a new 预设 文件夹"
+            "zh-Hans": "Create a new 预设文件夹"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -2473,7 +2473,7 @@
           "id": "remote.adobe-lightroom.slideshow-module.55e1710291",
           "title": {
             "en": "Rotate photo right/ left",
-            "zh-Hans": "Rotate 照片 右/ 左"
+            "zh-Hans": "Rotate 照片右/ 左"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -2521,7 +2521,7 @@
           "id": "remote.adobe-lightroom.slideshow-module.32c72e78ef",
           "title": {
             "en": "Export video slide show",
-            "zh-Hans": "导出 视频 slide 显示"
+            "zh-Hans": "导出视频 slide 显示"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -2557,7 +2557,7 @@
           "id": "remote.adobe-lightroom.slideshow-module.915ed0ed21",
           "title": {
             "en": "Save slide show settings",
-            "zh-Hans": "存储 slide 显示 设置"
+            "zh-Hans": "存储 slide 显示设置"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -2614,7 +2614,7 @@
           "id": "remote.adobe-lightroom.print-module.b179642230",
           "title": {
             "en": "Open Print Settings dialog box",
-            "zh-Hans": "打开 打印 设置 对话框 box"
+            "zh-Hans": "打开打印设置对话框 box"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -2626,7 +2626,7 @@
           "id": "remote.adobe-lightroom.print-module.e3211f1a6b",
           "title": {
             "en": "Go to first page/ last page",
-            "zh-Hans": "转到first 页面/ 最后一个 页面"
+            "zh-Hans": "转到first 页面/ 最后一个页面"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -2638,7 +2638,7 @@
           "id": "remote.adobe-lightroom.print-module.c924c7d8c6",
           "title": {
             "en": "Go to previous/ next page",
-            "zh-Hans": "转到previous/ 下一个 页面"
+            "zh-Hans": "转到previous/ 下一个页面"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -2674,7 +2674,7 @@
           "id": "remote.adobe-lightroom.print-module.9d21120610",
           "title": {
             "en": "Show/ hide page bleed",
-            "zh-Hans": "显示/ 隐藏 页面 bleed"
+            "zh-Hans": "显示/ 隐藏页面 bleed"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -2698,7 +2698,7 @@
           "id": "remote.adobe-lightroom.print-module.a267324cae",
           "title": {
             "en": "Show/ hide image cells",
-            "zh-Hans": "显示/ 隐藏 图片 单元格"
+            "zh-Hans": "显示/ 隐藏图片单元格"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -2734,7 +2734,7 @@
           "id": "remote.adobe-lightroom.print-module.55e1710291",
           "title": {
             "en": "Rotate photo right/ left",
-            "zh-Hans": "Rotate 照片 右/ 左"
+            "zh-Hans": "Rotate 照片右/ 左"
           },
           "shortcutConfiguration": {
             "keyCode": 30,
@@ -2746,7 +2746,7 @@
           "id": "remote.adobe-lightroom.print-module.d8e76b35fc",
           "title": {
             "en": "Create a new print template",
-            "zh-Hans": "Create a new 打印 模板"
+            "zh-Hans": "Create a new 打印模板"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -2758,7 +2758,7 @@
           "id": "remote.adobe-lightroom.print-module.ab639ecd67",
           "title": {
             "en": "Create a new print template folder",
-            "zh-Hans": "Create a new 打印 模板 文件夹"
+            "zh-Hans": "Create a new 打印模板文件夹"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -2770,7 +2770,7 @@
           "id": "remote.adobe-lightroom.print-module.78b0a876a7",
           "title": {
             "en": "Save print settings",
-            "zh-Hans": "存储 打印 设置"
+            "zh-Hans": "存储打印设置"
           },
           "shortcutConfiguration": {
             "keyCode": 1,

@@ -928,7 +928,7 @@
           "id": "remote.wework.sheet.view.extend-edge",
           "title": {
             "en": "Extend Selection to Data Edge (⌘⇧+Arrow)",
-            "zh-Hans": "扩展至数据区边缘（⌘⇧+方向键）"
+            "zh-Hans": "扩展至数据边缘"
           },
           "shortcutConfiguration": {
             "keyCode": 125,

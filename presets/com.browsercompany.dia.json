@@ -127,7 +127,7 @@
           "id": "remote.dia.file.9eb03d01ca",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -139,7 +139,7 @@
           "id": "remote.dia.file.663fc72bb2",
           "title": {
             "en": "Close all tabs",
-            "zh-Hans": "关闭 全部 标签页"
+            "zh-Hans": "关闭全部标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -196,7 +196,7 @@
           "id": "remote.dia.edit.311842e8cb",
           "title": {
             "en": "Find next",
-            "zh-Hans": "查找 下一个"
+            "zh-Hans": "查找下一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -208,7 +208,7 @@
           "id": "remote.dia.edit.eccb3fa2a7",
           "title": {
             "en": "Find previous",
-            "zh-Hans": "查找 上一个"
+            "zh-Hans": "查找上一个"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -265,7 +265,7 @@
           "id": "remote.dia.view.7404de91ac",
           "title": {
             "en": "Hide tabs",
-            "zh-Hans": "隐藏 标签页"
+            "zh-Hans": "隐藏标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -277,7 +277,7 @@
           "id": "remote.dia.view.eeb2be6029",
           "title": {
             "en": "Add split view pane",
-            "zh-Hans": "添加split 视图 窗格"
+            "zh-Hans": "添加split 视图窗格"
           },
           "shortcutConfiguration": {
             "keyCode": 24,
@@ -289,7 +289,7 @@
           "id": "remote.dia.view.97f5e29f28",
           "title": {
             "en": "Always show bookmarks bar",
-            "zh-Hans": "Always 显示 书签 bar"
+            "zh-Hans": "Always 显示书签 bar"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -442,7 +442,7 @@
           "id": "remote.dia.tabs.669613900f",
           "title": {
             "en": "Search tabs",
-            "zh-Hans": "搜索 标签页"
+            "zh-Hans": "搜索标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -487,7 +487,7 @@
           "id": "remote.dia.bookmarks-history.9a4947420a",
           "title": {
             "en": "Show all history",
-            "zh-Hans": "显示 全部 历史记录"
+            "zh-Hans": "显示全部历史记录"
           },
           "shortcutConfiguration": {
             "keyCode": 16,

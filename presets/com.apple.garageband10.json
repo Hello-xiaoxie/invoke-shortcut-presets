@@ -31,7 +31,7 @@
           "id": "remote.garageband.track-operations.9edfebddf2",
           "title": {
             "en": "Create a new audio track",
-            "zh-Hans": "Create a new 音频 轨道"
+            "zh-Hans": "Create a new 音频轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -175,7 +175,7 @@
           "id": "remote.garageband.track-operations.684341fcca",
           "title": {
             "en": "Unmute all tracks",
-            "zh-Hans": "Unmute 全部 轨道"
+            "zh-Hans": "Unmute 全部轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -187,7 +187,7 @@
           "id": "remote.garageband.track-operations.d25b372c5d",
           "title": {
             "en": "Unsolo all tracks",
-            "zh-Hans": "Unsolo 全部 轨道"
+            "zh-Hans": "Unsolo 全部轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -292,7 +292,7 @@
           "id": "remote.garageband.edit-track.da0170a983",
           "title": {
             "en": "Cut selection",
-            "zh-Hans": "剪切 选择"
+            "zh-Hans": "剪切选择"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -397,7 +397,7 @@
           "id": "remote.garageband.misellaneous-shortcuts.3f33f6c0db",
           "title": {
             "en": "Loop selected region continuously",
-            "zh-Hans": "循环 所选 区域 continuously"
+            "zh-Hans": "循环所选区域 continuously"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -409,7 +409,7 @@
           "id": "remote.garageband.misellaneous-shortcuts.fba226ac87",
           "title": {
             "en": "Add selected region to the Apple Loops Library",
-            "zh-Hans": "Add selected region to the Apple Loops Library"
+            "zh-Hans": "添加到循环库"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -445,7 +445,7 @@
           "id": "remote.garageband.misellaneous-shortcuts.a27dced945",
           "title": {
             "en": "Show/Hide alignment guides",
-            "zh-Hans": "显示/隐藏 对齐 guides"
+            "zh-Hans": "显示/隐藏对齐 guides"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -859,7 +859,7 @@
           "id": "remote.garageband.general-shortcuts.8092ac7bc7",
           "title": {
             "en": "Minimize the GarageBand window",
-            "zh-Hans": "Minimize the GarageBand window"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -895,7 +895,7 @@
           "id": "remote.garageband.general-shortcuts.8bcb019931",
           "title": {
             "en": "Show GarageBand preferences",
-            "zh-Hans": "显示 GarageBand 偏好设置"
+            "zh-Hans": "GarageBand 设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,

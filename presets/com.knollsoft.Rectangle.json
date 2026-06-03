@@ -100,7 +100,7 @@
           "id": "remote.rectangle.quarters.13d5daef73",
           "title": {
             "en": "Top Left",
-            "zh-Hans": "顶部 左"
+            "zh-Hans": "顶部左"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -112,7 +112,7 @@
           "id": "remote.rectangle.quarters.ee5fa84db2",
           "title": {
             "en": "Top Right",
-            "zh-Hans": "顶部 右"
+            "zh-Hans": "顶部右"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -124,7 +124,7 @@
           "id": "remote.rectangle.quarters.eeefc3d7fa",
           "title": {
             "en": "Bottom Left",
-            "zh-Hans": "底部 左"
+            "zh-Hans": "底部左"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -136,7 +136,7 @@
           "id": "remote.rectangle.quarters.9a68d221b3",
           "title": {
             "en": "Bottom Right",
-            "zh-Hans": "底部 右"
+            "zh-Hans": "底部右"
           },
           "shortcutConfiguration": {
             "keyCode": 40,

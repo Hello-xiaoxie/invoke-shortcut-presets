@@ -67,7 +67,7 @@
           "id": "remote.whatsapp.navigation.f6093fe481",
           "title": {
             "en": "Open preferences",
-            "zh-Hans": "打开 偏好设置"
+            "zh-Hans": "打开偏好设置"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -148,7 +148,7 @@
           "id": "remote.whatsapp.messaging.89b29811a8",
           "title": {
             "en": "Edit last message",
-            "zh-Hans": "编辑 最后一个 message"
+            "zh-Hans": "编辑最后一个 message"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -181,7 +181,7 @@
           "id": "remote.whatsapp.formatting.08e4c1b5e7",
           "title": {
             "en": "Bold text",
-            "zh-Hans": "加粗 文本"
+            "zh-Hans": "加粗文本"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -193,7 +193,7 @@
           "id": "remote.whatsapp.formatting.9366223126",
           "title": {
             "en": "Italic text",
-            "zh-Hans": "斜体 文本"
+            "zh-Hans": "斜体文本"
           },
           "shortcutConfiguration": {
             "keyCode": 34,

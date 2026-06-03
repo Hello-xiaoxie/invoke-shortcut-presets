@@ -31,7 +31,7 @@
           "id": "remote.final-cut-pro.file.d3ef9b0b32",
           "title": {
             "en": "Open selected file",
-            "zh-Hans": "打开 所选 文件"
+            "zh-Hans": "打开所选"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -55,7 +55,7 @@
           "id": "remote.final-cut-pro.file.d81561e52e",
           "title": {
             "en": "Open item editor",
-            "zh-Hans": "打开 项目 编辑器"
+            "zh-Hans": "项目编辑器"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -67,7 +67,7 @@
           "id": "remote.final-cut-pro.file.494ef91b17",
           "title": {
             "en": "Close window",
-            "zh-Hans": "关闭 窗口"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -514,7 +514,7 @@
           "id": "remote.final-cut-pro.navigation.d5d248edf8",
           "title": {
             "en": "Next edit",
-            "zh-Hans": "下一个 编辑"
+            "zh-Hans": "下一编辑点"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -526,7 +526,7 @@
           "id": "remote.final-cut-pro.navigation.ec5449220a",
           "title": {
             "en": "Previous edit",
-            "zh-Hans": "上一个 编辑"
+            "zh-Hans": "上一编辑点"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -814,7 +814,7 @@
           "id": "remote.final-cut-pro.project.ce6109e81b",
           "title": {
             "en": "Import file",
-            "zh-Hans": "导入 文件"
+            "zh-Hans": "导入文件"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -1060,7 +1060,7 @@
           "id": "remote.final-cut-pro.timeline.b0f3814865",
           "title": {
             "en": "Lock video track",
-            "zh-Hans": "锁定 视频 轨道"
+            "zh-Hans": "锁定视频轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -1072,7 +1072,7 @@
           "id": "remote.final-cut-pro.timeline.bf1e05206b",
           "title": {
             "en": "Lock all video tracks",
-            "zh-Hans": "锁定 全部 视频 轨道"
+            "zh-Hans": "锁定全部视频轨道"
           },
           "shortcutConfiguration": {
             "keyCode": 96,
@@ -1234,7 +1234,7 @@
           "id": "remote.final-cut-pro.logging-and-capturing.90037f17f6",
           "title": {
             "en": "Log clip",
-            "zh-Hans": "日志 片段"
+            "zh-Hans": "记录片段"
           },
           "shortcutConfiguration": {
             "keyCode": 120,

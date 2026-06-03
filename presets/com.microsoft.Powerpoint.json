@@ -19,7 +19,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.28a2bb543a",
           "title": {
             "en": "Delete one character to the left",
-            "zh-Hans": "Delete one character to the left"
+            "zh-Hans": "左删一字符"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -31,7 +31,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.ad37a63c23",
           "title": {
             "en": "Delete one character to the right",
-            "zh-Hans": "Delete one character to the right"
+            "zh-Hans": "右删一字符"
           },
           "shortcutConfiguration": {
             "keyCode": 51,
@@ -43,7 +43,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.31f67df7e3",
           "title": {
             "en": "Cut selected text or object",
-            "zh-Hans": "Cut selected text or object"
+            "zh-Hans": "剪切"
           },
           "shortcutConfiguration": {
             "keyCode": 7,
@@ -55,7 +55,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.d85fedcc7d",
           "title": {
             "en": "Copy selected text or object",
-            "zh-Hans": "Copy selected text or object"
+            "zh-Hans": "复制"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -67,7 +67,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.71ab402528",
           "title": {
             "en": "Paste cut or copied text or object",
-            "zh-Hans": "Paste cut or copied text or object"
+            "zh-Hans": "粘贴"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -79,7 +79,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.80ee854f1b",
           "title": {
             "en": "Paste special",
-            "zh-Hans": "粘贴 special"
+            "zh-Hans": "选择性粘贴"
           },
           "shortcutConfiguration": {
             "keyCode": 9,
@@ -91,7 +91,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.46ecaeaae6",
           "title": {
             "en": "Increase the font size",
-            "zh-Hans": "Increase the font size"
+            "zh-Hans": "增大字号"
           },
           "shortcutConfiguration": {
             "keyCode": 47,
@@ -103,7 +103,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.b26ef45423",
           "title": {
             "en": "Decrease the font size",
-            "zh-Hans": "Decrease the font size"
+            "zh-Hans": "减小字号"
           },
           "shortcutConfiguration": {
             "keyCode": 43,
@@ -115,7 +115,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.c8a259757d",
           "title": {
             "en": "Apply bold formatting",
-            "zh-Hans": "Apply 加粗 formatting"
+            "zh-Hans": "加粗"
           },
           "shortcutConfiguration": {
             "keyCode": 11,
@@ -127,7 +127,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.fbf581cf79",
           "title": {
             "en": "Apply an underline",
-            "zh-Hans": "Apply an 下划线"
+            "zh-Hans": "下划线"
           },
           "shortcutConfiguration": {
             "keyCode": 32,
@@ -139,7 +139,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.61bee5b906",
           "title": {
             "en": "Apply italic formatting",
-            "zh-Hans": "Apply 斜体 formatting"
+            "zh-Hans": "斜体"
           },
           "shortcutConfiguration": {
             "keyCode": 34,
@@ -151,7 +151,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.f8c321f9ae",
           "title": {
             "en": "Center a paragraph",
-            "zh-Hans": "Center a paragraph"
+            "zh-Hans": "居中"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -163,7 +163,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.a818c203cf",
           "title": {
             "en": "Justify a paragraph",
-            "zh-Hans": "Justify a 段落"
+            "zh-Hans": "两端对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -175,7 +175,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.9bd66920eb",
           "title": {
             "en": "Left align a paragraph",
-            "zh-Hans": "Left align a paragraph"
+            "zh-Hans": "左对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -187,7 +187,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.5beec726ba",
           "title": {
             "en": "Right align a paragraph",
-            "zh-Hans": "Right align a paragraph"
+            "zh-Hans": "右对齐"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -199,7 +199,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.f68b4d9e0c",
           "title": {
             "en": "Redo the last action",
-            "zh-Hans": "恢复上一操作"
+            "zh-Hans": "恢复"
           },
           "shortcutConfiguration": {
             "keyCode": 16,
@@ -211,7 +211,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.a4c9f4c258",
           "title": {
             "en": "Undo the last action",
-            "zh-Hans": "撤消上一操作"
+            "zh-Hans": "撤消"
           },
           "shortcutConfiguration": {
             "keyCode": 6,
@@ -223,7 +223,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.544a3aa531",
           "title": {
             "en": "Open the Format Text dialog box, Font options",
-            "zh-Hans": "Open the Format Text dialog box, Font options"
+            "zh-Hans": "字体格式"
           },
           "shortcutConfiguration": {
             "keyCode": 17,
@@ -235,7 +235,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.1289e57e35",
           "title": {
             "en": "Open the Format Text dialog box, Paragraph options",
-            "zh-Hans": "Open the Format Text dialog box, Paragraph options"
+            "zh-Hans": "段落格式"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -247,7 +247,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.c8e2998044",
           "title": {
             "en": "To Move To the beginning of a word or one word to the left",
-            "zh-Hans": "To Move To the beginning of a word or one word to the left"
+            "zh-Hans": "移到词首"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -259,7 +259,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.df75b7edf6",
           "title": {
             "en": "To Move One word to the right",
-            "zh-Hans": "To Move One word to the right"
+            "zh-Hans": "右移一词"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -271,7 +271,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.831242e437",
           "title": {
             "en": "To Move To the end of a line",
-            "zh-Hans": "To Move To the end of a line"
+            "zh-Hans": "移到行尾"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -283,7 +283,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.71ef5846b9",
           "title": {
             "en": "To Move To the beginning of a line",
-            "zh-Hans": "To Move To the beginning of a line"
+            "zh-Hans": "移到行首"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -295,7 +295,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.0bc0914798",
           "title": {
             "en": "To Move To the beginning of a paragraph or up one paragraph",
-            "zh-Hans": "To Move To the beginning of a paragraph or up one paragraph"
+            "zh-Hans": "移到段首"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -307,7 +307,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.9dbee73a21",
           "title": {
             "en": "To Move Down one paragraph",
-            "zh-Hans": "To Move Down one paragraph"
+            "zh-Hans": "下移一段"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -319,7 +319,7 @@
           "id": "remote.microsoft-powerpoint.editing-text-and-objects.e60b4de7b7",
           "title": {
             "en": "To Move To the start or end of all the text in the object you are editing",
-            "zh-Hans": "To Move To the start or end of all the text in the object you are editing"
+            "zh-Hans": "移到文本首尾"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -340,7 +340,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.ed6e2e3ce8",
           "title": {
             "en": "Select the next object",
-            "zh-Hans": "选择the 下一个 对象"
+            "zh-Hans": "下一对象"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -352,7 +352,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.cf6f7a9139",
           "title": {
             "en": "Select the previous object",
-            "zh-Hans": "选择the 上一个 对象"
+            "zh-Hans": "上一对象"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -364,7 +364,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.8968eedaff",
           "title": {
             "en": "Select all objects and all text",
-            "zh-Hans": "Select all objects and all text"
+            "zh-Hans": "全选"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -376,7 +376,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.96653d8934",
           "title": {
             "en": "Move the selected object in the direction of the arrow",
-            "zh-Hans": "Move the selected object in the direction of the arrow"
+            "zh-Hans": "移动对象"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -388,7 +388,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.bbf553e9f0",
           "title": {
             "en": "Group the selected objects",
-            "zh-Hans": "Group the selected objects"
+            "zh-Hans": "组合"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -400,7 +400,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.8ca46e88e3",
           "title": {
             "en": "Ungroup the selected objects",
-            "zh-Hans": "Ungroup the selected objects"
+            "zh-Hans": "取消组合"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -412,7 +412,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.1574c582bb",
           "title": {
             "en": "Regroup the selected objects",
-            "zh-Hans": "Regroup the selected objects"
+            "zh-Hans": "重新组合"
           },
           "shortcutConfiguration": {
             "keyCode": 38,
@@ -424,7 +424,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.06285fda22",
           "title": {
             "en": "Rotate the selected object clockwise",
-            "zh-Hans": "Rotate the selected object clockwise"
+            "zh-Hans": "顺时针旋转"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -436,7 +436,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.bb85aa6fa5",
           "title": {
             "en": "Rotate the selected object counterclockwise",
-            "zh-Hans": "Rotate the selected object counterclockwise"
+            "zh-Hans": "逆时针旋转"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -448,7 +448,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.299f6d45e8",
           "title": {
             "en": "Format the selected object",
-            "zh-Hans": "Format the selected object"
+            "zh-Hans": "设置对象格式"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -460,7 +460,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.315068e56b",
           "title": {
             "en": "Duplicate selected objects",
-            "zh-Hans": "创建副本 所选 objects"
+            "zh-Hans": "复制对象"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -472,7 +472,7 @@
           "id": "remote.microsoft-powerpoint.working-with-objects.3b2c706ba9",
           "title": {
             "en": "Resize selected objects",
-            "zh-Hans": "调整大小selected objects"
+            "zh-Hans": "调整大小"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -493,7 +493,7 @@
           "id": "remote.microsoft-powerpoint.presentations.aaaa17ac27",
           "title": {
             "en": "Create a new presentation",
-            "zh-Hans": "Create a new presentation"
+            "zh-Hans": "新建演示文稿"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -505,7 +505,7 @@
           "id": "remote.microsoft-powerpoint.presentations.341bca60fe",
           "title": {
             "en": "Create a new presentation with a template from the PowerPoint Presentation gallery",
-            "zh-Hans": "Create a new presentation with a template from the PowerPoint Presentation gallery"
+            "zh-Hans": "从模板新建"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -517,7 +517,7 @@
           "id": "remote.microsoft-powerpoint.presentations.774c64c3a1",
           "title": {
             "en": "Insert a new slide",
-            "zh-Hans": "插入 a new slide"
+            "zh-Hans": "新建幻灯片"
           },
           "shortcutConfiguration": {
             "keyCode": 45,
@@ -553,7 +553,7 @@
           "id": "remote.microsoft-powerpoint.presentations.cacd1e3663",
           "title": {
             "en": "Make a copy of the selected slide",
-            "zh-Hans": "Make a copy of the selected slide"
+            "zh-Hans": "复制幻灯片"
           },
           "shortcutConfiguration": {
             "keyCode": 2,
@@ -565,7 +565,7 @@
           "id": "remote.microsoft-powerpoint.presentations.cffbf33e0e",
           "title": {
             "en": "Open a presentation",
-            "zh-Hans": "打开 a presentation"
+            "zh-Hans": "打开演示文稿"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -577,7 +577,7 @@
           "id": "remote.microsoft-powerpoint.presentations.400cf967e8",
           "title": {
             "en": "Close a presentation",
-            "zh-Hans": "关闭 a presentation"
+            "zh-Hans": "关闭演示文稿"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -589,7 +589,7 @@
           "id": "remote.microsoft-powerpoint.presentations.45104b8dd8",
           "title": {
             "en": "Print a presentation",
-            "zh-Hans": "打印 a presentation"
+            "zh-Hans": "打印"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -601,7 +601,7 @@
           "id": "remote.microsoft-powerpoint.presentations.40f3b094b2",
           "title": {
             "en": "Save a presentation",
-            "zh-Hans": "存储 a presentation"
+            "zh-Hans": "存储"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -613,7 +613,7 @@
           "id": "remote.microsoft-powerpoint.presentations.b6e1f8d356",
           "title": {
             "en": "Save a presentation with a different name, location, or file format.",
-            "zh-Hans": "Save a presentation with a different name, location, or file format."
+            "zh-Hans": "另存为"
           },
           "shortcutConfiguration": {
             "keyCode": 1,
@@ -637,7 +637,7 @@
           "id": "remote.microsoft-powerpoint.presentations.e06154a4eb",
           "title": {
             "en": "Find text and formatting",
-            "zh-Hans": "Find text and formatting"
+            "zh-Hans": "查找"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -649,7 +649,7 @@
           "id": "remote.microsoft-powerpoint.presentations.70c59a1b7a",
           "title": {
             "en": "Add a hyperlink to selected text, an image, or an object",
-            "zh-Hans": "Add a hyperlink to selected text, an image, or an object"
+            "zh-Hans": "插入超链接"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -661,7 +661,7 @@
           "id": "remote.microsoft-powerpoint.presentations.938baa986f",
           "title": {
             "en": "Cancel a command, such as Save As",
-            "zh-Hans": "Cancel a command, such as Save As"
+            "zh-Hans": "取消"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -673,7 +673,7 @@
           "id": "remote.microsoft-powerpoint.presentations.11d2cfa83e",
           "title": {
             "en": "Undo an action",
-            "zh-Hans": "Undo an action"
+            "zh-Hans": "撤消"
           },
           "shortcutConfiguration": {
             "keyCode": 6,
@@ -685,7 +685,7 @@
           "id": "remote.microsoft-powerpoint.presentations.7049333a7a",
           "title": {
             "en": "Redo or repeat an action",
-            "zh-Hans": "Redo or repeat an action"
+            "zh-Hans": "恢复"
           },
           "shortcutConfiguration": {
             "keyCode": 16,
@@ -697,7 +697,7 @@
           "id": "remote.microsoft-powerpoint.presentations.319579d035",
           "title": {
             "en": "Move through multiple open presentations.",
-            "zh-Hans": "Move through multiple open presentations."
+            "zh-Hans": "切换演示文稿"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -709,7 +709,7 @@
           "id": "remote.microsoft-powerpoint.presentations.bcaeb30d6c",
           "title": {
             "en": "Open a recent file",
-            "zh-Hans": "Open a recent file"
+            "zh-Hans": "打开最近文件"
           },
           "shortcutConfiguration": {
             "keyCode": 31,
@@ -730,7 +730,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.04243d1483",
           "title": {
             "en": "Switch to normal view",
-            "zh-Hans": "切换到normal 视图"
+            "zh-Hans": "普通视图"
           },
           "shortcutConfiguration": {
             "keyCode": 18,
@@ -742,7 +742,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.13f94d72e6",
           "title": {
             "en": "Switch to slide sorter view",
-            "zh-Hans": "切换到slide sorter 视图"
+            "zh-Hans": "幻灯片浏览"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -754,7 +754,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.76553c2c59",
           "title": {
             "en": "Switch to notes page view",
-            "zh-Hans": "切换到notes 页面 视图"
+            "zh-Hans": "备注页视图"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -766,7 +766,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.ac47695dd2",
           "title": {
             "en": "Switch to outline view",
-            "zh-Hans": "切换到outline 视图"
+            "zh-Hans": "大纲视图"
           },
           "shortcutConfiguration": {
             "keyCode": 21,
@@ -778,7 +778,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.871e55dc9f",
           "title": {
             "en": "Switch to slide show",
-            "zh-Hans": "Switch to slide show"
+            "zh-Hans": "幻灯片放映"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -790,7 +790,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.7b5ac0d2ee",
           "title": {
             "en": "Switch to full screen (hide menus)",
-            "zh-Hans": "Switch to full screen (hide menus)"
+            "zh-Hans": "全屏"
           },
           "shortcutConfiguration": {
             "keyCode": 3,
@@ -802,7 +802,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.2cd77fe191",
           "title": {
             "en": "Switch to presenter view",
-            "zh-Hans": "切换到presenter 视图"
+            "zh-Hans": "演讲者视图"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -814,7 +814,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.7bd8dcef4b",
           "title": {
             "en": "Show or hide guides",
-            "zh-Hans": "Show or hide guides"
+            "zh-Hans": "显示/隐藏参考线"
           },
           "shortcutConfiguration": {
             "keyCode": 5,
@@ -826,7 +826,7 @@
           "id": "remote.microsoft-powerpoint.changing-views.56429d1335",
           "title": {
             "en": "Switch to notes master view",
-            "zh-Hans": "切换到notes master 视图"
+            "zh-Hans": "备注母版视图"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -847,7 +847,7 @@
           "id": "remote.microsoft-powerpoint.selecting-text.f1bf0bf209",
           "title": {
             "en": "To Select One character to the right",
-            "zh-Hans": "To Select One character to the right"
+            "zh-Hans": "右选一字符"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -859,7 +859,7 @@
           "id": "remote.microsoft-powerpoint.selecting-text.56e2d03d00",
           "title": {
             "en": "To Select One character to the left",
-            "zh-Hans": "To Select One character to the left"
+            "zh-Hans": "左选一字符"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -871,7 +871,7 @@
           "id": "remote.microsoft-powerpoint.selecting-text.11f0fbac0e",
           "title": {
             "en": "To Select From the insertion point to the same point one line up",
-            "zh-Hans": "To Select From the insertion point to the same point one line up"
+            "zh-Hans": "向上选一行"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -883,7 +883,7 @@
           "id": "remote.microsoft-powerpoint.selecting-text.80d2b81780",
           "title": {
             "en": "To Select From the insertion point to the same point one line down",
-            "zh-Hans": "To Select From the insertion point to the same point one line down"
+            "zh-Hans": "向下选一行"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -895,7 +895,7 @@
           "id": "remote.microsoft-powerpoint.selecting-text.113571e65b",
           "title": {
             "en": "To Select All text to the start of the line",
-            "zh-Hans": "To Select All text to the start of the line"
+            "zh-Hans": "选到行首"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -907,7 +907,7 @@
           "id": "remote.microsoft-powerpoint.selecting-text.01710bbbdd",
           "title": {
             "en": "To Select All text to the end of the line",
-            "zh-Hans": "To Select All text to the end of the line"
+            "zh-Hans": "选到行尾"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -919,7 +919,7 @@
           "id": "remote.microsoft-powerpoint.selecting-text.4d9c26eef7",
           "title": {
             "en": "To Select From the insertion point to the end of the paragraph",
-            "zh-Hans": "To Select From the insertion point to the end of the paragraph"
+            "zh-Hans": "选到段尾"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -931,7 +931,7 @@
           "id": "remote.microsoft-powerpoint.selecting-text.885454b9b0",
           "title": {
             "en": "To Select From the insertion point to the beginning of the paragraph",
-            "zh-Hans": "To Select From the insertion point to the beginning of the paragraph"
+            "zh-Hans": "选到段首"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -952,7 +952,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.7bf6fbfe38",
           "title": {
             "en": "Perform the next animation or advance to the next slide",
-            "zh-Hans": "Perform the next animation or advance to the next slide"
+            "zh-Hans": "下一动画/幻灯片"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -964,7 +964,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.4b69960a64",
           "title": {
             "en": "Return to the previous animation or return to the previous slide",
-            "zh-Hans": "Return to the previous animation or return to the previous slide"
+            "zh-Hans": "上一动画/幻灯片"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -976,7 +976,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.804cc84db6",
           "title": {
             "en": "Go to slide number",
-            "zh-Hans": "转到slide number"
+            "zh-Hans": "转到幻灯片"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -988,7 +988,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.0beb6c864d",
           "title": {
             "en": "Display a black screen, or return to the slide show from a black screen",
-            "zh-Hans": "Display a black screen, or return to the slide show from a black screen"
+            "zh-Hans": "黑屏/返回"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -1000,7 +1000,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.f2e790d7c4",
           "title": {
             "en": "Display a white screen, or return to the slide show from a white screen",
-            "zh-Hans": "Display a white screen, or return to the slide show from a white screen"
+            "zh-Hans": "白屏/返回"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -1012,7 +1012,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.3974732c0d",
           "title": {
             "en": "Play slide show from the first slide",
-            "zh-Hans": "Play slide show from the first slide"
+            "zh-Hans": "从头放映"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1024,7 +1024,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.8e56f9e8b1",
           "title": {
             "en": "Play slide show from the current slide",
-            "zh-Hans": "Play slide show from the current slide"
+            "zh-Hans": "从当前放映"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1036,7 +1036,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.5826568784",
           "title": {
             "en": "End a slide show",
-            "zh-Hans": "End a slide show"
+            "zh-Hans": "结束放映"
           },
           "shortcutConfiguration": {
             "keyCode": 27,
@@ -1048,7 +1048,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.5cc7534dd8",
           "title": {
             "en": "Erase on-screen annotations",
-            "zh-Hans": "Erase on-screen annotations"
+            "zh-Hans": "清除批注"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
@@ -1060,7 +1060,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.974f937759",
           "title": {
             "en": "Go to next hidden slide if the next slide is hidden",
-            "zh-Hans": "Go to next hidden slide if the next slide is hidden"
+            "zh-Hans": "下一隐藏幻灯片"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -1072,7 +1072,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.f81062e3c3",
           "title": {
             "en": "Redisplay hidden pointer and/or change the pointer to a pen",
-            "zh-Hans": "Redisplay hidden pointer and/or change the pointer to a pen"
+            "zh-Hans": "显示指针/笔"
           },
           "shortcutConfiguration": {
             "keyCode": 35,
@@ -1084,7 +1084,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.2ebe9e9c23",
           "title": {
             "en": "Redisplay hidden pointer and/or change the pointer to an arrow",
-            "zh-Hans": "Redisplay hidden pointer and/or change the pointer to an arrow"
+            "zh-Hans": "显示指针/箭头"
           },
           "shortcutConfiguration": {
             "keyCode": 0,
@@ -1096,7 +1096,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.7c8f9c6402",
           "title": {
             "en": "Hide the pointer on mouse move",
-            "zh-Hans": "Hide the pointer on mouse move"
+            "zh-Hans": "隐藏指针"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -1108,7 +1108,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.bcd93411bd",
           "title": {
             "en": "Show Thesaurus entry for a selected word",
-            "zh-Hans": "Show Thesaurus entry for a selected word"
+            "zh-Hans": "同义词库"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -1120,7 +1120,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.1f7b39157e",
           "title": {
             "en": "Show Smart Lookup entry for a selected word or phrase",
-            "zh-Hans": "Show Smart Lookup entry for a selected word or phrase"
+            "zh-Hans": "智能查找"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -1132,7 +1132,7 @@
           "id": "remote.microsoft-powerpoint.slide-shows.2cd77fe191",
           "title": {
             "en": "Switch to presenter view",
-            "zh-Hans": "切换到presenter 视图"
+            "zh-Hans": "演讲者视图"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1153,7 +1153,7 @@
           "id": "remote.microsoft-powerpoint.working-in-tables.0298518135",
           "title": {
             "en": "Move to the next cell",
-            "zh-Hans": "Move to the next cell"
+            "zh-Hans": "下一单元格"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1165,7 +1165,7 @@
           "id": "remote.microsoft-powerpoint.working-in-tables.998e9fbbd0",
           "title": {
             "en": "Move to the preceding cell",
-            "zh-Hans": "Move to the preceding cell"
+            "zh-Hans": "上一单元格"
           },
           "shortcutConfiguration": {
             "keyCode": 48,
@@ -1177,7 +1177,7 @@
           "id": "remote.microsoft-powerpoint.working-in-tables.62910f054e",
           "title": {
             "en": "Move to the next line or row",
-            "zh-Hans": "Move to the next line or row"
+            "zh-Hans": "下一行"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -1189,7 +1189,7 @@
           "id": "remote.microsoft-powerpoint.working-in-tables.67ae5ca461",
           "title": {
             "en": "Move to the preceding line or row",
-            "zh-Hans": "Move to the preceding line or row"
+            "zh-Hans": "上一行"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -1201,7 +1201,7 @@
           "id": "remote.microsoft-powerpoint.working-in-tables.aa91517e04",
           "title": {
             "en": "Start a new paragraph in a cell",
-            "zh-Hans": "Start a new paragraph in a cell"
+            "zh-Hans": "单元格新段"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1213,7 +1213,7 @@
           "id": "remote.microsoft-powerpoint.working-in-tables.56e577fedb",
           "title": {
             "en": "Add a new row at the bottom of the table",
-            "zh-Hans": "Add a new row at the bottom of the table"
+            "zh-Hans": "表格末行"
           },
           "shortcutConfiguration": {
             "keyCode": 65535,
@@ -1234,7 +1234,7 @@
           "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.9bef7623fb",
           "title": {
             "en": "Close the active window",
-            "zh-Hans": "Close the active window"
+            "zh-Hans": "关闭窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -1246,7 +1246,7 @@
           "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.e9a60d06f8",
           "title": {
             "en": "Perform the action assigned to a default button in a dialog box",
-            "zh-Hans": "Perform the action assigned to a default button in a dialog box"
+            "zh-Hans": "默认按钮"
           },
           "shortcutConfiguration": {
             "keyCode": 36,
@@ -1258,7 +1258,7 @@
           "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.62abfbc86b",
           "title": {
             "en": "Cancel a command and close the dialog box",
-            "zh-Hans": "Cancel a command and close the dialog box"
+            "zh-Hans": "取消"
           },
           "shortcutConfiguration": {
             "keyCode": 53,
@@ -1270,7 +1270,7 @@
           "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.548847a827",
           "title": {
             "en": "Hide the current window",
-            "zh-Hans": "Hide the current window"
+            "zh-Hans": "隐藏窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -1282,7 +1282,7 @@
           "id": "remote.microsoft-powerpoint.windows-and-dialog-boxes.57d929eca6",
           "title": {
             "en": "Minimize the current window",
-            "zh-Hans": "Minimize the current window"
+            "zh-Hans": "最小化窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 46,

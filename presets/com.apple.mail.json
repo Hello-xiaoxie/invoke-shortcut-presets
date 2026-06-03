@@ -259,7 +259,7 @@
           "id": "remote.apple-mail.editing-shortcuts.6137b4d411",
           "title": {
             "en": "Toggle between Reply and Reply All",
-            "zh-Hans": "Toggle between Reply and Reply All"
+            "zh-Hans": "Toggle between Reply and Reply All"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -538,7 +538,7 @@
           "id": "remote.apple-mail.formatting-messages.2ae9046732",
           "title": {
             "en": "Copy Style",
-            "zh-Hans": "复制 样式"
+            "zh-Hans": "复制样式"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -550,7 +550,7 @@
           "id": "remote.apple-mail.formatting-messages.3b10406511",
           "title": {
             "en": "Paste Style",
-            "zh-Hans": "粘贴 样式"
+            "zh-Hans": "粘贴样式"
           },
           "shortcutConfiguration": {
             "keyCode": 9,

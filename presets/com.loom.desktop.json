@@ -19,7 +19,7 @@
           "id": "remote.loom.recording.f3120a514b",
           "title": {
             "en": "Start ",
-            "zh-Hans": "开始 "
+            "zh-Hans": "开始"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -31,7 +31,7 @@
           "id": "remote.loom.recording.d6a25647ff",
           "title": {
             "en": "Pause ",
-            "zh-Hans": "Pause "
+            "zh-Hans": "Pause"
           },
           "shortcutConfiguration": {
             "keyCode": 35,

@@ -31,7 +31,7 @@
           "id": "remote.sip.general.ce625a8135",
           "title": {
             "en": "Show color panel",
-            "zh-Hans": "显示 颜色 面板"
+            "zh-Hans": "显示颜色面板"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -43,7 +43,7 @@
           "id": "remote.sip.general.5d2b5a4d04",
           "title": {
             "en": "Show menu bar",
-            "zh-Hans": "显示 菜单 bar"
+            "zh-Hans": "显示菜单 bar"
           },
           "shortcutConfiguration": {
             "keyCode": 46,
@@ -262,7 +262,7 @@
           "id": "remote.sip.color-and-formats.3ada90018c",
           "title": {
             "en": "Next color",
-            "zh-Hans": "下一个 颜色"
+            "zh-Hans": "下一个颜色"
           },
           "shortcutConfiguration": {
             "keyCode": 125,
@@ -274,7 +274,7 @@
           "id": "remote.sip.color-and-formats.af83566333",
           "title": {
             "en": "Previous color",
-            "zh-Hans": "上一个 颜色"
+            "zh-Hans": "上一个颜色"
           },
           "shortcutConfiguration": {
             "keyCode": 126,
@@ -319,7 +319,7 @@
           "id": "remote.sip.colorspace.a5ddd168f5",
           "title": {
             "en": "Next color space",
-            "zh-Hans": "下一个 颜色 space"
+            "zh-Hans": "下一个颜色 space"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -331,7 +331,7 @@
           "id": "remote.sip.colorspace.ba5f7a692a",
           "title": {
             "en": "Previous color space",
-            "zh-Hans": "上一个 颜色 space"
+            "zh-Hans": "上一个颜色 space"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -352,7 +352,7 @@
           "id": "remote.sip.color-dock.d1c3ff65ee",
           "title": {
             "en": "Show / hide color dock",
-            "zh-Hans": "显示 / 隐藏 颜色 dock"
+            "zh-Hans": "显示 / 隐藏颜色 dock"
           },
           "shortcutConfiguration": {
             "keyCode": 2,

@@ -148,7 +148,7 @@
           "id": "remote.wordpress.alignment.401b5fb9ff",
           "title": {
             "en": "align text left",
-            "zh-Hans": "对齐 文本 左"
+            "zh-Hans": "对齐文本左"
           },
           "shortcutConfiguration": {
             "keyCode": 37,
@@ -172,7 +172,7 @@
           "id": "remote.wordpress.alignment.5c2d0c5982",
           "title": {
             "en": "align text center",
-            "zh-Hans": "对齐 文本 中心"
+            "zh-Hans": "对齐文本中心"
           },
           "shortcutConfiguration": {
             "keyCode": 8,
@@ -184,7 +184,7 @@
           "id": "remote.wordpress.alignment.47b02b1a46",
           "title": {
             "en": "align text right",
-            "zh-Hans": "对齐 文本 右"
+            "zh-Hans": "对齐文本右"
           },
           "shortcutConfiguration": {
             "keyCode": 15,

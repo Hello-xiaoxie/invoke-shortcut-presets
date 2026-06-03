@@ -19,7 +19,7 @@
           "id": "remote.adobe-animate.file.a42a2c7f54",
           "title": {
             "en": "Import Image/Sound etc..",
-            "zh-Hans": "导入 图片/Sound etc.."
+            "zh-Hans": "导入图片/Sound etc"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -31,7 +31,7 @@
           "id": "remote.adobe-animate.file.616e3e2373",
           "title": {
             "en": "Export to .swf/.gif etc..",
-            "zh-Hans": "Export to .swf/.gif etc.."
+            "zh-Hans": "Export to .swf/.gif etc"
           },
           "shortcutConfiguration": {
             "keyCode": 15,
@@ -76,7 +76,7 @@
           "id": "remote.adobe-animate.view-shortcuts.56cc9e1f08",
           "title": {
             "en": "Show Frame",
-            "zh-Hans": "显示 画框"
+            "zh-Hans": "显示画框"
           },
           "shortcutConfiguration": {
             "keyCode": 19,
@@ -88,7 +88,7 @@
           "id": "remote.adobe-animate.view-shortcuts.1232deab07",
           "title": {
             "en": "Show All",
-            "zh-Hans": "显示 全部"
+            "zh-Hans": "显示全部"
           },
           "shortcutConfiguration": {
             "keyCode": 20,
@@ -157,7 +157,7 @@
           "id": "remote.adobe-animate.windows-shortcuts.ebfdba473f",
           "title": {
             "en": "Show/Hide Timeline",
-            "zh-Hans": "显示/隐藏 时间线"
+            "zh-Hans": "显示/隐藏时间线"
           },
           "shortcutConfiguration": {
             "keyCode": 13,
@@ -262,7 +262,7 @@
           "id": "remote.adobe-animate.edit-and-modify.f24e5e2cc3",
           "title": {
             "en": "Align Window",
-            "zh-Hans": "对齐 窗口"
+            "zh-Hans": "对齐窗口"
           },
           "shortcutConfiguration": {
             "keyCode": 40,
@@ -451,7 +451,7 @@
           "id": "remote.adobe-animate.miscellaneous-action.37949b61db",
           "title": {
             "en": "Show hidden characters",
-            "zh-Hans": "显示 隐藏 characters"
+            "zh-Hans": "显示隐藏 characters"
           },
           "shortcutConfiguration": {
             "keyCode": 28,
@@ -499,7 +499,7 @@
           "id": "remote.adobe-animate.miscellaneous-action.eddfc1c3f5",
           "title": {
             "en": "Show Frame Script Navigator",
-            "zh-Hans": "显示 画框 Script Navigator"
+            "zh-Hans": "显示画框 Script Navigator"
           },
           "shortcutConfiguration": {
             "keyCode": 33,

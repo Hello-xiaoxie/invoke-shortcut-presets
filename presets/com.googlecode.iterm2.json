@@ -43,7 +43,7 @@
           "id": "remote.iterm2.tab-management.4b0c5a4760",
           "title": {
             "en": "previous/next tab",
-            "zh-Hans": "上一个/下一个 标签页"
+            "zh-Hans": "上一个/下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 123,
@@ -55,7 +55,7 @@
           "id": "remote.iterm2.tab-management.e62a9d5c66",
           "title": {
             "en": "previous/next tab",
-            "zh-Hans": "上一个/下一个 标签页"
+            "zh-Hans": "上一个/下一个标签页"
           },
           "shortcutConfiguration": {
             "keyCode": 124,
@@ -289,7 +289,7 @@
           "id": "remote.iterm2.window-management.afd0c8cb07",
           "title": {
             "en": "find cursor",
-            "zh-Hans": "查找 光标"
+            "zh-Hans": "查找光标"
           },
           "shortcutConfiguration": {
             "keyCode": 44,
@@ -310,7 +310,7 @@
           "id": "remote.iterm2.text-management.3a3e0d1dc0",
           "title": {
             "en": "enter copy mode",
-            "zh-Hans": "enter 复制 模式"
+            "zh-Hans": "enter 复制模式"
           },
           "shortcutConfiguration": {
             "keyCode": 8,

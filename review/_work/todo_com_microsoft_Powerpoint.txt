@@ -1,0 +1,96 @@
+Add a hyperlink to selected text, an image, or an object
+Add a new row at the bottom of the table
+Apply an underline
+Apply bold formatting
+Apply italic formatting
+Cancel a command and close the dialog box
+Cancel a command, such as Save As
+Center a paragraph
+Close a presentation
+Close the active window
+Copy selected text or object
+Create a new presentation
+Create a new presentation with a template from the PowerPoint Presentation gallery
+Cut selected text or object
+Decrease the font size
+Delete one character to the left
+Delete one character to the right
+Display a black screen, or return to the slide show from a black screen
+Display a white screen, or return to the slide show from a white screen
+Duplicate selected objects
+End a slide show
+Erase on-screen annotations
+Find text and formatting
+Format the selected object
+Go to next hidden slide if the next slide is hidden
+Go to slide number
+Group the selected objects
+Hide the current window
+Hide the pointer on mouse move
+Increase the font size
+Insert a new slide
+Justify a paragraph
+Left align a paragraph
+Make a copy of the selected slide
+Minimize the current window
+Move the selected object in the direction of the arrow
+Move through multiple open presentations.
+Move to the next cell
+Move to the next line or row
+Move to the preceding cell
+Move to the preceding line or row
+Open a presentation
+Open a recent file
+Open the Format Text dialog box, Font options
+Open the Format Text dialog box, Paragraph options
+Paste cut or copied text or object
+Paste special
+Perform the action assigned to a default button in a dialog box
+Perform the next animation or advance to the next slide
+Play slide show from the current slide
+Play slide show from the first slide
+Print a presentation
+Quit PowerPoint
+Redisplay hidden pointer and/or change the pointer to a pen
+Redisplay hidden pointer and/or change the pointer to an arrow
+Redo or repeat an action
+Regroup the selected objects
+Resize selected objects
+Return to the previous animation or return to the previous slide
+Right align a paragraph
+Rotate the selected object clockwise
+Rotate the selected object counterclockwise
+Save a presentation
+Save a presentation with a different name, location, or file format.
+Select all objects and all text
+Select the next object
+Select the previous object
+Show Smart Lookup entry for a selected word or phrase
+Show Thesaurus entry for a selected word
+Show or hide guides
+Start a new paragraph in a cell
+Switch to full screen (hide menus)
+Switch to normal view
+Switch to notes master view
+Switch to notes page view
+Switch to outline view
+Switch to presenter view
+Switch to slide show
+Switch to slide sorter view
+To Move Down one paragraph
+To Move One word to the right
+To Move To the beginning of a line
+To Move To the beginning of a paragraph or up one paragraph
+To Move To the beginning of a word or one word to the left
+To Move To the end of a line
+To Move To the start or end of all the text in the object you are editing
+To Select All text to the end of the line
+To Select All text to the start of the line
+To Select From the insertion point to the beginning of the paragraph
+To Select From the insertion point to the end of the paragraph
+To Select From the insertion point to the same point one line down
+To Select From the insertion point to the same point one line up
+To Select One character to the left
+To Select One character to the right
+Undo an action
+Ungroup the selected objects

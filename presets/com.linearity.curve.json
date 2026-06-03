@@ -361,7 +361,7 @@
           "id": "remote.linearity-curve.layers-objects.e63e4fdaa2",
           "title": {
             "en": "Show All",
-            "zh-Hans": "显示 全部"
+            "zh-Hans": "显示全部"
           },
           "shortcutConfiguration": {
             "keyCode": 4,
@@ -520,7 +520,7 @@
           "id": "remote.linearity-curve.export.fcdbf8b3d4",
           "title": {
             "en": "Export Selection",
-            "zh-Hans": "导出 选择"
+            "zh-Hans": "导出选择"
           },
           "shortcutConfiguration": {
             "keyCode": 14,
